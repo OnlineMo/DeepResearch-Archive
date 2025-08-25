@@ -20,3 +20,7 @@
 相关文档:
 - NAVIGATION.md
 - PROJECT_OVERVIEW.md
+
+<!-- BEGIN LATEST_REPORTS -->
+## 最新报告
+<!-- END LATEST_REPORTS -->
