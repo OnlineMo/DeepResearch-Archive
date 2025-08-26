@@ -14,7 +14,7 @@
 
 使用说明:
 - 请勿手工修改 TODAY_REPORTS 与 DATE 标记之间的内容，项目 A 会幂等替换。
-- 历史导航：参见 NAVIGATION.md（按分类分组，日期倒序，最近 N 条）。
+- 历史导航：参见 NAVIGATION.md（按分类分组，日期倒序，最近 20 条）。
 - 报告存放路径：AI_Reports/<category_slug>/<title>-<date>--v<edition>.md
 
 相关文档:
