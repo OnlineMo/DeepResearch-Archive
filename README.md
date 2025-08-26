@@ -2,14 +2,6 @@
 
 本页仅展示“当日最新报告”。历史与按分类的完整导航请见 NAVIGATION.md。此页内容由项目 A 自动生成并每日更新。
 
-日期 Date: <!-- DATE -->1970-01-01<!-- /DATE -->
-
-## 今日报告 Today
-
-<!-- TODAY_REPORTS:START max=20 -->
-- 暂无数据（等待项目 A 首次推送）
-<!-- TODAY_REPORTS:END -->
-
 ---
 
 使用说明:
