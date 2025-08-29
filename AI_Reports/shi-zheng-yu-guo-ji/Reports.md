@@ -1,13 +1,17 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：9
+报告总数：11
 
 ---
 
 ## 0-9
 
 - [80秒带你回顾三次综合演练画面](shi-zheng-yu-guo-ji/80miao-dai-ni-hui-gu-san-ci-zong-he-yan-lian-hua-mian-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=80%E7%A7%92%E5%B8%A6%E4%BD%A0%E5%9B%9E%E9%A1%A顾%E4%B8%89%E6%AC%A1%E7%BB%BC%E5%90%88%E6%BC%94%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
+
+## B
+
+- [北京将升挂23万面国旗红旗](shi-zheng-yu-guo-ji/bei-jing-jiang-sheng-gua-23mo-mian-guo-qi-hong-qi-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B0%86%E5%8D%87%E6%8C%8223%E4%B8%87%E9%9D%A2%E5%9B%BD%E6%97%97%E7%BA%A2%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
 
@@ -37,3 +41,7 @@
 
 - [这是你没见过的阅兵训练画面](shi-zheng-yu-guo-ji/zhe-shi-ni-mei-jian-guo-de-yue-bing-xun-lian-hua-mian-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%BD%A0%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E9%98%85%E5%85%B5%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [中国抗战阅兵以来日本砸560亿搞公关](shi-zheng-yu-guo-ji/zhong-guo-kang-zhan-yue-bing-yi-lai-ri-ben-za-560yi-gao-gong-guan-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5%E4%BB%A5%E6%9D%A5%E6%97%A5%E6%9C%AC%E7%A0%B8560%E4%BA%BF%E6%90%9E%E5%85%AC%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
+
+## “
+
+- [“上海精神”照亮上合壮大之路](shi-zheng-yu-guo-ji/shang-hai-jing-shen-zhao-liang-shang-he-zhuang-da-zhi-lu-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E6%B5%B7%E7%B2%BE%E7%A5%9E%E2%80%9D%E7%85%A7%E4%BA%AE%E4%B8%8A%E5%90%88%E5%A3%AE%E5%A4%A7%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
