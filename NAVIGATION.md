@@ -1,6 +1,10 @@
 # DeepResearch 报告导航
 
 ## 时政与国际
+[点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
+
+- [北京将升挂23万面国旗红旗 - 2025-08-29](AI_Reports/shi-zheng-yu-guo-ji/bei-jing-jiang-sheng-gua-23mo-mian-guo-qi-hong-qi-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B0%86%E5%8D%87%E6%8C%8223%E4%B8%87%E9%9D%A2%E5%9B%BD%E6%97%97%E7%BA%A2%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)
+- [“上海精神”照亮上合壮大之路 - 2025-08-29](AI_Reports/shi-zheng-yu-guo-ji/shang-hai-jing-shen-zhao-liang-shang-he-zhuang-da-zhi-lu-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E6%B5%B7%E7%B2%BE%E7%A5%9E%E2%80%9D%E7%85%A7%E4%BA%AE%E4%B8%8A%E5%90%88%E5%A3%AE%E5%A4%A7%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [看上合发展壮大的“行动密码” - 2025-08-28](AI_Reports/shi-zheng-yu-guo-ji/kan-shang-he-fa-zhan-zhuang-da-de-xing-dong-mi-ma-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%8A%E5%90%88%E5%8F%91%E5%B1%95%E5%A3%AE%E5%A4%A7%E7%9A%84%E2%80%9C%E8%A1%8C%E5%8A%A8%E5%AF%86%E7%A0%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [普京和金正恩等将出席抗战纪念活动 - 2025-08-28](AI_Reports/shi-zheng-yu-guo-ji/pu-jing-he-jin-zheng-en-deng-jiang-chu-xi-kang-zhan-ji-nian-huo-dong-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%92%8C%E9%87%91%E6%AD%A3%E6%81%A9%E7%AD%89%E5%B0%86%E5%87%BA%E5%B8%AD%E6%8A%97%E6%88%98%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [这是你没见过的阅兵训练画面 - 2025-08-28](AI_Reports/shi-zheng-yu-guo-ji/zhe-shi-ni-mei-jian-guo-de-yue-bing-xun-lian-hua-mian-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%BD%A0%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E9%98%85%E5%85%B5%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
@@ -12,6 +16,10 @@
 - [以史为鉴 面向未来 - 2025-08-26](AI_Reports/shi-zheng-yu-guo-ji/yi-shi-wei-jian-mian-xiang-wei-lai-2025-08-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4+%E9%9D%A2%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
+[点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
+
+- [反诈老陈打假嘎子哥翻车后道歉 - 2025-08-29](AI_Reports/she-hui-yu-fa-zhi/fan-zha-lao-chen-da-jia-ga-zi-ge-fan-che-hou-dao-qian-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%89%93%E5%81%87%E5%98%8E%E5%AD%90%E5%93%A5%E7%BF%BB%E8%BD%A6%E5%90%8E%E9%81%A8%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
+- [“是鹊桥吗” 杭州上空一幕看呆网友 - 2025-08-29](AI_Reports/she-hui-yu-fa-zhi/shi-que-qiao-ma-hang-zhou-shang-kong-yi-mu-kan-ai-wang-you-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%AF%E9%B9%8A%E6%A1%A5%E5%90%97%E2%80%9D+%E6%9D%AD%E5%B7%9E%E4%B8%8A%E7%A9%BA%E4%B8%80%E5%B9%97%E7%9C%8B%E5%91%86%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [一顿吃200个水饺的16个外甥开学了 - 2025-08-28](AI_Reports/she-hui-yu-fa-zhi/yi-dun-chi-200ge-shui-jiao-de-16ge-wai-sheng-kai-xue-liao-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%A1%BF%E5%90%83200%E4%B8%AA%E6%B0%B4%E9%A5%BA%E7%9A%8416%E4%B8%AA%E5%A4%96%E7%94%A5%E5%BC%80%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [景区游客从40米高空坠落：水里有血迹 - 2025-08-27](AI_Reports/she-hui-yu-fa-zhi/jing-qu-you-ke-cong-40mi-gao-kong-zhui-luo-shui-li-you-xie-ji-2025-08-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E4%BB%8E40%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD%EF%BC%9A%E6%B0%B4%E9%87%8C%E6%9C%89%E8%A1%80%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [男子高速戴恐怖面具 杭州交警通报 - 2025-08-27](AI_Reports/she-hui-yu-fa-zhi/nan-zi-gao-su-dai-kong-bu-mian-ju-hang-zhou-jiao-jing-tong-bao-2025-08-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E6%88%B4%E6%81%90%E6%80%96%E9%9D%A2%E5%85%B7+%E6%9D%AD%E5%B7%9E%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
@@ -19,12 +27,23 @@
 - [游客因台风被困三亚：酒店玻璃都弯了 - 2025-08-26](AI_Reports/she-hui-yu-fa-zhi/you-ke-yin-tai-feng-bei-kun-san-ya-jiu-dian-bo-li-du-wan-liao-2025-08-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9B%A0%E5%8F%B0%E9%A3%8E%E8%A2%AB%E5%9B%B0%E4%B8%89%E4%BA%9A%EF%BC%9A%E9%85%92%E5%BA%97%E7%8E%BB%E7%92%83%E9%83%BD%E5%BC%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
+[点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
+
 - [演员段伟伦去世 曾出演警察故事系列 - 2025-08-28](AI_Reports/yu-le-yu-ming-xing/yan-yuan-duan-wei-lun-qu-shi-ceng-chu-yan-jing-cha-gu-shi-xi-lie-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%AE%B5%E4%BC%9F%E4%BC%A6%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E8%AD%A6%E5%AF%9F%E6%95%85%E4%BA%8B%E7%B3%BB%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普祝贺泰勒斯威夫特订婚 - 2025-08-27](AI_Reports/yu-le-yu-ming-xing/te-lang-pu-zhu-he-tai-le-si-wei-fu-te-ding-hun-2025-08-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A5%9D%E8%B4%BA%E6%B3%B0%E5%8B%92%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E8%AE%A2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)
 
+## 政策与法规
+[点击查看政策与法规完整报告索引 →](AI_Reports/zheng-ce-yu-fa-gui/Reports.md)
+
+- [官方：支持老旧住房自主更新 - 2025-08-29](AI_Reports/zheng-ce-yu-fa-gui/guan-fang-zhi-chi-lao-jiu-zhu-fang-zi-zhu-geng-xin-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E6%94%AF%E6%8C%81%E8%80%81%E6%97%A7%E4%BD%8F%E6%88%BF%E8%87%AA%E4%B8%BB%E6%9B%B4%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)
+
 ## 行业与公司
+[点击查看行业与公司完整报告索引 →](AI_Reports/xing-ye-yu-gong-si/Reports.md)
+
 - [2025民营企业500强揭晓：京东第一 - 2025-08-28](AI_Reports/xing-ye-yu-gong-si/2025min-ying-qi-ye-500qiang-jie-xiao-jing-dong-di-yi-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2025%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A500%E5%BC%BA%E6%8F%AD%E6%99%93%EF%BC%9A%E4%BA%AC%E4%B8%9C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)
 - [寒武纪85后创始人身家超1500亿 - 2025-08-26](AI_Reports/xing-ye-yu-gong-si/han-wu-ji-85hou-chuang-shi-ren-shen-jia-chao-1500yi-2025-08-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%92%E6%AD%A6%E7%BA%AA85%E5%90%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BA%AB%E5%AE%B6%E8%B6%851500%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 旅游与出行
+[点击查看旅游与出行完整报告索引 →](AI_Reports/lu-you-yu-chu-xing/Reports.md)
+
 - [浙江一厕所高度还原玉虚宫引惊叹 - 2025-08-28](AI_Reports/lu-you-yu-chu-xing/zhe-jiang-yi-ce-suo-gao-du-huan-yuan-yu-xu-gong-yin-liang-tan-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%8E%95%E6%89%80%E9%AB%98%E5%BA%A6%E8%BF%98%E5%8E%9F%E7%8E%89%E8%99%9A%E5%AE%AB%E5%BC%95%E6%83%8A%E5%8F%B9&sa=fyb_news&rsv_dl=fyb_news)
