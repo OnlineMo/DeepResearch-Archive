@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [北京宛平城：让抗战精神薪火相传 - 2025-08-30](AI_Reports/shi-zheng-yu-guo-ji/bei-jing-wan-ping-cheng-rang-kang-zhan-jing-shen-xin-huo-xiang-chuan-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%AE%9B%E5%B9%B3%E5%9F%8E%EF%BC%9A%E8%AE%A9%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E8%96%AA%E7%81%AB%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)
+- [中共中央政治局召开会议 - 2025-08-30](AI_Reports/shi-zheng-yu-guo-ji/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [北京将升挂23万面国旗红旗 - 2025-08-29](AI_Reports/shi-zheng-yu-guo-ji/bei-jing-jiang-sheng-gua-23mo-mian-guo-qi-hong-qi-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B0%86%E5%8D%87%E6%8C%8223%E4%B8%87%E9%9D%A2%E5%9B%BD%E6%97%97%E7%BA%A2%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)
 - [“上海精神”照亮上合壮大之路 - 2025-08-29](AI_Reports/shi-zheng-yu-guo-ji/shang-hai-jing-shen-zhao-liang-shang-he-zhuang-da-zhi-lu-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E6%B5%B7%E7%B2%BE%E7%A5%9E%E2%80%9D%E7%85%A7%E4%BA%AE%E4%B8%8A%E5%90%88%E5%A3%AE%E5%A4%A7%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [泰国女总理佩通坦遭解职 - 2025-08-29](AI_Reports/shi-zheng-yu-guo-ji/tai-guo-nu-zong-li-pei-tong-tan-zao-jie-zhi-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%80%BB%E7%90%86%E4%BD%A9%E9%80%9A%E5%9D%A6%E9%81%AD%E8%A7%A3%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)
@@ -39,6 +41,7 @@
 ## 政策与法规
 [点击查看政策与法规完整报告索引 →](AI_Reports/zheng-ce-yu-fa-gui/Reports.md)
 
+- [9月新规来了 - 2025-08-30](AI_Reports/zheng-ce-yu-fa-gui/9yue-xin-gui-lai-liao-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=9%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [官方：支持老旧住房自主更新 - 2025-08-29](AI_Reports/zheng-ce-yu-fa-gui/guan-fang-zhi-chi-lao-jiu-zhu-fang-zi-zhu-geng-xin-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E6%94%AF%E6%8C%81%E8%80%81%E6%97%A7%E4%BD%8F%E6%88%BF%E8%87%AA%E4%B8%BB%E6%9B%B4%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 行业与公司
@@ -47,7 +50,17 @@
 - [2025民营企业500强揭晓：京东第一 - 2025-08-28](AI_Reports/xing-ye-yu-gong-si/2025min-ying-qi-ye-500qiang-jie-xiao-jing-dong-di-yi-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2025%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A500%E5%BC%BA%E6%8F%AD%E6%99%93%EF%BC%9A%E4%BA%AC%E4%B8%9C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)
 - [寒武纪85后创始人身家超1500亿 - 2025-08-26](AI_Reports/xing-ye-yu-gong-si/han-wu-ji-85hou-chuang-shi-ren-shen-jia-chao-1500yi-2025-08-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%92%E6%AD%A6%E7%BA%AA85%E5%90%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BA%AB%E5%AE%B6%E8%B6%851500%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
 
+## 教育与考试
+[点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
+
+- [作家马伯庸：儿子语文不好要上作文班 - 2025-08-30](AI_Reports/jiao-yu-yu-kao-shi/zuo-jia-ma-bo-yong-er-zi-yu-wen-bu-hao-yao-shang-zuo-wen-ban-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E9%A9%AC%E4%BC%AF%E5%BA%B8%EF%BC%9A%E5%84%BF%E5%AD%90%E8%AF%AD%E6%96%87%E4%B8%8D%E5%A5%BD%E8%A6%81%E4%B8%8A%E4%BD%9C%E6%96%87%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)
+
 ## 旅游与出行
 [点击查看旅游与出行完整报告索引 →](AI_Reports/lu-you-yu-chu-xing/Reports.md)
 
 - [浙江一厕所高度还原玉虚宫引惊叹 - 2025-08-28](AI_Reports/lu-you-yu-chu-xing/zhe-jiang-yi-ce-suo-gao-du-huan-yuan-yu-xu-gong-yin-liang-tan-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%8E%95%E6%89%80%E9%AB%98%E5%BA%A6%E8%BF%98%E5%8E%9F%E7%8E%89%E8%99%9A%E5%AE%AB%E5%BC%95%E6%83%8A%E5%8F%B9&sa=fyb_news&rsv_dl=fyb_news)
+
+## 健康与医疗
+[点击查看健康与医疗完整报告索引 →](AI_Reports/jian-kang-yu-yi-liao/Reports.md)
+
+- [李连杰公布病情：生日时发现颈部肿块 - 2025-08-29](AI_Reports/jian-kang-yu-yi-liao/li-lian-jie-gong-bu-bing-qing-sheng-ri-shi-fa-xian-jing-bu-zhong-kuai-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%85%AC%E5%B8%83%E7%97%85%E6%83%85%EF%BC%9A%E7%94%9F%E6%97%A5%E6%97%B6%E5%8F%91%E7%8E%B0%E9%A2%88%E9%83%A8%E8%82%BF%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)
