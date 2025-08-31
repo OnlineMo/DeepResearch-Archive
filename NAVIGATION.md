@@ -3,6 +3,10 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [俄方：普京在华停留如此久实属罕见 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/e-fang-pu-jing-zai-hua-ting-liu-ru-ci-jiu-shi-shu-han-jian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%9C%A8%E5%8D%8E%E5%81%9C%E7%95%99%E5%A6%82%E6%AD%A4%E4%B9%85%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)
+- [普京抵达天津 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/pu-jing-di-da-tian-jin-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BC%8F%E6%8A%B5%E8%BE%BE%E5%A4%A9%E6%B4%A5&sa=fyb_news&rsv_dl=fyb_news)
+- [日本代表最后一刻取消访美 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-dai-biao-zui-hou-yi-ke-qu-xiao-fang-mei-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E5%8F%96%E6%B6%88%E8%AE%BF%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平会见联合国秘书长古特雷斯 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [北京宛平城：让抗战精神薪火相传 - 2025-08-30](AI_Reports/shi-zheng-yu-guo-ji/bei-jing-wan-ping-cheng-rang-kang-zhan-jing-shen-xin-huo-xiang-chuan-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%AE%9B%E5%B9%B3%E5%9F%8E%EF%BC%9A%E8%AE%A9%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E8%96%AA%E7%81%AB%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议 - 2025-08-30](AI_Reports/shi-zheng-yu-guo-ji/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [北京将升挂23万面国旗红旗 - 2025-08-29](AI_Reports/shi-zheng-yu-guo-ji/bei-jing-jiang-sheng-gua-23mo-mian-guo-qi-hong-qi-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B0%86%E5%8D%87%E6%8C%8223%E4%B8%87%E9%9D%A2%E5%9B%BD%E6%97%97%E7%BA%A2%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)
@@ -19,7 +23,6 @@
 - [习近平会见俄罗斯国家杜马主席 - 2025-08-27](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-e-luo-si-guo-jia-du-ma-zhu-xi-2025-08-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [80秒带你回顾三次综合演练画面 - 2025-08-26](AI_Reports/shi-zheng-yu-guo-ji/80miao-dai-ni-hui-gu-san-ci-zong-he-yan-lian-hua-mian-2025-08-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=80%E7%A7%92%E5%B8%A6%E4%BD%A0%E5%9B%9E%E9%A1%A顾%E4%B8%89%E6%AC%A1%E7%BB%BC%E5%90%88%E6%BC%94%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [当年汶川男孩如今受阅军官 - 2025-08-26](AI_Reports/shi-zheng-yu-guo-ji/dang-nian-wen-chuan-nan-hai-ru-jin-shou-yue-jun-guan-2025-08-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BD%93%E5%B9%B3%E6%B1%B6%E5%B7%9D%E7%94%B7%E5%AD%A9%E5%A6%82%E4%BB%8A%E5%8F%97%E9%98%85%E5%86%9B%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)
-- [以史为鉴 面向未来 - 2025-08-26](AI_Reports/shi-zheng-yu-guo-ji/yi-shi-wei-jian-mian-xiang-wei-lai-2025-08-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4+%E9%9D%A2%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -64,3 +67,8 @@
 [点击查看健康与医疗完整报告索引 →](AI_Reports/jian-kang-yu-yi-liao/Reports.md)
 
 - [李连杰公布病情：生日时发现颈部肿块 - 2025-08-29](AI_Reports/jian-kang-yu-yi-liao/li-lian-jie-gong-bu-bing-qing-sheng-ri-shi-fa-xian-jing-bu-zhong-kuai-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%85%AC%E5%B8%83%E7%97%85%E6%83%85%EF%BC%9A%E7%94%9F%E6%97%A5%E6%97%B6%E5%8F%91%E7%8E%B0%E9%A2%88%E9%83%A8%E8%82%BF%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)
+
+## 文化与媒体
+[点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
+
+- [上合诗篇 - 2025-08-31](AI_Reports/wen-hua-yu-mei-ti/shang-he-shi-pian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)
