@@ -19,8 +19,9 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [作家马伯庸：儿子语文不好要上作文班 - 2025-08-30](AI_Reports/jiao-yu-yu-kao-shi/zuo-jia-ma-bo-yong-er-zi-yu-wen-bu-hao-yao-shang-zuo-wen-ban-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E9%A9%AC%E4%BC%AF%E5%BA%B8%EF%BC%9A%E5%84%BF%E5%AD%90%E8%AF%AD%E6%96%87%E4%B8%8D%E5%A5%BD%E8%A6%81%E4%B8%8A%E4%BD%9C%E6%96%87%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)
-- [北京宛平城：让抗战精神薪火相传 - 2025-08-30](AI_Reports/shi-zheng-yu-guo-ji/bei-jing-wan-ping-cheng-rang-kang-zhan-jing-shen-xin-huo-xiang-chuan-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%AE%9B%E5%B9%B3%E5%9F%8E%EF%BC%9A%E8%AE%A9%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E8%96%AA%E7%81%AB%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)
-- [中共中央政治局召开会议 - 2025-08-30](AI_Reports/shi-zheng-yu-guo-ji/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
-- [9月新规来了 - 2025-08-30](AI_Reports/zheng-ce-yu-fa-gui/9yue-xin-gui-lai-liao-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=9%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [俄方：普京在华停留如此久实属罕见 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/e-fang-pu-jing-zai-hua-ting-liu-ru-ci-jiu-shi-shu-han-jian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%9C%A8%E5%8D%8E%E5%81%9C%E7%95%99%E5%A6%82%E6%AD%A4%E4%B9%85%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)
+- [普京抵达天津 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/pu-jing-di-da-tian-jin-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BC%8F%E6%8A%B5%E8%BE%BE%E5%A4%A9%E6%B4%A5&sa=fyb_news&rsv_dl=fyb_news)
+- [日本代表最后一刻取消访美 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-dai-biao-zui-hou-yi-ke-qu-xiao-fang-mei-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E5%8F%96%E6%B6%88%E8%AE%BF%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平会见联合国秘书长古特雷斯 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [上合诗篇 - 2025-08-31](AI_Reports/wen-hua-yu-mei-ti/shang-he-shi-pian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
