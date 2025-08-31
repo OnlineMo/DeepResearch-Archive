@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：17
+报告总数：21
 
 ---
 
@@ -18,6 +18,10 @@
 
 - [当年汶川男孩如今受阅军官](dang-nian-wen-chuan-nan-hai-ru-jin-shou-yue-jun-guan-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%BD%93%E5%B9%B3%E6%B1%B6%E5%B7%9D%E7%94%B7%E5%AD%A9%E5%A6%82%E4%BB%8A%E5%8F%97%E9%98%85%E5%86%9B%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)
 
+## E
+
+- [俄方：普京在华停留如此久实属罕见](e-fang-pu-jing-zai-hua-ting-liu-ru-ci-jiu-shi-shu-han-jian-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%9C%A8%E5%8D%8E%E5%81%9C%E7%95%99%E5%A6%82%E6%AD%A4%E4%B9%85%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)
+
 ## J
 
 - [九三阅兵三次演练卡点大片](jiu-san-yue-bing-san-ci-yan-lian-qia-dian-da-pian-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%89%E6%AC%A1%E6%BC%93%E7%BB%83%E5%8D%A1%E7%82%B9%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
@@ -28,7 +32,12 @@
 
 ## P
 
+- [普京抵达天津](pu-jing-di-da-tian-jin-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BC%8F%E6%8A%B5%E8%BE%BE%E5%A4%A9%E6%B4%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [普京和金正恩等将出席抗战纪念活动](pu-jing-he-jin-zheng-en-deng-jiang-chu-xi-kang-zhan-ji-nian-huo-dong-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%92%8C%E9%87%91%E6%AD%A3%E6%81%A9%E7%AD%89%E5%B0%86%E5%87%BA%E5%B8%AD%E6%8A%97%E6%88%98%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
+
+## R
+
+- [日本代表最后一刻取消访美](ri-ben-dai-biao-zui-hou-yi-ke-qu-xiao-fang-mei-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E5%8F%96%E6%B6%88%E8%AE%BF%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)
 
 ## T
 
@@ -37,6 +46,7 @@
 ## X
 
 - [习近平会见俄罗斯国家杜马主席](xi-jin-ping-hui-jian-e-luo-si-guo-jia-du-ma-zhu-xi-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平会见联合国秘书长古特雷斯](xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
