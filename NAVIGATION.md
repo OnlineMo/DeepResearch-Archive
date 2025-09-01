@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [旺旺集团总经理：去看祖国的阅兵仪式 - 2025-09-01](AI_Reports/shi-zheng-yu-guo-ji/wang-wang-ji-tuan-zong-jing-li-qu-kan-zu-guo-de-yue-bing-yi-shi-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E9%9B%86%E5%9B%A2%E6%80%BB%E7%BB%8F%E7%90%86%EF%BC%9A%E5%8E%BB%E7%9C%8B%E7%A5%96%E5%9B%BD%E7%9A%84%E9%98%85%E5%85%B5%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平会见土耳其总统埃尔多安 - 2025-09-01](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-tu-er-qi-zong-tong-ai-er-duo-an-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
 - [俄方：普京在华停留如此久实属罕见 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/e-fang-pu-jing-zai-hua-ting-liu-ru-ci-jiu-shi-shu-han-jian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%9C%A8%E5%8D%8E%E5%81%9C%E7%95%99%E5%A6%82%E6%AD%A4%E4%B9%85%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)
 - [普京抵达天津 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/pu-jing-di-da-tian-jin-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BC%8F%E6%8A%B5%E8%BE%BE%E5%A4%A9%E6%B4%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [日本代表最后一刻取消访美 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-dai-biao-zui-hou-yi-ke-qu-xiao-fang-mei-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E5%8F%96%E6%B6%88%E8%AE%BF%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,8 +23,6 @@
 - [中国抗战阅兵以来日本砸560亿搞公关 - 2025-08-28](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-kang-zhan-yue-bing-yi-lai-ri-ben-za-560yi-gao-gong-guan-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5%E4%BB%A5%E6%9D%A5%E6%97%A5%E6%9C%AC%E7%A0%B8560%E4%BA%BF%E6%90%9E%E5%85%AC%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵三次演练卡点大片 - 2025-08-27](AI_Reports/shi-zheng-yu-guo-ji/jiu-san-yue-bing-san-ci-yan-lian-qia-dian-da-pian-2025-08-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%89%E6%AC%A1%E6%BC%93%E7%BB%83%E5%8D%A1%E7%82%B9%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见俄罗斯国家杜马主席 - 2025-08-27](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-e-luo-si-guo-jia-du-ma-zhu-xi-2025-08-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
-- [80秒带你回顾三次综合演练画面 - 2025-08-26](AI_Reports/shi-zheng-yu-guo-ji/80miao-dai-ni-hui-gu-san-ci-zong-he-yan-lian-hua-mian-2025-08-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=80%E7%A7%92%E5%B8%A6%E4%BD%A0%E5%9B%9E%E9%A1%A顾%E4%B8%89%E6%AC%A1%E7%BB%BC%E5%90%88%E6%BC%94%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
-- [当年汶川男孩如今受阅军官 - 2025-08-26](AI_Reports/shi-zheng-yu-guo-ji/dang-nian-wen-chuan-nan-hai-ru-jin-shou-yue-jun-guan-2025-08-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BD%93%E5%B9%B3%E6%B1%B6%E5%B7%9D%E7%94%B7%E5%AD%A9%E5%A6%82%E4%BB%8A%E5%8F%97%E9%98%85%E5%86%9B%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -56,6 +56,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [一等功爷爷送孙子去国防科大报到 - 2025-09-01](AI_Reports/jiao-yu-yu-kao-shi/yi-deng-gong-ye-ye-song-sun-zi-qu-guo-fang-ke-da-bao-dao-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E7%AD%89%E5%8A%9F%E7%88%B7%E7%88%B7%E9%80%81%E5%AD%99%E5%AD%90%E5%8E%BB%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E6%8A%A5%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [作家马伯庸：儿子语文不好要上作文班 - 2025-08-30](AI_Reports/jiao-yu-yu-kao-shi/zuo-jia-ma-bo-yong-er-zi-yu-wen-bu-hao-yao-shang-zuo-wen-ban-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E9%A9%AC%E4%BC%AF%E5%BA%B8%EF%BC%9A%E5%84%BF%E5%AD%90%E8%AF%AD%E6%96%87%E4%B8%8D%E5%A5%BD%E8%A6%81%E4%B8%8A%E4%BD%9C%E6%96%87%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 旅游与出行
@@ -68,7 +69,17 @@
 
 - [李连杰公布病情：生日时发现颈部肿块 - 2025-08-29](AI_Reports/jian-kang-yu-yi-liao/li-lian-jie-gong-bu-bing-qing-sheng-ri-shi-fa-xian-jing-bu-zhong-kuai-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%85%AC%E5%B8%83%E7%97%85%E6%83%85%EF%BC%9A%E7%94%9F%E6%97%A5%E6%97%B6%E5%8F%91%E7%8E%B0%E9%A2%88%E9%83%A8%E8%82%BF%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)
 
+## 财经与商业
+[点击查看财经与商业完整报告索引 →](AI_Reports/cai-jing-yu-shang-ye/Reports.md)
+
+- [多家银行准备就绪 贴息“红包”来了 - 2025-09-01](AI_Reports/cai-jing-yu-shang-ye/duo-jia-yin-xing-zhun-bei-jiu-xu-tie-xi-hong-bao-lai-liao-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA+%E8%B4%B4%E6%81%AF%E2%80%9C%E7%BA%A2%E5%8C%85%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
 - [上合诗篇 - 2025-08-31](AI_Reports/wen-hua-yu-mei-ti/shang-he-shi-pian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)
+
+## 未分类
+[点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
+
+- [一颗纽扣 两个朋友 - 2025-09-01](AI_Reports/wei-fen-lei/yi-ke-niu-kou-liang-ge-peng-you-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%A2%97%E7%BA%BD%E6%89%A3+%E4%B8%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)
