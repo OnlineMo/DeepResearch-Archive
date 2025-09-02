@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：23
+报告总数：27
 
 ---
 
@@ -24,6 +24,7 @@
 
 ## J
 
+- [金正恩乘专列来华 现场画面公布](jin-zheng-en-cheng-zhuan-lie-lai-hua-xian-chang-hua-mian-gong-bu-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%98%E4%B8%93%E5%88%97%E6%9D%A5%E5%8D%8E+%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵三次演练卡点大片](jiu-san-yue-bing-san-ci-yan-lian-qia-dian-da-pian-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%89%E6%AC%A1%E6%BC%93%E7%BB%83%E5%8D%A1%E7%82%B9%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## K
@@ -32,12 +33,17 @@
 
 ## P
 
+- [普京车队凌晨经过北京天安门广场](pu-jing-che-dui-ling-chen-jing-guo-bei-jing-tian-an-men-yan-chang-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%BD%A6%E9%98%9F%E5%87%8C%E6%99%A8%E7%BB%8F%E8%BF%87%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [普京抵达天津](pu-jing-di-da-tian-jin-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BC%8F%E6%8A%B5%E8%BE%BE%E5%A4%A9%E6%B4%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [普京和金正恩等将出席抗战纪念活动](pu-jing-he-jin-zheng-en-deng-jiang-chu-xi-kang-zhan-ji-nian-huo-dong-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%92%8C%E9%87%91%E6%AD%A3%E6%81%A9%E7%AD%89%E5%B0%86%E5%87%BA%E5%B8%AD%E6%8A%97%E6%88%98%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 
 ## R
 
 - [日本代表最后一刻取消访美](ri-ben-dai-biao-zui-hou-yi-ke-qu-xiao-fang-mei-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E5%8F%96%E6%B6%88%E8%AE%BF%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)
+
+## S
+
+- [上合组织经贸合作“含金量”](shang-he-zu-zhi-jing-mao-he-zuo-han-jin-liang-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E2%80%9C%E5%90%AB%E9%87%91%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## T
 
@@ -52,6 +58,7 @@
 - [习近平会见俄罗斯国家杜马主席](xi-jin-ping-hui-jian-e-luo-si-guo-jia-du-ma-zhu-xi-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见联合国秘书长古特雷斯](xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见土耳其总统埃尔多安](xi-jin-ping-hui-jian-tu-er-qi-zong-tong-ai-er-duo-an-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平提出全球治理倡议](xi-jin-ping-ti-chu-quan-qiu-zhi-li-chang-yi-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA%E5%85%A8%E7%90%83%E6%B2%BB%E7%90%86%E5%80%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
