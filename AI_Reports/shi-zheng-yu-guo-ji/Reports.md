@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：27
+报告总数：32
 
 ---
 
@@ -59,15 +59,19 @@
 - [习近平会见联合国秘书长古特雷斯](xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见土耳其总统埃尔多安](xi-jin-ping-hui-jian-tu-er-qi-zong-tong-ai-er-duo-an-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平提出全球治理倡议](xi-jin-ping-ti-chu-quan-qiu-zhi-li-chang-yi-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA%E5%85%A8%E7%90%83%E6%B2%BB%E7%90%86%E5%80%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
+- [现场直播九三阅兵](xian-chang-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
+- [新华社直播九三阅兵](xin-hua-she-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
+- [一镜到底航拍阅兵方队](yi-jing-dao-di-hang-pai-yue-bing-fang-dui-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E8%88%AA%E6%8B%8D%E9%98%85%E5%85%B5%E6%96%B9%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [以史为鉴 面向未来](yi-shi-wei-jian-mian-xiang-wei-lai-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4+%E9%9D%A2%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
 - [这是你没见过的阅兵训练画面](zhe-shi-ni-mei-jian-guo-de-yue-bing-xun-lian-hua-mian-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%BD%A0%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E9%98%85%E5%85%B5%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [这一精神何以成为上合“发展密码”](zhe-yi-jing-shen-he-yi-cheng-wei-shang-he-fa-zhan-mi-ma-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E7%B2%BE%E7%A5%9E%E4%BD%95%E4%B8%A5%E6%88%90%E4%B8%BA%E4%B8%8A%E5%90%88%E2%80%9C%E5%8F%91%E5%B1%95%E5%AF%86%E7%A0%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [致敬伟大胜利](zhi-jing-wei-da-sheng-li-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [中方：某常任理事国一意孤行令人失望](zhong-fang-mou-chang-ren-li-shi-guo-yi-yi-gu-xing-ling-ren-shi-wang-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%9F%90%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9B%BD%E4%B8%80%E6%84%8F%E5%AD%A4%E8%A1%8C%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议](zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-08-30--v1.md) - 2025-08-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国抗战阅兵以来日本砸560亿搞公关](zhong-guo-kang-zhan-yue-bing-yi-lai-ri-ben-za-560yi-gao-gong-guan-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5%E4%BB%A5%E6%9D%A5%E6%97%A5%E6%9C%AC%E7%A0%B8560%E4%BA%BF%E6%90%9E%E5%85%AC%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
@@ -75,4 +79,5 @@
 
 ## “
 
+- [“把伟大抗战精神一代代传下去”](ba-wei-da-kang-zhan-jing-shen-yi-dai-dai-chuan-xia-qu-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%9D%E4%BC%9F%E5%A4%A7%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E4%B8%80%E4%BB%A3%E4%BB%A3%E4%BC%A0%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“上海精神”照亮上合壮大之路](shang-hai-jing-shen-zhao-liang-shang-he-zhuang-da-zhi-lu-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E6%B5%B7%E7%B2%BE%E7%A5%9E%E2%80%9D%E7%85%A7%E4%BA%AE%E4%B8%8A%E5%90%88%E5%A3%AE%E5%A4%A7%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
