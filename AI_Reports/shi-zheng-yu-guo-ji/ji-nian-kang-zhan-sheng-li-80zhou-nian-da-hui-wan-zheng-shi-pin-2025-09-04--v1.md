@@ -1,0 +1,70 @@
+版次: 头版（v1）
+日期: 2025-09-04
+主题: 纪念抗战胜利80周年大会完整视频
+
+来源: https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news
+
+# 纪念抗战胜利80周年大会完整视频
+
+## 摘要
+*   2025年9月3日，中国在北京天安门广场隆重举行了纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会，并举行了盛大阅兵式 [12371](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBxhSsKylxr7sVl-oJHD4b-NxloeCFm7Rsa5OhGDOyrY_4Hvjb-MhJCTnUMoL2wRZJhWr8CrlwzOK3MzvLSdIVJBVK_QByC57zMTNZhmD_nOPAmFDmSb-rlpumpgAsyCyjgNo7N8LZzvVmtfJNuTdKTDySEw==)。
+*   中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话，检阅了受阅部队，多位国际领袖出席 [cctv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq)。
+*   此次纪念活动内容丰富，包括纪念大会、盛大阅兵式、招待会和文艺晚会，阅兵式展示了中国军队的最新装备与强大实力 [bendibao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuIOrk4HHxpya1MQqBWW1d3u72GJO0v5PT3bgUpumdQug7CoGkEwoZQ14l3ASGhcnsXpYLBxzzQAGVfjoO33pUPeaH0founGxBpA3RSMdQOf3ykEK-5vo2Q7UymwsBn3O9lFsu)。
+*   大会的完整视频和全程回放已通过多个官方渠道发布，包括央视网、共产党员网、人民网、新华网及YouTube上的官方频道 [cctv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUHkWk3tOfxwdZuBhr1vonYPWAGCPqmDAje0imXARDAw17OXQEp8mKlJDlqpYFkwnW7NChastaSaMtLTMjW01V7E4fsUzZuy3Exxc37_5ZSNlF5y4w5nUMWvkmQv7_2wUv0d4eseK8bGm85nazRoKWUy22JOvKMJ7p9jZwXw==) [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqzuDoT2MDa7-yjAq8uL6zmLBupdts-VoeSHmBOaUAIrnE7kttWaGAL6mZA7hcp8D8vffBsVskjoclmHG1g09m52GxpjXuXoKFWg1HHH0I_Y73_iqdJydSFPCzdXraWs-2cCA2BQ==)。
+*   这些回放内容全面涵盖了阅兵式、习近平主席重要讲话以及文艺晚会等所有重要环节 [bendibao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq3)。
+
+## 背景
+2025年9月3日，中国在北京天安门广场隆重举行了纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会 [12371](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBxhSsKylxr7sVl-oJHD4b-NxloeCFm7Rsa5OhGDOyrY_4Hvjb-MhJCTnUMoL2wRZJhWr8CrlwzOK3MzvLSdIVJBVK_QByC57zMTNZhmD_nOPAmFDmSb-rlpumpgAsyCyjgNo7N8LZzvVmtfJNuTdKTDySEw==) [cctv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq)。此次盛典旨在铭记历史、缅怀先烈、珍爱和平、开创未来，彰显中国作为世界反法西斯战争东方主战场的重要贡献。大会由中共中央总书记、国家主席、中央军委主席习近平出席并发表重要讲话，同时检阅了受阅部队 [cctv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUHkWk3tOfxwdZuBhr1vonYPWAGCPqmDAje0imXARDAw17OXQEp8mKlJDlqpYFkwnW7NChastaSaMtLTMjW01V7E4fsUzZuy3Exxc37_5ZSNlF5y4w5nUMWvkmQv7_2wUv0d4eseK8bGm85nazRoKWUy22JOvKMJ7p9jZwXw==)。
+
+纪念活动内容丰富，除了纪念大会，还包括了盛大的阅兵式、在人民大会堂举行的招待会以及文艺晚会 [bendibao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuIOrk4HHxpya1MQqBWW1d3u72GJO0v5PT3bgUpumdQug7CoGkEwoZQ14l3ASGhcnsXpYLBxzzQAGVfjoO33pUPeaH0founGxBpA3RSMdQOf3ykEK-5vo2Q7UymwsBn3O9lFsu)。阅兵式分为阅兵式和分列式两个步骤，受阅部队在长安街列阵接受检阅，分列式环节编设了45个方（梯）队，展示了中国军队的现代化建设成就 [12371](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKABCdTh7s_iQ8s9ZcoJbnzVFCI3IC5XORUQ9-cfD-qViMecB0g6IiwGWUTqHeio4YA384CgP-pf-AfwaTREfy_NQ3lGQlzHr74IqZYiIUSQXtfhADkn4eAm9G-Alel8GGthNvnrCklcKMdOIAXioITIUMHg==)。多位国际领袖，如俄罗斯总统普京和朝鲜领导人金正恩，也出席了此次盛典，体现了国际社会对此次纪念活动的关注 [ismx](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7LYpOEHY_bXRiP7mIKO0G2edpKNknYUaDqENbdPPk_KGp6zfxxknSs1t_oqkvYr_VpZR5zcxKoz4GLVB8SxxOkpB9tZjRxL-gZAcIRUdeKArs6rP4PjMWwGidGAZ0qWTUIXiMghm-) [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg-SrddO-Y6rZtuo5YSl0Sp1KVyWlZsRAH1di1fA1_dnOBf433UYKdT-vA0SKoqyurAsETWTH7zGmrV-uaWaWD28IxqAXvCu9RUeDYFp0mZgajnz8cgdhuX01642TSNKiRRYMm7QfOt7WZwL2Mkeg3kbsB3NF2GwI=)。
+
+## 深度分析
+纪念抗战胜利80周年大会的完整视频已通过多个官方权威渠道发布，确保了公众能够全面、便捷地回顾此次历史性盛会。
+
+1.  **官方发布渠道的权威性与多样性**：
+    *   **央视网 (CCTV)** 及其相关平台，如央视频APP和央视影音，提供了阅兵的完整视频和多角度回放，是观看此次盛典，特别是阅兵式内容的首选平台 [cctv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq) [cctv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq5)。
+    *   **共产党员网** 专门提供了纪念大会和文艺晚会的完整视频，方便党员和公众深入了解大会的政治意义和文化内涵 [12371](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBxhSsKylxr7sVl-oJHD4b-NxloeCFm7Rsa5OhGDOyrY_4Hvjb-MhJCTnUMoL2wRZJhWr8CrlwzOK3MzvLSdIVJBVK_QByC57zMTNZhmD_nOPAmFDmSb-rlpumpgAsyCyjgNo7N8LZzvVmtfJNuTdKTDySEw==)。
+    *   **人民网** 也发布了阅兵式的完整视频，并与**北京本地宝**等平台共同汇总了官方观看入口，包括网页端和手机端，以及人民网、北京时间、央视视频等视频号的回放 [bendibao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq7) [bendibao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq8)。
+    *   **新华网** 提供了图文直播和精彩视频回放，为用户提供了多媒体的观看体验 [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq1)。
+    *   在国际平台方面，**YouTube** 上也有CCTV中国中央电视台等官方频道发布的完整版纪念大会和阅兵视频，方便海外观众观看 [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqzuDoT2MDa7-yjAq8uL6zmLBupdts-VoeSHmBOaUAIrnE7kttWaGAL6mZA7hcp8D8vffBsVskjoclmHG1g09m52GxpjXuXoKFWg1HHH0I_Y73_iqdJydSFPCzdXraWs-2cCA2BQ==) [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq0)。
+
+2.  **视频内容覆盖的全面性**：
+    *   这些官方回放内容涵盖了纪念大会的各个重要环节，包括中共中央总书记、国家主席、中央军委主席习近平发表的重要讲话 [bendibao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuIOrk4HHxpya1MQqBWW1d3u72GJO0v5PT3bgUpumdQug7CoGkEwoZQ14l3ASGhcnsXpYLBxzzQAGVfjoO33pUPeaH0founGxBpA3RSMdQOf3ykEK-5vo2Q7UymwsBn3O9lFsu)。
+    *   阅兵式部分则详细呈现了分列式，包括空中护旗梯队飞过天安门广场上空、徒步方队、地面机动装备梯队以及空中梯队等 [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq4) [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuIOrk4HHxpya1MQqBWW1d3u72GJO0v5PT3bgUpumdQug7CoGkEwoZQ14l3ASGhcnsXpYLBxzzQAGVfjoO33pUPeaH0founGxBpA3RSMdQOf3ykEK-5vo2Q7UymwsBn3O9lFsu0)。阅兵式上展示了中国军队的最新装备，如新型隐形战机、无人作战系统和战略导弹部队等，彰显了中国国防力量的现代化水平 [lnd](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2dytolNA_iPOQgB6t_BcOiCY2O81JH7lA4-5yXnU77erpXxVBeN5bnFQXbuPRmkh3IC4UnWtW0HYNpkAcMn3GD_aaMRmGr0JYlxwJFcQPqzNW9AyF8bprPakmMO4AXBJCX2ncNOMhEZyvO7hjPWhK3o7u) [tkww](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq2)。
+    *   此外，文艺晚会的完整视频也已发布，为观众提供了了解此次纪念活动文化艺术层面的机会 [12371](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBxhSsKylxr7sVl-oJHD4b-NxloeCFm7Rsa5OhGDOyrY_4Hvjb-MhJCTnUMoL2wRZJhWr8CrlwzOK3MzvLSdIVJBVK_QByC57zMTNZhmD_nOPAmFDmSb-rlpumpgAsyCyjgNo7N8LZzvVmtfJNuTdKTDySEw==)。
+
+## 结论与建议
+**结论**：纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会的完整视频已通过中国各大官方媒体平台及国际视频平台广泛发布。这些视频内容全面、权威，涵盖了大会的全部重要环节，包括阅兵式、习近平主席重要讲话以及文艺晚会等，为公众提供了便捷、多角度的观看选择。
+
+**建议**：
+*   **优先选择官方平台观看**：建议用户优先通过央视网、共产党员网、人民网、新华网及其官方APP或YouTube上的CCTV官方频道观看，以确保获取内容的权威性、完整性和高清画质。
+*   **利用多平台优势**：对于希望深入了解特定环节（如阅兵细节、领导人讲话或文艺表演）的观众，可以根据不同平台的侧重点进行选择，例如央视网侧重阅兵，共产党员网侧重大会和晚会。
+*   **关注后续解读**：虽然完整视频已发布，但建议关注官方媒体可能发布的深度解读、专题报道或幕后花絮，以获得更全面的信息。
+
+**限制条件与待后续验证的问题**：
+*   目前主要关注官方发布的完整视频，对于非官方渠道的视频内容，其真实性、完整性及是否存在剪辑篡改等问题，需用户自行甄别。
+*   未来是否会有更多语言版本的官方视频发布，以满足国际观众的需求，有待进一步观察。
+
+## 数据与引用
+*   [12371](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBxhSsKylxr7sVl-oJHD4b-NxloeCFm7Rsa5OhGDOyrY_4Hvjb-MhJCTnUMoL2wRZJhWr8CrlwzOK3MzvLSdIVJBVK_QByC57zMTNZhmD_nOPAmFDmSb-rlpumpgAsyCyjgNo7N8LZzvVmtfJNuTdKTDySEw==)
+*   [cctv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq)
+*   [bendibao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuIOrk4HHxpya1MQqBWW1d3u72GJO0v5PT3bgUpumdQug7CoGkEwoZQ14l3ASGhcnsXpYLBxzzQAGVfjoO33pUPeaH0founGxBpA3RSMdQOf3ykEK-5vo2Q7UymwsBn3O9lFsu)
+*   [cctv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUHkWk3tOfxwdZuBhr1vonYPWAGCPqmDAje0imXARDAw17OXQEp8mKlJDlqpYFkwnW7NChastaSaMtLTMjW01V7E4fsUzZuy3Exxc37_5ZSNlF5y4w5nUMWvkmQv7_2wUv0d4eseK8bGm85nazRoKWUy22JOvKMJ7p9jZwXw==)
+*   [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqzuDoT2MDa7-yjAq8uL6zmLBupdts-VoeSHmBOaUAIrnE7kttWaGAL6mZA7hcp8D8vffBsVskjoclmHG1g09m52GxpjXuXoKFWg1HHH0I_Y73_iqdJydSFPCzdXraWs-2cCA2BQ==)
+*   [lnd](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2dytolNA_iPOQgB6t_BcOiCY2O81JH7lA4-5yXnU77erpXxVBeN5bnFQXbuPRmkh3IC4UnWtW0HYNpkAcMn3GD_aaMRmGr0JYlxwJFcQPqzNW9AyF8bprPakmMO4AXBJCX2ncNOMhEZyvO7hjPWhK3o7u)
+*   [12371](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKABCdTh7s_iQ8s9ZcoJbnzVFCI3IC5XORUQ9-cfD-qViMecB0g6IiwGWUTqHeio4YA384CgP-pf-AfwaTREfy_NQ3lGQlzHr74IqZYiIUSQXtfhADkn4eAm9G-Alel8GGthNvnrCklcKMdOIAXioITIUMHg==)
+*   [ismx](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7LYpOEHY_bXRiP7mIKO0G2edpKNknYUaDqENbdPPk_KGp6zfxxknSs1t_oqkvYr_VpZR5zcxKoz4GLVB8SxxOkpB9tZjRxL-gZAcIRUdeKArs6rP4PjMWwGidGAZ0qWTUIXiMghm-)
+*   [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg-SrddO-Y6rZtuo5YSl0Sp1KVyWlZsRAH1di1fA1_dnOBf433UYKdT-vA0SKoqyurAsETWTH7zGmrV-uaWaWD28IxqAXvCu9RUeDYFp0mZgajnz8cgdhuX01642TSNKiRRYMm7QfOt7WZwL2Mkeg3kbsB3NF2GwI=)
+*   [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELpX6zMqve2n4TF7QVp1sCP-hhhgBPAD3xDGiZUMdB2OZyLq9HRrT3gIBj9sZHPt7-ge0kJJjZAOdjwphna6SvHOcDQjCZsBCP8O9StY6vOL0ejeL_ornAY8AGh17tkggwhIN7Fw==)
+*   [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq0)
+*   [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq1)
+*   [tkww](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq2)
+*   [bendibao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq3)
+*   [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq4)
+*   [cctv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq5)
+*   [cctv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq6)
+*   [bendibao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq7)
+*   [bendibao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq8)
+*   [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPl9OW3v5cqlu5KqY-coU2Y_zo9yyJxX391YhU1MUGGkj4gaewYTdoI9hj6La0ErNTAtgp_6v-Ow2WJGEgSC9VayksawRlKg5RV1NUVm_qzpK7dxqVszMrjuu7kZ8_I6YPPx5cpw8SLlR7fNvbxoyLFssaAJ2x7Y8provkpgtq9)
+*   [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuIOrk4HHxpya1MQqBWW1d3u72GJO0v5PT3bgUpumdQug7CoGkEwoZQ14l3ASGhcnsXpYLBxzzQAGVfjoO33pUPeaH0founGxBpA3RSMdQOf3ykEK-5vo2Q7UymwsBn3O9lFsu0)
+*   [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuIOrk4HHxpya1MQqBWW1d3u72GJO0v5PT3bgUpumdQug7CoGkEwoZQ14l3ASGhcnsXpYLBxzzQAGVfjoO33pUPeaH0founGxBpA3RSMdQOf3ykEK-5vo2Q7UymwsBn3O9lFsu1)
