@@ -1,9 +1,13 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：7
+报告总数：8
 
 ---
+
+## 0-9
+
+- [5万余人观礼离场后干干净净](5mo-yu-ren-guan-li-chi-chang-hou-gan-gan-jing-jing-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%A4%BC%E7%A6%BB%E5%9C%BA%E5%90%8E%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80&sa=fyb_news&rsv_dl=fyb_news)
 
 ## F
 
