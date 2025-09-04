@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：32
+报告总数：36
 
 ---
 
@@ -24,6 +24,7 @@
 
 ## J
 
+- [纪念抗战胜利80周年大会完整视频](ji-nian-kang-zhan-sheng-li-80zhou-nian-da-hui-wan-zheng-shi-pin-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 - [金正恩乘专列来华 现场画面公布](jin-zheng-en-cheng-zhuan-lie-lai-hua-xian-chang-hua-mian-gong-bu-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%98%E4%B8%93%E5%88%97%E6%9D%A5%E5%8D%8E+%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵三次演练卡点大片](jiu-san-yue-bing-san-ci-yan-lian-qia-dian-da-pian-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%89%E6%AC%A1%E6%BC%93%E7%BB%83%E5%8D%A1%E7%82%B9%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -47,6 +48,7 @@
 
 ## T
 
+- [台湾艺人集体转发九三阅兵](tai-wan-yi-ren-ji-ti-zhuan-fa-jiu-san-yue-bing-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E9%9B%86%E4%BD%93%E8%BD%AC%E5%8F%91%E4%B9%9D%E4%B8%89%E9%85%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [泰国女总理佩通坦遭解职](tai-guo-nu-zong-li-pei-tong-tan-zao-jie-zhi-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%80%BB%E7%90%86%E4%BD%A9%E9%80%9A%E5%9D%A6%E9%81%AD%E8%A7%A3%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## W
@@ -66,6 +68,7 @@
 
 - [一镜到底航拍阅兵方队](yi-jing-dao-di-hang-pai-yue-bing-fang-dui-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E8%88%AA%E6%8B%8D%E9%98%85%E5%85%B5%E6%96%B9%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [以史为鉴 面向未来](yi-shi-wei-jian-mian-xiang-wei-lai-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4+%E9%9D%A2%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
+- [与习近平握手的6位老英雄是谁](yu-xi-jin-ping-wo-shou-de-6wei-lao-ying-xiong-shi-shui-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%A1%E6%89%8B%E7%9A%846%E4%BD%8D%E8%80%81%E8%8B%B1%E9%9B%84%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
@@ -81,3 +84,4 @@
 
 - [“把伟大抗战精神一代代传下去”](ba-wei-da-kang-zhan-jing-shen-yi-dai-dai-chuan-xia-qu-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%9D%E4%BC%9F%E5%A4%A7%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E4%B8%80%E4%BB%A3%E4%BB%A3%E4%BC%A0%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“上海精神”照亮上合壮大之路](shang-hai-jing-shen-zhao-liang-shang-he-zhuang-da-zhi-lu-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E6%B5%B7%E7%B2%BE%E7%A5%9E%E2%80%9D%E7%85%A7%E4%BA%AE%E4%B8%8A%E5%90%88%E5%A3%AE%E5%A4%A7%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [“中国排面”再现人民大会堂](zhong-guo-pai-mian-zai-xian-ren-min-da-hui-tang-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E2%80%9D%E5%86%8D%E7%8E%B0%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)
