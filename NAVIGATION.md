@@ -3,6 +3,10 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [男子诋毁九三阅兵被拘 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/nan-zi-di-hui-jiu-san-yue-bing-bei-ju-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%8B%E6%AF%81%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)
+- [他在阅兵现场留下不能露面的照片 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/ta-zai-yue-bing-xian-chang-liu-xia-bu-neng-lu-mian-de-zhao-pian-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%96%E5%9C%A8%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%8D%E8%83%BD%E9%9C%B2%E9%9D%A2%E7%9A%84%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平重点强调这些历史启迪 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zhong-dian-qiang-diao-zhe-xie-li-shi-qi-di-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E7%82%B9%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E5%8E%86%E5%8F%B2%E5%90%AF%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)
+- [这些受阅武器装备震撼亮相 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/zhe-xie-shou-yue-wu-qi-zhuang-bei-zhen-han-liang-xiang-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%8F%97%E9%98%85%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87%E9%9C%87%E6%92%AE%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [纪念抗战胜利80周年大会完整视频 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/ji-nian-kang-zhan-sheng-li-80zhou-nian-da-hui-wan-zheng-shi-pin-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 - [台湾艺人集体转发九三阅兵 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/tai-wan-yi-ren-ji-ti-zhuan-fa-jiu-san-yue-bing-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E9%9B%86%E4%BD%93%E8%BD%AC%E5%8F%91%E4%B9%9D%E4%B8%89%E9%85%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [与习近平握手的6位老英雄是谁 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/yu-xi-jin-ping-wo-shou-de-6wei-lao-ying-xiong-shi-shui-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%A1%E6%89%8B%E7%9A%846%E4%BD%8D%E8%80%81%E8%8B%B1%E9%9B%84%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
@@ -19,10 +23,6 @@
 - [旺旺集团总经理：去看祖国的阅兵仪式 - 2025-09-01](AI_Reports/shi-zheng-yu-guo-ji/wang-wang-ji-tuan-zong-jing-li-qu-kan-zu-guo-de-yue-bing-yi-shi-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E9%9B%86%E5%9B%A2%E6%80%BB%E7%BB%8F%E7%90%86%EF%BC%9A%E5%8E%BB%E7%9C%8B%E7%A5%96%E5%9B%BD%E7%9A%84%E9%98%85%E5%85%B5%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见土耳其总统埃尔多安 - 2025-09-01](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-tu-er-qi-zong-tong-ai-er-duo-an-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
 - [俄方：普京在华停留如此久实属罕见 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/e-fang-pu-jing-zai-hua-ting-liu-ru-ci-jiu-shi-shu-han-jian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%9C%A8%E5%8D%8E%E5%81%9C%E7%95%99%E5%A6%82%E6%AD%A4%E4%B9%85%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)
-- [普京抵达天津 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/pu-jing-di-da-tian-jin-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BC%8F%E6%8A%B5%E8%BE%BE%E5%A4%A9%E6%B4%A5&sa=fyb_news&rsv_dl=fyb_news)
-- [日本代表最后一刻取消访美 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-dai-biao-zui-hou-yi-ke-qu-xiao-fang-mei-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E5%8F%96%E6%B6%88%E8%AE%BF%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平会见联合国秘书长古特雷斯 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
-- [北京宛平城：让抗战精神薪火相传 - 2025-08-30](AI_Reports/shi-zheng-yu-guo-ji/bei-jing-wan-ping-cheng-rang-kang-zhan-jing-shen-xin-huo-xiang-chuan-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%AE%9B%E5%B9%B3%E5%9F%8E%EF%BC%9A%E8%AE%A9%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E8%96%AA%E7%81%AB%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -46,6 +46,11 @@
 [点击查看影视综艺完整报告索引 →](AI_Reports/ying-shi-zong-yi/Reports.md)
 
 - [李幼斌与李云龙跨时空对话 - 2025-09-02](AI_Reports/ying-shi-zong-yi/li-you-bin-yu-li-yun-long-kua-shi-kong-dui-hua-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B9%BC%E6%96%8C%E4%B8%8E%E6%9D%8E%E4%BA%91%E9%BE%99%E8%B7%A8%E6%97%B6%E7%A9%BA%E5%AF%B9%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## 经济与市场
+[点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
+
+- [央行开展10000亿元买断式逆回购操作 - 2025-09-05](AI_Reports/jing-ji-yu-shi-chang/yang-xing-kai-zhan-10000yi-yuan-mai-duan-shi-ni-hui-gou-cao-zuo-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%B1%9510000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD%E6%93%8D%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 政策与法规
 [点击查看政策与法规完整报告索引 →](AI_Reports/zheng-ce-yu-fa-gui/Reports.md)
