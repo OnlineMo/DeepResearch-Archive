@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [美国拘捕约300名韩国人 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-ju-bu-yue-300ming-han-guo-ren-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95%E7%BA%A6300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平鲜明宣示这8个字 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-xian-ming-xuan-shi-zhe-8ge-zi-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%B2%9C%E6%98%8E%E5%AE%A3%E7%A4%BA%E8%BF%998%E4%B8%AA%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)
 - [男子诋毁九三阅兵被拘 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/nan-zi-di-hui-jiu-san-yue-bing-bei-ju-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%8B%E6%AF%81%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)
 - [他在阅兵现场留下不能露面的照片 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/ta-zai-yue-bing-xian-chang-liu-xia-bu-neng-lu-mian-de-zhao-pian-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%96%E5%9C%A8%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%8D%E8%83%BD%E9%9C%B2%E9%9D%A2%E7%9A%84%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平重点强调这些历史启迪 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zhong-dian-qiang-diao-zhe-xie-li-shi-qi-di-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E7%82%B9%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E5%8E%86%E5%8F%B2%E5%90%AF%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,12 +23,11 @@
 - [上合组织经贸合作“含金量” - 2025-09-02](AI_Reports/shi-zheng-yu-guo-ji/shang-he-zu-zhi-jing-mao-he-zuo-han-jin-liang-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E2%80%9C%E5%90%AB%E9%87%91%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平提出全球治理倡议 - 2025-09-02](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-ti-chu-quan-qiu-zhi-li-chang-yi-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA%E5%85%A8%E7%90%83%E6%B2%BB%E7%90%86%E5%80%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [旺旺集团总经理：去看祖国的阅兵仪式 - 2025-09-01](AI_Reports/shi-zheng-yu-guo-ji/wang-wang-ji-tuan-zong-jing-li-qu-kan-zu-guo-de-yue-bing-yi-shi-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E9%9B%86%E5%9B%A2%E6%80%BB%E7%BB%8F%E7%90%86%EF%BC%9A%E5%8E%BB%E7%9C%8B%E7%A5%96%E5%9B%BD%E7%9A%84%E9%98%85%E5%85%B5%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平会见土耳其总统埃尔多安 - 2025-09-01](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-tu-er-qi-zong-tong-ai-er-duo-an-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
-- [俄方：普京在华停留如此久实属罕见 - 2025-08-31](AI_Reports/shi-zheng-yu-guo-ji/e-fang-pu-jing-zai-hua-ting-liu-ru-ci-jiu-shi-shu-han-jian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%9C%A8%E5%8D%8E%E5%81%9C%E7%95%99%E5%A6%82%E6%AD%A4%E4%B9%85%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [最快女护士被解聘或调岗？医院回应 - 2025-09-06](AI_Reports/she-hui-yu-fa-zhi/zui-kuai-nu-hu-shi-bei-jie-pin-huo-diao-gang-yi-yuan-hui-ying-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%A2%AB%E8%A7%A3%E8%81%98%E6%88%96%E8%B0%83%E5%B2%97%EF%BC%9F%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [5万余人观礼离场后干干净净 - 2025-09-04](AI_Reports/she-hui-yu-fa-zhi/5mo-yu-ren-guan-li-chi-chang-hou-gan-gan-jing-jing-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%A4%BC%E7%A6%BB%E5%9C%BA%E5%90%8E%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80&sa=fyb_news&rsv_dl=fyb_news)
 - [反诈老陈打假嘎子哥翻车后道歉 - 2025-08-29](AI_Reports/she-hui-yu-fa-zhi/fan-zha-lao-chen-da-jia-ga-zi-ge-fan-che-hou-dao-qian-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%89%93%E5%81%87%E5%98%8E%E5%AD%90%E5%93%A5%E7%BF%BB%E8%BD%A6%E5%90%8E%E9%81%A8%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
 - [“是鹊桥吗” 杭州上空一幕看呆网友 - 2025-08-29](AI_Reports/she-hui-yu-fa-zhi/shi-que-qiao-ma-hang-zhou-shang-kong-yi-mu-kan-ai-wang-you-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%AF%E9%B9%8A%E6%A1%A5%E5%90%97%E2%80%9D+%E6%9D%AD%E5%B7%9E%E4%B8%8A%E7%A9%BA%E4%B8%80%E5%B9%97%E7%9C%8B%E5%91%86%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,6 +47,11 @@
 [点击查看影视综艺完整报告索引 →](AI_Reports/ying-shi-zong-yi/Reports.md)
 
 - [李幼斌与李云龙跨时空对话 - 2025-09-02](AI_Reports/ying-shi-zong-yi/li-you-bin-yu-li-yun-long-kua-shi-kong-dui-hua-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B9%BC%E6%96%8C%E4%B8%8E%E6%9D%8E%E4%BA%91%E9%BE%99%E8%B7%A8%E6%97%B6%E7%A9%BA%E5%AF%B9%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## 科学与太空
+[点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
+
+- [中国正规划对1颗小行星实施高速撞击 - 2025-09-06](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-zheng-gui-hua-dui-1ke-xiao-xing-xing-shi-shi-gao-su-zhuang-ji-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%A7%84%E5%88%92%E5%AF%B91%E9%A2%97%E5%B0%8F%E8%A1%8C%E6%98%9F%E5%AE%9E%E6%96%BD%E9%AB%98%E9%80%9F%E6%92%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
@@ -93,4 +99,5 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [目之所及皆是自豪模样 - 2025-09-06](AI_Reports/wei-fen-lei/mu-zhi-suo-ji-jie-shi-zi-hao-mo-yang-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9B%AE%E4%B9%8B%E6%89%80%E5%8F%8A%E7%9A%86%E6%98%AF%E8%87%AA%E8%B1%AA%E6%A8%A1%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [一颗纽扣 两个朋友 - 2025-09-01](AI_Reports/wei-fen-lei/yi-ke-niu-kou-liang-ge-peng-you-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%A2%97%E7%BA%BD%E6%89%A3+%E4%B8%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)
