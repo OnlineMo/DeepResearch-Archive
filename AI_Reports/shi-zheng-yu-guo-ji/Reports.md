@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：40
+报告总数：42
 
 ---
 
@@ -31,6 +31,10 @@
 ## K
 
 - [看上合发展壮大的“行动密码”](kan-shang-he-fa-zhan-zhuang-da-de-xing-dong-mi-ma-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%8A%E5%90%88%E5%8F%91%E5%B1%95%E5%A3%AE%E5%A4%A7%E7%9A%84%E2%80%9C%E8%A1%8C%E5%8A%A8%E5%AF%86%E7%A0%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## M
+
+- [美国拘捕约300名韩国人](mei-guo-ju-bu-yue-300ming-han-guo-ren-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95%E7%BA%A6300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 
 ## N
 
@@ -66,6 +70,7 @@
 - [习近平会见联合国秘书长古特雷斯](xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见土耳其总统埃尔多安](xi-jin-ping-hui-jian-tu-er-qi-zong-tong-ai-er-duo-an-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平提出全球治理倡议](xi-jin-ping-ti-chu-quan-qiu-zhi-li-chang-yi-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA%E5%85%A8%E7%90%83%E6%B2%BB%E7%90%86%E5%80%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平鲜明宣示这8个字](xi-jin-ping-xian-ming-xuan-shi-zhe-8ge-zi-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%B2%9C%E6%98%8E%E5%AE%A3%E7%A4%BA%E8%BF%998%E4%B8%AA%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平重点强调这些历史启迪](xi-jin-ping-zhong-dian-qiang-diao-zhe-xie-li-shi-qi-di-2025-09-05--v1.md) - 2025-09-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E7%82%B9%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E5%8E%86%E5%8F%B2%E5%90%AF%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [现场直播九三阅兵](xian-chang-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [新华社直播九三阅兵](xin-hua-she-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
