@@ -1,0 +1,65 @@
+版次: 头版（v1）
+日期: 2025-09-06
+主题: 九三阅兵上这些旗帜令人心潮澎湃
+
+来源: https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%8A%E8%BF%99%E4%BA%9B%E6%97%97%E5%B8%9C%E4%BB%A4%E4%BA%BA%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83&sa=fyb_news&rsv_dl=fyb_news
+
+# 九三阅兵上这些旗帜令人心潮澎湃
+
+## 摘要
+- **英雄的旗帜，历史的见证**：2015年九三阅兵首次设立10个英模部队方队，每个方队高擎7面功勋荣誉旗，共70面旗帜象征抗战胜利70周年，生动再现了中国共产党领导下的人民军队浴血奋战的光辉历史 [chinanews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbKHkscLebCTErlJhXqyO0lxxrUTegFMus1jGMU65URhw9FmBlMeJmYXN1r-dt957dIv3Sb0-7yvOyVmUNo9CUXZmwSakoVFfmp2WKl5XzRaRybcPz_vo-EggaU2X5RADIQoegKzmiepG2Cf-wTLMdzowCZlE)。
+- **体系的展示，军威的彰显**：阅兵式不仅有象征国家主权的国旗、党旗、军旗，还首次安排陆、海、空军种方队擎军种旗受阅，系统性地展示了中国军队在新时期力量结构的布局与风采 [mod](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcoNm8Ppa-f6JHena3uy6naKsRagzM66c3uOj1-p40KD08Q2FWJXsC2zmVEdTCQ5oy4tD_g9SxbYzt883xoxin7rxgnG6XDl4gablewHNFs9O87-wJmnD13gKFTMnBK72N7q9dLgIWBQ==)。
+- **精神的传承，和平的期盼**：每一面战旗背后都蕴含着一段可歌可泣的英雄故事，如“狼牙山五壮士”、“刘老庄连”等，它们不仅是对先烈的缅怀，更是伟大抗战精神的传承，同时结合空中梯队“和平必胜”的标语，向世界传递了中国珍视和平的坚定信念 [ifeng](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5fmQLr7gF_hfbvBIsYDxKfHL1wH-TU4Z227n8llyJGheUAZtmmkT1BUGK_a8WXV4bhJRBfy19LTcjaxvmVkslZO-awps2BMHdyySVCmzhA9rUOElZYc2Xw5P4eTAsVg==) [yicai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcelKTdxNQALeUb6ch-Mz2Pcz-vs1V5RYA2jO96n527r9lfBuaVNdFn1Ha9heXPWEv6_q0YRN2L3tPvoUU0_3JneC4dlAvTf8wLeU2r_M32XZJLU9-Nz6cma-2ZbV0O2RSdiaf)。
+- **细节的尊重，文化的传承**：阅兵中对历史细节的尊重体现在旗帜的方方面面，例如“刘老庄连”战旗上的“庄”字沿用历史异体字“庒”，体现了对历史的敬畏和对先烈的深切缅怀 [yicai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcelKTdxNQALeUb6ch-Mz2Pcz-vs1V5RYA2jO96n527r9lfBuaVNdFn1Ha9heXPWEv6_q0YRN2L3tPvoUU0_3JneC4dlAvTf8wLeU2r_M32XZJLU9-Nz6cma-2ZbV0O2RSdiaf)。
+
+## 背景
+2015年9月3日，中国在北京天安门广场隆重举行了“纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会”及阅兵式。这是中国首次以纪念抗战胜利为主题举行的大规模阅兵，旨在铭记历史、缅怀先烈、珍爱和平、开创未来。在这次阅兵中，各式各样的旗帜成为一道流动的风景线，它们不仅是军队的标识，更是承载着国家记忆、民族精神与英雄血脉的“活化石”。本报告将聚焦于这些令人心潮澎湃的旗帜，深度解析其背后的历史内涵与象征意义。
+
+## 深度分析
+### 一、引领方阵：国家与军队的最高象征
+阅兵分列式由空中护旗梯队拉开序幕，中华人民共和国国旗、中国共产党党旗和中国人民解放军军旗在空中飘扬，明确彰显了中国共产党在抗战中的核心领导地位以及国家和军队的庄严形象。
+
+地面徒步方队则由三军仪仗队护卫着“八一”军旗作为引领。此次阅兵的一大创新是，解放军陆、海、空三军军种方队首次擎着各自的军种旗接受检阅 [mod](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcoNm8Ppa-f6JHena3uy6naKsRagzM66c3uOj1-p40KD08Q2FWJXsC2zmVEdTCQ5oy4tD_g9SxbYzt883xoxin7rxgnG6XDl4gablewHNFs9O87-wJmnD13gKFTMnBK72N7q9dLgIWBQ==)。这些旗帜以不同的颜色象征其作战领域：陆军的草绿色代表大地，海军的蓝白条纹代表海洋与波涛，空军的天蓝色则代表广阔天空。这不仅是一次视觉上的革新，更是中国军队现代化、体系化建设成就的一次集中展示。
+
+### 二、核心亮点：英模部队的“战旗”史诗
+本次阅兵最震撼人心的部分，无疑是首次出现的10个英模部队方队。这些方队从八路军、新四军、东北抗联、华南游击队等抗战功勋部队的现役部队中抽组而成，每个方队高擎包括1面番号旗和6面荣誉旗在内的7面旗帜，总计70面战旗，寓意胜利70周年 [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1GQkHtc0qUgV83b5JjnnRKdTr6mWmhE_vM-sBR0MHIv2QpVDs5RYszgrgI02ZB3rqOL_j4Fxmn6T8Y6YLUdQUUskVywaCw3WrelCbL1AiZ8xOSGKp9L29frTjyI0SvhuljFbU1ewsLib279FJOEI6qm6RQDdNaF3K19xWcg==) [mod](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEkune-D7NJNMXkcaoSOtlrElQFsykcaG36P3jIANpkBqZ5Yo1s6_PC-wfKI7JH5uDM0dyTmLfphAtXObT2CXCPm-wDL7NMSxWCJirVmHEbYMvI0qnwxtB_8nwdwdgxu-N6RHaREBy)。每一面旗帜，都是一部浓缩的英雄史诗。
+
+- **“狼牙山五壮士”英模部队方队**：这面旗帜背后是五位战士为掩护主力与群众，在弹尽粮绝后毅然跳崖的壮举。其所在部队前身是毛泽东同志亲手缔造的红一军团，曾在黄土岭战役中击毙日军“名将之花”阿部规秀中将，威震敌胆 [thepaper](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzOFnbsF-54eYxbWkcRSuWipGpiQ8XeLd-zJMjvPUDs3u80Kzbihhk7S2-ET4INLxMcgjFYaPFi0TgV8z0FPiLxvq6BAQeemD-MMatXbDIOfLqS6o-Lynk-SJTg1AH1OXRuiG6kqJwvNIr9g==) [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfSHVJFclzvW_J5FvcsNOvUrclnWKmvMunn4Hv8zmD9UpKO6ru1g7OEoK68_UzVoC10DJOFxR_TvmIJ4C3ZItUNJojd2k-wCbGrF5uUKwgCwzVqzudP8XtfpCHV5V9Cyl1AlNg2xLZ_m_96nVfgRTabBfYid31xUo=)。
+- **“平型关大战突击连”英模部队方队**：该方队高擎的“平型关大战突击连”旗帜，纪念的是在平型关战役中，作为突击队率先抢占制高点，一举打破“日军不可战胜”神话的英雄连队 [guancha](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq324AxzxG-Px9LrR2K_Ns0-B0b0B7Nch_K0pGcuJyi-44k-CjLTzT8UlGa22lTPMSDQ5jDRO1RbNcau8vtt68HWnelrL_9787Tgh84BaUOSpKW_M5PowuM875r8FybdBa5XV59Ow_g4vSl4kSKwDQl3cdjjCyeE1HrGp_N74=) [cntv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPU_I52-DzeCDtUBsN_1ArnOwHk11F3V8JihUNzZH8EMyFTyZr05jbd8qzPsJqmE5qMfbCwmSLwPcFntN1n8CUzlzNyovNq_0RYjWFUyJ9WEC5Pv8nsdPoIk_9QsbSVtCrIOhqO8qAWO0nRJVsEdWk9jx6oVYV)。
+- **“刘老庄连”英模部队方队**：这面旗帜纪念了新四军“刘老庄连”的82名勇士。1943年春，为掩护主力转移，他们在淮北刘老庄与数千日伪军殊死搏斗，全部壮烈牺牲 [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYvJBdhkv74FPxqjVHEPMMPZSv8FP5O4fju5KLrvZqRMSJI8VNqyW69L_IUjU_TC45SAQhiXyXWbSpYBS0aW_0W-LYVpBbQFLAn6xyx8f6ri41RNk4c3IJYOgU4o5NmEWfxOqLG_tTZqBbapETshpk9pGOzzQUcLF2)。阅兵式上，旗帜上的“庄”字特意保留了当年授予时的异体字“庒”，这一细节饱含着对历史的无限敬重 [yicai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcelKTdxNQALeUb6ch-Mz2Pcz-vs1V5RYA2jO96n527r9lfBuaVNdFn1Ha9heXPWEv6_q0YRN2L3tPvoUU0_3JneC4dlAvTf8wLeU2r_M32XZJLU9-Nz6cma-2ZbV0O2RSdiaf)。
+- **“东北抗联”与“华南游击队”英模部队方队**：这两面旗帜代表了在白山黑水和南粤大地坚持抗战的英雄群体。东北抗联在长达14年的艰苦斗争中涌现了杨靖宇、赵一曼等民族英雄；华南游击队则孤悬敌后，为抗战胜利建立了卓越功勋 [chinanews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbKHkscLebCTErlJhXqyO0lxxrUTegFMus1jGMU65URhw9FmBlMeJmYXN1r-dt957dIv3Sb0-7yvOyVmUNo9CUXZmwSakoVFfmp2WKl5XzRaRybcPz_vo-EggaU2X5RADIQoegKzmiepG2Cf-wTLMdzowCZlE)。
+
+这些战旗不仅代表着具体的英雄连队，如“白刃格斗英雄连”、“雁门关伏击战英雄连”等，更象征着人民军队在战火中成长、靠战功赢得荣誉的红色基因与光荣传统。
+
+### 三、和平的昭示：胜利与信念的宣告
+除了地面旗帜，空中梯队也传递了明确的信息。直升机编队悬挂着“正义必胜”、“和平必胜”、“人民必胜”的巨大条幅飞过天安门上空 [ifeng](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5fmQLr7gF_hfbvBIsYDxKfHL1wH-TU4Z227n8llyJGheUAZtmmkT1BUGK_a8WXV4bhJRBfy19LTcjaxvmVkslZO-awps2BMHdyySVCmzhA9rUOElZYc2Xw5P4eTAsVg==)。这三句话不仅是对抗战胜利历史经验的深刻总结，更是中国面向世界、面向未来的庄严宣告。它清晰地表明，此次阅兵的目的并非炫耀武力，而是为了铭记由无数牺牲换来的和平，并表达中国人民捍卫正义与和平的坚定决心。
+
+## 结论与建议
+**结论**：2015年九三阅兵中的旗帜，构成了一部流动的、立体的史诗。从象征国家主权的国旗、党旗、军旗，到首次亮相的军种旗，再到最核心的70面英模部队战旗，它们共同构建了一个强大的叙事体系。这个体系不仅回顾了中国人民在抗日战争中的艰苦卓绝与伟大胜利，彰显了中国共产党领导下的人民武装是夺取胜利的决定性力量，更重要的是，它将英雄主义精神与对和平的珍视紧密结合，向国内外传递了丰富而深刻的时代信息，激发了强烈的民族自豪感和爱国热情。
+
+**建议与待后续验证的问题**：
+- **限制条件**：本报告聚焦于2015年九三阅兵。值得注意的是，在2019年国庆70周年阅兵中，出现了规模更大的“战旗方队”，其旗帜的遴选范围和标准与2015年有所不同。
+- **待后续验证**：未来可对2015年与2019年两次阅兵的战旗进行对比研究，分析其在遴选标准、历史叙事和时代意义上的演变与侧重，从而更深入地理解人民军队历史荣誉体系的建设与发展。
+
+## 数据与引用
+- [chinanews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbKHkscLebCTErlJhXqyO0lxxrUTegFMus1jGMU65URhw9FmBlMeJmYXN1r-dt957dIv3Sb0-7yvOyVmUNo9CUXZmwSakoVFfmp2WKl5XzRaRybcPz_vo-EggaU2X5RADIQoegKzmiepG2Cf-wTLMdzowCZlE)
+- [thepaper](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzOFnbsF-54eYxbWkcRSuWipGpiQ8XeLd-zJMjvPUDs3u80Kzbihhk7S2-ET4INLxMcgjFYaPFi0TgV8z0FPiLxvq6BAQeemD-MMatXbDIOfLqS6o-Lynk-SJTg1AH1OXRuiG6kqJwvNIr9g==)
+- [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfSHVJFclzvW_J5FvcsNOvUrclnWKmvMunn4Hv8zmD9UpKO6ru1g7OEoK68_UzVoC10DJOFxR_TvmIJ4C3ZItUNJojd2k-wCbGrF5uUKwgCwzVqzudP8XtfpCHV5V9Cyl1AlNg2xLZ_m_96nVfgRTabBfYid31xUo=)
+- [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmr0mGLnXH58LrKYcjPD4hIraugqF6EPpPmyonRTJJwfk5kJvI4V7ZU_8F6Lgb3pOnL3PwgowmRpvvtFimxItUX8ye_mRlKbVzg1V1j-DrzOFowceXXeM9vg_dNvVFh7Ayfd05J65zA25Fb9p9GDuDakDFm5eEPZfgNzFJ)
+- [cntv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPU_I52-DzeCDtUBsN_1ArnOwHk11F3V8JihUNzZH8EMyFTyZr05jbd8qzPsJqmE5qMfbCwmSLwPcFntN1n8CUzlzNyovNq_0RYjWFUyJ9WEC5Pv8nsdPoIk_9QsbSVtCrIOhqO8qAWO0nRJVsEdWk9jx6oVYV)
+- [guancha](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq324AxzxG-Px9LrR2K_Ns0-B0b0B7Nch_K0pGcuJyi-44k-CjLTzT8UlGa22lTPMSDQ5jDRO1RbNcau8vtt68HWnelrL_9787Tgh84BaUOSpKW_M5PowuM875r8FybdBa5XV59Ow_g4vSl4kSKwDQl3cdjjCyeE1HrGp_N74=)
+- [rednet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2g1XYOlqpKhblouTSvynMjyuYDd3xbkgTd1OpGGIFcsL0mWFYAAs5s3mkLPhXxScKwZ8hZBD_veOgYWdv10yn4j_Jj7amLC3aiLLtXYkxmMMolB2Bzit_7DylAYUNXQyj03dExylzg8n0yVCa6nxkJGFDrJCUDrid3Qy6RIJpjO4=)
+- [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHotUNzngmLT6eZVuv-o18hgA2qBpyGnEKF_lxA3A5m26PDKxL-OwyW42d4s-T3ka0KjtrA7uvk87ZF98WXnMjFzlOpPPsiwZV1SA4XscO9-NmOKy-vjldm-PI6NGV4DUQ5XV3HX3z66aI_H1M=)
+- [chinagate](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc2cKgb6PZ921_z2wMumE9tUFFXTmybJyd2TSk72fObTNCr7gGjU6SyF69u_LJ7cI9mybfTZfOyzGxnm8D2jn_rQSfGu-niS9H2NjZZID_rpV61S3cM9bnpLhwgeaoRm3-MteY3rESuN5uSr-syjrL39ksWB8M)
+- [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYvJBdhkv74FPxqjVHEPMMPZSv8FP5O4fju5KLrvZqRMSJI8VNqyW69L_IUjU_TC45SAQhiXyXWbSpYBS0aW_0W-LYVpBbQFLAn6xyx8f6ri41RNk4c3IJYOgU4o5NmEWfxOqLG_tTZqBbapETshpk9pGOzzQUcLF2)
+- [xhgmw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzOFnbsF-54eYxbWkcRSuWipGpiQ8XeLd-zJMjvPUDs3u80Kzbihhk7S2-ET4INLxMcgjFYaPFi0TgV8z0FPiLxvq6BAQeemD-MMatXbDIOfLqS6o-Lynk-SJTg1AH1OXRuiG6kqJwvNIr9g==0)
+- [mod](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcoNm8Ppa-f6JHena3uy6naKsRagzM66c3uOj1-p40KD08Q2FWJXsC2zmVEdTCQ5oy4tD_g9SxbYzt883xoxin7rxgnG6XDl4gablewHNFs9O87-wJmnD13gKFTMnBK72N7q9dLgIWBQ==)
+- [yicai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcelKTdxNQALeUb6ch-Mz2Pcz-vs1V5RYA2jO96n527r9lfBuaVNdFn1Ha9heXPWEv6_q0YRN2L3tPvoUU0_3JneC4dlAvTf8wLeU2r_M32XZJLU9-Nz6cma-2ZbV0O2RSdiaf)
+- [wikipedia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErFw_Ygpr3jlBHoBdyz2S-pgM7r-90PdpKIBZJ4IbHKjTbpIK_LRtXwF9gHBp7pw-a0CjpMcmQXqHi3br3-fUH5Vh8D1GfnQBwy-xYL1wtB5OhJ2wPYiGK4P1lsNNFeNgci-lZumb7xQaW4ldsYzceN-YfKTzKh0-sOnfoVnHaMdZElaJCLSdsuUkFrAzvAVvW3i-1HhdPbOl0-_ER_Xxj_KeplrL9mLCOTUnG-7nDNbPgzPLkEWB3czMWMM8BaU7CeHmwdXSvLZJJCLWFo_u9A68ZfNJ641C1_iN6m1XuSXzXZYNGVwQJA-oq4Oklg1JEH2_i0lDrYF2NsOJejJI0Tn_DO7Jpp2GkK_IDMVnjF3KraqEtvwig-WNfD67m4eFGyxCDG7nUG3mswzYDiNbxJAhP1fSd4Ihr85ho_MI=)
+- [wikipedia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3KnQUkE2zoSVDHcbYdmhNbkyyUt1BNaWbiGxeEy03lnYLJUnUIm53yO025cl-aHkoG1SMlcmPSSdHkddjGqZ6lIU4HjaNPSG_f1ePHGD2y4qce_yP7dVYtJpAdooqfUo5MoaiDqjA6k3z1IgG-jpG8HcdfC7XFbIUjcmpABSlb4G9gN4kvRG5Lnp4PicGXKhH42a_AmtyE5aAwsL8m-yCNzgBPtQ8wCdqQaIomtB9z3mlqIgRnV7Oc_wFDxY_BEH6G5qYC5dUDi31MvWs2rCiwQOWuNoC56xA6He7N28ANjbnohM__f3JGcuJHlLMCntKlqtiktkAqJp94LILWjSCMuvzy_Fhjn344XC1A71wDRel7QJAxEBVeDP8YUKfW1AGwmZ2EoCJka9tBWyFKevrZbrNWKEqLMALaMiwTI=)
+- [ifeng](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5fmQLr7gF_hfbvBIsYDxKfHL1wH-TU4Z227n8llyJGheUAZtmmkT1BUGK_a8WXV4bhJRBfy19LTcjaxvmVkslZO-awps2BMHdyySVCmzhA9rUOElZYc2Xw5P4eTAsVg==)
+- [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1GQkHtc0qUgV83b5JjnnRKdTr6mWmhE_vM-sBR0MHIv2QpVDs5RYszgrgI02ZB3rqOL_j4Fxmn6T8Y6YLUdQUUskVywaCw3WrelCbL1AiZ8xOSGKp9L29frTjyI0SvhuljFbU1ewsLib279FJOEI6qm6RQDdNaF3K19xWcg==)
+- [mod](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEkune-D7NJNMXkcaoSOtlrElQFsykcaG36P3jIANpkBqZ5Yo1s6_PC-wfKI7JH5uDM0dyTmLfphAtXObT2CXCPm-wDL7NMSxWCJirVmHEbYMvI0qnwxtB_8nwdwdgxu-N6RHaREBy)
+- [dzwww](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJlOXEaAS7geZxVY_oNEonq0m6JIth1dsE5nZcpeXBDmOhDPbnAdXISnPCIXq26JgdlH1e4vh2vMM-l3o6ApLeIe7YGtuYkBCfhkbBmBESKo01SSAyDl-WEgLjZ288R_g31knF_lhW1AnvlG2a6FYUQjT1)
+- [chinanews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7w6SLI1vitZgpGUAF8XH0GXbha8qMCL5sRqg37Ah3yOT7DToq6PynHCOndNS65f6eGbvLhrb2YabSucQsqwGSopuojs3nujng7I8HHi1YGAande1Ee6DWzrCxpS3bLH0elWQaepuVs_hOv2afLEv8x2w8igY=)
+- [xinhuanet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8lzMg2-Ucoi9svEeF5By9UxgkarQtpqLW3fQSxeHvT8NwW1ffi4DkzWYnxCAHeosFjSGkJGD5-apS0LoAOfNBbnG8CmQShyGfARD-AxwVXj2Oo6mwF5yN8zlFAaoM7z17ddnGzdgvTPnWzuCZdFb7zGZN_0Hxv5NTmlcQgck-CgdZjw==)
