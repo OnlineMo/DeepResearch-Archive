@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [九三阅兵不仅回望历史 更面向未来 - 2025-09-07](AI_Reports/shi-zheng-yu-guo-ji/jiu-san-yue-bing-bu-jin-hui-wang-li-shi-geng-mian-xiang-wei-lai-2025-09-07--v1.md) (v1)
 - [江苏、江西省委书记等带头捐款 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/jiang-su-jiang-xi-sheng-wei-shu-ji-deng-dai-tou-juan-kuan-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E3%80%81%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%AD%89%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵上这些旗帜令人心潮澎湃 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/jiu-san-yue-bing-shang-zhe-xie-qi-zhi-ling-ren-xin-chao-peng-pai-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%8A%E8%BF%99%E4%BA%9B%E6%97%97%E5%B8%9C%E4%BB%A4%E4%BA%BA%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83&sa=fyb_news&rsv_dl=fyb_news)
 - [美国拘捕约300名韩国人 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-ju-bu-yue-300ming-han-guo-ren-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95%E7%BA%A6300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [致敬伟大胜利 - 2025-09-03](AI_Reports/shi-zheng-yu-guo-ji/zhi-jing-wei-da-sheng-li-2025-09-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [金正恩乘专列来华 现场画面公布 - 2025-09-02](AI_Reports/shi-zheng-yu-guo-ji/jin-zheng-en-cheng-zhuan-lie-lai-hua-xian-chang-hua-mian-gong-bu-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%98%E4%B8%93%E5%88%97%E6%9D%A5%E5%8D%8E+%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)
 - [普京车队凌晨经过北京天安门广场 - 2025-09-02](AI_Reports/shi-zheng-yu-guo-ji/pu-jing-che-dui-ling-chen-jing-guo-bei-jing-tian-an-men-yan-chang-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%BD%A6%E9%98%9F%E5%87%8C%E6%99%A8%E7%BB%8F%E8%BF%87%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
-- [上合组织经贸合作“含金量” - 2025-09-02](AI_Reports/shi-zheng-yu-guo-ji/shang-he-zu-zhi-jing-mao-he-zuo-han-jin-liang-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E2%80%9C%E5%90%AB%E9%87%91%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -57,6 +57,11 @@
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
 - [中国正规划对1颗小行星实施高速撞击 - 2025-09-06](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-zheng-gui-hua-dui-1ke-xiao-xing-xing-shi-shi-gao-su-zhuang-ji-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%A7%84%E5%88%92%E5%AF%B91%E9%A2%97%E5%B0%8F%E8%A1%8C%E6%98%9F%E5%AE%9E%E6%96%BD%E9%AB%98%E9%80%9F%E6%92%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)
+
+## 能源与气候
+[点击查看能源与气候完整报告索引 →](AI_Reports/neng-yuan-yu-qi-hou/Reports.md)
+
+- [暴雨大暴雨特大暴雨要来了 - 2025-09-07](AI_Reports/neng-yuan-yu-qi-hou/bao-yu-da-bao-yu-te-da-bao-yu-yao-lai-liao-2025-09-07--v1.md) (v1)
 
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
@@ -104,5 +109,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [女生接退伍男友 男友眼睛瞬间亮了 - 2025-09-07](AI_Reports/wei-fen-lei/nu-sheng-jie-tui-wu-nan-you-nan-you-yan-jing-shun-jian-liang-liao-2025-09-07--v1.md) (v1)
+- [日本首相石破茂决定辞职 - 2025-09-07](AI_Reports/wei-fen-lei/ri-ben-shou-xiang-shi-po-mao-jue-ding-ci-zhi-2025-09-07--v1.md) (v1)
+- [这一握 情深意重 - 2025-09-07](AI_Reports/wei-fen-lei/zhe-yi-wo-qing-shen-yi-zhong-2025-09-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%8F%A1+%E6%83%85%E6%B7%B1%E6%84%8F%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [目之所及皆是自豪模样 - 2025-09-06](AI_Reports/wei-fen-lei/mu-zhi-suo-ji-jie-shi-zi-hao-mo-yang-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9B%AE%E4%B9%8B%E6%89%80%E5%8F%8A%E7%9A%86%E6%98%AF%E8%87%AA%E8%B1%AA%E6%A8%A1%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [一颗纽扣 两个朋友 - 2025-09-01](AI_Reports/wei-fen-lei/yi-ke-niu-kou-liang-ge-peng-you-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%A2%97%E7%BA%BD%E6%89%A3+%E4%B8%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)
