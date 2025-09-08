@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [总书记的人民情怀 - 2025-09-08](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-de-ren-min-qing-huai-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵不仅回望历史 更面向未来 - 2025-09-07](AI_Reports/shi-zheng-yu-guo-ji/jiu-san-yue-bing-bu-jin-hui-wang-li-shi-geng-mian-xiang-wei-lai-2025-09-07--v1.md) (v1)
 - [江苏、江西省委书记等带头捐款 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/jiang-su-jiang-xi-sheng-wei-shu-ji-deng-dai-tou-juan-kuan-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E3%80%81%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%AD%89%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵上这些旗帜令人心潮澎湃 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/jiu-san-yue-bing-shang-zhe-xie-qi-zhi-ling-ren-xin-chao-peng-pai-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%8A%E8%BF%99%E4%BA%9B%E6%97%97%E5%B8%9C%E4%BB%A4%E4%BA%BA%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,11 +23,11 @@
 - [一镜到底航拍阅兵方队 - 2025-09-03](AI_Reports/shi-zheng-yu-guo-ji/yi-jing-dao-di-hang-pai-yue-bing-fang-dui-2025-09-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E8%88%AA%E6%8B%8D%E9%98%85%E5%85%B5%E6%96%B9%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [致敬伟大胜利 - 2025-09-03](AI_Reports/shi-zheng-yu-guo-ji/zhi-jing-wei-da-sheng-li-2025-09-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [金正恩乘专列来华 现场画面公布 - 2025-09-02](AI_Reports/shi-zheng-yu-guo-ji/jin-zheng-en-cheng-zhuan-lie-lai-hua-xian-chang-hua-mian-gong-bu-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%98%E4%B8%93%E5%88%97%E6%9D%A5%E5%8D%8E+%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)
-- [普京车队凌晨经过北京天安门广场 - 2025-09-02](AI_Reports/shi-zheng-yu-guo-ji/pu-jing-che-dui-ling-chen-jing-guo-bei-jing-tian-an-men-yan-chang-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%BD%A6%E9%98%9F%E5%87%8C%E6%99%A8%E7%BB%8F%E8%BF%87%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [男子忘关火外出27天回家才发现 - 2025-09-08](AI_Reports/she-hui-yu-fa-zhi/nan-zi-wang-guan-huo-wai-chu-27tian-hui-jia-cai-fa-xian-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E5%A4%96%E5%87%BA27%E5%A4%A9%E5%9B%9E%E5%AE%B6%E6%89%8D%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [最快女护士被解聘或调岗？医院回应 - 2025-09-06](AI_Reports/she-hui-yu-fa-zhi/zui-kuai-nu-hu-shi-bei-jie-pin-huo-diao-gang-yi-yuan-hui-ying-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%A2%AB%E8%A7%A3%E8%81%98%E6%88%96%E8%B0%83%E5%B2%97%EF%BC%9F%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [5万余人观礼离场后干干净净 - 2025-09-04](AI_Reports/she-hui-yu-fa-zhi/5mo-yu-ren-guan-li-chi-chang-hou-gan-gan-jing-jing-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%A4%BC%E7%A6%BB%E5%9C%BA%E5%90%8E%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80&sa=fyb_news&rsv_dl=fyb_news)
 - [反诈老陈打假嘎子哥翻车后道歉 - 2025-08-29](AI_Reports/she-hui-yu-fa-zhi/fan-zha-lao-chen-da-jia-ga-zi-ge-fan-che-hou-dao-qian-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%89%93%E5%81%87%E5%98%8E%E5%AD%90%E5%93%A5%E7%BF%BB%E8%BD%A6%E5%90%8E%E9%81%A8%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
@@ -40,6 +41,7 @@
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
 
+- [女厕一推门就看到男明星“咧嘴笑” - 2025-09-08](AI_Reports/yu-le-yu-ming-xing/nu-ce-yi-tui-men-jiu-kan-dao-nan-ming-xing-lie-zui-xiao-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8E%95%E4%B8%80%E6%8E%A8%E9%97%A8%E5%B0%B1%E7%9C%8B%E5%88%B0%E7%94%B7%E6%98%8E%E6%98%9F%E2%80%9C%E5%92%A7%E5%98%B4%E7%AC%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [演员段伟伦去世 曾出演警察故事系列 - 2025-08-28](AI_Reports/yu-le-yu-ming-xing/yan-yuan-duan-wei-lun-qu-shi-ceng-chu-yan-jing-cha-gu-shi-xi-lie-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%AE%B5%E4%BC%9F%E4%BC%A6%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E8%AD%A6%E5%AF%9F%E6%95%85%E4%BA%8B%E7%B3%BB%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普祝贺泰勒斯威夫特订婚 - 2025-08-27](AI_Reports/yu-le-yu-ming-xing/te-lang-pu-zhu-he-tai-le-si-wei-fu-te-ding-hun-2025-08-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A5%9D%E8%B4%BA%E6%B3%B0%E5%8B%92%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E8%AE%A2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -56,6 +58,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [“红月亮”高清大图来了 - 2025-09-08](AI_Reports/ke-xue-yu-tai-kong/hong-yue-liang-gao-qing-da-tu-lai-liao-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%BA%A2%E6%9C%88%E4%BA%AE%E2%80%9D%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中国正规划对1颗小行星实施高速撞击 - 2025-09-06](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-zheng-gui-hua-dui-1ke-xiao-xing-xing-shi-shi-gao-su-zhuang-ji-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%A7%84%E5%88%92%E5%AF%B91%E9%A2%97%E5%B0%8F%E8%A1%8C%E6%98%9F%E5%AE%9E%E6%96%BD%E9%AB%98%E9%80%9F%E6%92%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 能源与气候
@@ -83,6 +86,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [@2026届毕业生 你有求职补贴待领取 - 2025-09-08](AI_Reports/jiao-yu-yu-kao-shi/2026jie-bi-ye-sheng-ni-you-qiu-zhi-bu-tie-dai-ling-qu-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%402026%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F+%E4%BD%A0%E6%9C%89%E6%B1%82%E8%81%8C%E8%A1%A5%E8%B4%B4%E5%BE%85%E9%A2%86%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)
 - [一等功爷爷送孙子去国防科大报到 - 2025-09-01](AI_Reports/jiao-yu-yu-kao-shi/yi-deng-gong-ye-ye-song-sun-zi-qu-guo-fang-ke-da-bao-dao-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E7%AD%89%E5%8A%9F%E7%88%B7%E7%88%B7%E9%80%81%E5%AD%99%E5%AD%90%E5%8E%BB%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E6%8A%A5%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [作家马伯庸：儿子语文不好要上作文班 - 2025-08-30](AI_Reports/jiao-yu-yu-kao-shi/zuo-jia-ma-bo-yong-er-zi-yu-wen-bu-hao-yao-shang-zuo-wen-ban-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E9%A9%AC%E4%BC%AF%E5%BA%B8%EF%BC%9A%E5%84%BF%E5%AD%90%E8%AF%AD%E6%96%87%E4%B8%8D%E5%A5%BD%E8%A6%81%E4%B8%8A%E4%BD%9C%E6%96%87%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)
 
