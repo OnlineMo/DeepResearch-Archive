@@ -1,9 +1,13 @@
 # 娱乐与明星 报告索引
 
 本页包含 **娱乐与明星** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：2
+报告总数：3
 
 ---
+
+## N
+
+- [女厕一推门就看到男明星“咧嘴笑”](nu-ce-yi-tui-men-jiu-kan-dao-nan-ming-xing-lie-zui-xiao-2025-09-08--v1.md) - 2025-09-08 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8E%95%E4%B8%80%E6%8E%A8%E9%97%A8%E5%B0%B1%E7%9C%8B%E5%88%B0%E7%94%B7%E6%98%8E%E6%98%9F%E2%80%9C%E5%92%A7%E5%98%B4%E7%AC%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## T
 
