@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [特朗普回应以军空袭卡塔尔：深感遗憾 - 2025-09-10](AI_Reports/shi-zheng-yu-guo-ji/te-lang-pu-hui-ying-yi-jun-kong-xi-qia-ta-er-shen-gan-yi-han-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%8D%A1%E5%A1%94%E5%B0%94%EF%BC%9A%E6%B7%B1%E6%84%9F%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)
+- [“我是中国老兵 我骄傲！” - 2025-09-10](AI_Reports/shi-zheng-yu-guo-ji/wo-shi-zhong-guo-lao-bing-wo-jiao-ao-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%80%81%E5%85%B5+%E6%88%91%E9%AA%84%E5%82%B2%EF%BC%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平回信勉励全国特岗教师代表 - 2025-09-10](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-xin-mian-li-quan-guo-te-gang-jiao-shi-dai-biao-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E4%BF%A1%E5%8B%89%E5%8A%B1%E5%85%A8%E5%9B%BD%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%88%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普上诉失败 需赔女方8330万美元 - 2025-09-09](AI_Reports/shi-zheng-yu-guo-ji/te-lang-pu-shang-su-shi-bai-xu-pei-nu-fang-8330mo-mei-yuan-2025-09-09--v1.md) (v1) [来源]([百度搜索](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E8%AF%89%E5%A4%B1%E8%B4%A5+%E9%9C%80%E8%B5%94%E5%A5%B3%E6%96%B98330%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news))
 - [总书记的这六天 - 2025-09-09](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-de-zhe-liu-tian-2025-09-09--v1.md) (v1) [来源]([百度搜索](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%BF%99%E5%85%AD%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news))
 - [总书记的人民情怀 - 2025-09-08](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-de-ren-min-qing-huai-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [与习近平握手的6位老英雄是谁 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/yu-xi-jin-ping-wo-shou-de-6wei-lao-ying-xiong-shi-shui-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%A1%E6%89%8B%E7%9A%846%E4%BD%8D%E8%80%81%E8%8B%B1%E9%9B%84%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
 - [“中国排面”再现人民大会堂 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-pai-mian-zai-xian-ren-min-da-hui-tang-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E2%80%9D%E5%86%8D%E7%8E%B0%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)
 - [“把伟大抗战精神一代代传下去” - 2025-09-03](AI_Reports/shi-zheng-yu-guo-ji/ba-wei-da-kang-zhan-jing-shen-yi-dai-dai-chuan-xia-qu-2025-09-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%9D%E4%BC%9F%E5%A4%A7%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E4%B8%80%E4%BB%A3%E4%BB%A3%E4%BC%A0%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [现场直播九三阅兵 - 2025-09-03](AI_Reports/shi-zheng-yu-guo-ji/xian-chang-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
-- [新华社直播九三阅兵 - 2025-09-03](AI_Reports/shi-zheng-yu-guo-ji/xin-hua-she-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
-- [一镜到底航拍阅兵方队 - 2025-09-03](AI_Reports/shi-zheng-yu-guo-ji/yi-jing-dao-di-hang-pai-yue-bing-fang-dui-2025-09-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E8%88%AA%E6%8B%8D%E9%98%85%E5%85%B5%E6%96%B9%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -82,6 +82,7 @@
 ## 行业与公司
 [点击查看行业与公司完整报告索引 →](AI_Reports/xing-ye-yu-gong-si/Reports.md)
 
+- [苹果的牙膏“挤爆了” - 2025-09-10](AI_Reports/xing-ye-yu-gong-si/ping-guo-de-ya-gao-ji-bao-liao-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E7%89%99%E8%86%8F%E2%80%9C%E6%8C%A4%E7%88%86%E4%BA%86%E2%88%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [2025民营企业500强揭晓：京东第一 - 2025-08-28](AI_Reports/xing-ye-yu-gong-si/2025min-ying-qi-ye-500qiang-jie-xiao-jing-dong-di-yi-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2025%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A500%E5%BC%BA%E6%8F%AD%E6%99%93%EF%BC%9A%E4%BA%AC%E4%B8%9C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)
 - [寒武纪85后创始人身家超1500亿 - 2025-08-26](AI_Reports/xing-ye-yu-gong-si/han-wu-ji-85hou-chuang-shi-ren-shen-jia-chao-1500yi-2025-08-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%92%E6%AD%A6%E7%BA%AA85%E5%90%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BA%AB%E5%AE%B6%E8%B6%851500%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -101,6 +102,7 @@
 ## 健康与医疗
 [点击查看健康与医疗完整报告索引 →](AI_Reports/jian-kang-yu-yi-liao/Reports.md)
 
+- [一场雷雨后400名患者涌进急诊 - 2025-09-10](AI_Reports/jian-kang-yu-yi-liao/yi-chang-lei-yu-hou-400ming-huan-zhe-yong-jin-ji-zhen-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E9%9B%B7%E9%9B%A8%E5%90%8E400%E5%90%8D%E6%82%A3%E8%BF%9B%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [李连杰公布病情：生日时发现颈部肿块 - 2025-08-29](AI_Reports/jian-kang-yu-yi-liao/li-lian-jie-gong-bu-bing-qing-sheng-ri-shi-fa-xian-jing-bu-zhong-kuai-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%85%AC%E5%B8%83%E7%97%85%E6%83%85%EF%BC%9A%E7%94%9F%E6%97%A5%E6%97%B6%E5%8F%91%E7%8E%B0%E9%A2%88%E9%83%A8%E8%82%BF%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 财经与商业
