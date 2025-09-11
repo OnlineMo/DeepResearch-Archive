@@ -19,9 +19,9 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [一场雷雨后400名患者涌进急诊 - 2025-09-10](AI_Reports/jian-kang-yu-yi-liao/yi-chang-lei-yu-hou-400ming-huan-zhe-yong-jin-ji-zhen-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E9%9B%B7%E9%9B%A8%E5%90%8E400%E5%90%8D%E6%82%A3%E8%BF%9B%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)
-- [特朗普回应以军空袭卡塔尔：深感遗憾 - 2025-09-10](AI_Reports/shi-zheng-yu-guo-ji/te-lang-pu-hui-ying-yi-jun-kong-xi-qia-ta-er-shen-gan-yi-han-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%8D%A1%E5%A1%94%E5%B0%94%EF%BC%9A%E6%B7%B1%E6%84%9F%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)
-- [“我是中国老兵 我骄傲！” - 2025-09-10](AI_Reports/shi-zheng-yu-guo-ji/wo-shi-zhong-guo-lao-bing-wo-jiao-ao-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%80%81%E5%85%B5+%E6%88%91%E9%AA%84%E5%82%B2%EF%BC%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平回信勉励全国特岗教师代表 - 2025-09-10](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-xin-mian-li-quan-guo-te-gang-jiao-shi-dai-biao-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E4%BF%A1%E5%8B%89%E5%8A%B1%E5%85%A8%E5%9B%BD%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%88%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
-- [苹果的牙膏“挤爆了” - 2025-09-10](AI_Reports/xing-ye-yu-gong-si/ping-guo-de-ya-gao-ji-bao-liao-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E7%89%99%E8%86%8F%E2%80%9C%E6%8C%A4%E7%88%86%E4%BA%86%E2%88%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [2025年“最美教师”名单公布 - 2025-09-11](AI_Reports/jiao-yu-yu-kao-shi/2025nian-zui-mei-jiao-shi-ming-dan-gong-bu-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2025%E5%B9%B4%E2%80%9C%E6%9C%80%E7%BE%8E%E6%95%99%E5%B8%88%E2%80%9D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
+- [贩毒8kg 毒贩因检举禁毒大队长免死 - 2025-09-11](AI_Reports/she-hui-yu-fa-zhi/fan-du-8kg-du-fan-yin-jian-ju-jin-du-da-dui-chang-mian-si-2025-09-11--v1.md) (v1)
+- [三星掌门人之子放弃美籍回韩服兵役 - 2025-09-11](AI_Reports/shi-zheng-yu-guo-ji/san-xing-zhang-men-ren-zhi-zi-fang-qi-mei-ji-hui-han-fu-bing-yi-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E6%8E%8C%E9%97%A8%E4%BA%BA%E4%B9%8B%E5%AD%90%E6%94%BE%E5%BC%83%E7%BE%8E%E7%B1%8D%E5%9B%9E%E9%9F%A9%E6%9C%8D%E5%85%B5%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)
+- [胜利日的难忘瞬间 - 2025-09-11](AI_Reports/shi-zheng-yu-guo-ji/sheng-li-ri-de-nan-wang-shun-jian-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%83%9C%E5%88%A9%E6%97%A5%E7%9A%84%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
+- [政治盟友遭枪击身亡 特朗普：降半旗 - 2025-09-11](AI_Reports/shi-zheng-yu-guo-ji/zheng-zhi-meng-you-zao-qiang-ji-shen-wang-te-lang-pu-jiang-ban-qi-2025-09-11--v1.md) (v1)
 <!-- END TODAY_REPORTS -->
