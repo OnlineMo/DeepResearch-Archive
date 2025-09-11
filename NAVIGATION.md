@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [三星掌门人之子放弃美籍回韩服兵役 - 2025-09-11](AI_Reports/shi-zheng-yu-guo-ji/san-xing-zhang-men-ren-zhi-zi-fang-qi-mei-ji-hui-han-fu-bing-yi-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E6%8E%8C%E9%97%A8%E4%BA%BA%E4%B9%8B%E5%AD%90%E6%94%BE%E5%BC%83%E7%BE%8E%E7%B1%8D%E5%9B%9E%E9%9F%A9%E6%9C%8D%E5%85%B5%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)
+- [胜利日的难忘瞬间 - 2025-09-11](AI_Reports/shi-zheng-yu-guo-ji/sheng-li-ri-de-nan-wang-shun-jian-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%83%9C%E5%88%A9%E6%97%A5%E7%9A%84%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
+- [政治盟友遭枪击身亡 特朗普：降半旗 - 2025-09-11](AI_Reports/shi-zheng-yu-guo-ji/zheng-zhi-meng-you-zao-qiang-ji-shen-wang-te-lang-pu-jiang-ban-qi-2025-09-11--v1.md) (v1)
 - [特朗普回应以军空袭卡塔尔：深感遗憾 - 2025-09-10](AI_Reports/shi-zheng-yu-guo-ji/te-lang-pu-hui-ying-yi-jun-kong-xi-qia-ta-er-shen-gan-yi-han-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%8D%A1%E5%A1%94%E5%B0%94%EF%BC%9A%E6%B7%B1%E6%84%9F%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [“我是中国老兵 我骄傲！” - 2025-09-10](AI_Reports/shi-zheng-yu-guo-ji/wo-shi-zhong-guo-lao-bing-wo-jiao-ao-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%80%81%E5%85%B5+%E6%88%91%E9%AA%84%E5%82%B2%EF%BC%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平回信勉励全国特岗教师代表 - 2025-09-10](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-xin-mian-li-quan-guo-te-gang-jiao-shi-dai-biao-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E4%BF%A1%E5%8B%89%E5%8A%B1%E5%85%A8%E5%9B%BD%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%88%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,13 +23,11 @@
 - [这些受阅武器装备震撼亮相 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/zhe-xie-shou-yue-wu-qi-zhuang-bei-zhen-han-liang-xiang-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%8F%97%E9%98%85%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87%E9%9C%87%E6%92%AE%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [纪念抗战胜利80周年大会完整视频 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/ji-nian-kang-zhan-sheng-li-80zhou-nian-da-hui-wan-zheng-shi-pin-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 - [台湾艺人集体转发九三阅兵 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/tai-wan-yi-ren-ji-ti-zhuan-fa-jiu-san-yue-bing-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E9%9B%86%E4%BD%93%E8%BD%AC%E5%8F%91%E4%B9%9D%E4%B8%89%E9%85%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
-- [与习近平握手的6位老英雄是谁 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/yu-xi-jin-ping-wo-shou-de-6wei-lao-ying-xiong-shi-shui-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%A1%E6%89%8B%E7%9A%846%E4%BD%8D%E8%80%81%E8%8B%B1%E9%9B%84%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
-- [“中国排面”再现人民大会堂 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-pai-mian-zai-xian-ren-min-da-hui-tang-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E2%80%9D%E5%86%8D%E7%8E%B0%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)
-- [“把伟大抗战精神一代代传下去” - 2025-09-03](AI_Reports/shi-zheng-yu-guo-ji/ba-wei-da-kang-zhan-jing-shen-yi-dai-dai-chuan-xia-qu-2025-09-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%9D%E4%BC%9F%E5%A4%A7%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E4%B8%80%E4%BB%A3%E4%BB%A3%E4%BC%A0%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [贩毒8kg 毒贩因检举禁毒大队长免死 - 2025-09-11](AI_Reports/she-hui-yu-fa-zhi/fan-du-8kg-du-fan-yin-jian-ju-jin-du-da-dui-chang-mian-si-2025-09-11--v1.md) (v1)
 - [00后女钢筋工每天工地干10小时赚320 - 2025-09-09](AI_Reports/she-hui-yu-fa-zhi/00hou-nu-gang-jin-gong-mei-tian-gong-di-gan-10xiao-shi-zhuan-320-2025-09-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E9%92%A2%E7%AD%8B%E5%B7%A5%E6%AF%8F%E5%A4%A9%E5%B7%A5%E5%9C%B0%E5%B9%B210%E5%B0%8F%E6%97%B6%E8%B5%9A320&sa=fyb_news&rsv_dl=fyb_news)
 - [育儿补贴申领正式全面开放 - 2025-09-09](AI_Reports/she-hui-yu-fa-zhi/yu-er-bu-tie-shen-ling-zheng-shi-quan-mian-kai-fang-2025-09-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E7%94%B3%E9%A2%86%E6%AD%A3%E5%BC%8F%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [男子忘关火外出27天回家才发现 - 2025-09-08](AI_Reports/she-hui-yu-fa-zhi/nan-zi-wang-guan-huo-wai-chu-27tian-hui-jia-cai-fa-xian-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E5%A4%96%E5%87%BA27%E5%A4%A9%E5%9B%9E%E5%AE%B6%E6%89%8D%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)
@@ -89,6 +90,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [2025年“最美教师”名单公布 - 2025-09-11](AI_Reports/jiao-yu-yu-kao-shi/2025nian-zui-mei-jiao-shi-ming-dan-gong-bu-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2025%E5%B9%B4%E2%80%9C%E6%9C%80%E7%BE%8E%E6%95%99%E5%B8%88%E2%80%9D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 - [顶尖华裔数学家被迫在美筹款 - 2025-09-09](AI_Reports/jiao-yu-yu-kao-shi/ding-jian-hua-yi-shu-xue-jia-bei-po-zai-mei-chou-kuan-2025-09-09--v1.md) (v1)
 - [@2026届毕业生 你有求职补贴待领取 - 2025-09-08](AI_Reports/jiao-yu-yu-kao-shi/2026jie-bi-ye-sheng-ni-you-qiu-zhi-bu-tie-dai-ling-qu-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%402026%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F+%E4%BD%A0%E6%9C%89%E6%B1%82%E8%81%8C%E8%A1%A5%E8%B4%B4%E5%BE%85%E9%A2%86%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)
 - [一等功爷爷送孙子去国防科大报到 - 2025-09-01](AI_Reports/jiao-yu-yu-kao-shi/yi-deng-gong-ye-ye-song-sun-zi-qu-guo-fang-ke-da-bao-dao-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E7%AD%89%E5%8A%9F%E7%88%B7%E7%88%B7%E9%80%81%E5%AD%99%E5%AD%90%E5%8E%BB%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E6%8A%A5%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)
