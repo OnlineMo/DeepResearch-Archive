@@ -1,7 +1,7 @@
 # 教育与考试 报告索引
 
 本页包含 **教育与考试** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：5
+报告总数：6
 
 ---
 
@@ -20,6 +20,7 @@
 ## Y
 
 - [一等功爷爷送孙子去国防科大报到](yi-deng-gong-ye-ye-song-sun-zi-qu-guo-fang-ke-da-bao-dao-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E7%AD%89%E5%8A%9F%E7%88%B7%E7%88%B7%E9%80%81%E5%AD%99%E5%AD%90%E5%8E%BB%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E6%8A%A5%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)
+- [有小学建议不让老人接送小孩](you-xiao-xue-jian-yi-bu-rang-lao-ren-jie-song-xiao-hai-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%89%E5%B0%8F%E5%AD%A6%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%AE%A9%E8%80%81%E4%BA%BA%E接送小孩&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
