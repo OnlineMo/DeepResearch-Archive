@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：13
+报告总数：14
 
 ---
 
@@ -18,6 +18,10 @@
 ## G
 
 - [高速上有人戴恐怖面具吓过路车辆](gao-su-shang-you-ren-dai-kong-bu-mian-ju-xia-guo-lu-che-liang-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E4%B8%8A%E6%9C%89%E4%BA%BA%E6%88%B4%E6%81%90%E5%90%AB%E9%9D%A2%E5%85%B7%E5%90%93%E8%BF%87%E8%B7%AF%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)
+
+## H
+
+- [虎跳峡出现不明生物？当地回应](hu-tiao-xia-chu-xian-bu-ming-sheng-wu-dang-di-hui-ying-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E8%99%8E%E8%B7%B3%E5%B3%A1%E5%87%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%89%A9%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 
 ## J
 
