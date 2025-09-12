@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [福建舰通过台湾海峡 - 2025-09-12](AI_Reports/shi-zheng-yu-guo-ji/fu-jian-jian-tong-guo-tai-wan-hai-xia-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)
+- [让和平的薪火代代相传 - 2025-09-12](AI_Reports/shi-zheng-yu-guo-ji/rang-he-ping-de-xin-huo-dai-dai-xiang-chuan-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E5%92%8C%E5%B9%B3%E7%9A%84%E8%96%AA%E7%81%AB%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [三星掌门人之子放弃美籍回韩服兵役 - 2025-09-11](AI_Reports/shi-zheng-yu-guo-ji/san-xing-zhang-men-ren-zhi-zi-fang-qi-mei-ji-hui-han-fu-bing-yi-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E6%8E%8C%E9%97%A8%E4%BA%BA%E4%B9%8B%E5%AD%90%E6%94%BE%E5%BC%83%E7%BE%8E%E7%B1%8D%E5%9B%9E%E9%9F%A9%E6%9C%8D%E5%85%B5%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [胜利日的难忘瞬间 - 2025-09-11](AI_Reports/shi-zheng-yu-guo-ji/sheng-li-ri-de-nan-wang-shun-jian-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%83%9C%E5%88%A9%E6%97%A5%E7%9A%84%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [政治盟友遭枪击身亡 特朗普：降半旗 - 2025-09-11](AI_Reports/shi-zheng-yu-guo-ji/zheng-zhi-meng-you-zao-qiang-ji-shen-wang-te-lang-pu-jiang-ban-qi-2025-09-11--v1.md) (v1)
@@ -21,12 +23,11 @@
 - [他在阅兵现场留下不能露面的照片 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/ta-zai-yue-bing-xian-chang-liu-xia-bu-neng-lu-mian-de-zhao-pian-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%96%E5%9C%A8%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%8D%E8%83%BD%E9%9C%B2%E9%9D%A2%E7%9A%84%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平重点强调这些历史启迪 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zhong-dian-qiang-diao-zhe-xie-li-shi-qi-di-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E7%82%B9%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E5%8E%86%E5%8F%B2%E5%90%AF%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [这些受阅武器装备震撼亮相 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/zhe-xie-shou-yue-wu-qi-zhuang-bei-zhen-han-liang-xiang-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%8F%97%E9%98%85%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87%E9%9C%87%E6%92%AE%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)
-- [纪念抗战胜利80周年大会完整视频 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/ji-nian-kang-zhan-sheng-li-80zhou-nian-da-hui-wan-zheng-shi-pin-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
-- [台湾艺人集体转发九三阅兵 - 2025-09-04](AI_Reports/shi-zheng-yu-guo-ji/tai-wan-yi-ren-ji-ti-zhuan-fa-jiu-san-yue-bing-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E9%9B%86%E4%BD%93%E8%BD%AC%E5%8F%91%E4%B9%9D%E4%B8%89%E9%85%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [虎跳峡出现不明生物？当地回应 - 2025-09-12](AI_Reports/she-hui-yu-fa-zhi/hu-tiao-xia-chu-xian-bu-ming-sheng-wu-dang-di-hui-ying-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%99%8E%E8%B7%B3%E5%B3%A1%E5%87%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%89%A9%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [贩毒8kg 毒贩因检举禁毒大队长免死 - 2025-09-11](AI_Reports/she-hui-yu-fa-zhi/fan-du-8kg-du-fan-yin-jian-ju-jin-du-da-dui-chang-mian-si-2025-09-11--v1.md) (v1)
 - [00后女钢筋工每天工地干10小时赚320 - 2025-09-09](AI_Reports/she-hui-yu-fa-zhi/00hou-nu-gang-jin-gong-mei-tian-gong-di-gan-10xiao-shi-zhuan-320-2025-09-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E9%92%A2%E7%AD%8B%E5%B7%A5%E6%AF%8F%E5%A4%A9%E5%B7%A5%E5%9C%B0%E5%B9%B210%E5%B0%8F%E6%97%B6%E8%B5%9A320&sa=fyb_news&rsv_dl=fyb_news)
 - [育儿补贴申领正式全面开放 - 2025-09-09](AI_Reports/she-hui-yu-fa-zhi/yu-er-bu-tie-shen-ling-zheng-shi-quan-mian-kai-fang-2025-09-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E7%94%B3%E9%A2%86%E6%AD%A3%E5%BC%8F%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
@@ -90,6 +91,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [有小学建议不让老人接送小孩 - 2025-09-12](AI_Reports/jiao-yu-yu-kao-shi/you-xiao-xue-jian-yi-bu-rang-lao-ren-jie-song-xiao-hai-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%89%E5%B0%8F%E5%AD%A6%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%AE%A9%E8%80%81%E4%BA%BA%E接送小孩&sa=fyb_news&rsv_dl=fyb_news)
 - [2025年“最美教师”名单公布 - 2025-09-11](AI_Reports/jiao-yu-yu-kao-shi/2025nian-zui-mei-jiao-shi-ming-dan-gong-bu-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2025%E5%B9%B4%E2%80%9C%E6%9C%80%E7%BE%8E%E6%95%99%E5%B8%88%E2%80%9D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 - [顶尖华裔数学家被迫在美筹款 - 2025-09-09](AI_Reports/jiao-yu-yu-kao-shi/ding-jian-hua-yi-shu-xue-jia-bei-po-zai-mei-chou-kuan-2025-09-09--v1.md) (v1)
 - [@2026届毕业生 你有求职补贴待领取 - 2025-09-08](AI_Reports/jiao-yu-yu-kao-shi/2026jie-bi-ye-sheng-ni-you-qiu-zhi-bu-tie-dai-ling-qu-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%402026%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F+%E4%BD%A0%E6%9C%89%E6%B1%82%E8%81%8C%E8%A1%A5%E8%B4%B4%E5%BE%85%E9%A2%86%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)
@@ -115,6 +117,7 @@
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
+- [这一封封家书来自那些最可爱的人 - 2025-09-12](AI_Reports/wen-hua-yu-mei-ti/zhe-yi-feng-feng-jia-shu-lai-zi-na-xie-zui-ke-ai-de-ren-2025-09-12--v1.md) (v1) [来源]([https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%B0%81%E5%B0%81%E5%AE%B6%E4%B9%A6%E6%9D%A5%E8%87%AA%E9%82%A3%E4%BA%9B%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%B0%81%E5%B0%8F%E5%AE%B6%E4%B9%A6%E6%9D%A5%E8%87%AA%E9%82%A3%E4%BA%9B%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news))
 - [上合诗篇 - 2025-08-31](AI_Reports/wen-hua-yu-mei-ti/shang-he-shi-pian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 未分类
