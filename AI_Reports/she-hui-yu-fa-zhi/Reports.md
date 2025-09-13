@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：14
+报告总数：15
 
 ---
 
@@ -26,6 +26,10 @@
 ## J
 
 - [景区游客从40米高空坠落：水里有血迹](jing-qu-you-ke-cong-40mi-gao-kong-zhui-luo-shui-li-you-xie-ji-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E4%BB%8E40%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD%EF%BC%9A%E6%B0%B4%E9%87%8C%E6%9C%89%E8%A1%80%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)
+
+## K
+
+- [柯克案枪手落网：遭父亲“举报”](ke-ke-an-qiang-shou-luo-wang-zao-fu-qin-ju-bao-2025-09-13--v1.md) - 2025-09-13 (v1) [来源](https://www.baidu.com/s?wd=%E6%9F%AF%E5%85%8B%E6%A1%88%E6%9E%AA%E6%89%8B%E8%90%BD%E7%BD%91%EF%BC%9A%E9%81%AD%E7%88%B6%E4%BA%B2%E2%80%9C%E4%B8%BE%E6%8A%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## N
 
