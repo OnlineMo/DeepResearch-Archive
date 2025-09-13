@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：56
+报告总数：58
 
 ---
 
@@ -25,6 +25,10 @@
 ## F
 
 - [福建舰通过台湾海峡](fu-jian-jian-tong-guo-tai-wan-hai-xia-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)
+
+## G
+
+- [过水门！最高礼遇迎接志愿军烈士](guo-shui-men-zui-gao-li-yu-ying-jie-zhi-yuan-jun-lie-shi-2025-09-13--v1.md) - 2025-09-13 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%87%E6%B0%B4%E9%97%A8%EF%BC%81%E6%9C%80%E9%AB%98%E7%A4%BC%E9%81%87%E8%BF%8E%E6%8E%A5%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)
 
 ## J
 
@@ -61,6 +65,7 @@
 ## S
 
 - [三星掌门人之子放弃美籍回韩服兵役](san-xing-zhang-men-ren-zhi-zi-fang-qi-mei-ji-hui-han-fu-bing-yi-2025-09-11--v1.md) - 2025-09-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E6%8E%8C%E9%97%A8%E4%BA%BA%E4%B9%8B%E5%AD%90%E6%94%BE%E5%BC%83%E7%BE%8E%E7%B1%8D%E5%9B%9E%E9%9F%A9%E6%9C%8D%E5%85%B5%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)
+- [山河永念 英雄归乡](shan-he-yong-nian-ying-xiong-gui-xiang-2025-09-13--v1.md) - 2025-09-13 (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B2%B3%E6%B0%B8%E5%BF%B5+%E8%8B%B1%E9%9B%84%E5%BD%92%E4%B9%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [上合组织经贸合作“含金量”](shang-he-zu-zhi-jing-mao-he-zuo-han-jin-liang-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E2%80%9C%E5%90%AB%E9%87%91%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [胜利日的难忘瞬间](sheng-li-ri-de-nan-wang-shun-jian-2025-09-11--v1.md) - 2025-09-11 (v1) [来源](https://www.baidu.com/s?wd=%E8%83%9C%E5%88%A9%E6%97%A5%E7%9A%84%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
 
