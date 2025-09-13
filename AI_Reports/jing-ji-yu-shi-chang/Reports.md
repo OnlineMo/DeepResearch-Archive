@@ -1,9 +1,13 @@
 # 经济与市场 报告索引
 
 本页包含 **经济与市场** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：1
+报告总数：2
 
 ---
+
+## C
+
+- [存款去哪了？央行数据揭秘](cun-kuan-qu-na-liao-yang-xing-shu-ju-jie-mi-2025-09-13--v1.md) - 2025-09-13 (v1) [来源](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E5%8E%BB%E5%93%AA%E4%BA%86%EF%BC%9F%E5%A4%AE%E8%A1%8C%E6%95%B0%E6%8D%AE%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
