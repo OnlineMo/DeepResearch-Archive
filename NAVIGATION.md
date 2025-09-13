@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [过水门！最高礼遇迎接志愿军烈士 - 2025-09-13](AI_Reports/shi-zheng-yu-guo-ji/guo-shui-men-zui-gao-li-yu-ying-jie-zhi-yuan-jun-lie-shi-2025-09-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%87%E6%B0%B4%E9%97%A8%EF%BC%81%E6%9C%80%E9%AB%98%E7%A4%BC%E9%81%87%E8%BF%8E%E6%8E%A5%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)
+- [山河永念 英雄归乡 - 2025-09-13](AI_Reports/shi-zheng-yu-guo-ji/shan-he-yong-nian-ying-xiong-gui-xiang-2025-09-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B2%B3%E6%B0%B8%E5%BF%B5+%E8%8B%B1%E9%9B%84%E5%BD%92%E4%B9%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [福建舰通过台湾海峡 - 2025-09-12](AI_Reports/shi-zheng-yu-guo-ji/fu-jian-jian-tong-guo-tai-wan-hai-xia-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [让和平的薪火代代相传 - 2025-09-12](AI_Reports/shi-zheng-yu-guo-ji/rang-he-ping-de-xin-huo-dai-dai-xiang-chuan-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E5%92%8C%E5%B9%B3%E7%9A%84%E8%96%AA%E7%81%AB%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [三星掌门人之子放弃美籍回韩服兵役 - 2025-09-11](AI_Reports/shi-zheng-yu-guo-ji/san-xing-zhang-men-ren-zhi-zi-fang-qi-mei-ji-hui-han-fu-bing-yi-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E6%8E%8C%E9%97%A8%E4%BA%BA%E4%B9%8B%E5%AD%90%E6%94%BE%E5%BC%83%E7%BE%8E%E7%B1%8D%E5%9B%9E%E9%9F%A9%E6%9C%8D%E5%85%B5%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,12 +23,11 @@
 - [习近平鲜明宣示这8个字 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-xian-ming-xuan-shi-zhe-8ge-zi-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%B2%9C%E6%98%8E%E5%AE%A3%E7%A4%BA%E8%BF%998%E4%B8%AA%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)
 - [男子诋毁九三阅兵被拘 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/nan-zi-di-hui-jiu-san-yue-bing-bei-ju-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%8B%E6%AF%81%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)
 - [他在阅兵现场留下不能露面的照片 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/ta-zai-yue-bing-xian-chang-liu-xia-bu-neng-lu-mian-de-zhao-pian-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%96%E5%9C%A8%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%8D%E8%83%BD%E9%9C%B2%E9%9D%A2%E7%9A%84%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平重点强调这些历史启迪 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zhong-dian-qiang-diao-zhe-xie-li-shi-qi-di-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E7%82%B9%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E5%8E%86%E5%8F%B2%E5%90%AF%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)
-- [这些受阅武器装备震撼亮相 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/zhe-xie-shou-yue-wu-qi-zhuang-bei-zhen-han-liang-xiang-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%8F%97%E9%98%85%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87%E9%9C%87%E6%92%AE%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [柯克案枪手落网：遭父亲“举报” - 2025-09-13](AI_Reports/she-hui-yu-fa-zhi/ke-ke-an-qiang-shou-luo-wang-zao-fu-qin-ju-bao-2025-09-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9F%AF%E5%85%8B%E6%A1%88%E6%9E%AA%E6%89%8B%E8%90%BD%E7%BD%91%EF%BC%9A%E9%81%AD%E7%88%B6%E4%BA%B2%E2%80%9C%E4%B8%BE%E6%8A%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [虎跳峡出现不明生物？当地回应 - 2025-09-12](AI_Reports/she-hui-yu-fa-zhi/hu-tiao-xia-chu-xian-bu-ming-sheng-wu-dang-di-hui-ying-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%99%8E%E8%B7%B3%E5%B3%A1%E5%87%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%89%A9%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [贩毒8kg 毒贩因检举禁毒大队长免死 - 2025-09-11](AI_Reports/she-hui-yu-fa-zhi/fan-du-8kg-du-fan-yin-jian-ju-jin-du-da-dui-chang-mian-si-2025-09-11--v1.md) (v1)
 - [00后女钢筋工每天工地干10小时赚320 - 2025-09-09](AI_Reports/she-hui-yu-fa-zhi/00hou-nu-gang-jin-gong-mei-tian-gong-di-gan-10xiao-shi-zhuan-320-2025-09-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E9%92%A2%E7%AD%8B%E5%B7%A5%E6%AF%8F%E5%A4%A9%E5%B7%A5%E5%9C%B0%E5%B9%B210%E5%B0%8F%E6%97%B6%E8%B5%9A320&sa=fyb_news&rsv_dl=fyb_news)
@@ -73,6 +74,7 @@
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
 
+- [存款去哪了？央行数据揭秘 - 2025-09-13](AI_Reports/jing-ji-yu-shi-chang/cun-kuan-qu-na-liao-yang-xing-shu-ju-jie-mi-2025-09-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E5%8E%BB%E5%93%AA%E4%BA%86%EF%BC%9F%E5%A4%AE%E8%A1%8C%E6%95%B0%E6%8D%AE%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)
 - [央行开展10000亿元买断式逆回购操作 - 2025-09-05](AI_Reports/jing-ji-yu-shi-chang/yang-xing-kai-zhan-10000yi-yuan-mai-duan-shi-ni-hui-gou-cao-zuo-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%B1%9510000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD%E6%93%8D%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 政策与法规
@@ -112,6 +114,7 @@
 ## 财经与商业
 [点击查看财经与商业完整报告索引 →](AI_Reports/cai-jing-yu-shang-ye/Reports.md)
 
+- [浙江老板花3000元挽回约800万损失 - 2025-09-13](AI_Reports/cai-jing-yu-shang-ye/zhe-jiang-lao-ban-hua-3000yuan-wan-hui-yue-800mo-sun-shi-2025-09-13--v1.md) (v1) [来源]([https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E8%8A%B13000%E5%85%83%E6%8C%BD%E5%9B%9E%E7%BA%A6800%E4%B8%87%E6%8D%9F%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E8%8A%B13000%E5%85%83%E6%8C%BD%E5%9B%9E%E7%BA%A6800%E4%B8%87%E6%8D%9F%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news))
 - [多家银行准备就绪 贴息“红包”来了 - 2025-09-01](AI_Reports/cai-jing-yu-shang-ye/duo-jia-yin-xing-zhun-bei-jiu-xu-tie-xi-hong-bao-lai-liao-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA+%E8%B4%B4%E6%81%AF%E2%80%9C%E7%BA%A2%E5%8C%85%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 文化与媒体
