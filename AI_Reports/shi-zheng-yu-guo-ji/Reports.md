@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：58
+报告总数：61
 
 ---
 
@@ -90,12 +90,14 @@
 - [习近平提出全球治理倡议](xi-jin-ping-ti-chu-quan-qiu-zhi-li-chang-yi-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA%E5%85%A8%E7%90%83%E6%B2%BB%E7%90%86%E5%80%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平鲜明宣示这8个字](xi-jin-ping-xian-ming-xuan-shi-zhe-8ge-zi-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%B2%9C%E6%98%8E%E5%AE%A3%E7%A4%BA%E8%BF%998%E4%B8%AA%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平重点强调这些历史启迪](xi-jin-ping-zhong-dian-qiang-diao-zhe-xie-li-shi-qi-di-2025-09-05--v1.md) - 2025-09-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E7%82%B9%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E5%8E%86%E5%8F%B2%E5%90%AF%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平：要做到全村最好的房子是学校](xi-jin-ping-yao-zuo-dao-quan-cun-zui-hao-de-fang-zi-shi-xue-xiao-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%A6%81%E5%81%9A%E5%88%B0%E5%85%A8%E6%9D%91%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%BF%E5%AD%90%E6%98%AF%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [现场直播九三阅兵](xian-chang-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [新华社直播九三阅兵](xin-hua-she-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
 - [一镜到底航拍阅兵方队](yi-jing-dao-di-hang-pai-yue-bing-fang-dui-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E8%88%AA%E6%8B%8D%E9%98%85%E5%85%B5%E6%96%B9%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
+- [以色列与西班牙爆发激烈外交冲突](yi-se-lie-yu-xi-ban-ya-bao-fa-ji-lie-wai-jiao-chong-tu-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%8F%91%E6%BF%80%E7%83%88%E5%A4%96%E4%BA%A4%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)
 - [以史为鉴 面向未来](yi-shi-wei-jian-mian-xiang-wei-lai-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4+%E9%9D%A2%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [与习近平握手的6位老英雄是谁](yu-xi-jin-ping-wo-shou-de-6wei-lao-ying-xiong-shi-shui-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%A1%E6%89%8B%E7%9A%846%E4%BD%8D%E8%80%81%E8%8B%B1%E9%9B%84%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -106,6 +108,7 @@
 - [这一精神何以成为上合“发展密码”](zhe-yi-jing-shen-he-yi-cheng-wei-shang-he-fa-zhan-mi-ma-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E7%B2%BE%E7%A5%9E%E4%BD%95%E4%B8%A5%E6%88%90%E4%B8%BA%E4%B8%8A%E5%90%88%E2%80%9C%E5%8F%91%E5%B1%95%E5%AF%86%E7%A0%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [政治盟友遭枪击身亡 特朗普：降半旗](zheng-zhi-meng-you-zao-qiang-ji-shen-wang-te-lang-pu-jiang-ban-qi-2025-09-11--v1.md) - 2025-09-11 (v1)
 - [致敬伟大胜利](zhi-jing-wei-da-sheng-li-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)
+- [致敬英烈！运-20舱内视角看歼-20护航](zhi-jing-ying-lie-yun-20cang-nei-shi-jiao-kan-jian-20hu-hang-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E8%8B%B1%E7%83%88%EF%BC%81%E8%BF%90-20%E8%88%B1%E5%86%85%E8%A7%86%E8%A7%92%E7%9C%8B%E6%AD%BC-20%E6%8A%A4%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [中方：某常任理事国一意孤行令人失望](zhong-fang-mou-chang-ren-li-shi-guo-yi-yi-gu-xing-ling-ren-shi-wang-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%9F%90%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9B%BD%E4%B8%80%E6%84%8F%E5%AD%A4%E8%A1%8C%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议](zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-08-30--v1.md) - 2025-08-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国抗战阅兵以来日本砸560亿搞公关](zhong-guo-kang-zhan-yue-bing-yi-lai-ri-ben-za-560yi-gao-gong-guan-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5%E4%BB%A5%E6%9D%A5%E6%97%A5%E6%9C%AC%E7%A0%B8560%E4%BA%BF%E6%90%9E%E5%85%AC%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
