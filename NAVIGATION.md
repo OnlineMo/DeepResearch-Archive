@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [习近平：要做到全村最好的房子是学校 - 2025-09-14](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-yao-zuo-dao-quan-cun-zui-hao-de-fang-zi-shi-xue-xiao-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%A6%81%E5%81%9A%E5%88%B0%E5%85%A8%E6%9D%91%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%BF%E5%AD%90%E6%98%AF%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)
+- [以色列与西班牙爆发激烈外交冲突 - 2025-09-14](AI_Reports/shi-zheng-yu-guo-ji/yi-se-lie-yu-xi-ban-ya-bao-fa-ji-lie-wai-jiao-chong-tu-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%8F%91%E6%BF%80%E7%83%88%E5%A4%96%E4%BA%A4%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)
+- [致敬英烈！运-20舱内视角看歼-20护航 - 2025-09-14](AI_Reports/shi-zheng-yu-guo-ji/zhi-jing-ying-lie-yun-20cang-nei-shi-jiao-kan-jian-20hu-hang-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E8%8B%B1%E7%83%88%EF%BC%81%E8%BF%90-20%E8%88%B1%E5%86%85%E8%A7%86%E8%A7%92%E7%9C%8B%E6%AD%BC-20%E6%8A%A4%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [过水门！最高礼遇迎接志愿军烈士 - 2025-09-13](AI_Reports/shi-zheng-yu-guo-ji/guo-shui-men-zui-gao-li-yu-ying-jie-zhi-yuan-jun-lie-shi-2025-09-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%87%E6%B0%B4%E9%97%A8%EF%BC%81%E6%9C%80%E9%AB%98%E7%A4%BC%E9%81%87%E8%BF%8E%E6%8E%A5%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)
 - [山河永念 英雄归乡 - 2025-09-13](AI_Reports/shi-zheng-yu-guo-ji/shan-he-yong-nian-ying-xiong-gui-xiang-2025-09-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B2%B3%E6%B0%B8%E5%BF%B5+%E8%8B%B1%E9%9B%84%E5%BD%92%E4%B9%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [福建舰通过台湾海峡 - 2025-09-12](AI_Reports/shi-zheng-yu-guo-ji/fu-jian-jian-tong-guo-tai-wan-hai-xia-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,13 +23,11 @@
 - [江苏、江西省委书记等带头捐款 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/jiang-su-jiang-xi-sheng-wei-shu-ji-deng-dai-tou-juan-kuan-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E3%80%81%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%AD%89%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵上这些旗帜令人心潮澎湃 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/jiu-san-yue-bing-shang-zhe-xie-qi-zhi-ling-ren-xin-chao-peng-pai-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%8A%E8%BF%99%E4%BA%9B%E6%97%97%E5%B8%9C%E4%BB%A4%E4%BA%BA%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83&sa=fyb_news&rsv_dl=fyb_news)
 - [美国拘捕约300名韩国人 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-ju-bu-yue-300ming-han-guo-ren-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95%E7%BA%A6300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平鲜明宣示这8个字 - 2025-09-06](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-xian-ming-xuan-shi-zhe-8ge-zi-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%B2%9C%E6%98%8E%E5%AE%A3%E7%A4%BA%E8%BF%998%E4%B8%AA%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)
-- [男子诋毁九三阅兵被拘 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/nan-zi-di-hui-jiu-san-yue-bing-bei-ju-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%8B%E6%AF%81%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)
-- [他在阅兵现场留下不能露面的照片 - 2025-09-05](AI_Reports/shi-zheng-yu-guo-ji/ta-zai-yue-bing-xian-chang-liu-xia-bu-neng-lu-mian-de-zhao-pian-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%96%E5%9C%A8%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%8D%E8%83%BD%E9%9C%B2%E9%9D%A2%E7%9A%84%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [应急局回应山东现不明飞行物被击落 - 2025-09-14](AI_Reports/she-hui-yu-fa-zhi/ying-ji-ju-hui-ying-shan-dong-xian-bu-ming-fei-xing-wu-bei-ji-luo-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%94%E6%80%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E8%A2%AB%E5%87%BB%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [柯克案枪手落网：遭父亲“举报” - 2025-09-13](AI_Reports/she-hui-yu-fa-zhi/ke-ke-an-qiang-shou-luo-wang-zao-fu-qin-ju-bao-2025-09-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9F%AF%E5%85%8B%E6%A1%88%E6%9E%AA%E6%89%8B%E8%90%BD%E7%BD%91%EF%BC%9A%E9%81%AD%E7%88%B6%E4%BA%B2%E2%80%9C%E4%B8%BE%E6%8A%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [虎跳峡出现不明生物？当地回应 - 2025-09-12](AI_Reports/she-hui-yu-fa-zhi/hu-tiao-xia-chu-xian-bu-ming-sheng-wu-dang-di-hui-ying-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%99%8E%E8%B7%B3%E5%B3%A1%E5%87%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%89%A9%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [贩毒8kg 毒贩因检举禁毒大队长免死 - 2025-09-11](AI_Reports/she-hui-yu-fa-zhi/fan-du-8kg-du-fan-yin-jian-ju-jin-du-da-dui-chang-mian-si-2025-09-11--v1.md) (v1)
@@ -93,6 +94,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [这些新大学分数赶超“985” - 2025-09-14](AI_Reports/jiao-yu-yu-kao-shi/zhe-xie-xin-da-xue-fen-shu-gan-chao-985-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%96%B0%E5%A4%A7%E5%AD%A6%E5%88%86%E6%95%B0%E8%B5%B6%E8%B6%85%E2%80%9C985%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [有小学建议不让老人接送小孩 - 2025-09-12](AI_Reports/jiao-yu-yu-kao-shi/you-xiao-xue-jian-yi-bu-rang-lao-ren-jie-song-xiao-hai-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%89%E5%B0%8F%E5%AD%A6%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%AE%A9%E8%80%81%E4%BA%BA%E接送小孩&sa=fyb_news&rsv_dl=fyb_news)
 - [2025年“最美教师”名单公布 - 2025-09-11](AI_Reports/jiao-yu-yu-kao-shi/2025nian-zui-mei-jiao-shi-ming-dan-gong-bu-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2025%E5%B9%B4%E2%80%9C%E6%9C%80%E7%BE%8E%E6%95%99%E5%B8%88%E2%80%9D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 - [顶尖华裔数学家被迫在美筹款 - 2025-09-09](AI_Reports/jiao-yu-yu-kao-shi/ding-jian-hua-yi-shu-xue-jia-bei-po-zai-mei-chou-kuan-2025-09-09--v1.md) (v1)
