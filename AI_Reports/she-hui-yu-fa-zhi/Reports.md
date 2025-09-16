@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：16
+报告总数：17
 
 ---
 
@@ -9,6 +9,10 @@
 
 - [00后女钢筋工每天工地干10小时赚320](00hou-nu-gang-jin-gong-mei-tian-gong-di-gan-10xiao-shi-zhuan-320-2025-09-09--v1.md) - 2025-09-09 (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E9%92%A2%E7%AD%8B%E5%B7%A5%E6%AF%8F%E5%A4%A9%E5%B7%A5%E5%9C%B0%E5%B9%B210%E5%B0%8F%E6%97%B6%E8%B5%9A320&sa=fyb_news&rsv_dl=fyb_news)
 - [5万余人观礼离场后干干净净](5mo-yu-ren-guan-li-chi-chang-hou-gan-gan-jing-jing-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%A4%BC%E7%A6%BB%E5%9C%BA%E5%90%8E%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80&sa=fyb_news&rsv_dl=fyb_news)
+
+## D
+
+- [大风+暴雨要来了！这些地区注意防范](da-feng-bao-yu-yao-lai-liao-zhe-xie-di-qu-zhu-yi-fang-fan-2025-09-16--v1.md) - 2025-09-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A3%8E%2B%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%81%E8%BF%99%E4%BA%9B%E5%9C%B0%E5%8C%BA%E6%B3%A8%E6%84%8F%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## F
 
