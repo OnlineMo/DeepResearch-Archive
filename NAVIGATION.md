@@ -27,6 +27,8 @@
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [台风“米娜”将带来大暴雨、特大暴雨 - 2025-09-19](AI_Reports/she-hui-yu-fa-zhi/tai-feng-mi-nuo-jiang-dai-lai-da-bao-yu-te-da-bao-yu-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%B1%B3%E5%A8%9C%E2%80%9D%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%A4%A7%E6%9A%B4%E9%9B%A8%E3%80%81%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)
+- [香港黄金盗窃案已拘捕12男1女 - 2025-09-19](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-huang-jin-dao-qie-an-yi-ju-bu-12nan-1nu-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E7%9B%97%E7%AA%83%E6%A1%88%E5%B7%B2%E6%8B%A3%E6%8D%9512%E7%94%B71%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [12306回应国庆开票即候补 - 2025-09-17](AI_Reports/she-hui-yu-fa-zhi/12306hui-ying-guo-qing-kai-piao-ji-hou-bu-2025-09-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%9B%BD%E5%BA%86%E5%BC%80%E7%A5%A8%E5%8D%B3%E5%80%99%E8%A1%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [大风+暴雨要来了！这些地区注意防范 - 2025-09-16](AI_Reports/she-hui-yu-fa-zhi/da-feng-bao-yu-yao-lai-liao-zhe-xie-di-qu-zhu-yi-fang-fan-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A3%8E%2B%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%81%E8%BF%99%E4%BA%9B%E5%9C%B0%E5%8C%BA%E6%B3%A8%E6%84%8F%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)
 - [应急局回应山东现不明飞行物被击落 - 2025-09-14](AI_Reports/she-hui-yu-fa-zhi/ying-ji-ju-hui-ying-shan-dong-xian-bu-ming-fei-xing-wu-bei-ji-luo-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%94%E6%80%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E8%A2%AB%E5%87%BB%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)
@@ -56,6 +58,7 @@
 ## 影视综艺
 [点击查看影视综艺完整报告索引 →](AI_Reports/ying-shi-zong-yi/Reports.md)
 
+- [《731》所有日本角色均由日籍演员出演 - 2025-09-19](AI_Reports/ying-shi-zong-yi/731-suo-you-ri-ben-jiao-se-jun-you-ri-ji-yan-yuan-chu-yan-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A731%E3%80%8B%E6%89%80%E6%9C%89%E6%97%A5%E6%9C%AC%E8%A7%92%E8%89%B2%E5%9D%87%E7%94%B1%E6%97%A5%E7%B1%8D%E6%BC%94%E5%91%98%E5%87%BA%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)
 - [李幼斌与李云龙跨时空对话 - 2025-09-02](AI_Reports/ying-shi-zong-yi/li-you-bin-yu-li-yun-long-kua-shi-kong-dui-hua-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B9%BC%E6%96%8C%E4%B8%8E%E6%9D%8E%E4%BA%91%E9%BE%99%E8%B7%A8%E6%97%B6%E7%A9%BA%E5%AF%B9%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 体育与赛事
@@ -133,6 +136,8 @@
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
+- [端起历史的望远镜 - 2025-09-19](AI_Reports/wen-hua-yu-mei-ti/duan-qi-li-shi-de-wang-yuan-jing-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%AB%AF%E8%B5%B7%E5%8E%86%E5%8F%B2%E7%9A%84%E6%9C%9B%E8%BF%9C%E9%95%9C&sa=fyb_news&rsv_dl=fyb_news)
+- [金秋里 听历史的声息拂过耳畔 - 2025-09-19](AI_Reports/wen-hua-yu-mei-ti/jin-qiu-li-ting-li-shi-de-sheng-xi-fu-guo-er-pan-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E7%A7%8B%E9%87%8C+%E5%90%AC%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A3%B0%E6%81%AF%E6%8B%82%E8%BF%87%E8%80%B3%E7%95%94&sa=fyb_news&rsv_dl=fyb_news)
 - [杨靖宇之孙拿出一块“传家宝” - 2025-09-17](AI_Reports/wen-hua-yu-mei-ti/yang-jing-yu-zhi-sun-na-chu-yi-kuai-chuan-jia-bao-2025-09-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%A8%E9%9D%96%E5%AE%87%E4%B9%8B%E5%AD%99%E6%8B%BF%E5%87%BA%E4%B8%80%E5%9D%97%E2%80%9C%E4%BC%A0%E5%AE%B6%E5%AE%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [这一封封家书来自那些最可爱的人 - 2025-09-12](AI_Reports/wen-hua-yu-mei-ti/zhe-yi-feng-feng-jia-shu-lai-zi-na-xie-zui-ke-ai-de-ren-2025-09-12--v1.md) (v1) [来源]([https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%B0%81%E5%B0%81%E5%AE%B6%E4%B9%A6%E6%9D%A5%E8%87%AA%E9%82%A3%E4%BA%9B%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%B0%81%E5%B0%8F%E5%AE%B6%E4%B9%A6%E6%9D%A5%E8%87%AA%E9%82%A3%E4%BA%9B%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news))
 - [上合诗篇 - 2025-08-31](AI_Reports/wen-hua-yu-mei-ti/shang-he-shi-pian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)
