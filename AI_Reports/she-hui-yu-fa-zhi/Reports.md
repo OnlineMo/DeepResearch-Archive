@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：20
+报告总数：21
 
 ---
 
@@ -47,6 +47,7 @@
 
 ## X
 
+- [香港发现战时炸弹 6000人紧急疏散](xiang-gang-fa-xian-zhan-shi-zha-dan-6000ren-jin-ji-shu-san-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%8F%91%E7%8E%B0%E6%88%98%E6%97%B6%E7%82%B8%E5%BC%B9+6000%E4%BA%BA%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)
 - [香港黄金盗窃案已拘捕12男1女](xiang-gang-huang-jin-dao-qie-an-yi-ju-bu-12nan-1nu-2025-09-19--v1.md) - 2025-09-19 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E7%9B%97%E7%AA%83%E6%A1%88%E5%B7%B2%E6%8B%A3%E6%8D%9512%E7%94%B71%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
