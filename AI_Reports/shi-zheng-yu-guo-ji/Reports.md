@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：74
+报告总数：77
 
 ---
 
@@ -27,6 +27,7 @@
 
 ## F
 
+- [菲将举行大规模游行 中使馆发提醒](fei-jiang-ju-xing-da-gui-mo-you-xing-zhong-shi-guan-fa-ti-xing-2025-09-21--v1.md) - 2025-09-21 (v1)
 - [福建舰通过台湾海峡](fu-jian-jian-tong-guo-tai-wan-hai-xia-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)
 
 ## G
@@ -43,6 +44,7 @@
 - [纪念“九一八”事变94周年](ji-nian-jiu-yi-ba-shi-bian-94zhou-nian-2025-09-18--v1.md) - 2025-09-18 (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E2%80%9C%E4%B9%9D%E4%B8%80%E5%85%AB%E2%80%9D%E4%BA%8B%E5%8F%9894%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [江苏、江西省委书记等带头捐款](jiang-su-jiang-xi-sheng-wei-shu-ji-deng-dai-tou-juan-kuan-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E3%80%81%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%AD%89%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [金正恩乘专列来华 现场画面公布](jin-zheng-en-cheng-zhuan-lie-lai-hua-xian-chang-hua-mian-gong-bu-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%98%E4%B8%93%E5%88%97%E6%9D%A5%E5%8D%8E+%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)
+- [近距离感受“大国重器”](jin-ju-chi-gan-shou-da-guo-zhong-qi-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%91%E8%B7%9D%E7%A6%BB%E6%84%9F%E5%8F%97%E2%80%9C%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵不仅回望历史 更面向未来](jiu-san-yue-bing-bu-jin-hui-wang-li-shi-geng-mian-xiang-wei-lai-2025-09-07--v1.md) - 2025-09-07 (v1)
 - [九三阅兵三次演练卡点大片](jiu-san-yue-bing-san-ci-yan-lian-qia-dian-da-pian-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%89%E6%AC%A1%E6%BC%93%E7%BB%83%E5%8D%A1%E7%82%B9%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵上这些旗帜令人心潮澎湃](jiu-san-yue-bing-shang-zhe-xie-qi-zhi-ling-ren-xin-chao-peng-pai-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%8A%E8%BF%99%E4%BA%9B%E6%97%97%E5%B8%9C%E4%BB%A4%E4%BA%BA%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -126,6 +128,7 @@
 - [中方：某常任理事国一意孤行令人失望](zhong-fang-mou-chang-ren-li-shi-guo-yi-yi-gu-xing-ling-ren-shi-wang-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%9F%90%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9B%BD%E4%B8%80%E6%84%8F%E5%AD%A4%E8%A1%8C%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议](zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-08-30--v1.md) - 2025-08-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国抗战阅兵以来日本砸560亿搞公关](zhong-guo-kang-zhan-yue-bing-yi-lai-ri-ben-za-560yi-gao-gong-guan-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5%E4%BB%A5%E6%9D%A5%E6%97%A5%E6%9C%AC%E7%A0%B8560%E4%BA%BF%E6%90%9E%E5%85%AC%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
+- [中美完全可以相互成就、共同繁荣](zhong-mei-wan-quan-ke-yi-xiang-hu-cheng-jiu-gong-tong-fan-rong-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%B2%E6%88%90%E5%B0%B1%E3%80%81%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记部署全国统一大市场建设](zong-shu-ji-bu-shu-quan-guo-tong-yi-da-shi-chang-jian-she-2025-09-17--v1.md) - 2025-09-17 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%83%A8%E7%BD%B2%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的人民情怀](zong-shu-ji-de-ren-min-qing-huai-2025-09-08--v1.md) - 2025-09-08 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的这六天](zong-shu-ji-de-zhe-liu-tian-2025-09-09--v1.md) - 2025-09-09 (v1) [来源]([百度搜索](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%BF%99%E5%85%AD%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news))
