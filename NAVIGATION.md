@@ -3,6 +3,10 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [安理会五常仅美国未承认巴勒斯坦国 - 2025-09-23](AI_Reports/shi-zheng-yu-guo-ji/an-li-hui-wu-chang-jin-mei-guo-wei-cheng-ren-ba-le-si-tan-guo-2025-09-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%89%E7%90%86%E4%BC%9A%E4%BA%94%E5%B8%B8%E4%BB%85%E7%BE%8E%E5%9B%BD%E6%9C%AA%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
+- [全球最强台风明日登陆广东 - 2025-09-23](AI_Reports/shi-zheng-yu-guo-ji/quan-qiu-zui-qiang-tai-feng-ming-ri-deng-lu-yan-dong-2025-09-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%B7%E5%8F%B0%E9%A3%8E%E6%98%8E%E6%97%A5%E7%99%B2%E9%99%86%E5%B9%BF%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)
+- [像石榴籽一样紧紧抱在一起 - 2025-09-23](AI_Reports/shi-zheng-yu-guo-ji/xiang-shi-liu-zi-yi-yang-jin-jin-bao-zai-yi-qi-2025-09-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%83%8F%E7%9F%B3%E6%A6%B4%E7%B1%BD%E4%B8%80%E6%A0%B7%E7%B4%A7%E7%B4%A7%E6%8A%B1%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
+- [中国订单至今为零 美国豆农感受痛苦 - 2025-09-23](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-ding-dan-zhi-jin-wei-ling-mei-guo-dou-nong-gan-shou-tong-ku-2025-09-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%AE%A2%E5%8D%95%E8%87%B3%E4%BB%8A%E4%B8%BA%E9%9B%B6+%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%86%9C%E6%84%9F%E5%8F%97%E7%97%9B%E8%8B%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [长春航空展这些“首次”不要错过 - 2025-09-22](AI_Reports/shi-zheng-yu-guo-ji/chang-chun-hang-kong-zhan-zhe-xie-shou-ci-bu-yao-cuo-guo-2025-09-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E8%88%AA%E7%A9%BA%E5%B1%95%E8%BF%99%E4%BA%9B%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E4%B8%8D%E8%A6%81%E9%94%99%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)
 - [看总书记关心的清洁能源这样发电 - 2025-09-22](AI_Reports/shi-zheng-yu-guo-ji/kan-zong-shu-ji-guan-xin-de-qing-ji-neng-yuan-zhe-yang-fa-dian-2025-09-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E5%BF%83%E7%9A%84%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90%E8%BF%99%E6%A0%B7%E5%8F%91%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [以总理：绝不会有巴勒斯坦国 等着瞧 - 2025-09-22](AI_Reports/shi-zheng-yu-guo-ji/yi-zong-li-jue-bu-hui-you-ba-le-si-tan-guo-deng-zhao-qiao-2025-09-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E6%80%BB%E7%90%86%EF%BC%9A%E7%BB%9D%E4%B8%8D%E4%BC%9A%E6%9C%89%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD+%E7%AD%89%E7%9D%80%E7%9E%A7&sa=fyb_news&rsv_dl=fyb_news)
@@ -19,10 +23,6 @@
 - [普京身着军装出席俄白联合军演 - 2025-09-17](AI_Reports/shi-zheng-yu-guo-ji/pu-jing-shen-zhao-jun-zhuang-chu-xi-e-bai-lian-he-jun-yan-2025-09-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%BA%AB%E7%9D%80%E5%86%9B%E8%A3%85%E5%87%BA%E5%B8%AD%E4%BF%84%E7%99%BD%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记部署全国统一大市场建设 - 2025-09-17](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-bu-shu-quan-guo-tong-yi-da-shi-chang-jian-she-2025-09-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%83%A8%E7%BD%B2%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [红旗-22导弹现身塞尔维亚阅兵彩排 - 2025-09-16](AI_Reports/shi-zheng-yu-guo-ji/hong-qi-22dao-dan-xian-shen-sai-er-wei-ya-yue-bing-cai-pai-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%A2%E6%97%97-22%E5%AF%BC%E5%BC%B9%E7%8E%B0%E8%BA%AB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E9%98%85%E5%85%B5%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)
-- [人民日报、新华社、央视集体发文 - 2025-09-15](AI_Reports/shi-zheng-yu-guo-ji/ren-min-ri-bao-xin-hua-she-yang-shi-ji-ti-fa-wen-2025-09-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%81%E6%96%B0%E5%8D%8E%E7%A4%BE%E3%80%81%E5%A4%AE%E8%A7%86%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
-- [三人伪装外卖员钓鱼佬窃取军事秘密 - 2025-09-15](AI_Reports/shi-zheng-yu-guo-ji/san-ren-wei-zhuang-wai-mai-yuan-diao-yu-lao-qie-qu-jun-shi-mi-mi-2025-09-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%BA%E4%BC%AA%E8%A3%85%E5%A4%96%E5%8D%96%E5%91%98%E9%92%93%E9%B1%BC%E4%BD%AC%E7%AA%83%E5%8F%96%E5%86%9B%E4%BA%8B%E7%A7%98%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记牵挂的桃花源开出致富花 - 2025-09-15](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-qian-gua-de-tao-hua-yuan-kai-chu-zhi-fu-hua-2025-09-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%89%B5%E6%8C%82%E7%9A%84%E6%A1%83%E8%8A%B1%E6%BA%90%E5%BC%80%E5%87%BA%E8%87%B4%E5%AF%8C%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平：要做到全村最好的房子是学校 - 2025-09-14](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-yao-zuo-dao-quan-cun-zui-hao-de-fang-zi-shi-xue-xiao-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%A6%81%E5%81%9A%E5%88%B0%E5%85%A8%E6%9D%91%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%BF%E5%AD%90%E6%98%AF%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -60,6 +60,11 @@
 
 - [《731》所有日本角色均由日籍演员出演 - 2025-09-19](AI_Reports/ying-shi-zong-yi/731-suo-you-ri-ben-jiao-se-jun-you-ri-ji-yan-yuan-chu-yan-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A731%E3%80%8B%E6%89%80%E6%9C%89%E6%97%A5%E6%9C%AC%E8%A7%92%E8%89%B2%E5%9D%87%E7%94%B1%E6%97%A5%E7%B1%8D%E6%BC%94%E5%91%98%E5%87%BA%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)
 - [李幼斌与李云龙跨时空对话 - 2025-09-02](AI_Reports/ying-shi-zong-yi/li-you-bin-yu-li-yun-long-kua-shi-kong-dui-hua-2025-09-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B9%BC%E6%96%8C%E4%B8%8E%E6%9D%8E%E4%BA%91%E9%BE%99%E8%B7%A8%E6%97%B6%E7%A9%BA%E5%AF%B9%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## 音乐与演出
+[点击查看音乐与演出完整报告索引 →](AI_Reports/yin-le-yu-yan-chu/Reports.md)
+
+- [唱着民歌迎丰收 - 2025-09-23](AI_Reports/yin-le-yu-yan-chu/chang-zhao-min-ge-ying-feng-shou-2025-09-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%94%B1%E7%9D%80%E6%B0%91%E6%AD%8C%E8%BF%8E%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
