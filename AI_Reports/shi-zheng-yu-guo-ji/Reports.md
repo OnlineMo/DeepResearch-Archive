@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：84
+报告总数：88
 
 ---
 
@@ -40,6 +40,7 @@
 
 ## G
 
+- [广东省委书记：决战就在眼前](yan-dong-sheng-wei-shu-ji-jue-zhan-jiu-zai-yan-qian-2025-09-24--v1.md) - 2025-09-24 (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E5%86%B3%E6%88%98%E5%B0%B1%E5%9C%A8%E7%9C%BC%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [过水门！最高礼遇迎接志愿军烈士](guo-shui-men-zui-gao-li-yu-ying-jie-zhi-yuan-jun-lie-shi-2025-09-13--v1.md) - 2025-09-13 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%87%E6%B0%B4%E9%97%A8%EF%BC%81%E6%9C%80%E9%AB%98%E7%A4%BC%E9%81%87%E8%BF%8E%E6%8E%A5%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)
 
 ## H
@@ -99,6 +100,7 @@
 ## T
 
 - [他在阅兵现场留下不能露面的照片](ta-zai-yue-bing-xian-chang-liu-xia-bu-neng-lu-mian-de-zhao-pian-2025-09-05--v1.md) - 2025-09-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%96%E5%9C%A8%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%8D%E8%83%BD%E9%9C%B2%E9%9D%A2%E7%9A%84%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
+- [台风预计今天登陆广东 阵风可达17级](tai-feng-yu-ji-jin-tian-deng-lu-yan-dong-zhen-feng-ke-da-17ji-2025-09-24--v1.md) - 2025-09-24 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%A4%A9%E7%99%B2%E9%99%86%E5%B9%BF%E4%B8%9C+%E9%98%B5%E9%A3%8E%E5%8F%AF%E8%BE%BE17%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [台湾艺人集体转发九三阅兵](tai-wan-yi-ren-ji-ti-zhuan-fa-jiu-san-yue-bing-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E9%9B%86%E4%BD%93%E8%BD%AC%E5%8F%91%E4%B9%9D%E4%B8%89%E9%85%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [泰国女总理佩通坦遭解职](tai-guo-nu-zong-li-pei-tong-tan-zao-jie-zhi-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%80%BB%E7%90%86%E4%BD%A9%E9%80%9A%E5%9D%A6%E9%81%AD%E8%A7%A3%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普回应以军空袭卡塔尔：深感遗憾](te-lang-pu-hui-ying-yi-jun-kong-xi-qia-ta-er-shen-gan-yi-han-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%8D%A1%E5%A1%94%E5%B0%94%EF%BC%9A%E6%B7%B1%E6%84%9F%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)
@@ -114,6 +116,7 @@
 - [习近平会见俄罗斯国家杜马主席](xi-jin-ping-hui-jian-e-luo-si-guo-jia-du-ma-zhu-xi-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见联合国秘书长古特雷斯](xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见土耳其总统埃尔多安](xi-jin-ping-hui-jian-tu-er-qi-zong-tong-ai-er-duo-an-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平接见新疆各族各界代表](xi-jin-ping-jie-jian-xin-jiang-ge-zu-ge-jie-dai-biao-2025-09-24--v1.md) - 2025-09-24 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8E%A5%E8%A7%81%E6%96%B0%E7%96%86%E5%90%84%E6%97%8F%E5%90%84%E7%95%8C%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平提出全球治理倡议](xi-jin-ping-ti-chu-quan-qiu-zhi-li-chang-yi-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA%E5%85%A8%E7%90%83%E6%B2%BB%E7%90%86%E5%80%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平鲜明宣示这8个字](xi-jin-ping-xian-ming-xuan-shi-zhe-8ge-zi-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%B2%9C%E6%98%8E%E5%AE%A3%E7%A4%BA%E8%BF%998%E4%B8%AA%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平重点强调这些历史启迪](xi-jin-ping-zhong-dian-qiang-diao-zhe-xie-li-shi-qi-di-2025-09-05--v1.md) - 2025-09-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E7%82%B9%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E5%8E%86%E5%8F%B2%E5%90%AF%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)
@@ -131,6 +134,7 @@
 - [以史为鉴 面向未来](yi-shi-wei-jian-mian-xiang-wei-lai-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4+%E9%9D%A2%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [以总理：绝不会有巴勒斯坦国 等着瞧](yi-zong-li-jue-bu-hui-you-ba-le-si-tan-guo-deng-zhao-qiao-2025-09-22--v1.md) - 2025-09-22 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E6%80%BB%E7%90%86%EF%BC%9A%E7%BB%9D%E4%B8%8D%E4%BC%9A%E6%9C%89%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD+%E7%AD%89%E7%9D%80%E7%9E%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [与习近平握手的6位老英雄是谁](yu-xi-jin-ping-wo-shou-de-6wei-lao-ying-xiong-shi-shui-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%A1%E6%89%8B%E7%9A%846%E4%BD%8D%E8%80%81%E8%8B%B1%E9%9B%84%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
+- [援疆的山海深情 跨越千里万里](yuan-jiang-de-shan-hai-shen-qing-kua-yue-qian-li-mo-li-2025-09-24--v1.md) - 2025-09-24 (v1) [来源](https://www.baidu.com/s?wd=%E6%8F%B4%E7%96%86%E7%9A%84%E5%B1%B1%E6%B5%B7%E6%B7%B1%E6%83%85+%E8%B7%A8%E8%B6%8A%E5%8D%83%E9%87%8C%E4%B8%87%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
