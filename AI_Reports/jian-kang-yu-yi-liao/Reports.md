@@ -1,7 +1,7 @@
 # 健康与医疗 报告索引
 
 本页包含 **健康与医疗** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：2
+报告总数：3
 
 ---
 
@@ -12,3 +12,7 @@
 ## Y
 
 - [一场雷雨后400名患者涌进急诊](yi-chang-lei-yu-hou-400ming-huan-zhe-yong-jin-ji-zhen-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E9%9B%B7%E9%9B%A8%E5%90%8E400%E5%90%8D%E6%82%A3%E8%BF%9B%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)
+
+## “
+
+- [“晕车晕机见多了 晕楼不常见”](yun-che-yun-ji-jian-duo-liao-yun-lou-bu-chang-jian-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%99%95%E8%BD%A6%E6%99%95%E6%9C%BA%E8%A7%81%E5%A4%9A%E4%BA%86+%E6%99%95%E6%A5%BC%E4%B8%8D%E5%B8%B8%E8%A7%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
