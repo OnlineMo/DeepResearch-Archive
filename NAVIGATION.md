@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [从两种精神看新疆70年巨变 - 2025-09-25](AI_Reports/shi-zheng-yu-guo-ji/cong-liang-chong-jing-shen-kan-xin-jiang-70nian-ju-bian-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%A4%E7%A7%8D%E7%B2%BE%E7%A5%9E%E7%9C%8B%E6%96%B0%E7%96%8670%E5%B9%B4%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)
+- [完整准确全面贯彻新时代党的治疆方略 - 2025-09-25](AI_Reports/shi-zheng-yu-guo-ji/wan-zheng-zhun-que-quan-mian-guan-che-xin-shi-dai-dang-de-zhi-jiang-fang-lue-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%8C%E6%95%B4%E5%87%86%E7%A1%AE%E5%85%A8%E9%9D%A2%E8%B4%AF%E5%BD%BB%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%9A%E7%9A%84%E6%B2%BB%E7%96%86%E6%96%B9%E7%95%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [台风预计今天登陆广东 阵风可达17级 - 2025-09-24](AI_Reports/shi-zheng-yu-guo-ji/tai-feng-yu-ji-jin-tian-deng-lu-yan-dong-zhen-feng-ke-da-17ji-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%A4%A9%E7%99%B2%E9%99%86%E5%B9%BF%E4%B8%9C+%E9%98%B5%E9%A3%8E%E5%8F%AF%E8%BE%BE17%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平接见新疆各族各界代表 - 2025-09-24](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-jie-jian-xin-jiang-ge-zu-ge-jie-dai-biao-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8E%A5%E8%A7%81%E6%96%B0%E7%96%86%E5%90%84%E6%97%8F%E5%90%84%E7%95%8C%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [广东省委书记：决战就在眼前 - 2025-09-24](AI_Reports/shi-zheng-yu-guo-ji/yan-dong-sheng-wei-shu-ji-jue-zhan-jiu-zai-yan-qian-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E5%86%B3%E6%88%98%E5%B0%B1%E5%9C%A8%E7%9C%BC%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,12 +23,11 @@
 - [习近平祝贺中国致公党成立100周年 - 2025-09-20](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zhu-he-zhong-guo-zhi-gong-dang-cheng-li-100zhou-nian-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E8%87%B4%E5%85%AC%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [详讯：习近平同特朗普通电话 - 2025-09-20](AI_Reports/shi-zheng-yu-guo-ji/xiang-xun-xi-jin-ping-tong-te-lang-pu-tong-dian-hua-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AF%A6%E8%AE%AF%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [94年前的今天 我们永远不能忘记 - 2025-09-18](AI_Reports/shi-zheng-yu-guo-ji/94nian-qian-de-jin-tian-wo-men-yong-yuan-bu-neng-wang-ji-2025-09-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=94%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9+%E6%88%91%E4%BB%AC%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%83%BD%E5%BF%98%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)
-- [波兰战机保卫领空时导弹误中民宅 - 2025-09-18](AI_Reports/shi-zheng-yu-guo-ji/bo-lan-zhan-ji-bao-wei-ling-kong-shi-dao-dan-wu-zhong-min-zhai-2025-09-18--v1.md) (v1) [来源]([https://www.baidu.com/s?wd=%E6%B3%A2%E5%85%B0%E6%88%98%E6%9C%BA%E4%BF%9D%E5%8D%AB%E9%A2%86%E7%A9%BA%E6%97%B6%E5%AF%BC%E5%BC%B9%E8%AF%AF%E4%B8%AD%E6%B0%91%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E6%B3%A2%E5%85%B0%E6%88%98%E6%9C%BA%E4%BF%9D%E5%8D%AB%E9%A2%86%E7%A9%BA%E6%97%B6%E5%AF%BC%E5%BC%B9%E8%AF%AF%E4%B8%AD%E6%B0%91%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news))
-- [纪念“九一八”事变94周年 - 2025-09-18](AI_Reports/shi-zheng-yu-guo-ji/ji-nian-jiu-yi-ba-shi-bian-94zhou-nian-2025-09-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E2%80%9C%E4%B9%9D%E4%B8%80%E5%85%AB%E2%80%9D%E4%BA%8B%E5%8F%9894%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [俞孔坚坠亡前最后影像曝光 - 2025-09-25](AI_Reports/she-hui-yu-fa-zhi/yu-kong-jian-zhui-wang-qian-zui-hou-ying-xiang-pu-guang-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%9E%E5%AD%94%E5%9D%A0%E4%BA%A1%E5%89%8D%E6%9C%80%E5%90%8E%E5%BD%B1%E5%83%8F%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光直播间“高端四件套”猫腻 - 2025-09-22](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-guang-zhi-bo-jian-gao-duan-si-jian-tao-mao-ni-2025-09-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9B%B4%E6%92%AD%E9%97%B4%E2%80%9C%E9%AB%98%E7%AB%AF%E5%9B%9B%E4%BB%B6%E5%A5%97%E2%80%9D%E7%8C%AB%E8%85%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [租客长租15年不到1年就被劝退 - 2025-09-22](AI_Reports/she-hui-yu-fa-zhi/zu-ke-chang-zu-15nian-bu-dao-1nian-jiu-bei-quan-tui-2025-09-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A7%9F%E5%AE%A2%E9%95%BF%E7%A7%9F15%E5%B9%B4%E4%B8%8D%E5%88%B01%E5%B9%B4%E5%B0%B1%E8%A2%AB%E5%8A%9D%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)
 - [始祖鸟烟花秀引争议 日喀则通报 - 2025-09-21](AI_Reports/she-hui-yu-fa-zhi/shi-zu-niao-yan-hua-xiu-yin-zheng-yi-ri-ke-ze-tong-bao-2025-09-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A7%8B%E7%A5%96%E9%B8%9F%E7%83%9F%E8%8A%B1%E7%A7%91%E5%BC%95%E4%BA%89%E8%AE%AE+%E6%97%A5%E5%96%80%E5%88%99%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [5万余人观礼离场后干干净净 - 2025-09-04](AI_Reports/she-hui-yu-fa-zhi/5mo-yu-ren-guan-li-chi-chang-hou-gan-gan-jing-jing-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%A4%BC%E7%A6%BB%E5%9C%BA%E5%90%8E%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80&sa=fyb_news&rsv_dl=fyb_news)
 - [反诈老陈打假嘎子哥翻车后道歉 - 2025-08-29](AI_Reports/she-hui-yu-fa-zhi/fan-zha-lao-chen-da-jia-ga-zi-ge-fan-che-hou-dao-qian-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%89%93%E5%81%87%E5%98%8E%E5%AD%90%E5%93%A5%E7%BF%BB%E8%BD%A6%E5%90%8E%E9%81%A8%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
 - [“是鹊桥吗” 杭州上空一幕看呆网友 - 2025-08-29](AI_Reports/she-hui-yu-fa-zhi/shi-que-qiao-ma-hang-zhou-shang-kong-yi-mu-kan-ai-wang-you-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%AF%E9%B9%8A%E6%A1%A5%E5%90%97%E2%80%9D+%E6%9D%AD%E5%B7%9E%E4%B8%8A%E7%A9%BA%E4%B8%80%E5%B9%97%E7%9C%8B%E5%91%86%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)
-- [一顿吃200个水饺的16个外甥开学了 - 2025-08-28](AI_Reports/she-hui-yu-fa-zhi/yi-dun-chi-200ge-shui-jiao-de-16ge-wai-sheng-kai-xue-liao-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%A1%BF%E5%90%83200%E4%B8%AA%E6%B0%B4%E9%A5%BA%E7%9A%8416%E4%B8%AA%E5%A4%96%E7%94%A5%E5%BC%80%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -135,6 +135,7 @@
 ## 健康与医疗
 [点击查看健康与医疗完整报告索引 →](AI_Reports/jian-kang-yu-yi-liao/Reports.md)
 
+- [“晕车晕机见多了 晕楼不常见” - 2025-09-25](AI_Reports/jian-kang-yu-yi-liao/yun-che-yun-ji-jian-duo-liao-yun-lou-bu-chang-jian-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%99%95%E8%BD%A6%E6%99%95%E6%9C%BA%E8%A7%81%E5%A4%9A%E4%BA%86+%E6%99%95%E6%A5%BC%E4%B8%8D%E5%B8%B8%E8%A7%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [一场雷雨后400名患者涌进急诊 - 2025-09-10](AI_Reports/jian-kang-yu-yi-liao/yi-chang-lei-yu-hou-400ming-huan-zhe-yong-jin-ji-zhen-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E9%9B%B7%E9%9B%A8%E5%90%8E400%E5%90%8D%E6%82%A3%E8%BF%9B%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [李连杰公布病情：生日时发现颈部肿块 - 2025-08-29](AI_Reports/jian-kang-yu-yi-liao/li-lian-jie-gong-bu-bing-qing-sheng-ri-shi-fa-xian-jing-bu-zhong-kuai-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%85%AC%E5%B8%83%E7%97%85%E6%83%85%EF%BC%9A%E7%94%9F%E6%97%A5%E6%97%B6%E5%8F%91%E7%8E%B0%E9%A2%88%E9%83%A8%E8%82%BF%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -156,6 +157,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [广州塔“定塔神器”出现明显摆动 - 2025-09-25](AI_Reports/wei-fen-lei/yan-zhou-ta-ding-ta-shen-qi-chu-xian-ming-xian-bai-dong-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%A1%94%E2%80%9C%E5%AE%9A%E5%A1%94%E7%A5%9E%E5%99%A8%E2%80%9D%E5%87%BA%E7%8E%B0%E6%98%8E%E6%98%BE%E6%91%86%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [桦加沙风眼内部曝光 拍摄部门：震撼 - 2025-09-24](AI_Reports/wei-fen-lei/hua-jia-sha-feng-yan-nei-bu-pu-guang-pai-she-bu-men-zhen-han-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A1%A6%E5%8A%A0%E6%B2%99%E9%A3%8E%E7%9C%BC%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89+%E6%8B%8D%E6%91%84%E9%83%A8%E9%97%A8%EF%BC%9A%E9%9C%87%E6%92%BC&sa=fyb_news&rsv_dl=fyb_news)
 - [今日起 常温纯牛奶中禁止添加复原乳 - 2025-09-16](AI_Reports/wei-fen-lei/jin-ri-qi-chang-wen-chun-niu-nai-zhong-jin-zhi-tian-jia-fu-yuan-ru-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E8%B5%B7+%E5%B8%B8%E6%B8%A9%E7%BA%AF%E7%89%9B%E5%A5%B6%E4%B8%AD%E7%A6%81%E6%AD%A2%E6%B7%BB%E5%8A%A0%E5%A4%8D%E5%8E%9F%E4%B9%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [女生接退伍男友 男友眼睛瞬间亮了 - 2025-09-07](AI_Reports/wei-fen-lei/nu-sheng-jie-tui-wu-nan-you-nan-you-yan-jing-shun-jian-liang-liao-2025-09-07--v1.md) (v1)
