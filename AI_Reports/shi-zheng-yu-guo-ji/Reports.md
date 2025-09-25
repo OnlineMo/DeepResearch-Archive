@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：88
+报告总数：90
 
 ---
 
@@ -24,6 +24,10 @@
 ## Z
 
 - [长春航空展这些“首次”不要错过](chang-chun-hang-kong-zhan-zhe-xie-shou-ci-bu-yao-cuo-guo-2025-09-22--v1.md) - 2025-09-22 (v1) [来源](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E8%88%AA%E7%A9%BA%E5%B1%95%E8%BF%99%E4%BA%9B%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E4%B8%8D%E8%A6%81%E9%94%99%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)
+
+## C
+
+- [从两种精神看新疆70年巨变](cong-liang-chong-jing-shen-kan-xin-jiang-70nian-ju-bian-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%A4%E7%A7%8D%E7%B2%BE%E7%A5%9E%E7%9C%8B%E6%96%B0%E7%96%8670%E5%B9%B4%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
 
@@ -108,6 +112,7 @@
 
 ## W
 
+- [完整准确全面贯彻新时代党的治疆方略](wan-zheng-zhun-que-quan-mian-guan-che-xin-shi-dai-dang-de-zhi-jiang-fang-lue-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%8C%E6%95%B4%E5%87%86%E7%A1%AE%E5%85%A8%E9%9D%A2%E8%B4%AF%E5%BD%BB%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%9A%E7%9A%84%E6%B2%BB%E7%96%86%E6%96%B9%E7%95%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [旺旺集团总经理：去看祖国的阅兵仪式](wang-wang-ji-tuan-zong-jing-li-qu-kan-zu-guo-de-yue-bing-yi-shi-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E9%9B%86%E5%9B%A2%E6%80%BB%E7%BB%8F%E7%90%86%EF%BC%9A%E5%8E%BB%E7%9C%8B%E7%A5%96%E5%9B%BD%E7%9A%84%E9%98%85%E5%85%B5%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 
 ## X
