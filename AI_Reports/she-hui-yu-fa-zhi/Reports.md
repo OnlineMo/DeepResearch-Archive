@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：24
+报告总数：25
 
 ---
 
@@ -60,6 +60,7 @@
 - [一顿吃200个水饺的16个外甥开学了](yi-dun-chi-200ge-shui-jiao-de-16ge-wai-sheng-kai-xue-liao-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%A1%BF%E5%90%83200%E4%B8%AA%E6%B0%B4%E9%A5%BA%E7%9A%8416%E4%B8%AA%E5%A4%96%E7%94%A5%E5%BC%80%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [应急局回应山东现不明飞行物被击落](ying-ji-ju-hui-ying-shan-dong-xian-bu-ming-fei-xing-wu-bei-ji-luo-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%94%E6%80%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E8%A2%AB%E5%87%BB%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [游客因台风被困三亚：酒店玻璃都弯了](you-ke-yin-tai-feng-bei-kun-san-ya-jiu-dian-bo-li-du-wan-liao-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9B%A0%E5%8F%B0%E9%A3%8E%E8%A2%AB%E5%9B%B0%E4%B8%89%E4%BA%9A%EF%BC%9A%E9%85%92%E5%BA%97%E7%8E%BB%E7%92%83%E9%83%BD%E5%BC%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [俞孔坚坠亡前最后影像曝光](yu-kong-jian-zhui-wang-qian-zui-hou-ying-xiang-pu-guang-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%9E%E5%AD%94%E5%9D%A0%E4%BA%A1%E5%89%8D%E6%9C%80%E5%90%8E%E5%BD%B1%E5%83%8F%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 - [育儿补贴申领正式全面开放](yu-er-bu-tie-shen-ling-zheng-shi-quan-mian-kai-fang-2025-09-09--v1.md) - 2025-09-09 (v1) [来源](https://www.baidu.com/s?wd=%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E7%94%B3%E9%A2%86%E6%AD%A3%E5%BC%8F%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
