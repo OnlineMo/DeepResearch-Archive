@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：90
+报告总数：92
 
 ---
 
@@ -144,6 +144,7 @@
 ## Z
 
 - [这是你没见过的阅兵训练画面](zhe-shi-ni-mei-jian-guo-de-yue-bing-xun-lian-hua-mian-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%BD%A0%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E9%98%85%E5%85%B5%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
+- [这是我们的新疆！](zhe-shi-wo-men-de-xin-jiang-2025-09-26--v1.md) - 2025-09-26 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
 - [这些受阅武器装备震撼亮相](zhe-xie-shou-yue-wu-qi-zhuang-bei-zhen-han-liang-xiang-2025-09-05--v1.md) - 2025-09-05 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%8F%97%E9%98%85%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87%E9%9C%87%E6%92%AE%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [这一精神何以成为上合“发展密码”](zhe-yi-jing-shen-he-yi-cheng-wei-shang-he-fa-zhan-mi-ma-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E7%B2%BE%E7%A5%9E%E4%BD%95%E4%B8%A5%E6%88%90%E4%B8%BA%E4%B8%8A%E5%90%88%E2%80%9C%E5%8F%91%E5%B1%95%E5%AF%86%E7%A0%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [政治盟友遭枪击身亡 特朗普：降半旗](zheng-zhi-meng-you-zao-qiang-ji-shen-wang-te-lang-pu-jiang-ban-qi-2025-09-11--v1.md) - 2025-09-11 (v1)
@@ -158,6 +159,7 @@
 - [总书记的人民情怀](zong-shu-ji-de-ren-min-qing-huai-2025-09-08--v1.md) - 2025-09-08 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的这六天](zong-shu-ji-de-zhe-liu-tian-2025-09-09--v1.md) - 2025-09-09 (v1) [来源]([百度搜索](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%BF%99%E5%85%AD%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news))
 - [总书记牵挂的桃花源开出致富花](zong-shu-ji-qian-gua-de-tao-hua-yuan-kai-chu-zhi-fu-hua-2025-09-15--v1.md) - 2025-09-15 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%89%B5%E6%8C%82%E7%9A%84%E6%A1%83%E8%8A%B1%E6%BA%90%E5%BC%80%E5%87%BA%E8%87%B4%E5%AF%8C%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记心中“很有意义”的一个事业](zong-shu-ji-xin-zhong-hen-you-yi-yi-de-yi-ge-shi-ye-2025-09-26--v1.md) - 2025-09-26 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E2%80%9C%E5%BE%88%E6%9C%89%E6%84%8F%E4%B9%89%E2%80%9D%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BA%8B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [最大规模军乐团 即将亮相九三阅兵](zui-da-gui-mo-jun-le-tuan-ji-jiang-liang-xiang-jiu-san-yue-bing-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%9B%E4%B9%90%E5%9B%A2+%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## “
