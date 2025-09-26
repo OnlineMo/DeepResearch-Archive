@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [这是我们的新疆！ - 2025-09-26](AI_Reports/shi-zheng-yu-guo-ji/zhe-shi-wo-men-de-xin-jiang-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记心中“很有意义”的一个事业 - 2025-09-26](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-xin-zhong-hen-you-yi-yi-de-yi-ge-shi-ye-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E2%80%9C%E5%BE%88%E6%9C%89%E6%84%8F%E4%B9%89%E2%80%9D%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BA%8B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [从两种精神看新疆70年巨变 - 2025-09-25](AI_Reports/shi-zheng-yu-guo-ji/cong-liang-chong-jing-shen-kan-xin-jiang-70nian-ju-bian-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%A4%E7%A7%8D%E7%B2%BE%E7%A5%9E%E7%9C%8B%E6%96%B0%E7%96%8670%E5%B9%B4%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)
 - [完整准确全面贯彻新时代党的治疆方略 - 2025-09-25](AI_Reports/shi-zheng-yu-guo-ji/wan-zheng-zhun-que-quan-mian-guan-che-xin-shi-dai-dang-de-zhi-jiang-fang-lue-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%8C%E6%95%B4%E5%87%86%E7%A1%AE%E5%85%A8%E9%9D%A2%E8%B4%AF%E5%BD%BB%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%9A%E7%9A%84%E6%B2%BB%E7%96%86%E6%96%B9%E7%95%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [台风预计今天登陆广东 阵风可达17级 - 2025-09-24](AI_Reports/shi-zheng-yu-guo-ji/tai-feng-yu-ji-jin-tian-deng-lu-yan-dong-zhen-feng-ke-da-17ji-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%A4%A9%E7%99%B2%E9%99%86%E5%B9%BF%E4%B8%9C+%E9%98%B5%E9%A3%8E%E5%8F%AF%E8%BE%BE17%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,8 +23,6 @@
 - [中美完全可以相互成就、共同繁荣 - 2025-09-21](AI_Reports/shi-zheng-yu-guo-ji/zhong-mei-wan-quan-ke-yi-xiang-hu-cheng-jiu-gong-tong-fan-rong-2025-09-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%B2%E6%88%90%E5%B0%B1%E3%80%81%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)
 - [壁纸上新！中国战机高清大片来了 - 2025-09-20](AI_Reports/shi-zheng-yu-guo-ji/bi-zhi-shang-xin-zhong-guo-zhan-ji-gao-qing-da-pian-lai-liao-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A3%81%E7%BA%B8%E4%B8%8A%E6%96%B0%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%98%E6%9C%BA%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平祝贺中国致公党成立100周年 - 2025-09-20](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zhu-he-zhong-guo-zhi-gong-dang-cheng-li-100zhou-nian-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E8%87%B4%E5%85%AC%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
-- [详讯：习近平同特朗普通电话 - 2025-09-20](AI_Reports/shi-zheng-yu-guo-ji/xiang-xun-xi-jin-ping-tong-te-lang-pu-tong-dian-hua-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AF%A6%E8%AE%AF%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [94年前的今天 我们永远不能忘记 - 2025-09-18](AI_Reports/shi-zheng-yu-guo-ji/94nian-qian-de-jin-tian-wo-men-yong-yuan-bu-neng-wang-ji-2025-09-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=94%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9+%E6%88%91%E4%BB%AC%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%83%BD%E5%BF%98%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -119,6 +119,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [刘备扮演者孙彦军成大学校长 - 2025-09-26](AI_Reports/jiao-yu-yu-kao-shi/liu-bei-ban-yan-zhe-sun-yan-jun-cheng-da-xue-xiao-chang-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%98%E5%87%86%E5%A4%87%E6%89%AE%E6%BC%94%E8%80%85%E5%AD%99%E5%BD%A6%E5%86%9B%E6%88%90%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [这些新大学分数赶超“985” - 2025-09-14](AI_Reports/jiao-yu-yu-kao-shi/zhe-xie-xin-da-xue-fen-shu-gan-chao-985-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%96%B0%E5%A4%A7%E5%AD%A6%E5%88%86%E6%95%B0%E8%B5%B6%E8%B6%85%E2%80%9C985%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [有小学建议不让老人接送小孩 - 2025-09-12](AI_Reports/jiao-yu-yu-kao-shi/you-xiao-xue-jian-yi-bu-rang-lao-ren-jie-song-xiao-hai-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%89%E5%B0%8F%E5%AD%A6%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%AE%A9%E8%80%81%E4%BA%BA%E接送小孩&sa=fyb_news&rsv_dl=fyb_news)
 - [2025年“最美教师”名单公布 - 2025-09-11](AI_Reports/jiao-yu-yu-kao-shi/2025nian-zui-mei-jiao-shi-ming-dan-gong-bu-2025-09-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2025%E5%B9%B4%E2%80%9C%E6%9C%80%E7%BE%8E%E6%95%99%E5%B8%88%E2%80%9D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -135,6 +136,7 @@
 ## 健康与医疗
 [点击查看健康与医疗完整报告索引 →](AI_Reports/jian-kang-yu-yi-liao/Reports.md)
 
+- [抗“冻”6年的蔡磊已丧失语言能力 - 2025-09-26](AI_Reports/jian-kang-yu-yi-liao/kang-dong-6nian-de-cai-lei-yi-sang-shi-yu-yan-neng-li-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%97%E2%80%9C%E5%86%BB%E2%80%9D6%E5%B9%B4%E7%9A%84%E8%94%A1%E7%A3%8A%E5%B7%B2%E4%B8%A7%E5%A4%B1%E8%AF%AD%E8%A8%80%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [“晕车晕机见多了 晕楼不常见” - 2025-09-25](AI_Reports/jian-kang-yu-yi-liao/yun-che-yun-ji-jian-duo-liao-yun-lou-bu-chang-jian-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%99%95%E8%BD%A6%E6%99%95%E6%9C%BA%E8%A7%81%E5%A4%9A%E4%BA%86+%E6%99%95%E6%A5%BC%E4%B8%8D%E5%B8%B8%E8%A7%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [一场雷雨后400名患者涌进急诊 - 2025-09-10](AI_Reports/jian-kang-yu-yi-liao/yi-chang-lei-yu-hou-400ming-huan-zhe-yong-jin-ji-zhen-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E9%9B%B7%E9%9B%A8%E5%90%8E400%E5%90%8D%E6%82%A3%E8%BF%9B%E6%80%A5%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [李连杰公布病情：生日时发现颈部肿块 - 2025-08-29](AI_Reports/jian-kang-yu-yi-liao/li-lian-jie-gong-bu-bing-qing-sheng-ri-shi-fa-xian-jing-bu-zhong-kuai-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%85%AC%E5%B8%83%E7%97%85%E6%83%85%EF%BC%9A%E7%94%9F%E6%97%A5%E6%97%B6%E5%8F%91%E7%8E%B0%E9%A2%88%E9%83%A8%E8%82%BF%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)
@@ -142,6 +144,7 @@
 ## 财经与商业
 [点击查看财经与商业完整报告索引 →](AI_Reports/cai-jing-yu-shang-ye/Reports.md)
 
+- [重仓奇瑞 汕头兄妹赚进160亿 - 2025-09-26](AI_Reports/cai-jing-yu-shang-ye/zhong-cang-qi-rui-shan-tou-xiong-mei-zhuan-jin-160yi-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E4%BB%93%E5%A5%87%E7%91%9E+%E6%B1%B1%E5%A4%B4%E5%85%84%E5%A6%B9%E8%B5%9A%E8%BF%9B160%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [浙江老板花3000元挽回约800万损失 - 2025-09-13](AI_Reports/cai-jing-yu-shang-ye/zhe-jiang-lao-ban-hua-3000yuan-wan-hui-yue-800mo-sun-shi-2025-09-13--v1.md) (v1) [来源]([https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E8%8A%B13000%E5%85%83%E6%8C%BD%E5%9B%9E%E7%BA%A6800%E4%B8%87%E6%8D%9F%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E8%8A%B13000%E5%85%83%E6%8C%BD%E5%9B%9E%E7%BA%A6800%E4%B8%87%E6%8D%9F%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news))
 - [多家银行准备就绪 贴息“红包”来了 - 2025-09-01](AI_Reports/cai-jing-yu-shang-ye/duo-jia-yin-xing-zhun-bei-jiu-xu-tie-xi-hong-bao-lai-liao-2025-09-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA+%E8%B4%B4%E6%81%AF%E2%80%9C%E7%BA%A2%E5%8C%85%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
