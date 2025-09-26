@@ -1,9 +1,13 @@
 # 健康与医疗 报告索引
 
 本页包含 **健康与医疗** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：3
+报告总数：4
 
 ---
+
+## K
+
+- [抗“冻”6年的蔡磊已丧失语言能力](kang-dong-6nian-de-cai-lei-yi-sang-shi-yu-yan-neng-li-2025-09-26--v1.md) - 2025-09-26 (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%97%E2%80%9C%E5%86%BB%E2%80%9D6%E5%B9%B4%E7%9A%84%E8%94%A1%E7%A3%8A%E5%B7%B2%E4%B8%A7%E5%A4%B1%E8%AF%AD%E8%A8%80%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 
 ## L
 
