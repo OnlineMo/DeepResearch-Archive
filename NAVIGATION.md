@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [为新疆更美好的明天共同奋斗 - 2025-09-27](AI_Reports/shi-zheng-yu-guo-ji/wei-xin-jiang-geng-mei-hao-de-ming-tian-gong-tong-fen-dou-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E6%96%B0%E7%96%86%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%98%8E%E5%A4%A9%E5%85%B1%E5%90%8C%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 - [这是我们的新疆！ - 2025-09-26](AI_Reports/shi-zheng-yu-guo-ji/zhe-shi-wo-men-de-xin-jiang-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记心中“很有意义”的一个事业 - 2025-09-26](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-xin-zhong-hen-you-yi-yi-de-yi-ge-shi-ye-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E2%80%9C%E5%BE%88%E6%9C%89%E6%84%8F%E4%B9%89%E2%80%9D%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BA%8B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [从两种精神看新疆70年巨变 - 2025-09-25](AI_Reports/shi-zheng-yu-guo-ji/cong-liang-chong-jing-shen-kan-xin-jiang-70nian-ju-bian-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%A4%E7%A7%8D%E7%B2%BE%E7%A5%9E%E7%9C%8B%E6%96%B0%E7%96%8670%E5%B9%B4%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,11 +23,12 @@
 - [近距离感受“大国重器” - 2025-09-21](AI_Reports/shi-zheng-yu-guo-ji/jin-ju-chi-gan-shou-da-guo-zhong-qi-2025-09-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%91%E8%B7%9D%E7%A6%BB%E6%84%9F%E5%8F%97%E2%80%9C%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中美完全可以相互成就、共同繁荣 - 2025-09-21](AI_Reports/shi-zheng-yu-guo-ji/zhong-mei-wan-quan-ke-yi-xiang-hu-cheng-jiu-gong-tong-fan-rong-2025-09-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%B2%E6%88%90%E5%B0%B1%E3%80%81%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)
 - [壁纸上新！中国战机高清大片来了 - 2025-09-20](AI_Reports/shi-zheng-yu-guo-ji/bi-zhi-shang-xin-zhong-guo-zhan-ji-gao-qing-da-pian-lai-liao-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A3%81%E7%BA%B8%E4%B8%8A%E6%96%B0%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%98%E6%9C%BA%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平祝贺中国致公党成立100周年 - 2025-09-20](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zhu-he-zhong-guo-zhi-gong-dang-cheng-li-100zhou-nian-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E8%87%B4%E5%85%AC%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [甘肃陇西发生5.6级地震 - 2025-09-27](AI_Reports/she-hui-yu-fa-zhi/gan-su-long-xi-fa-sheng-5-6ji-di-zhen-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%99%87%E8%A5%BF%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)
+- [景德镇城管已为鸡排哥成立工作专班 - 2025-09-27](AI_Reports/she-hui-yu-fa-zhi/jing-de-zhen-cheng-guan-yi-wei-ji-pai-ge-cheng-li-gong-zuo-zhuan-ban-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AF%E5%BE%B7%E9%95%87%E5%9F%8E%E7%AE%A1%E5%B7%B2%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [俞孔坚坠亡前最后影像曝光 - 2025-09-25](AI_Reports/she-hui-yu-fa-zhi/yu-kong-jian-zhui-wang-qian-zui-hou-ying-xiang-pu-guang-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%9E%E5%AD%94%E5%9D%A0%E4%BA%A1%E5%89%8D%E6%9C%80%E5%90%8E%E5%BD%B1%E5%83%8F%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光直播间“高端四件套”猫腻 - 2025-09-22](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-guang-zhi-bo-jian-gao-duan-si-jian-tao-mao-ni-2025-09-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9B%B4%E6%92%AD%E9%97%B4%E2%80%9C%E9%AB%98%E7%AB%AF%E5%9B%9B%E4%BB%B6%E5%A5%97%E2%80%9D%E7%8C%AB%E8%85%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [租客长租15年不到1年就被劝退 - 2025-09-22](AI_Reports/she-hui-yu-fa-zhi/zu-ke-chang-zu-15nian-bu-dao-1nian-jiu-bei-quan-tui-2025-09-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A7%9F%E5%AE%A2%E9%95%BF%E7%A7%9F15%E5%B9%B4%E4%B8%8D%E5%88%B01%E5%B9%B4%E5%B0%B1%E8%A2%AB%E5%8A%9D%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)
@@ -45,8 +47,6 @@
 - [男子忘关火外出27天回家才发现 - 2025-09-08](AI_Reports/she-hui-yu-fa-zhi/nan-zi-wang-guan-huo-wai-chu-27tian-hui-jia-cai-fa-xian-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E5%A4%96%E5%87%BA27%E5%A4%A9%E5%9B%9E%E5%AE%B6%E6%89%8D%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [最快女护士被解聘或调岗？医院回应 - 2025-09-06](AI_Reports/she-hui-yu-fa-zhi/zui-kuai-nu-hu-shi-bei-jie-pin-huo-diao-gang-yi-yuan-hui-ying-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%A2%AB%E8%A7%A3%E8%81%98%E6%88%96%E8%B0%83%E5%B2%97%EF%BC%9F%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [5万余人观礼离场后干干净净 - 2025-09-04](AI_Reports/she-hui-yu-fa-zhi/5mo-yu-ren-guan-li-chi-chang-hou-gan-gan-jing-jing-2025-09-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%A4%BC%E7%A6%BB%E5%9C%BA%E5%90%8E%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80&sa=fyb_news&rsv_dl=fyb_news)
-- [反诈老陈打假嘎子哥翻车后道歉 - 2025-08-29](AI_Reports/she-hui-yu-fa-zhi/fan-zha-lao-chen-da-jia-ga-zi-ge-fan-che-hou-dao-qian-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%89%93%E5%81%87%E5%98%8E%E5%AD%90%E5%93%A5%E7%BF%BB%E8%BD%A6%E5%90%8E%E9%81%A8%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
-- [“是鹊桥吗” 杭州上空一幕看呆网友 - 2025-08-29](AI_Reports/she-hui-yu-fa-zhi/shi-que-qiao-ma-hang-zhou-shang-kong-yi-mu-kan-ai-wang-you-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%AF%E9%B9%8A%E6%A1%A5%E5%90%97%E2%80%9D+%E6%9D%AD%E5%B7%9E%E4%B8%8A%E7%A9%BA%E4%B8%80%E5%B9%97%E7%9C%8B%E5%91%86%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -110,6 +110,7 @@
 ## 行业与公司
 [点击查看行业与公司完整报告索引 →](AI_Reports/xing-ye-yu-gong-si/Reports.md)
 
+- [中国专业技术人才超过8000万人 - 2025-09-27](AI_Reports/xing-ye-yu-gong-si/zhong-guo-zhuan-ye-ji-zhu-ren-cai-chao-guo-8000mo-ren-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E4%BA%BA%E6%89%8D%E8%B6%85%E8%BF%878000%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [蔡国强始祖鸟发布致歉信 - 2025-09-21](AI_Reports/xing-ye-yu-gong-si/cai-guo-qiang-shi-zu-niao-fa-bu-zhi-qian-xin-2025-09-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BC%BA%E5%A7%8B%E7%A5%96%E9%B8%9F%E5%8F%91%E5%B8%83%E8%87%B4%E6%AD%89%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [今起连续3天有三场重要发布会 - 2025-09-17](AI_Reports/xing-ye-yu-gong-si/jin-qi-lian-xu-3tian-you-san-chang-zhong-yao-fa-bu-hui-2025-09-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E8%B5%B7%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E6%9C%89%E4%B8%89%E5%9C%BA%E9%87%8D%E8%A6%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [苹果的牙膏“挤爆了” - 2025-09-10](AI_Reports/xing-ye-yu-gong-si/ping-guo-de-ya-gao-ji-bao-liao-2025-09-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E7%89%99%E8%86%8F%E2%80%9C%E6%8C%A4%E7%88%86%E4%BA%86%E2%88%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -119,6 +120,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [事关1670多万学生 六部门重磅发文 - 2025-09-27](AI_Reports/jiao-yu-yu-kao-shi/shi-guan-1670duo-mo-xue-sheng-liu-bu-men-zhong-bang-fa-wen-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B31670%E5%A4%9A%E4%B8%87%E5%AD%A6%E7%94%9F+%E5%85%AD%E9%83%A8%E9%97%A8%E9%87%8D%E7%A3%85%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
 - [刘备扮演者孙彦军成大学校长 - 2025-09-26](AI_Reports/jiao-yu-yu-kao-shi/liu-bei-ban-yan-zhe-sun-yan-jun-cheng-da-xue-xiao-chang-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%98%E5%87%86%E5%A4%87%E6%89%AE%E6%BC%94%E8%80%85%E5%AD%99%E5%BD%A6%E5%86%9B%E6%88%90%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [这些新大学分数赶超“985” - 2025-09-14](AI_Reports/jiao-yu-yu-kao-shi/zhe-xie-xin-da-xue-fen-shu-gan-chao-985-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%96%B0%E5%A4%A7%E5%AD%A6%E5%88%86%E6%95%B0%E8%B5%B6%E8%B6%85%E2%80%9C985%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [有小学建议不让老人接送小孩 - 2025-09-12](AI_Reports/jiao-yu-yu-kao-shi/you-xiao-xue-jian-yi-bu-rang-lao-ren-jie-song-xiao-hai-2025-09-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%89%E5%B0%8F%E5%AD%A6%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%AE%A9%E8%80%81%E4%BA%BA%E接送小孩&sa=fyb_news&rsv_dl=fyb_news)
