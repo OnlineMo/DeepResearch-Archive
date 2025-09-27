@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：92
+报告总数：93
 
 ---
 
@@ -114,6 +114,7 @@
 
 - [完整准确全面贯彻新时代党的治疆方略](wan-zheng-zhun-que-quan-mian-guan-che-xin-shi-dai-dang-de-zhi-jiang-fang-lue-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%8C%E6%95%B4%E5%87%86%E7%A1%AE%E5%85%A8%E9%9D%A2%E8%B4%AF%E5%BD%BB%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%9A%E7%9A%84%E6%B2%BB%E7%96%86%E6%96%B9%E7%95%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [旺旺集团总经理：去看祖国的阅兵仪式](wang-wang-ji-tuan-zong-jing-li-qu-kan-zu-guo-de-yue-bing-yi-shi-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E9%9B%86%E5%9B%A2%E6%80%BB%E7%BB%8F%E7%90%86%EF%BC%9A%E5%8E%BB%E7%9C%8B%E7%A5%96%E5%9B%BD%E7%9A%84%E9%98%85%E5%85%B5%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [为新疆更美好的明天共同奋斗](wei-xin-jiang-geng-mei-hao-de-ming-tian-gong-tong-fen-dou-2025-09-27--v1.md) - 2025-09-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E6%96%B0%E7%96%86%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%98%8E%E5%A4%A9%E5%85%B1%E5%90%8C%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 
 ## X
 
