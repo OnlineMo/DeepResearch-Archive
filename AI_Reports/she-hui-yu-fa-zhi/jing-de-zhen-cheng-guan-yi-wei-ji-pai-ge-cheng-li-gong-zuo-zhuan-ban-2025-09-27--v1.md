@@ -1,0 +1,59 @@
+版次: 头版（v1）
+日期: 2025-09-27
+主题: 景德镇城管已为鸡排哥成立工作专班
+
+来源: https://www.baidu.com/s?wd=%E6%99%AF%E5%BE%B7%E9%95%87%E5%9F%8E%E7%AE%A1%E5%B7%B2%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news
+
+# 景德镇城管已为鸡排哥成立工作专班
+
+## 摘要
+- 景德镇城市管理部门已为网络走红的“鸡排哥”事件成立工作专班，旨在规范其经营行为、维护现场秩序，并借势促进当地文旅发展。
+- 这一举措被普遍认为是城市管理理念“人性化”和“柔性”转变的体现，获得了广泛的积极评价。
+- 工作专班已将“鸡排哥”摊位规范至新的便民摊位区，提供了更大的经营空间，并协助维持了现场秩序。
+- “鸡排哥”事件凸显了网红经济对城市管理的挑战，以及在支持市场活力的同时，平衡公共秩序与规范管理的重要性。
+- 截至2025年9月，尚未发现景德镇针对街头摊贩和网红经济出台具体的详细管理规范或推广“便民摊位区”的长效机制。
+
+## 背景
+景德镇“鸡排哥”因其独特的经营方式和“情绪价值”在网络上迅速走红，其店铺生意火爆，一度吸引大量顾客排队购买，甚至出现百米长队，造成交通堵塞，需要城管部门出动维持秩序 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Wm5mqq0P47XkqJENhF7pF4fX3ZFMeTwKvdNLHXuWkBR0Fzph92Ce-5gW2ezuGzRwS4mlQsnL4DwdS4P2qxjftxSPXCT27-D48vP5Q0DDUBNHaLM4_DLYZW2SR1YGuJBpKNhIGD9W49quZLFrSA==) [ettoday](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEajKxQNFueT9jJW1ShWGs9dE0sY_c_2BJpvXUK9udNPMf4VhrcHKt67XNLUxEKlUFi9eelh0VUq-4EnTWPuSSFgOmQSorpsbOEVgP9dOOWr7ySAX5KLOzpq4vW-uG_pkCRFy0T8utURBjRmw==) [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzx-ToPPAeoBYl0MAEyCCgzL7KXTJXAdS-0QKDm35VM1PSrpP1_Lk73JfZrY1qWH7255X0_2xdQn0bUs_9sSl6Orcyl2v-YfkSwE6D6z5oEoS4x98a0qQ83SBy11KtkAfsFIFNLk0Mb5rIqgHzM2EzHpHiRyEXvTOywAj9qm4qk8xV4rPpam0jPWjmiVwyK7RKZ_IyHJ-qF98VI2llFHbMEQx61aqjDdQLeG91JDFRfDyt3MEf6UAKZ5NBURU3USKF6Yy4-5tArPlwp0Scv_aqjeUvgTN_ipz6f8jrFFXgji94V2rXgY169F9urzXkaiWheEyvPzamzVxb81wpjiqwUfpR_vaXB-wtUOSolR9cDdLTmSZb)。为应对由此引发的街头摊贩管理和网红经济挑战，景德镇城市管理部门已为“鸡排哥”事件成立了工作专班 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Wm5mqq0P47XkqJENhF7pF4fX3ZFMeTwKvdNLHXuWkBR0Fzph92Ce-5gW2ezuGzRwS4mlQsnL4DwdS4P2qxjftxSPXCT27-D48vP5Q0DDUBNHaLM4_DLYZW2SR1YGuJBpKNhIGD9W49quZLFrSA==) [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzx-ToPPAeoBYl0MAEyCCgzL7KXTJXAdS-0QKDm35VM1PSrpP1_Lk73JfZrY1qWH7255X0_2xdQn0bUs_9sSl6Orcyl2v-YfkSwE6D6z5oEoS4x98a0qQ83SBy11KtkAfsFIFNLk0Mb5rIqgHzM2EzHpHiRyEXvTOywAj9qm4qk8xV4rPpam0jPWjmiVwyK7RKZ_IyHJ-qF98VI2llFHbMEQx61aqjDdQLeG91JDFRfDyt3MEf6UAKZ5NBURU3USKF6Yy4-5tArPlwp0Scv_aqjeUvgTN_ipz6f8jrFFXgji94V2rXgY169F9urzXkaiWheEyvPzamzVxb81wpjiqwUfpR_vaXB-wtUOSolR9cDdLTmSZb)。此次事件的背景是城市管理部门在面对新媒体时代个体经营者迅速走红现象时，如何平衡市场活力、公共秩序与城市形象提升的挑战。
+
+## 深度分析
+### 工作专班的成立目的与具体举措
+景德镇城管成立工作专班的主要目的有三点：
+1.  **维持现场秩序与公共安全：** “鸡排哥”摊位前人潮涌动，曾造成交通堵塞，工作专班的首要任务便是维护现场秩序，确保公共安全 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzx-ToPPAeoBYl0MAEyCCgzL7KXTJXAdS-0QKDm35VM1PSrpP1_Lk73JfZrY1qWH7255X0_2xdQn0bUs_9sSl6Orcyl2v-YfkSwE6D6z5oEoS4x98a0qQ83SBy11KtkAfsFIFNLk0Mb5rIqgHzM2EzHpHiRyEXvTOywAj9qm4qk8xV4rPpam0jPWjmiVwyK7RKZ_IyHJ-qF98VI2llFHbMEQx61aqjDdQLeG91JDFRfDyt3MEf6UAKZ5NBURU3USKF6Yy4-5tArPlwp0Scv_aqjeUvgTN_ipz6f8jrFFXgji94V2rXgY169F9urzXkaiWheEyvPzamzVxb81wpjiqwUfpR_vaXB-wtUOSolR9cDdLTmSZb)。
+2.  **规范经营行为：** 城管执法人员提醒“鸡排哥”要注意规范摆摊，并于9月23日下午将其摊位规范至附近的便民摊位区，提供了新的、更大的经营空间，这是该区新划分的14个便民摊点之一 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzx-ToPPAeoBYl0MAEyCCgzL7KXTJXAdS-0QKDm35VM1PSrpP1_Lk73JfZrY1qWH7255X0_2xdQn0bUs_9sSl6Orcyl2v-YfkSwE6D6z5oEoS4x98a0qQ83SBy11KtkAfsFIFNLk0Mb5rIqgHzM2EzHpHiRyEXvTOywAj9qm4qk8xV4rPpam0jPWjmiVwyK7RKZ_IyHJ-qF98VI2llFHbMEQx61aqjDdQLeG91JDFRfDyt3MEf6UAKZ5NBURU3USKF6Yy4-5tArPlwp0Scv_aqjeUvgTN_ipz6f8jrFFXgji94V2rXgY169F9urzXkaiWheEyvPzamzVxb81wpjiqwUfpR_vaXB-wtUOSolR9cDdLTmSZb) [ettoday](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMD0WsND1xzAzS_CB1yrlqqe3-vaChKvmSscKAW-CrSNyffYu9LRU6iEjMkWVmUeCFRbGZWMTTgM_M0eovAt_XZqzMrhLjRLyxsf1Hqeyq1Ujt1Gzi_x1scjyGEYZ9DJGKhWKGF8EiMMKVbg==)。“鸡排哥”本人对此表示服从管理 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzx-ToPPAeoBYl0MAEyCCgzL7KXTJXAdS-0QKDm35VM1PSrpP1_Lk73JfZrY1qWH7255X0_2xdQn0bUs_9sSl6Orcyl2v-YfkSwE6D6z5oEoS4x98a0qQ83SBy11KtkAfsFIFNLk0Mb5rIqgHzM2EzHpHiRyEXvTOywAj9qm4qk8xV4rPpam0jPWjmiVwyK7RKZ_IyHJ-qF98VI2llFHbMEQx61aqjDdQLeG91JDFRfDyt3MEf6UAKZ5NBURU3USKF6Yy4-5tArPlwp0Scv_aqjeUvgTN_ipz6f8jrFFXgji94V2rXgY169F9urzXkaiWheEyvPzamzVxb81wpjiqwUfpR_vaXB-wtUOSolR9cDdLTmSZb)。
+3.  **借势发展文旅：** 当地相关部门希望“接住这波流量”，将“鸡排哥”的网红效应转化为城市名片，带动当地旅游发展。有城管工作人员甚至向网友推荐了“鸡排哥”摊位附近的景德镇古窑民俗博览区和景德镇市博物馆等景区 [gscn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBr0JHuGmvSa1-Wja9Nc29hUUhmwTzM8cAgnn46oB7XDEZoDLIMBpebwLjM-rMZBl9aGrEI-8yWQKTsjnmLM8wDpd_kVLPy4ejZynHPc1tOqTkjfQwpVRPBiJStJtma5hFag5Ic1mevI_Z_5DcXEmelG2aqw==) [ctdsb](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW6Di7Uk2KDx486dRQeCQh2Lg-T5V4oVerPqyE7VvTqopj40u_-92OjgJ1lfi-uYZ2q_aCto6GIriNAO7CETZ3yLik5VQL9iOsj2I4Ply5D8qmBfOmaWX1H6YZbl0Ua2SPxBW0DWxhTPI=)。
+
+### 管理理念的转变与社会评价
+景德镇城管的这一做法普遍获得了积极评价：
+-   媒体和公众认为，景德镇城管采取了“人性化”和“柔性”的管理方式，而非传统的强硬执法，体现了城市管理理念的进步 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzx-ToPPAeoBYl0MAEyCCgzL7KXTJXAdS-0QKDm35VM1PSrpP1_Lk73JfZrY1qWH7255X0_2xdQn0bUs_9sSl6Orcyl2v-YfkSwE6D6z5oEoS4x98a0qQ83SBy11KtkAfsFIFNLk0Mb5rIqgHzM2EzHpHiRyEXvTOywAj9qm4qk8xV4rPpam0jPWjmiVwyK7RKZ_IyHJ-qF98VI2llFHbMEQx61aqjDdQLeG91JDFRfDyt3MEf6UAKZ5NBURU3USKF6Yy4-5tArPlwp0Scv_aqjeUvgTN_ipz6f8jrFFXgji94V2rXgY169F9urzXkaiWheEyvPzamzVxb81wpjiqwUfpR_vaXB-wtUOSolR9cDdLTmSZb) [gscn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBr0JHuGmvSa1-Wja9Nc29hUUhmwTzM8cAgnn46oB7XDEZoDLIMBpebwLjM-rMZBl9aGrEI-8yWQKTsjnmLM8wDpd_kVLPy4ejZynHPc1tOqTkjfQwpVRPBiJStJtma5hFag5Ic1mevI_Z_5DcXEmelG2aqw==) [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYfK_Up9v_knrroQc0HvqPHAo2qDEfbxLJ0G3xTGzRUbQDxjewkmYAn8Wn1m2j5m7mEFtOD9f4cfY-2CsdbcdGN53PrcB_URTIaqEZdbn7UFnMOPZg4bi1i_ebfQ2KPBS3iv-d9BN1SHOIMLHP_qQZSTddgfAGcTdn)。
+-   此举被视为政府部门积极应对新媒体时代城市管理挑战的典范，既解决了网红摊位带来的秩序问题，又支持了地方特色经济和文旅发展 [gscn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBr0JHuGmvSa1-Wja9Nc29hUUhmwTzM8cAgnn46oB7XDEZoDLIMBpebwLjM-rMZBl9aGrEI-8yWQKTsjnmLM8wDpd_kVLPy4ejZynHPc1tOqTkjfQwpVRPBiJStJtma5hFag5Ic1mevI_Z_5DcXEmelG2aqw==) [ctdsb](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW6Di7Uk2KDx486dRQeCQh2Lg-T5V4oVerPqyE7VvTqopj40u_-92OjgJ1lfi-uYZ2q_aCto6GIriNAO7CETZ3yLik5VQL9iOsj2I4Ply5D8qmBfOmaWX1H6YZbl0Ua2SPxBW0DWxhTPI=)。
+-   有评论指出，“鸡排哥”的走红及其与城管的良性互动，为景德镇带来了积极的城市宣传效应，有望成为当地的一张“名片” [gscn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBr0JHuGmvSa1-Wja9Nc29hUUhmwTzM8cAgnn46oB7XDEZoDLIMBpebwLjM-rMZBl9aGrEI-8yWQKTsjnmLM8wDpd_kVLPy4ejZynHPc1tOqTkjfQwpVRPBiJStJtma5hFag5Ic1mevI_Z_5DcXEmelG2aqw==) [ctdsb](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW6Di7Uk2KDx486dRQeCQh2Lg-T5V4oVerPqyE7VvTqopj40u_-92OjgJ1lfi-uYZ2q_aCto6GIriNAO7CETZ3yLik5VQL9iOsj2I4Ply5D8qmBfOmaWX1H6YZbl0Ua2SPxBW0DWxhTPI=)。
+
+### 网红经济的启示与挑战
+“鸡排哥”的走红被视为对餐饮行业的一种启示，凸显了个体经营者凭借亲切服务态度、独特经营方式和“情绪价值”吸引顾客的潜力，以及其在预制菜盛行背景下，以“新鲜采购、自己腌制”等个性化、现做模式赢得消费者青睐的现象 [cppcc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbneIxYdpxydy7CcRDI7_-wnRdFNzZVLToTUc56JkcT1Y_9DosJyM79dYjJbXi3pZCWK-mOjsMpaUgXBQeCgDJ_ZnfL9r4IC8f8MZp_qtBQAqAvft08UaxJsVuZ2v5ZwHGoqh5idjwUiOgDd_YUmBsu-AZxs8I3TrHWBJXEA==) [ruijin](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgOzc94RHiwk2pYt4i-GKe_pBmFQ_KvXLLPxw5MGAQjdZqG_BlbLd_v1XbKsepXOyo9s_PTCv1bjbSzb6rQJyHubSAByPI-jvaAOtVVGn1HFJDFuY=)。此次事件表明，城市管理部门在面对此类“网红”现象时，需要平衡市场活力与规范管理，既要支持创新和特色经济，又要维护公共秩序和城市形象。值得一提的是，“鸡排哥”本人也采取了限购措施来应对其突然走红带来的巨大客流，旨在尽可能保障每位食客都能品尝到其产品，这体现了经营者在走红后的自我规范意识。
+
+## 结论与建议
+### 结论
+景德镇城市管理部门为“鸡排哥”成立工作专班，是其在面对网红经济和街头摊贩管理挑战时，采取的一种积极、柔性且富有远见的管理策略。该策略成功地将潜在的秩序问题转化为城市宣传和文旅发展的机遇，体现了城市管理理念的进步。
+
+### 建议
+1.  **推广“便民摊位区”模式：** 鉴于“便民摊位区”模式在解决“鸡排哥”摊位秩序问题上的初步成功，建议景德镇市进一步研究并推广该模式，明确其申请条件、管理规范和长效机制，以更好地引导和支持个体经营者，同时维护城市秩序。
+2.  **制定网红经济管理指南：** 针对日益增多的网红摊位和网红经济现象，建议城市管理部门研究制定一套更具前瞻性的管理指南或政策，平衡创新活力与公共利益，避免因缺乏明确规范而导致的管理难题。
+3.  **加强政务服务与柔性执法：** 持续优化营商环境，深化主动对接、靠前服务、加大支持、细化管理等举措，并继续推行柔性执法，构建亲清政商关系，提升城市管理工作的质量和效率。
+
+### 限制条件与待后续验证的问题
+-   截至2025年9月，通过公开搜索结果，尚未发现景德镇城市管理部门出台针对街头摊贩和网红经济的详细新管理规范或政策 [ganzhou](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXqO60JHK1M1f-7OWzqFMO8Rmt9LrpdxZNqjNcHnZq2FC3Zafv4YASx4legn5u9NiDxPiJSRx8yL4c1DvG68lkwgCcO1B0k4rsNzX5_j97rL81VoZ2FQ==)。
+-   “便民摊位区”模式的长期效果、推广范围以及具体申请条件和长效管理机制仍待观察和明确。
+-   此次事件是否会促使景德镇形成一套可复制的网红经济管理经验，并被其他城市借鉴，尚需时间验证。
+
+## 数据与引用
+-   [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Wm5mqq0P47XkqJENhF7pF4fX3ZFMeTwKvdNLHXuWkBR0Fzph92Ce-5gW2ezuGzRwS4mlQsnL4DwdS4P2qxjftxSPXCT27-D48vP5Q0DDUBNHaLM4_DLYZW2SR1YGuJBpKNhIGD9W49quZLFrSA==)
+-   [ettoday](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEajKxQNFueT9jJW1ShWGs9dE0sY_c_2BJpvXUK9udNPMf4VhrcHKt67XNLUxEKlUFi9eelh0VUq-4EnTWPuSSFgOmQSorpsbOEVgP9dOOWr7ySAX5KLOzpq4vW-uG_pkCRFy0T8utURBjRmw==)
+-   [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzx-ToPPAeoBYl0MAEyCCgzL7KXTJXAdS-0QKDm35VM1PSrpP1_Lk73JfZrY1qWH7255X0_2xdQn0bUs_9sSl6Orcyl2v-YfkSwE6D6z5oEoS4x98a0qQ83SBy11KtkAfsFIFNLk0Mb5rIqgHzM2EzHpHiRyEXvTOywAj9qm4qk8xV4rPpam0jPWjmiVwyK7RKZ_IyHJ-qF98VI2llFHbMEQx61aqjDdQLeG91JDFRfDyt3MEf6UAKZ5NBURU3USKF6Yy4-5tArPlwp0Scv_aqjeUvgTN_ipz6f8jrFFXgji94V2rXgY169F9urzXkaiWheEyvPzamzVxb81wpjiqwUfpR_vaXB-wtUOSolR9cDdLTmSZb)
+-   [ettoday](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMD0WsND1xzAzS_CB1yrlqqe3-vaChKvmSscKAW-CrSNyffYu9LRU6iEjMkWVmUeCFRbGZWMTTgM_M0eovAt_XZqzMrhLjRLyxsf1Hqeyq1Ujt1Gzi_x1scjyGEYZ9DJGKhWKGF8EiMMKVbg==)
+-   [gscn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBr0JHuGmvSa1-Wja9Nc29hUUhmwTzM8cAgnn46oB7XDEZoDLIMBpebwLjM-rMZBl9aGrEI-8yWQKTsjnmLM8wDpd_kVLPy4ejZynHPc1tOqTkjfQwpVRPBiJStJtma5hFag5Ic1mevI_Z_5DcXEmelG2aqw==)
+-   [ctdsb](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW6Di7Uk2KDx486dRQeCQh2Lg-T5V4oVerPqyE7VvTqopj40u_-92OjgJ1lfi-uYZ2q_aCto6GIriNAO7CETZ3yLik5VQL9iOsj2I4Ply5D8qmBfOmaWX1H6YZbl0Ua2SPxBW0DWxhTPI=)
+-   [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYfK_Up9v_knrroQc0HvqPHAo2qDEfbxLJ0G3xTGzRUbQDxjewkmYAn8Wn1m2j5m7mEFtOD9f4cfY-2CsdbcdGN53PrcB_URTIaqEZdbn7UFnMOPZg4bi1i_ebfQ2KPBS3iv-d9BN1SHOIMLHP_qQZSTddgfAGcTdn)
+-   [cppcc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbneIxYdpxydy7CcRDI7_-wnRdFNzZVLToTUc56JkcT1Y_9DosJyM79dYjJbXi3pZCWK-mOjsMpaUgXBQeCgDJ_ZnfL9r4IC8f8MZp_qtBQAqAvft08UaxJsVuZ2v5ZwHGoqh5idjwUiOgDd_YUmBsu-AZxs8I3TrHWBJXEA==)
+-   [ruijin](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgOzc94RHiwk2pYt4i-GKe_pBmFQ_KvXLLPxw5MGAQjdZqG_BlbLd_v1XbKsepXOyo9s_PTCv1bjbSzb6rQJyHubSAByPI-jvaAOtVVGn1HFJDFuY=)
+-   [ganzhou](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXqO60JHK1M1f-7OWzqFMO8Rmt9LrpdxZNqjNcHnZq2FC3Zafv4YASx4legn5u9NiDxPiJSRx8yL4c1DvG68lkwgCcO1B0k4rsNzX5_j97rL81VoZ2FQ==)
