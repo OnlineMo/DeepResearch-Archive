@@ -1,7 +1,7 @@
 # 行业与公司 报告索引
 
 本页包含 **行业与公司** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：5
+报告总数：6
 
 ---
 
@@ -24,3 +24,7 @@
 ## P
 
 - [苹果的牙膏“挤爆了”](ping-guo-de-ya-gao-ji-bao-liao-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E7%89%99%E8%86%8F%E2%80%9C%E6%8C%A4%E7%88%86%E4%BA%86%E2%88%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## Z
+
+- [中国专业技术人才超过8000万人](zhong-guo-zhuan-ye-ji-zhu-ren-cai-chao-guo-8000mo-ren-2025-09-27--v1.md) - 2025-09-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E4%BA%BA%E6%89%8D%E8%B6%85%E8%BF%878000%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
