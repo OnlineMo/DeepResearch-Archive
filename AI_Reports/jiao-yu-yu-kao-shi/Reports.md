@@ -1,7 +1,7 @@
 # 教育与考试 报告索引
 
 本页包含 **教育与考试** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：8
+报告总数：9
 
 ---
 
@@ -20,6 +20,10 @@
 ## L
 
 - [刘备扮演者孙彦军成大学校长](liu-bei-ban-yan-zhe-sun-yan-jun-cheng-da-xue-xiao-chang-2025-09-26--v1.md) - 2025-09-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%88%98%E5%87%86%E5%A4%87%E6%89%AE%E6%BC%94%E8%80%85%E5%AD%99%E5%BD%A6%E5%86%9B%E6%88%90%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)
+
+## S
+
+- [事关1670多万学生 六部门重磅发文](shi-guan-1670duo-mo-xue-sheng-liu-bu-men-zhong-bang-fa-wen-2025-09-27--v1.md) - 2025-09-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B31670%E5%A4%9A%E4%B8%87%E5%AD%A6%E7%94%9F+%E5%85%AD%E9%83%A8%E9%97%A8%E9%87%8D%E7%A3%85%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
