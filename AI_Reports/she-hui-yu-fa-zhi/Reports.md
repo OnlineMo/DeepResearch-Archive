@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：25
+报告总数：27
 
 ---
 
@@ -22,6 +22,7 @@
 
 ## G
 
+- [甘肃陇西发生5.6级地震](gan-su-long-xi-fa-sheng-5-6ji-di-zhen-2025-09-27--v1.md) - 2025-09-27 (v1) [来源](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%99%87%E8%A5%BF%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)
 - [高速上有人戴恐怖面具吓过路车辆](gao-su-shang-you-ren-dai-kong-bu-mian-ju-xia-guo-lu-che-liang-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E4%B8%8A%E6%9C%89%E4%BA%BA%E6%88%B4%E6%81%90%E5%90%AB%E9%9D%A2%E5%85%B7%E5%90%93%E8%BF%87%E8%B7%AF%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## H
@@ -30,6 +31,7 @@
 
 ## J
 
+- [景德镇城管已为鸡排哥成立工作专班](jing-de-zhen-cheng-guan-yi-wei-ji-pai-ge-cheng-li-gong-zuo-zhuan-ban-2025-09-27--v1.md) - 2025-09-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AF%E5%BE%B7%E9%95%87%E5%9F%8E%E7%AE%A1%E5%B7%B2%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [景区游客从40米高空坠落：水里有血迹](jing-qu-you-ke-cong-40mi-gao-kong-zhui-luo-shui-li-you-xie-ji-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E4%BB%8E40%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD%EF%BC%9A%E6%B0%B4%E9%87%8C%E6%9C%89%E8%A1%80%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)
 
 ## K
