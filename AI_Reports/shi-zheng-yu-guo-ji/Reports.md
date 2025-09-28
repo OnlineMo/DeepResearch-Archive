@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：93
+报告总数：96
 
 ---
 
@@ -27,6 +27,7 @@
 
 ## C
 
+- [朝鲜宣布将对被判有罪人员实施大赦](zhao-xian-xuan-bu-jiang-dui-bei-pan-you-zui-ren-yuan-shi-shi-da-she-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AF%B9%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BA%BA%E5%91%98%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%B5%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [从两种精神看新疆70年巨变](cong-liang-chong-jing-shen-kan-xin-jiang-70nian-ju-bian-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%A4%E7%A7%8D%E7%B2%BE%E7%A5%9E%E7%9C%8B%E6%96%B0%E7%96%8670%E5%B9%B4%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
@@ -85,6 +86,7 @@
 
 ## Q
 
+- [全球首例！中国航母福建舰创纪录](quan-qiu-shou-li-zhong-guo-hang-mu-fu-jian-jian-chuang-ji-lu-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E7%A6%8F%E5%BB%BA%E8%88%B9%E5%88%9B%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)
 - [全球最强台风明日登陆广东](quan-qiu-zui-qiang-tai-feng-ming-ri-deng-lu-yan-dong-2025-09-23--v1.md) - 2025-09-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%B7%E5%8F%B0%E9%A3%8E%E6%98%8E%E6%97%A5%E7%99%B2%E9%99%86%E5%B9%BF%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## R
@@ -100,6 +102,7 @@
 - [山河永念 英雄归乡](shan-he-yong-nian-ying-xiong-gui-xiang-2025-09-13--v1.md) - 2025-09-13 (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B2%B3%E6%B0%B8%E5%BF%B5+%E8%8B%B1%E9%9B%84%E5%BD%92%E4%B9%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [上合组织经贸合作“含金量”](shang-he-zu-zhi-jing-mao-he-zuo-han-jin-liang-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E2%80%9C%E5%90%AB%E9%87%91%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [胜利日的难忘瞬间](sheng-li-ri-de-nan-wang-shun-jian-2025-09-11--v1.md) - 2025-09-11 (v1) [来源](https://www.baidu.com/s?wd=%E8%83%9C%E5%88%A9%E6%97%A5%E7%9A%84%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
+- [石榴籽，习近平为何一再强调](shi-liu-zi-xi-jin-ping-wei-he-yi-zai-qiang-diao-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E7%9F%B3%E6%A6%B4%E7%B1%BD%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E4%B8%80%E5%86%8D%E5%BC%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## T
 
