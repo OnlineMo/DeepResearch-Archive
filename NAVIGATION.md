@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [全球首例！中国航母福建舰创纪录 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/quan-qiu-shou-li-zhong-guo-hang-mu-fu-jian-jian-chuang-ji-lu-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E7%A6%8F%E5%BB%BA%E8%88%B9%E5%88%9B%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)
+- [石榴籽，习近平为何一再强调 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/shi-liu-zi-xi-jin-ping-wei-he-yi-zai-qiang-diao-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9F%B3%E6%A6%B4%E7%B1%BD%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E4%B8%80%E5%86%8D%E5%BC%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
+- [朝鲜宣布将对被判有罪人员实施大赦 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/zhao-xian-xuan-bu-jiang-dui-bei-pan-you-zui-ren-yuan-shi-shi-da-she-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AF%B9%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BA%BA%E5%91%98%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%B5%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [为新疆更美好的明天共同奋斗 - 2025-09-27](AI_Reports/shi-zheng-yu-guo-ji/wei-xin-jiang-geng-mei-hao-de-ming-tian-gong-tong-fen-dou-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E6%96%B0%E7%96%86%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%98%8E%E5%A4%A9%E5%85%B1%E5%90%8C%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 - [这是我们的新疆！ - 2025-09-26](AI_Reports/shi-zheng-yu-guo-ji/zhe-shi-wo-men-de-xin-jiang-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记心中“很有意义”的一个事业 - 2025-09-26](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-xin-zhong-hen-you-yi-yi-de-yi-ge-shi-ye-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E2%80%9C%E5%BE%88%E6%9C%89%E6%84%8F%E4%B9%89%E2%80%9D%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BA%8B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [看总书记关心的清洁能源这样发电 - 2025-09-22](AI_Reports/shi-zheng-yu-guo-ji/kan-zong-shu-ji-guan-xin-de-qing-ji-neng-yuan-zhe-yang-fa-dian-2025-09-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E5%BF%83%E7%9A%84%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90%E8%BF%99%E6%A0%B7%E5%8F%91%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [以总理：绝不会有巴勒斯坦国 等着瞧 - 2025-09-22](AI_Reports/shi-zheng-yu-guo-ji/yi-zong-li-jue-bu-hui-you-ba-le-si-tan-guo-deng-zhao-qiao-2025-09-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E6%80%BB%E7%90%86%EF%BC%9A%E7%BB%9D%E4%B8%8D%E4%BC%9A%E6%9C%89%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD+%E7%AD%89%E7%9D%80%E7%9E%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [菲将举行大规模游行 中使馆发提醒 - 2025-09-21](AI_Reports/shi-zheng-yu-guo-ji/fei-jiang-ju-xing-da-gui-mo-you-xing-zhong-shi-guan-fa-ti-xing-2025-09-21--v1.md) (v1)
-- [近距离感受“大国重器” - 2025-09-21](AI_Reports/shi-zheng-yu-guo-ji/jin-ju-chi-gan-shou-da-guo-zhong-qi-2025-09-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%91%E8%B7%9D%E7%A6%BB%E6%84%9F%E5%8F%97%E2%80%9C%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [中美完全可以相互成就、共同繁荣 - 2025-09-21](AI_Reports/shi-zheng-yu-guo-ji/zhong-mei-wan-quan-ke-yi-xiang-hu-cheng-jiu-gong-tong-fan-rong-2025-09-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%B2%E6%88%90%E5%B0%B1%E3%80%81%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)
-- [壁纸上新！中国战机高清大片来了 - 2025-09-20](AI_Reports/shi-zheng-yu-guo-ji/bi-zhi-shang-xin-zhong-guo-zhan-ji-gao-qing-da-pian-lai-liao-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A3%81%E7%BA%B8%E4%B8%8A%E6%96%B0%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%98%E6%9C%BA%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -103,6 +103,7 @@
 ## 政策与法规
 [点击查看政策与法规完整报告索引 →](AI_Reports/zheng-ce-yu-fa-gui/Reports.md)
 
+- [事关你我 10月起一批新规即将施行 - 2025-09-28](AI_Reports/zheng-ce-yu-fa-gui/shi-guan-ni-wo-10yue-qi-yi-pi-xin-gui-ji-jiang-shi-xing-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E4%BD%A0%E6%88%91+10%E6%9C%88%E8%B5%B7%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%8D%B3%E5%B0%86%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [住房租赁新规来了 如何影响你我 - 2025-09-15](AI_Reports/zheng-ce-yu-fa-gui/zhu-fang-zu-ren-xin-gui-lai-liao-ru-he-ying-xiang-ni-wo-2025-09-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E7%A7%9F%E8%B5%81%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86+%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)
 - [9月新规来了 - 2025-08-30](AI_Reports/zheng-ce-yu-fa-gui/9yue-xin-gui-lai-liao-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=9%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [官方：支持老旧住房自主更新 - 2025-08-29](AI_Reports/zheng-ce-yu-fa-gui/guan-fang-zhi-chi-lao-jiu-zhu-fang-zi-zhu-geng-xin-2025-08-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E6%94%AF%E6%8C%81%E8%80%81%E6%97%A7%E4%BD%8F%E6%88%BF%E8%87%AA%E4%B8%BB%E6%9B%B4%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)
@@ -162,6 +163,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [献给新疆维吾尔自治区成立70周年 - 2025-09-28](AI_Reports/wei-fen-lei/xian-gei-xin-jiang-wei-wu-er-zi-zhi-qu-cheng-li-70zhou-nian-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8C%AE%E7%BB%99%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [广州塔“定塔神器”出现明显摆动 - 2025-09-25](AI_Reports/wei-fen-lei/yan-zhou-ta-ding-ta-shen-qi-chu-xian-ming-xian-bai-dong-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%A1%94%E2%80%9C%E5%AE%9A%E5%A1%94%E7%A5%9E%E5%99%A8%E2%80%9D%E5%87%BA%E7%8E%B0%E6%98%8E%E6%98%BE%E6%91%86%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [桦加沙风眼内部曝光 拍摄部门：震撼 - 2025-09-24](AI_Reports/wei-fen-lei/hua-jia-sha-feng-yan-nei-bu-pu-guang-pai-she-bu-men-zhen-han-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A1%A6%E5%8A%A0%E6%B2%99%E9%A3%8E%E7%9C%BC%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89+%E6%8B%8D%E6%91%84%E9%83%A8%E9%97%A8%EF%BC%9A%E9%9C%87%E6%92%BC&sa=fyb_news&rsv_dl=fyb_news)
 - [今日起 常温纯牛奶中禁止添加复原乳 - 2025-09-16](AI_Reports/wei-fen-lei/jin-ri-qi-chang-wen-chun-niu-nai-zhong-jin-zhi-tian-jia-fu-yuan-ru-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E8%B5%B7+%E5%B8%B8%E6%B8%A9%E7%BA%AF%E7%89%9B%E5%A5%B6%E4%B8%AD%E7%A6%81%E6%AD%A2%E6%B7%BB%E5%8A%A0%E5%A4%8D%E5%8E%9F%E4%B9%B3&sa=fyb_news&rsv_dl=fyb_news)
