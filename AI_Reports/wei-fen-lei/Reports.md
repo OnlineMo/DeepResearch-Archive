@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：8
+报告总数：9
 
 ---
 
@@ -28,6 +28,10 @@
 ## R
 
 - [日本首相石破茂决定辞职](ri-ben-shou-xiang-shi-po-mao-jue-ding-ci-zhi-2025-09-07--v1.md) - 2025-09-07 (v1)
+
+## X
+
+- [献给新疆维吾尔自治区成立70周年](xian-gei-xin-jiang-wei-wu-er-zi-zhi-qu-cheng-li-70zhou-nian-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E7%8C%AE%E7%BB%99%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
