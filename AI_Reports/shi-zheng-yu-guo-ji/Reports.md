@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：96
+报告总数：97
 
 ---
 
@@ -56,6 +56,7 @@
 
 - [纪念抗战胜利80周年大会完整视频](ji-nian-kang-zhan-sheng-li-80zhou-nian-da-hui-wan-zheng-shi-pin-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 - [纪念“九一八”事变94周年](ji-nian-jiu-yi-ba-shi-bian-94zhou-nian-2025-09-18--v1.md) - 2025-09-18 (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E2%80%9C%E4%B9%9D%E4%B8%80%E5%85%AB%E2%80%9D%E4%BA%8B%E5%8F%9894%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
+- [坚守党校初心 服务工作大局](jian-shou-dang-xiao-chu-xin-fu-wu-gong-zuo-da-ju-2025-09-29--v1.md) - 2025-09-29 (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%85%9A%E6%A0%A1%E5%88%9D%E5%BF%83+%E6%9C%8D%E5%8A%A1%E5%B7%A5%E4%BD%9C%E5%A4%A7%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [江苏、江西省委书记等带头捐款](jiang-su-jiang-xi-sheng-wei-shu-ji-deng-dai-tou-juan-kuan-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E3%80%81%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%AD%89%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [金正恩乘专列来华 现场画面公布](jin-zheng-en-cheng-zhuan-lie-lai-hua-xian-chang-hua-mian-gong-bu-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%98%E4%B8%93%E5%88%97%E6%9D%A5%E5%8D%8E+%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)
 - [近距离感受“大国重器”](jin-ju-chi-gan-shou-da-guo-zhong-qi-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%91%E8%B7%9D%E7%A6%BB%E6%84%9F%E5%8F%97%E2%80%9C%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
