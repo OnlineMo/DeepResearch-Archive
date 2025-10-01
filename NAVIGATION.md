@@ -3,6 +3,10 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [美国白宫正式宣布政府即将“关门” - 2025-10-01](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-bai-gong-zheng-shi-xuan-bu-zheng-fu-ji-jiang-guan-men-2025-10-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E6%94%BF%E5%BA%9C%E5%8D%B3%E5%B0%86%E2%80%9C%E5%85%B3%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [天安门广场国庆升旗仪式完整视频 - 2025-10-01](AI_Reports/shi-zheng-yu-guo-ji/tian-an-men-yan-chang-guo-qing-sheng-qi-yi-shi-wan-zheng-shi-pin-2025-10-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平深情瞻仰人民英雄纪念碑 - 2025-10-01](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-shen-qing-zhan-yang-ren-min-ying-xiong-ji-nian-bei-2025-10-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E7%9E%BB%E4%BB%B0%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news)
+- [中国正式成为安第斯共同体观察员国 - 2025-10-01](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-zheng-shi-cheng-wei-an-di-si-gong-tong-ti-guan-cha-yuan-guo-2025-10-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E6%88%90%E4%B8%BA%E5%AE%89%E7%AC%AC%E6%96%AF%E5%85%B1%E5%90%8C%E4%BD%93%E8%A7%82%E5%AF%9F%E5%91%98%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [二十届四中全会10月20日至23日召开 - 2025-09-30](AI_Reports/shi-zheng-yu-guo-ji/er-shi-jie-si-zhong-quan-hui-10yue-20ri-zhi-23ri-zhao-kai-2025-09-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A10%E6%9C%8820%E6%97%A5%E8%87%B323%E6%97%A5%E5%8F%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
 - [烈士纪念日 向人民英雄敬献花篮 - 2025-09-30](AI_Reports/shi-zheng-yu-guo-ji/lie-shi-ji-nian-ri-xiang-ren-min-ying-xiong-jing-xian-hua-lan-2025-09-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5+%E5%90%91%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%95%AC%E7%8C%AE%E8%8A%B1%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [内塔尼亚胡向卡塔尔道歉 - 2025-09-30](AI_Reports/shi-zheng-yu-guo-ji/nei-ta-ni-ya-hu-xiang-qia-ta-er-dao-qian-2025-09-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%90%91%E5%8D%A1%E5%A1%94%E5%B0%94%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
@@ -19,10 +23,6 @@
 - [习近平接见新疆各族各界代表 - 2025-09-24](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-jie-jian-xin-jiang-ge-zu-ge-jie-dai-biao-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8E%A5%E8%A7%81%E6%96%B0%E7%96%86%E5%90%84%E6%97%8F%E5%90%84%E7%95%8C%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [广东省委书记：决战就在眼前 - 2025-09-24](AI_Reports/shi-zheng-yu-guo-ji/yan-dong-sheng-wei-shu-ji-jue-zhan-jiu-zai-yan-qian-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E5%86%B3%E6%88%98%E5%B0%B1%E5%9C%A8%E7%9C%BC%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [援疆的山海深情 跨越千里万里 - 2025-09-24](AI_Reports/shi-zheng-yu-guo-ji/yuan-jiang-de-shan-hai-shen-qing-kua-yue-qian-li-mo-li-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8F%B4%E7%96%86%E7%9A%84%E5%B1%B1%E6%B5%B7%E6%B7%B1%E6%83%85+%E8%B7%A8%E8%B6%8A%E5%8D%83%E9%87%8C%E4%B8%87%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
-- [安理会五常仅美国未承认巴勒斯坦国 - 2025-09-23](AI_Reports/shi-zheng-yu-guo-ji/an-li-hui-wu-chang-jin-mei-guo-wei-cheng-ren-ba-le-si-tan-guo-2025-09-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%89%E7%90%86%E4%BC%9A%E4%BA%94%E5%B8%B8%E4%BB%85%E7%BE%8E%E5%9B%BD%E6%9C%AA%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
-- [全球最强台风明日登陆广东 - 2025-09-23](AI_Reports/shi-zheng-yu-guo-ji/quan-qiu-zui-qiang-tai-feng-ming-ri-deng-lu-yan-dong-2025-09-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%B7%E5%8F%B0%E9%A3%8E%E6%98%8E%E6%97%A5%E7%99%B2%E9%99%86%E5%B9%BF%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)
-- [像石榴籽一样紧紧抱在一起 - 2025-09-23](AI_Reports/shi-zheng-yu-guo-ji/xiang-shi-liu-zi-yi-yang-jin-jin-bao-zai-yi-qi-2025-09-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%83%8F%E7%9F%B3%E6%A6%B4%E7%B1%BD%E4%B8%80%E6%A0%B7%E7%B4%A7%E7%B4%A7%E6%8A%B1%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
-- [中国订单至今为零 美国豆农感受痛苦 - 2025-09-23](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-ding-dan-zhi-jin-wei-ling-mei-guo-dou-nong-gan-shou-tong-ku-2025-09-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%AE%A2%E5%8D%95%E8%87%B3%E4%BB%8A%E4%B8%BA%E9%9B%B6+%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%86%9C%E6%84%9F%E5%8F%97%E7%97%9B%E8%8B%A6&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -134,6 +134,7 @@
 ## 旅游与出行
 [点击查看旅游与出行完整报告索引 →](AI_Reports/lu-you-yu-chu-xing/Reports.md)
 
+- [重要提醒：非正规小众秘境去不得 - 2025-10-01](AI_Reports/lu-you-yu-chu-xing/zhong-yao-ti-xing-fei-zheng-gui-xiao-zhong-mi-jing-qu-bu-de-2025-10-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E8%A6%81%E6%8F%90%E9%86%92%EF%BC%9A%E9%9D%9E%E6%AD%A3%E8%A7%84%E5%B0%8F%E4%BC%97%E7%A7%98%E5%A2%83%E5%8E%BB%E4%B8%8D%E5%BE%97&sa=fyb_news&rsv_dl=fyb_news)
 - [文化旅游事业五年成绩单来了 - 2025-09-30](AI_Reports/lu-you-yu-chu-xing/wen-hua-lu-you-shi-ye-wu-nian-cheng-ji-dan-lai-liao-2025-09-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8%E4%BA%8B%E4%B8%81%E4%BA%94%E5%B9%B4%E6%88%90%E7%BB%A9%E5%8D%95%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [浙江一厕所高度还原玉虚宫引惊叹 - 2025-08-28](AI_Reports/lu-you-yu-chu-xing/zhe-jiang-yi-ce-suo-gao-du-huan-yuan-yu-xu-gong-yin-liang-tan-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%8E%95%E6%89%80%E9%AB%98%E5%BA%A6%E8%BF%98%E5%8E%9F%E7%8E%89%E8%99%9A%E5%AE%AB%E5%BC%95%E6%83%8A%E5%8F%B9&sa=fyb_news&rsv_dl=fyb_news)
 
