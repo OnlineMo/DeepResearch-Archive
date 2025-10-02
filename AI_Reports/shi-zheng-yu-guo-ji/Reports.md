@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：104
+报告总数：105
 
 ---
 
@@ -167,6 +167,7 @@
 - [中方：某常任理事国一意孤行令人失望](zhong-fang-mou-chang-ren-li-shi-guo-yi-yi-gu-xing-ling-ren-shi-wang-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%9F%90%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9B%BD%E4%B8%80%E6%84%8F%E5%AD%A4%E8%A1%8C%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议](zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-08-30--v1.md) - 2025-08-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国订单至今为零 美国豆农感受痛苦](zhong-guo-ding-dan-zhi-jin-wei-ling-mei-guo-dou-nong-gan-shou-tong-ku-2025-09-23--v1.md) - 2025-09-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%AE%A2%E5%8D%95%E8%87%B3%E4%BB%8A%E4%B8%BA%E9%9B%B6+%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%86%9C%E6%84%9F%E5%8F%97%E7%97%9B%E8%8B%A6&sa=fyb_news&rsv_dl=fyb_news)
+- [中国假期吸引世界流量](zhong-guo-jia-qi-xi-yin-shi-jie-liu-liang-2025-10-02--v1.md) - 2025-10-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%81%87%E6%9C%9F%E5%90%B8%E5%BC%95%E4%B8%96%E7%95%8C%E6%B5%81%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [中国抗战阅兵以来日本砸560亿搞公关](zhong-guo-kang-zhan-yue-bing-yi-lai-ri-ben-za-560yi-gao-gong-guan-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5%E4%BB%A5%E6%9D%A5%E6%97%A5%E6%9C%AC%E7%A0%B8560%E4%BA%BF%E6%90%9E%E5%85%AC%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [中国正式成为安第斯共同体观察员国](zhong-guo-zheng-shi-cheng-wei-an-di-si-gong-tong-ti-guan-cha-yuan-guo-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E6%88%90%E4%B8%BA%E5%AE%89%E7%AC%AC%E6%96%AF%E5%85%B1%E5%90%8C%E4%BD%93%E8%A7%82%E5%AF%9F%E5%91%98%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [中美完全可以相互成就、共同繁荣](zhong-mei-wan-quan-ke-yi-xiang-hu-cheng-jiu-gong-tong-fan-rong-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%B2%E6%88%90%E5%B0%B1%E3%80%81%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)
