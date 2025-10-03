@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [九三阅兵受阅部队集结画面首次公开 - 2025-10-03](AI_Reports/shi-zheng-yu-guo-ji/jiu-san-yue-bing-shou-yue-bu-dui-ji-jie-hua-mian-shou-ci-gong-kai-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%97%E9%98%9F%E9%98%9F%E9%9B%86%E7%BB%93%E7%94%BB%E9%9D%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
+- [普京：如果俄是纸老虎 那北约算什么？ - 2025-10-03](AI_Reports/shi-zheng-yu-guo-ji/pu-jing-ru-guo-e-shi-zhi-lao-hu-na-bei-yue-suan-shi-yao-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BF%84%E6%98%AF%E7%BA%B8%E8%80%81%E8%99%8E+%E9%82%A3%E5%8C%97%E7%BA%A6%E7%AE%97%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [中国假期吸引世界流量 - 2025-10-02](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-jia-qi-xi-yin-shi-jie-liu-liang-2025-10-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%81%87%E6%9C%9F%E5%90%B8%E5%BC%95%E4%B8%96%E7%95%8C%E6%B5%81%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [美国白宫正式宣布政府即将“关门” - 2025-10-01](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-bai-gong-zheng-shi-xuan-bu-zheng-fu-ji-jiang-guan-men-2025-10-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E6%94%BF%E5%BA%9C%E5%8D%B3%E5%B0%86%E2%80%9C%E5%85%B3%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [天安门广场国庆升旗仪式完整视频 - 2025-10-01](AI_Reports/shi-zheng-yu-guo-ji/tian-an-men-yan-chang-guo-qing-sheng-qi-yi-shi-wan-zheng-shi-pin-2025-10-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,8 +23,6 @@
 - [从两种精神看新疆70年巨变 - 2025-09-25](AI_Reports/shi-zheng-yu-guo-ji/cong-liang-chong-jing-shen-kan-xin-jiang-70nian-ju-bian-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%A4%E7%A7%8D%E7%B2%BE%E7%A5%9E%E7%9C%8B%E6%96%B0%E7%96%8670%E5%B9%B4%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)
 - [完整准确全面贯彻新时代党的治疆方略 - 2025-09-25](AI_Reports/shi-zheng-yu-guo-ji/wan-zheng-zhun-que-quan-mian-guan-che-xin-shi-dai-dang-de-zhi-jiang-fang-lue-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%8C%E6%95%B4%E5%87%86%E7%A1%AE%E5%85%A8%E9%9D%A2%E8%B4%AF%E5%BD%BB%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%9A%E7%9A%84%E6%B2%BB%E7%96%86%E6%96%B9%E7%95%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [台风预计今天登陆广东 阵风可达17级 - 2025-09-24](AI_Reports/shi-zheng-yu-guo-ji/tai-feng-yu-ji-jin-tian-deng-lu-yan-dong-zhen-feng-ke-da-17ji-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%A4%A9%E7%99%B2%E9%99%86%E5%B9%BF%E4%B8%9C+%E9%98%B5%E9%A3%8E%E5%8F%AF%E8%BE%BE17%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平接见新疆各族各界代表 - 2025-09-24](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-jie-jian-xin-jiang-ge-zu-ge-jie-dai-biao-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8E%A5%E8%A7%81%E6%96%B0%E7%96%86%E5%90%84%E6%97%8F%E5%90%84%E7%95%8C%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
-- [广东省委书记：决战就在眼前 - 2025-09-24](AI_Reports/shi-zheng-yu-guo-ji/yan-dong-sheng-wei-shu-ji-jue-zhan-jiu-zai-yan-qian-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E5%86%B3%E6%88%98%E5%B0%B1%E5%9C%A8%E7%9C%BC%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -134,6 +134,8 @@
 ## 旅游与出行
 [点击查看旅游与出行完整报告索引 →](AI_Reports/lu-you-yu-chu-xing/Reports.md)
 
+- [打卡照虽美 但这些出片方式不可取 - 2025-10-03](AI_Reports/lu-you-yu-chu-xing/da-qia-zhao-sui-mei-dan-zhe-xie-chu-pian-fang-shi-bu-ke-qu-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%89%B9%E5%8D%A1%E7%85%A7%E8%99%BD%E7%BE%8E+%E4%BD%86%E8%BF%99%E4%BA%9B%E5%87%BA%E7%89%87%E6%96%B9%E5%BC%8F%E4%B8%8D%E5%8F%AF%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)
+- [这个假期汽车托运火了 比租车省钱 - 2025-10-03](AI_Reports/lu-you-yu-chu-xing/zhe-ge-jia-qi-qi-che-tuo-yun-huo-liao-bi-zu-che-sheng-qian-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%81%87%E6%9C%9F%E6%B1%BD%E8%BD%A6%E6%89%98%E8%BF%90%E7%81%AB%E4%BA%86+%E6%AF%94%E7%A7%9F%E8%BD%A6%E7%9C%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [“第一天出去旅游的人已老实” - 2025-10-02](AI_Reports/lu-you-yu-chu-xing/di-yi-tian-chu-qu-lu-you-de-ren-yi-lao-shi-2025-10-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%B7%B2%E8%80%81%E5%AE%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [重要提醒：非正规小众秘境去不得 - 2025-10-01](AI_Reports/lu-you-yu-chu-xing/zhong-yao-ti-xing-fei-zheng-gui-xiao-zhong-mi-jing-qu-bu-de-2025-10-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E8%A6%81%E6%8F%90%E9%86%92%EF%BC%9A%E9%9D%9E%E6%AD%A3%E8%A7%84%E5%B0%8F%E4%BC%97%E7%A7%98%E5%A2%83%E5%8E%BB%E4%B8%8D%E5%BE%97&sa=fyb_news&rsv_dl=fyb_news)
 - [文化旅游事业五年成绩单来了 - 2025-09-30](AI_Reports/lu-you-yu-chu-xing/wen-hua-lu-you-shi-ye-wu-nian-cheng-ji-dan-lai-liao-2025-09-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8%E4%BA%8B%E4%B8%81%E4%BA%94%E5%B9%B4%E6%88%90%E7%BB%A9%E5%8D%95%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -158,6 +160,7 @@
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
+- [最深沉、最持久的情感所系 - 2025-10-03](AI_Reports/wen-hua-yu-mei-ti/zui-shen-chen-zui-chi-jiu-de-qing-gan-suo-xi-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E6%B7%B1%E6%B2%B9%E3%80%81%E6%9C%80%E6%8C%81%E4%B9%85%E7%9A%84%E6%83%85%E6%84%9F%E6%89%80%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [这一天致青年 我们如何赓续与传承 - 2025-10-02](AI_Reports/wen-hua-yu-mei-ti/zhe-yi-tian-zhi-qing-nian-wo-men-ru-he-geng-xu-yu-chuan-cheng-2025-10-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%A4%A9%E8%87%B4%E9%9D%92%E5%B9%B4+%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E8%B5%93%E7%BB%AD%E4%B8%8E%E4%BC%A0%E6%89%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [端起历史的望远镜 - 2025-09-19](AI_Reports/wen-hua-yu-mei-ti/duan-qi-li-shi-de-wang-yuan-jing-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%AB%AF%E8%B5%B7%E5%8E%86%E5%8F%B2%E7%9A%84%E6%9C%9B%E8%BF%9C%E9%95%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [金秋里 听历史的声息拂过耳畔 - 2025-09-19](AI_Reports/wen-hua-yu-mei-ti/jin-qiu-li-ting-li-shi-de-sheng-xi-fu-guo-er-pan-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E7%A7%8B%E9%87%8C+%E5%90%AC%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A3%B0%E6%81%AF%E6%8B%82%E8%BF%87%E8%80%B3%E7%95%94&sa=fyb_news&rsv_dl=fyb_news)
