@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：105
+报告总数：107
 
 ---
 
@@ -64,6 +64,7 @@
 - [九三阅兵不仅回望历史 更面向未来](jiu-san-yue-bing-bu-jin-hui-wang-li-shi-geng-mian-xiang-wei-lai-2025-09-07--v1.md) - 2025-09-07 (v1)
 - [九三阅兵三次演练卡点大片](jiu-san-yue-bing-san-ci-yan-lian-qia-dian-da-pian-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%89%E6%AC%A1%E6%BC%93%E7%BB%83%E5%8D%A1%E7%82%B9%E5%A4%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵上这些旗帜令人心潮澎湃](jiu-san-yue-bing-shang-zhe-xie-qi-zhi-ling-ren-xin-chao-peng-pai-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E4%B8%8A%E8%BF%99%E4%BA%9B%E6%97%97%E5%B8%9C%E4%BB%A4%E4%BA%BA%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83&sa=fyb_news&rsv_dl=fyb_news)
+- [九三阅兵受阅部队集结画面首次公开](jiu-san-yue-bing-shou-yue-bu-dui-ji-jie-hua-mian-shou-ci-gong-kai-2025-10-03--v1.md) - 2025-10-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%97%E9%98%9F%E9%98%9F%E9%9B%86%E7%BB%93%E7%94%BB%E9%9D%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
 
 ## K
 
@@ -91,6 +92,7 @@
 - [普京抵达天津](pu-jing-di-da-tian-jin-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BC%8F%E6%8A%B5%E8%BE%BE%E5%A4%A9%E6%B4%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [普京和金正恩等将出席抗战纪念活动](pu-jing-he-jin-zheng-en-deng-jiang-chu-xi-kang-zhan-ji-nian-huo-dong-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%92%8C%E9%87%91%E6%AD%A3%E6%81%A9%E7%AD%89%E5%B0%86%E5%87%BA%E5%B8%AD%E6%8A%97%E6%88%98%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [普京身着军装出席俄白联合军演](pu-jing-shen-zhao-jun-zhuang-chu-xi-e-bai-lian-he-jun-yan-2025-09-17--v1.md) - 2025-09-17 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%BA%AB%E7%9D%80%E5%86%9B%E8%A3%85%E5%87%BA%E5%B8%AD%E4%BF%84%E7%99%BD%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)
+- [普京：如果俄是纸老虎 那北约算什么？](pu-jing-ru-guo-e-shi-zhi-lao-hu-na-bei-yue-suan-shi-yao-2025-10-03--v1.md) - 2025-10-03 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BF%84%E6%98%AF%E7%BA%B8%E8%80%81%E8%99%8E+%E9%82%A3%E5%8C%97%E7%BA%A6%E7%AE%97%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Q
 
