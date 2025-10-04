@@ -1,7 +1,7 @@
 # 科学与太空 报告索引
 
 本页包含 **科学与太空** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：3
+报告总数：4
 
 ---
 
@@ -16,3 +16,4 @@
 ## “
 
 - [“红月亮”高清大图来了](hong-yue-liang-gao-qing-da-tu-lai-liao-2025-09-08--v1.md) - 2025-09-08 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%BA%A2%E6%9C%88%E4%BA%AE%E2%80%9D%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [“一箭穿云”链动星辰大海](yi-jian-chuan-yun-lian-dong-xing-chen-da-hai-2025-10-04--v1.md) - 2025-10-04 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E7%AE%AD%E7%A9%BF%E4%BA%91%E2%80%9D%E9%93%BE%E5%8A%A8%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
