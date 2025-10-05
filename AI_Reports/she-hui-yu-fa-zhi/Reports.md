@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：33
+报告总数：34
 
 ---
 
@@ -28,6 +28,7 @@
 ## H
 
 - [河南玉米收获季遇雨 大学生被召回家](he-nan-yu-mi-shou-huo-ji-yu-yu-da-xue-sheng-bei-zhao-hui-jia-2025-10-04--v1.md) - 2025-10-04 (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%8E%89%E7%B1%B3%E6%94%B6%E8%8E%B7%E5%AD%A3%E9%81%87%E9%9B%A8+%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8F%AC%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)
+- [很重要的是看老年人幸福不幸福](hen-zhong-yao-de-shi-kan-lao-nian-ren-xing-fu-bu-xing-fu-2025-10-05--v1.md) - 2025-10-05 (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%88%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E7%9C%8B%E8%80%81%E5%B9%B4%E4%BA%BA%E5%B9%B8%E7%A6%8F%E4%B8%8D%E5%B9%B8%E4%B8%8D%E5%B9%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [虎跳峡出现不明生物？当地回应](hu-tiao-xia-chu-xian-bu-ming-sheng-wu-dang-di-hui-ying-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E8%99%8E%E8%B7%B3%E5%B3%A1%E5%87%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%89%A9%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 
 ## J
