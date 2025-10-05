@@ -1,9 +1,13 @@
 # 文化与媒体 报告索引
 
 本页包含 **文化与媒体** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：7
+报告总数：8
 
 ---
+
+## B
+
+- [本世纪最晚中秋来了](ben-shi-ji-zui-wan-zhong-qiu-lai-liao-2025-10-05--v1.md) - 2025-10-05 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%AC%E4%B8%96%E7%BA%AA%E6%9C%80%E6%99%9A%E4%B8%AD%E7%A7%8B%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
 
