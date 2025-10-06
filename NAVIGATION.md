@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [武契奇暗示可能爆发新的战争 - 2025-10-06](AI_Reports/shi-zheng-yu-guo-ji/wu-qi-qi-an-shi-ke-neng-bao-fa-xin-de-zhan-zheng-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E7%9A%84%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)
 - [红色预警！强台风麦德姆最新路径公布 - 2025-10-05](AI_Reports/shi-zheng-yu-guo-ji/hong-se-yu-jing-qiang-tai-feng-mai-de-mu-zui-xin-lu-jing-gong-bu-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%A2%E8%B0%83%E9%A2%84%E8%AD%A6%EF%BC%81%E5%BC%BA%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 - [歼-35与歼-35A机库首度公开 - 2025-10-05](AI_Reports/shi-zheng-yu-guo-ji/jian-35yu-jian-35aji-ku-shou-du-gong-kai-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%BC-35%E4%B8%8E%E6%AD%BC-35A%E6%9C%BA%E5%BA%93%E9%A6%96%E5%BA%93%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同新加坡总统互致贺电 - 2025-10-04](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-xin-jia-po-zong-tong-hu-zhi-he-dian-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,11 +23,11 @@
 - [朝鲜宣布将对被判有罪人员实施大赦 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/zhao-xian-xuan-bu-jiang-dui-bei-pan-you-zui-ren-yuan-shi-shi-da-she-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AF%B9%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BA%BA%E5%91%98%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%B5%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [为新疆更美好的明天共同奋斗 - 2025-09-27](AI_Reports/shi-zheng-yu-guo-ji/wei-xin-jiang-geng-mei-hao-de-ming-tian-gong-tong-fen-dou-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E6%96%B0%E7%96%86%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%98%8E%E5%A4%A9%E5%85%B1%E5%90%8C%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 - [这是我们的新疆！ - 2025-09-26](AI_Reports/shi-zheng-yu-guo-ji/zhe-shi-wo-men-de-xin-jiang-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记心中“很有意义”的一个事业 - 2025-09-26](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-xin-zhong-hen-you-yi-yi-de-yi-ge-shi-ye-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E2%80%9C%E5%BE%88%E6%9C%89%E6%84%8F%E4%B9%89%E2%80%9D%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BA%8B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [男孩跪地拦车救母感动全网 妈妈回应 - 2025-10-06](AI_Reports/she-hui-yu-fa-zhi/nan-hai-gui-di-lan-che-jiu-mu-gan-dong-quan-wang-ma-ma-hui-ying-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AA%E5%9C%B0%E6%8B%A6%E8%BD%A6%E6%95%91%E6%AF%8D%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91+%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [很重要的是看老年人幸福不幸福 - 2025-10-05](AI_Reports/she-hui-yu-fa-zhi/hen-zhong-yao-de-shi-kan-lao-nian-ren-xing-fu-bu-xing-fu-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%88%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E7%9C%8B%E8%80%81%E5%B9%B4%E4%BA%BA%E5%B9%B8%E7%A6%8F%E4%B8%8D%E5%B9%B8%E4%B8%8D%E5%B9%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [河南玉米收获季遇雨 大学生被召回家 - 2025-10-04](AI_Reports/she-hui-yu-fa-zhi/he-nan-yu-mi-shou-huo-ji-yu-yu-da-xue-sheng-bei-zhao-hui-jia-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%8E%89%E7%B1%B3%E6%94%B6%E8%8E%B7%E5%AD%A3%E9%81%87%E9%9B%A8+%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8F%AC%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [男子送老人过马路 3次敬礼全网刷屏 - 2025-10-02](AI_Reports/she-hui-yu-fa-zhi/nan-zi-song-lao-ren-guo-ma-lu-3ci-jing-li-quan-wang-shua-ping-2025-10-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%81%E8%80%81%E4%BA%BA%E8%BF%87%E9%A9%AC%E8%B7%AF+3%E6%AC%A1%E6%95%AC%E7%A4%BC%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [12306回应国庆开票即候补 - 2025-09-17](AI_Reports/she-hui-yu-fa-zhi/12306hui-ying-guo-qing-kai-piao-ji-hou-bu-2025-09-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%9B%BD%E5%BA%86%E5%BC%80%E7%A5%A8%E5%8D%B3%E5%80%99%E8%A1%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [大风+暴雨要来了！这些地区注意防范 - 2025-09-16](AI_Reports/she-hui-yu-fa-zhi/da-feng-bao-yu-yao-lai-liao-zhe-xie-di-qu-zhu-yi-fang-fan-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A3%8E%2B%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%81%E8%BF%99%E4%BA%9B%E5%9C%B0%E5%8C%BA%E6%B3%A8%E6%84%8F%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)
 - [应急局回应山东现不明飞行物被击落 - 2025-09-14](AI_Reports/she-hui-yu-fa-zhi/ying-ji-ju-hui-ying-shan-dong-xian-bu-ming-fei-xing-wu-bei-ji-luo-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%94%E6%80%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E8%A2%AB%E5%87%BB%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)
-- [柯克案枪手落网：遭父亲“举报” - 2025-09-13](AI_Reports/she-hui-yu-fa-zhi/ke-ke-an-qiang-shou-luo-wang-zao-fu-qin-ju-bao-2025-09-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9F%AF%E5%85%8B%E6%A1%88%E6%9E%AA%E6%89%8B%E8%90%BD%E7%BD%91%EF%BC%9A%E9%81%AD%E7%88%B6%E4%BA%B2%E2%80%9C%E4%B8%BE%E6%8A%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -89,6 +89,8 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [超大满月中秋登场 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/chao-da-man-yue-zhong-qiu-deng-chang-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E6%BB%A1%E6%9C%88%E4%B8%AD%E7%A7%8B%E7%99%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [核电站竟然还有产珍珠的副业 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/he-dian-zhan-jing-ran-huan-you-chan-zhen-zhu-de-fu-ye-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%B8%E7%94%B5%E7%AB%99%E7%AB%9F%E7%84%B6%E8%BF%98%E6%9C%89%E4%BA%A7%E7%8F%A0%E7%8F%A0%E7%9A%84%E5%89%AF%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [“一箭穿云”链动星辰大海 - 2025-10-04](AI_Reports/ke-xue-yu-tai-kong/yi-jian-chuan-yun-lian-dong-xing-chen-da-hai-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E7%AE%AD%E7%A9%BF%E4%BA%91%E2%80%9D%E9%93%BE%E5%8A%A8%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [男子种猴面包树18年 2棵达结果要求 - 2025-09-15](AI_Reports/ke-xue-yu-tai-kong/nan-zi-chong-hou-mian-bao-shu-18nian-2ke-da-jie-guo-yao-qiu-2025-09-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%8D%E7%8C%B4%E9%9D%A2%E5%8C%85%E6%A0%9118%E5%B9%B4+2%E6%A3%B5%E8%BE%BE%E7%BB%93%E6%9E%9C%E8%A6%81%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news)
 - [“红月亮”高清大图来了 - 2025-09-08](AI_Reports/ke-xue-yu-tai-kong/hong-yue-liang-gao-qing-da-tu-lai-liao-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%BA%A2%E6%9C%88%E4%BA%AE%E2%80%9D%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -168,6 +170,7 @@
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
+- [家和万事兴 - 2025-10-06](AI_Reports/wen-hua-yu-mei-ti/jia-he-mo-shi-xing-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%B6%E5%92%8C%E4%B8%87%E4%BA%8B%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [本世纪最晚中秋来了 - 2025-10-05](AI_Reports/wen-hua-yu-mei-ti/ben-shi-ji-zui-wan-zhong-qiu-lai-liao-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%AC%E4%B8%96%E7%BA%AA%E6%9C%80%E6%99%9A%E4%B8%AD%E7%A7%8B%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [最深沉、最持久的情感所系 - 2025-10-03](AI_Reports/wen-hua-yu-mei-ti/zui-shen-chen-zui-chi-jiu-de-qing-gan-suo-xi-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E6%B7%B1%E6%B2%B9%E3%80%81%E6%9C%80%E6%8C%81%E4%B9%85%E7%9A%84%E6%83%85%E6%84%9F%E6%89%80%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [这一天致青年 我们如何赓续与传承 - 2025-10-02](AI_Reports/wen-hua-yu-mei-ti/zhe-yi-tian-zhi-qing-nian-wo-men-ru-he-geng-xu-yu-chuan-cheng-2025-10-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%A4%A9%E8%87%B4%E9%9D%92%E5%B9%B4+%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E8%B5%93%E7%BB%AD%E4%B8%8E%E4%BC%A0%E6%89%BF&sa=fyb_news&rsv_dl=fyb_news)
