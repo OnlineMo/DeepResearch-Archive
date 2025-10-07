@@ -1,9 +1,13 @@
 # 科学与太空 报告索引
 
 本页包含 **科学与太空** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：6
+报告总数：7
 
 ---
+
+## 0-9
+
+- [60秒延时摄影赏中秋月](60miao-yan-shi-she-ying-shang-zhong-qiu-yue-2025-10-07--v1.md) - 2025-10-07 (v1) [来源](https://www.baidu.com/s?wd=60%E7%A7%92%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E8%B5%8F%E4%B8%AD%E7%A7%8B%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)
 
 ## C
 
