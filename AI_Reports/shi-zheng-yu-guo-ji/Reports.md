@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：111
+报告总数：112
 
 ---
 
@@ -46,6 +46,7 @@
 
 ## G
 
+- [跟着总书记一起厚植文化底蕴](gen-zhao-zong-shu-ji-yi-qi-hou-zhi-wen-hua-di-yun-2025-10-07--v1.md) - 2025-10-07 (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%8E%9A%E6%A4%8D%E6%96%87%E5%8C%96%E5%BA%95%E8%95%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [广东省委书记：决战就在眼前](yan-dong-sheng-wei-shu-ji-jue-zhan-jiu-zai-yan-qian-2025-09-24--v1.md) - 2025-09-24 (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E5%86%B3%E6%88%98%E5%B0%B1%E5%9C%A8%E7%9C%BC%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [过水门！最高礼遇迎接志愿军烈士](guo-shui-men-zui-gao-li-yu-ying-jie-zhi-yuan-jun-lie-shi-2025-09-13--v1.md) - 2025-09-13 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%87%E6%B0%B4%E9%97%A8%EF%BC%81%E6%9C%80%E9%AB%98%E7%A4%BC%E9%81%87%E8%BF%8E%E6%8E%A5%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)
 
