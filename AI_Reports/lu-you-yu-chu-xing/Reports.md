@@ -1,7 +1,7 @@
 # 旅游与出行 报告索引
 
 本页包含 **旅游与出行** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：7
+报告总数：8
 
 ---
 
@@ -12,6 +12,10 @@
 ## D
 
 - [打卡照虽美 但这些出片方式不可取](da-qia-zhao-sui-mei-dan-zhe-xie-chu-pian-fang-shi-bu-ke-qu-2025-10-03--v1.md) - 2025-10-03 (v1) [来源](https://www.baidu.com/s?wd=%E6%89%B9%E5%8D%A1%E7%85%A7%E8%99%BD%E7%BE%8E+%E4%BD%86%E8%BF%99%E4%BA%9B%E5%87%BA%E7%89%87%E6%96%B9%E5%BC%8F%E4%B8%8D%E5%8F%AF%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)
+
+## Q
+
+- [亲历珠峰暴雪游客：全身结冰 很恐怖](qin-li-zhu-feng-bao-xue-you-ke-quan-shen-jie-bing-hen-kong-bu-2025-10-07--v1.md) - 2025-10-07 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%B2%E5%8E%86%E7%8F%A0%E5%B3%B0%E6%9A%B4%E9%9B%AA%E6%B8%B8%E5%AE%A2%EF%BC%9A%E5%85%A8%E8%BA%AB%E7%BB%93%E5%86%B0+%E5%BE%88%E6%81%90%E6%80%96&sa=fyb_news&rsv_dl=fyb_news)
 
 ## W
 
