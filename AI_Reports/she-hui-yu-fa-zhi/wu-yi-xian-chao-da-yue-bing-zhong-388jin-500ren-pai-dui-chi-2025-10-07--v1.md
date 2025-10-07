@@ -1,0 +1,70 @@
+版次: 头版（v1）
+日期: 2025-10-07
+主题: 武汉现超大月饼重388斤 500人排队吃
+
+来源: https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%8E%B0%E8%B6%85%E5%A4%A7%E6%9C%88%E9%A5%BC%E9%87%8D388%E6%96%A4+500%E4%BA%BA%E6%8E%92%E9%98%9F%E5%90%83&sa=fyb_news&rsv_dl=fyb_news
+
+# 武汉现超大月饼重388斤 500人排队吃
+
+## 摘要
+- 武汉园博园于2025年中秋节期间，成功举办了超大月饼免费品尝活动，吸引约500名游客排队参与，有效弘扬了传统中秋文化 [shaoxing](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFob2Ldc8nHI0ctyP_UwicdaArJm3Jwzqw_wE0ndd8FT1dk_FaTyEbPX9ebnc05dEr4MRmvWn3MpS_L2Fb4dbgIPiBGMEsBMGQu4ikHP_j8o7zCMnPQTdZyhBhNDogbI7mc56CB) [qq](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1Yofbek57NTJczEHvHOD9OW410sht2yVRQSyFeuMEKTY0eD2Oz2Rr43wjD4X9RBpU8I71zN6cxP18-eK5IJUEnbW3Kc1LkEUNfQZZpTsiteREDJlUBf-3nMc98EGtui2DRK83NMM=) [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5unkn-2C5jyfhTpjr83LBlxyjQ0G6x7ls-s24fJaRIC0Dol2XRHuPox5tQLHl6oIZp3KpsQN_DlckNhwyxS0Auih1v8kP-HCLp-CIAw-6seeguwpa5OVYv4DeCIdOYpvVMJCpJdxSB3qM8fCN)。
+- 巨型月饼作为一种文化符号和营销策略，在现代社会中被广泛运用，旨在连接传统与现代，并营造浓厚的节日氛围 [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B)。
+- 此次活动获得了当地媒体的积极报道和公众的正面反馈，体现了市民对新奇体验和传统文化魅力的喜爱 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5unkn-2C5jyfhTpjr83LBlxyjQ0G6x7ls-s24fJaRIC0Dol2XRHuPox5tQLHl6oIZp3KpsQN_DlckNhwyxS0Auih1v8kP-HCLp-CIAw-6seeguwpa5OVYv4DeCIdOYpvVMJCpJdxSB3qM8fCN) [shaoxing](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFuFfFJzQyKZXZ-T4DhHG9kMkMwBWJxlQ_AYFXgKBi4q9BvphbC0nRV7_qwwGjJQoWWEqS7IFZ6-XEHy4rYxaOLWYX0VDClv2bCvdBDo-N6yvyLPn7kfcSmKrmwJffprXNLiHt)。
+- 尽管巨型月饼活动广受欢迎，但整体月饼市场正经历健康化、个性化和价格亲民化的转型，以适应消费者尤其是年轻一代的需求变化 [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B) [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-ePZZLOH6q-C8nMQNivTKt2MMyGBbeY_LWqcb6kMnBZTRze-aguLzhXy1K3vB5TNJTFJvqOA4M6CEE14-D7KbzcAhi0DPjzv911ivVeAv0Gkgp7hEVXJxCzP05R1FNQGh7r0_EnxsV4-AN3E0KxA=)。
+
+## 背景
+中秋节作为中华民族重要的传统节日，承载着团圆、思念的美好寓意。月饼是中秋节不可或缺的传统食品，象征着团圆和美满。近年来，为了在传承传统文化的同时吸引公众参与，各地常会举办形式多样的中秋庆祝活动，其中制作和分享巨型月饼成为一种引人注目的方式 [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B)。
+
+2025年10月6日中秋节当天，武汉园博园作为其“望月、奔月、赏月、品月”系列游园活动的一部分，特别定制并展示了一个重达388斤（约194公斤）的超大五仁月饼，并在东内广场旁举行了免费品尝活动。该月饼直径约1米，表面刻有“武汉园博园欢乐过中秋”字样，吸引了约500位游客排队领取品尝，共同感受中秋节的仪式感和传统文化魅力 [shaoxing](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFob2Ldc8nHI0ctyP_UwicdaArJm3Jwzqw_wE0ndd8FT1dk_FaTyEbPX9ebnc05dEr4MRmvWn3MpS_L2Fb4dbgIPiBGMEsBMGQu4ikHP_j8o7zCMnPQTdZyhBhNDogbI7mc56CB) [qq](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1Yofbek57NTJczEHvHOD9OW410sht2yVRQSyFeuMEKTY0eD2Oz2Rr43wjD4X9RBpU8I71zN6cxP18-eK5IJUEnbW3Kc1LkEUNfQZZpTsiteREDJlUBf-3nMc98EGtui2DRK83NMM=) [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi5tpe_MVMTOaE82VWD-gRSpz0xlsE2HKP3ZPq6mJPMJD7g0D7p1nBxtMLWn4Ics2j34r0qhswDQ7cKw37JvVD549Di1G6Fhl1Qhs9aYUZLHwqSCVWxFrSFaoXDsEvQox4osMMWxFSPvwDsAVYcLy-DKwCpdDphm_agA==) [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3YitgM1TxFLle0TmPD5Klkxufgz-TXHPntiGtk4El_VILYxNB6_dOhCaEXl-3VIiWAB9Rbsfs9cgcLWOmKCI0B7X-nWgWevFg2DEdanCcUfEO4cw0a5A4FHBkkKvfdUskgj24OJ-HU-_12akCgj36mxpmaE3nv5mFetQtyo6zkobRlVHP0Jx8) [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5unkn-2C5jyfhTpjr83LBlxyjQ0G6x7ls-s24fJaRIC0Dol2XRHuPox5tQLHl6oIZp3KpsQN_DlckNhwyxS0Auih1v8kP-HCLp-CIAw-6seeguwpa5OVYv4DeCIdOYpvVMJCpJdxSB3qM8fCN)。园方表示，此举旨在弘扬中秋节吃月饼的中华传统习俗 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5unkn-2C5jyfhTpjr83LBlxyjQ0G6x7ls-s24fJaRIC0Dol2XRHuPox5tQLHl6oIZp3KpsQN_DlckNhwyxS0Auih1v8kP-HCLp-CIAw-6seeguwpa5OVYv4DeCIdOYpvVMJCpJdxSB3qM8fCN)。
+
+## 深度分析
+
+### 巨型月饼的文化与营销价值
+武汉园博园的超大月饼活动，是巨型月饼在中国文化传承与现代营销策略结合的典型案例。巨型月饼不仅是中秋节的传统食品，更被视为连接传统与现代、个人与国家认同的文化符号，体现了“月圆人圆”的情感内核 [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B)。通过创意设计，月饼从单纯的节日食品转变为承载优秀传统文化的载体，使传统文化在现代生活中焕发活力。例如，汉寿县龙珠湖公园曾展出由2.6万余个独立“寿”字月饼拼合而成的巨型月饼，不仅申报了世界基尼斯纪录，也成为一场蕴含深意的文化图景 [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B)。
+
+在营销层面，巨型月饼常被用于公共活动中，以其巨大的体量和新奇感吸引公众眼球，营造浓厚的节日氛围，并通常会与公众分享。例如，连云港市民主路老街曾展示并分切一块直径1.5米的超大月饼供市民品尝，引发了热烈反响 [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B)。武汉园博园此次活动也成功吸引了大量游客排队参与，获得了当地媒体的积极报道，并引发了公众的正面反馈，表明这种形式的活动能够有效提升景区的知名度和游客参与度 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5unkn-2C5jyfhTpjr83LBlxyjQ0G6x7ls-s24fJaRIC0Dol2XRHuPox5tQLHl6oIZp3KpsQN_DlckNhwyxS0Auih1v8kP-HCLp-CIAw-6seeguwpa5OVYv4DeCIdOYpvVMJCpJdxSB3qM8fCN) [shaoxing](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFuFfFJzQyKZXZ-T4DhHG9kMkMwBWJxlQ_AYFXgKBi4q9BvphbC0nRV7_qwwGjJQoWWEqS7IFZ6-XEHy4rYxaOLWYX0VDClv2bCvdBDo-N6yvyLPn7kfcSmKrmwJffprXNLiHt)。
+
+### 月饼市场趋势与消费者需求变化
+尽管巨型月饼活动广受欢迎，但整体月饼市场正经历显著的转型，以适应消费者，特别是年轻一代日益变化的需求。
+
+1.  **健康化趋势成为主流：** 消费者对健康的关注度空前提高，96.7%的受访用户将“健康”作为选购月饼的首要标准 [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B)。“低卡”、“低糖”、“轻脂”月饼成为市场新宠，品牌通过使用木糖醇、赤藓糖醇等天然代糖，以及全麦面粉等替代传统原料，降低月饼的升糖指数。甚至出现了“药食同源”和“健身也能吃月饼”的产品 [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXEN-KmVTSyg_MRSKYG0fHZdK_1zC-zShh52jEvQPuF2c5QVm_zmxewSiX7xKHN5qVd6OGA4Wm5wc4O2ysoMljQo6Fe-DzJwUwwKmmFPmXTQ6uFT1iwzZ7qxHIW45ElWh7DTxYJY1ERn0XkFPYV28siqSG8w==)。这与传统月饼高热量、高糖、高脂肪的特点形成对比，一个双黄莲蓉月饼的热量可能高达800大卡，相当于2-3碗米饭，过量食用易导致腹胀、消化不良等不适 [chinanews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEelcoLF-imiKKPl9RiM9f8uSjbt88oW9KlD2uYvnvQOIcnMrH4v1uc_sBl069I2MbHdKjA1t0RiOiZphODXpqFagoFurz_sTdkw7w9pUWHw2oZj7oD4pmN_dVpcSY9vq8ttYjeLZyWHlYmvPBbao7Flm1bUQ==)。
+2.  **口味与造型的创新与个性化：** 除了传统口味，市场上涌现出麻辣小龙虾、藤椒牛肉、榴莲冰皮等新奇口味，甚至包括螺蛳粉、臭豆腐等“黑暗料理”，以满足消费者的猎奇心理。月饼的造型也日益多样，卡通形象、文创联名、国潮风格等精美设计层出不穷，甚至有可供消费者DIY的月饼模具 [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B)。Z世代消费者更注重个性化和多元化的消费体验，愿意为高颜值、高品质、高情感附加值的产品买单 [xblueman](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrCjkSMBJ_PpnbbtwA01ROd0QMHGcvvc2V_2VG_ZsNRfWWNHnDt8UGu12M__SRhcxvBGKyWHnd3g3cjGGfizmjZA0IEcYRLH4JlbFKFXECwsYSz-YR3uzLzPZpw0Sw42ESHH_KlQ==)。
+3.  **价格策略的调整：** 月饼市场正从过去动辄数百上千元的“天价礼盒”转向更亲民的价格区间，多数礼盒售价集中在150元左右，很少有超过500元的。这部分是受政策引导和厂商寻求新出路的影响 [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B)。年轻一代消费者对高价礼盒、过甜口感和奇特馅料多有抱怨，正在以自己的方式推动月饼市场的调整 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-ePZZLOH6q-C8nMQNivTKt2MMyGBbeY_LWqcb6kMnBZTRze-aguLzhXy1K3vB5TNJTFJvqOA4M6CEE14-D7KbzcAhi0DPjzv911ivVeAv0Gkgp7hEVXJxCzP05R1FNQGh7r0_EnxsV4-AN3E0KxA=)。
+4.  **数字化与品牌推广：** 品牌投入大量资源在包装设计上，融入文化元素和IP联名，将月饼打造成具有收藏价值和社交属性的文化符号，例如“稻香村”与游戏“黑神话：悟空”的联名月饼。NFT数字月饼作为与月饼相关的数字藏品也已出现，体现了月饼营销的数字化创新 [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B) [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-ePZZLOH6q-C8nMQNivTKt2MMyGBbeY_LWqcb6kMnBZTRze-aguLzhXy1K3vB5TNJTFJvqOA4M6CEE14-D7KbzcAhi0DPjzv911ivVeAv0Gkgp7hEVXJxCzP05R1FNQGh7r0_EnxsV4-AN3E0KxA=)。
+
+### 武汉园博园活动的具体信息缺失
+尽管武汉园博园的超大月饼活动取得了成功，但现有信息中并未详细说明该超大月饼的具体制作流程、生产厂家名称以及此次活动的成本预算 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5unkn-2C5jyfhTpjr83LBlxyjQ0G6x7ls-s24fJaRIC0Dol2XRHuPox5tQLHl6oIZp3KpsQN_DlckNhwyxS0Auih1v8kP-HCLp-CIAw-6seeguwpa5OVYv4DeCIdOYpvVMJCpJdxSB3qM8fCN)。这些信息的缺失限制了对活动组织效率和经济效益的全面评估。
+
+## 结论与建议
+
+### 结论
+武汉园博园于2025年中秋节期间举办的超大月饼免费品尝活动，是一次成功的文化推广和营销实践。该活动通过新颖的形式吸引了大量公众参与，有效弘扬了中秋传统文化，并获得了积极的社会反响。巨型月饼作为一种文化符号和营销工具，在连接传统与现代、营造节日氛围方面具有显著优势。然而，在更广阔的月饼市场中，消费者对健康、个性化和合理价格的需求日益增长，推动着月饼产品和营销策略的多元化发展。
+
+### 建议
+1.  **持续创新文化体验：** 园博园及其他文化机构可继续探索将传统节日与现代创意相结合的活动形式，如结合AR/VR技术、互动装置等，提供更沉浸式的文化体验，以吸引更广泛的年轻群体。
+2.  **加强活动透明度：** 对于此类大型公共活动，建议主办方在未来可考虑公开更多细节，如月饼的制作过程、生产厂家信息以及大致的活动成本，以增强公众信任度并提供更全面的信息。
+3.  **关注健康与可持续发展：** 鉴于消费者对健康的日益关注，未来在策划类似食品分享活动时，可考虑引入更多健康元素，例如提供多种口味选择（包括低糖、低脂选项），或在活动中融入健康饮食知识普及。
+4.  **深化品牌合作与IP联名：** 借鉴市场趋势，园博园可考虑与知名品牌或文化IP进行联名合作，推出具有收藏价值和文化内涵的周边产品，进一步提升活动的影响力和品牌价值。
+
+### 限制条件与待后续验证的问题
+- 本次研究主要基于现有公开报道，对超大月饼的具体制作细节、生产厂家及活动成本预算等信息存在缺失，限制了对活动执行层面的深入分析。
+- 报告中关于月饼市场趋势的分析主要基于宏观数据和消费者普遍反馈，未能针对武汉地区月饼市场的具体特点进行细致研究。
+- 待后续验证的问题包括：此类巨型月饼活动对当地旅游经济的实际拉动效应如何？活动结束后，公众对园博园的品牌认知度是否有显著提升？未来如何平衡传统文化弘扬与商业化运作之间的关系？
+
+## 数据与引用
+- [shaoxing](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFob2Ldc8nHI0ctyP_UwicdaArJm3Jwzqw_wE0ndd8FT1dk_FaTyEbPX9ebnc05dEr4MRmvWn3MpS_L2Fb4dbgIPiBGMEsBMGQu4ikHP_j8o7zCMnPQTdZyhBhNDogbI7mc56CB)
+- [qq](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1Yofbek57NTJczEHvHOD9OW410sht2yVRQSyFeuMEKTY0eD2Oz2Rr43wjD4X9RBpU8I71zN6cxP18-eK5IJUEnbW3Kc1LkEUNfQZZpTsiteREDJlUBf-3nMc98EGtui2DRK83NMM=)
+- [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi5tpe_MVMTOaE82VWD-gRSpz0xlsE2HKP3ZPq6mJPMJD7g0D7p1nBxtMLWn4Ics2j34r0qhswDQ7cKw37JvVD549Di1G6Fhl1Qhs9aYUZLHwqSCVWxFrSFaoXDsEvQox4osMMWxFSPvwDsAVYcLy-DKwCpdDphm_agA==)
+- [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3YitgM1TxFLle0TmPD5Klkxufgz-TXHPntiGtk4El_VILYxNB6_dOhCaEXl-3VIiWAB9Rbsfs9cgcLWOmKCI0B7X-nWgWevFg2DEdanCcUfEO4cw0a5A4FHBkkKvfdUskgj24OJ-HU-_12akCgj36mxpmaE3nv5mFetQtyo6zkobRlVHP0Jx8)
+- [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13IzBg1meUJGBaRV8Dodp5EHhJe6WH3EFOwlpM_iHS6xqMNuWI2mPjH4RkjSarZOh1GzZjAFTyVIGxKJqSjv7sVJF0IF4XM4In12R9HypPNH9Mowoq4yB_vtsqnCenB4mkzjZaLdOjMW8bE9B)
+- [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXEN-KmVTSyg_MRSKYG0fHZdK_1zC-zShh52jEvQPuF2c5QVm_zmxewSiX7xKHN5qVd6OGA4Wm5wc4O2ysoMljQo6Fe-DzJwUwwKmmFPmXTQ6uFT1iwzZ7qxHIW45ElWh7DTxYJY1ERn0XkFPYV28siqSG8w==)
+- [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-ePZZLOH6q-C8nMQNivTKt2MMyGBbeY_LWqcb6kMnBZTRze-aguLzhXy1K3vB5TNJTFJvqOA4M6CEE14-D7KbzcAhi0DPjzv911ivVeAv0Gkgp7hEVXJxCzP05R1FNQGh7r0_EnxsV4-AN3E0KxA=)
+- [xblueman](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrCjkSMBJ_PpnbbtwA01ROd0QMHGcvvc2V_2VG_ZsNRfWWNHnDt8UGu12M__SRhcxvBGKyWHnd3g3cjGGfizmjZA0IEcYRLH4JlbFKFXECwsYSz-YR3uzLzPZpw0Sw42ESHH_KlQ==)
+- [ebrun](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHevZEp2_c6zn5icfWsbn3b8yxkzCKRGDAHKreQ9ML_dzPMFzf1O8ccLbNP0YbwiOphI7H3yRBaMh__s6h38XCUxYYgJ4N9UgFMRJxe47zmC4rf14Wm6teqMhk=)
+- [chiculture](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2IV87xTXcg1-kKXiUYMhbSXoa5LxQut0tPWcG5oWvFXZR3DQNUHAO8Yl5X8I2BnZfOsTwBpn5fj2z5nj1S2-8c-XbHaBW_7otHK7XUfdiDFpBLMnC9YryXbJMLP9J38Aehko7wXC-)
+- [pedaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGheT38T5J89EsZCpgqEzDikO1NgMwI7clxjVi_T6weIXH-Tkn45eYgiWQFHrPyFAT9dQGLI2Lru8dHwRJFdWLht71dSwDTyMCrkszYGfoijsl9wHjKik_Jh0hTJijQ1p8_m35nt9Q=)
+- [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRXenTlbblex4kHgtc2D6h5KcBFeGOpJniFAqbuzqwGgV_yWaxDoKjArt_ROeQ63vPRtHbyV7To1kQrzX57RRQlv45Y78SX410DP8_d5CFGOxEgSEca5pBuvR8vF_mBmyYrC4VN3aIv6yOpvEpyBE_KoeKpix8Et7JHcjoJUu4DQ6cfUgBSdEXRaMl4DII9FL1bvp6FZhVew==)
+- [chinanews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEelcoLF-imiKKPl9RiM9f8uSjbt88oW9KlD2uYvnvQOIcnMrH4v1uc_sBl069I2MbHdKjA1t0RiOiZphODXpqFagoFurz_sTdkw7w9pUWHw2oZj7oD4pmN_dVpcSY9vq8ttYjeLZyWHlYmvPBbao7Flm1bUQ==)
+- [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5unkn-2C5jyfhTpjr83LBlxyjQ0G6x7ls-s24fJaRIC0Dol2XRHuPox5tQLHl6oIZp3KpsQN_DlckNhwyxS0Auih1v8kP-HCLp-CIAw-6seeguwpa5OVYv4DeCIdOYpvVMJCpJdxSB3qM8fCN)
+- [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhfcwjZ_f_Jm_owGBysYkgOhPVEJ678lh7r31MZ45lEHGjfiKNRGMpGhoHcmRNQN4Sr1Q7NURgD3MB288Ki0xpJMZDLfwekLyl7m-W6Vvygj17UD7_ko0EEveScZcUdyCcqvxwK-KE9xXuSMsdWQQnr8tD4oMhg9GAp7GOxhJlgMqaqj5kwTF_)
+- [shaoxing](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFuFfFJzQyKZXZ-T4DhHG9kMkMwBWJxlQ_AYFXgKBi4q9BvphbC0nRV7_qwwGjJQoWWEqS7IFZ6-XEHy4rYxaOLWYX0VDClv2bCvdBDo-N6yvyLPn7kfcSmKrmwJffprXNLiHt)
