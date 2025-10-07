@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：35
+报告总数：37
 
 ---
 
@@ -14,6 +14,7 @@
 ## D
 
 - [大风+暴雨要来了！这些地区注意防范](da-feng-bao-yu-yao-lai-liao-zhe-xie-di-qu-zhu-yi-fang-fan-2025-09-16--v1.md) - 2025-09-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A3%8E%2B%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%81%E8%BF%99%E4%BA%9B%E5%9C%B0%E5%8C%BA%E6%B3%A8%E6%84%8F%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)
+- [店家回应炒蛏子和螃蟹两个菜661元](dian-jia-hui-ying-chao-cheng-zi-he-pang-xie-liang-ge-cai-661yuan-2025-10-07--v1.md) - 2025-10-07 (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E7%82%92%E8%9B%8F%E5%AD%90%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## F
 
@@ -59,6 +60,10 @@
 
 - [台风“米娜”将带来大暴雨、特大暴雨](tai-feng-mi-nuo-jiang-dai-lai-da-bao-yu-te-da-bao-yu-2025-09-19--v1.md) - 2025-09-19 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%B1%B3%E5%A8%9C%E2%80%9D%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%A4%A7%E6%9A%B4%E9%9B%A8%E3%80%81%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [天坑溶洞垃圾10层楼高 当地通报](tian-keng-rong-dong-la-ji-10ceng-lou-gao-dang-di-tong-bao-2025-09-29--v1.md) - 2025-09-29 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%9D%91%E6%BA%B6%E6%B4%9E%E5%9E%83%E5%9C%BE10%E5%B1%82%E6%A5%BC%E9%AB%98+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
+
+## W
+
+- [武汉现超大月饼重388斤 500人排队吃](wu-yi-xian-chao-da-yue-bing-zhong-388jin-500ren-pai-dui-chi-2025-10-07--v1.md) - 2025-10-07 (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%8E%B0%E8%B6%85%E5%A4%A7%E6%9C%88%E9%A5%BC%E9%87%8D388%E6%96%A4+500%E4%BA%BA%E6%8E%92%E9%98%9F%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## X
 
