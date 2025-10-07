@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [跟着总书记一起厚植文化底蕴 - 2025-10-07](AI_Reports/shi-zheng-yu-guo-ji/gen-zhao-zong-shu-ji-yi-qi-hou-zhi-wen-hua-di-yun-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%8E%9A%E6%A4%8D%E6%96%87%E5%8C%96%E5%BA%95%E8%95%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [武契奇暗示可能爆发新的战争 - 2025-10-06](AI_Reports/shi-zheng-yu-guo-ji/wu-qi-qi-an-shi-ke-neng-bao-fa-xin-de-zhan-zheng-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E7%9A%84%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)
 - [红色预警！强台风麦德姆最新路径公布 - 2025-10-05](AI_Reports/shi-zheng-yu-guo-ji/hong-se-yu-jing-qiang-tai-feng-mai-de-mu-zui-xin-lu-jing-gong-bu-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%A2%E8%B0%83%E9%A2%84%E8%AD%A6%EF%BC%81%E5%BC%BA%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 - [歼-35与歼-35A机库首度公开 - 2025-10-05](AI_Reports/shi-zheng-yu-guo-ji/jian-35yu-jian-35aji-ku-shou-du-gong-kai-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%BC-35%E4%B8%8E%E6%AD%BC-35A%E6%9C%BA%E5%BA%93%E9%A6%96%E5%BA%93%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,11 +23,12 @@
 - [石榴籽，习近平为何一再强调 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/shi-liu-zi-xi-jin-ping-wei-he-yi-zai-qiang-diao-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9F%B3%E6%A6%B4%E7%B1%BD%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E4%B8%80%E5%86%8D%E5%BC%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
 - [朝鲜宣布将对被判有罪人员实施大赦 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/zhao-xian-xuan-bu-jiang-dui-bei-pan-you-zui-ren-yuan-shi-shi-da-she-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AF%B9%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BA%BA%E5%91%98%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%B5%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [为新疆更美好的明天共同奋斗 - 2025-09-27](AI_Reports/shi-zheng-yu-guo-ji/wei-xin-jiang-geng-mei-hao-de-ming-tian-gong-tong-fen-dou-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E6%96%B0%E7%96%86%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%98%8E%E5%A4%A9%E5%85%B1%E5%90%8C%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
-- [这是我们的新疆！ - 2025-09-26](AI_Reports/shi-zheng-yu-guo-ji/zhe-shi-wo-men-de-xin-jiang-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [店家回应炒蛏子和螃蟹两个菜661元 - 2025-10-07](AI_Reports/she-hui-yu-fa-zhi/dian-jia-hui-ying-chao-cheng-zi-he-pang-xie-liang-ge-cai-661yuan-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E7%82%92%E8%9B%8F%E5%AD%90%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)
+- [武汉现超大月饼重388斤 500人排队吃 - 2025-10-07](AI_Reports/she-hui-yu-fa-zhi/wu-yi-xian-chao-da-yue-bing-zhong-388jin-500ren-pai-dui-chi-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%8E%B0%E8%B6%85%E5%A4%A7%E6%9C%88%E9%A5%BC%E9%87%8D388%E6%96%A4+500%E4%BA%BA%E6%8E%92%E9%98%9F%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)
 - [男孩跪地拦车救母感动全网 妈妈回应 - 2025-10-06](AI_Reports/she-hui-yu-fa-zhi/nan-hai-gui-di-lan-che-jiu-mu-gan-dong-quan-wang-ma-ma-hui-ying-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AA%E5%9C%B0%E6%8B%A6%E8%BD%A6%E6%95%91%E6%AF%8D%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91+%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [很重要的是看老年人幸福不幸福 - 2025-10-05](AI_Reports/she-hui-yu-fa-zhi/hen-zhong-yao-de-shi-kan-lao-nian-ren-xing-fu-bu-xing-fu-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%88%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E7%9C%8B%E8%80%81%E5%B9%B4%E4%BA%BA%E5%B9%B8%E7%A6%8F%E4%B8%8D%E5%B9%B8%E4%B8%8D%E5%B9%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [河南玉米收获季遇雨 大学生被召回家 - 2025-10-04](AI_Reports/she-hui-yu-fa-zhi/he-nan-yu-mi-shou-huo-ji-yu-yu-da-xue-sheng-bei-zhao-hui-jia-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%8E%89%E7%B1%B3%E6%94%B6%E8%8E%B7%E5%AD%A3%E9%81%87%E9%9B%A8+%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8F%AC%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)
@@ -45,8 +47,6 @@
 - [台风“米娜”将带来大暴雨、特大暴雨 - 2025-09-19](AI_Reports/she-hui-yu-fa-zhi/tai-feng-mi-nuo-jiang-dai-lai-da-bao-yu-te-da-bao-yu-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%B1%B3%E5%A8%9C%E2%80%9D%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%A4%A7%E6%9A%B4%E9%9B%A8%E3%80%81%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [香港黄金盗窃案已拘捕12男1女 - 2025-09-19](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-huang-jin-dao-qie-an-yi-ju-bu-12nan-1nu-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E7%9B%97%E7%AA%83%E6%A1%88%E5%B7%B2%E6%8B%A3%E6%8D%9512%E7%94%B71%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [12306回应国庆开票即候补 - 2025-09-17](AI_Reports/she-hui-yu-fa-zhi/12306hui-ying-guo-qing-kai-piao-ji-hou-bu-2025-09-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%9B%BD%E5%BA%86%E5%BC%80%E7%A5%A8%E5%8D%B3%E5%80%99%E8%A1%A5&sa=fyb_news&rsv_dl=fyb_news)
-- [大风+暴雨要来了！这些地区注意防范 - 2025-09-16](AI_Reports/she-hui-yu-fa-zhi/da-feng-bao-yu-yao-lai-liao-zhe-xie-di-qu-zhu-yi-fang-fan-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A3%8E%2B%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%81%E8%BF%99%E4%BA%9B%E5%9C%B0%E5%8C%BA%E6%B3%A8%E6%84%8F%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)
-- [应急局回应山东现不明飞行物被击落 - 2025-09-14](AI_Reports/she-hui-yu-fa-zhi/ying-ji-ju-hui-ying-shan-dong-xian-bu-ming-fei-xing-wu-bei-ji-luo-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%94%E6%80%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E8%A2%AB%E5%87%BB%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -89,6 +89,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [60秒延时摄影赏中秋月 - 2025-10-07](AI_Reports/ke-xue-yu-tai-kong/60miao-yan-shi-she-ying-shang-zhong-qiu-yue-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=60%E7%A7%92%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E8%B5%8F%E4%B8%AD%E7%A7%8B%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)
 - [超大满月中秋登场 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/chao-da-man-yue-zhong-qiu-deng-chang-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E6%BB%A1%E6%9C%88%E4%B8%AD%E7%A7%8B%E7%99%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [核电站竟然还有产珍珠的副业 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/he-dian-zhan-jing-ran-huan-you-chan-zhen-zhu-de-fu-ye-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%B8%E7%94%B5%E7%AB%99%E7%AB%9F%E7%84%B6%E8%BF%98%E6%9C%89%E4%BA%A7%E7%8F%A0%E7%8F%A0%E7%9A%84%E5%89%AF%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [“一箭穿云”链动星辰大海 - 2025-10-04](AI_Reports/ke-xue-yu-tai-kong/yi-jian-chuan-yun-lian-dong-xing-chen-da-hai-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E7%AE%AD%E7%A9%BF%E4%BA%91%E2%80%9D%E9%93%BE%E5%8A%A8%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
@@ -142,6 +143,7 @@
 ## 旅游与出行
 [点击查看旅游与出行完整报告索引 →](AI_Reports/lu-you-yu-chu-xing/Reports.md)
 
+- [亲历珠峰暴雪游客：全身结冰 很恐怖 - 2025-10-07](AI_Reports/lu-you-yu-chu-xing/qin-li-zhu-feng-bao-xue-you-ke-quan-shen-jie-bing-hen-kong-bu-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%B2%E5%8E%86%E7%8F%A0%E5%B3%B0%E6%9A%B4%E9%9B%AA%E6%B8%B8%E5%AE%A2%EF%BC%9A%E5%85%A8%E8%BA%AB%E7%BB%93%E5%86%B0+%E5%BE%88%E6%81%90%E6%80%96&sa=fyb_news&rsv_dl=fyb_news)
 - [被悟空带火的小西天：游客暴增百倍 - 2025-10-05](AI_Reports/lu-you-yu-chu-xing/bei-wu-kong-dai-huo-de-xiao-xi-tian-you-ke-bao-zeng-bai-bei-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A2%AB%E6%82%9F%E7%A9%BA%E5%B8%A6%E7%81%AB%E7%9A%84%E5%B0%8F%E8%A5%BF%E5%A4%A9%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%9A%B4%E5%A2%9E%E7%99%BE%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [打卡照虽美 但这些出片方式不可取 - 2025-10-03](AI_Reports/lu-you-yu-chu-xing/da-qia-zhao-sui-mei-dan-zhe-xie-chu-pian-fang-shi-bu-ke-qu-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%89%B9%E5%8D%A1%E7%85%A7%E8%99%BD%E7%BE%8E+%E4%BD%86%E8%BF%99%E4%BA%9B%E5%87%BA%E7%89%87%E6%96%B9%E5%BC%8F%E4%B8%8D%E5%8F%AF%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)
 - [这个假期汽车托运火了 比租车省钱 - 2025-10-03](AI_Reports/lu-you-yu-chu-xing/zhe-ge-jia-qi-qi-che-tuo-yun-huo-liao-bi-zu-che-sheng-qian-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%81%87%E6%9C%9F%E6%B1%BD%E8%BD%A6%E6%89%98%E8%BF%90%E7%81%AB%E4%BA%86+%E6%AF%94%E7%A7%9F%E8%BD%A6%E7%9C%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)
