@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [钱学森遭美方拘禁后失声暴瘦 - 2025-10-08](AI_Reports/shi-zheng-yu-guo-ji/qian-xue-sen-zao-mei-fang-ju-jin-hou-shi-sheng-bao-shou-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%92%B1%E5%AD%A6%E6%A3%AE%E9%81%AD%E7%BE%8E%E6%96%B9%E6%8B%98%E7%A6%81%E5%90%8E%E5%A4%B1%E5%A3%B0%E6%9A%B4%E7%98%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [跟着总书记一起厚植文化底蕴 - 2025-10-07](AI_Reports/shi-zheng-yu-guo-ji/gen-zhao-zong-shu-ji-yi-qi-hou-zhi-wen-hua-di-yun-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%8E%9A%E6%A4%8D%E6%96%87%E5%8C%96%E5%BA%95%E8%95%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [武契奇暗示可能爆发新的战争 - 2025-10-06](AI_Reports/shi-zheng-yu-guo-ji/wu-qi-qi-an-shi-ke-neng-bao-fa-xin-de-zhan-zheng-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E7%9A%84%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)
 - [红色预警！强台风麦德姆最新路径公布 - 2025-10-05](AI_Reports/shi-zheng-yu-guo-ji/hong-se-yu-jing-qiang-tai-feng-mai-de-mu-zui-xin-lu-jing-gong-bu-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%A2%E8%B0%83%E9%A2%84%E8%AD%A6%EF%BC%81%E5%BC%BA%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,11 +23,12 @@
 - [全球首例！中国航母福建舰创纪录 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/quan-qiu-shou-li-zhong-guo-hang-mu-fu-jian-jian-chuang-ji-lu-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E7%A6%8F%E5%BB%BA%E8%88%B9%E5%88%9B%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)
 - [石榴籽，习近平为何一再强调 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/shi-liu-zi-xi-jin-ping-wei-he-yi-zai-qiang-diao-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9F%B3%E6%A6%B4%E7%B1%BD%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E4%B8%80%E5%86%8D%E5%BC%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
 - [朝鲜宣布将对被判有罪人员实施大赦 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/zhao-xian-xuan-bu-jiang-dui-bei-pan-you-zui-ren-yuan-shi-shi-da-she-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AF%B9%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BA%BA%E5%91%98%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%B5%A6&sa=fyb_news&rsv_dl=fyb_news)
-- [为新疆更美好的明天共同奋斗 - 2025-09-27](AI_Reports/shi-zheng-yu-guo-ji/wei-xin-jiang-geng-mei-hao-de-ming-tian-gong-tong-fen-dou-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E6%96%B0%E7%96%86%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%98%8E%E5%A4%A9%E5%85%B1%E5%90%8C%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [中国游客马来西亚失联 定位在海里 - 2025-10-08](AI_Reports/she-hui-yu-fa-zhi/zhong-guo-you-ke-ma-lai-xi-ya-shi-lian-ding-wei-zai-hai-li-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A4%B1%E8%81%94+%E5%AE%9A%E4%BD%8D%E5%9C%A8%E6%B5%B7%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
+- [中国最大收费站挤满返程大军 - 2025-10-08](AI_Reports/she-hui-yu-fa-zhi/zhong-guo-zui-da-shou-fei-zhan-ji-man-fan-cheng-da-jun-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8C%A4%E6%BB%A1%E8%BF%94%E7%A8%8B%E5%A4%A7%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [店家回应炒蛏子和螃蟹两个菜661元 - 2025-10-07](AI_Reports/she-hui-yu-fa-zhi/dian-jia-hui-ying-chao-cheng-zi-he-pang-xie-liang-ge-cai-661yuan-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E7%82%92%E8%9B%8F%E5%AD%90%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)
 - [武汉现超大月饼重388斤 500人排队吃 - 2025-10-07](AI_Reports/she-hui-yu-fa-zhi/wu-yi-xian-chao-da-yue-bing-zhong-388jin-500ren-pai-dui-chi-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%8E%B0%E8%B6%85%E5%A4%A7%E6%9C%88%E9%A5%BC%E9%87%8D388%E6%96%A4+500%E4%BA%BA%E6%8E%92%E9%98%9F%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)
 - [男孩跪地拦车救母感动全网 妈妈回应 - 2025-10-06](AI_Reports/she-hui-yu-fa-zhi/nan-hai-gui-di-lan-che-jiu-mu-gan-dong-quan-wang-ma-ma-hui-ying-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AA%E5%9C%B0%E6%8B%A6%E8%BD%A6%E6%95%91%E6%AF%8D%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91+%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
@@ -45,8 +47,6 @@
 - [始祖鸟烟花秀引争议 日喀则通报 - 2025-09-21](AI_Reports/she-hui-yu-fa-zhi/shi-zu-niao-yan-hua-xiu-yin-zheng-yi-ri-ke-ze-tong-bao-2025-09-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A7%8B%E7%A5%96%E9%B8%9F%E7%83%9F%E8%8A%B1%E7%A7%91%E5%BC%95%E4%BA%89%E8%AE%AE+%E6%97%A5%E5%96%80%E5%88%99%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [香港发现战时炸弹 6000人紧急疏散 - 2025-09-20](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-fa-xian-zhan-shi-zha-dan-6000ren-jin-ji-shu-san-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%8F%91%E7%8E%B0%E6%88%98%E6%97%B6%E7%82%B8%E5%BC%B9+6000%E4%BA%BA%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)
 - [台风“米娜”将带来大暴雨、特大暴雨 - 2025-09-19](AI_Reports/she-hui-yu-fa-zhi/tai-feng-mi-nuo-jiang-dai-lai-da-bao-yu-te-da-bao-yu-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%B1%B3%E5%A8%9C%E2%80%9D%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%A4%A7%E6%9A%B4%E9%9B%A8%E3%80%81%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)
-- [香港黄金盗窃案已拘捕12男1女 - 2025-09-19](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-huang-jin-dao-qie-an-yi-ju-bu-12nan-1nu-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E7%9B%97%E7%AA%83%E6%A1%88%E5%B7%B2%E6%8B%A3%E6%8D%9512%E7%94%B71%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)
-- [12306回应国庆开票即候补 - 2025-09-17](AI_Reports/she-hui-yu-fa-zhi/12306hui-ying-guo-qing-kai-piao-ji-hou-bu-2025-09-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%9B%BD%E5%BA%86%E5%BC%80%E7%A5%A8%E5%8D%B3%E5%80%99%E8%A1%A5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -74,6 +74,7 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [中国研究出可弯折20000次柔性电池 - 2025-10-08](AI_Reports/ke-ji-yu-hu-lian-wang/zhong-guo-yan-jiu-chu-ke-wan-zhe-20000ci-rou-xing-dian-chi-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E5%87%BA%E5%8F%AF%E5%BC%AF%E6%8A%9820000%E6%AC%A1%E6%9F%94%E6%80%A7%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [中国已用上“地面空间站” - 2025-10-04](AI_Reports/ke-ji-yu-hu-lian-wang/zhong-guo-yi-yong-shang-di-mian-kong-jian-zhan-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%94%A8%E4%B8%8A%E2%80%9C%E5%9C%B0%E9%9D%A2%E7%A9%BA%E9%97%B4%E7%AB%99%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 网络安全
@@ -172,6 +173,7 @@
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
+- [中华文化跃动传承之力 - 2025-10-08](AI_Reports/wen-hua-yu-mei-ti/zhong-hua-wen-hua-yue-dong-chuan-cheng-zhi-li-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E8%B7%83%E5%8A%A8%E4%BC%A0%E6%89%BF%E4%B9%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [家和万事兴 - 2025-10-06](AI_Reports/wen-hua-yu-mei-ti/jia-he-mo-shi-xing-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%B6%E5%92%8C%E4%B8%87%E4%BA%8B%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [本世纪最晚中秋来了 - 2025-10-05](AI_Reports/wen-hua-yu-mei-ti/ben-shi-ji-zui-wan-zhong-qiu-lai-liao-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%AC%E4%B8%96%E7%BA%AA%E6%9C%80%E6%99%9A%E4%B8%AD%E7%A7%8B%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [最深沉、最持久的情感所系 - 2025-10-03](AI_Reports/wen-hua-yu-mei-ti/zui-shen-chen-zui-chi-jiu-de-qing-gan-suo-xi-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E6%B7%B1%E6%B2%B9%E3%80%81%E6%9C%80%E6%8C%81%E4%B9%85%E7%9A%84%E6%83%85%E6%84%9F%E6%89%80%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)
