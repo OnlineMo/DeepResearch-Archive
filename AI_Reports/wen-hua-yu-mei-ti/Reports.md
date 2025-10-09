@@ -1,7 +1,7 @@
 # 文化与媒体 报告索引
 
 本页包含 **文化与媒体** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：10
+报告总数：11
 
 ---
 
@@ -17,6 +17,10 @@
 
 - [家和万事兴](jia-he-mo-shi-xing-2025-10-06--v1.md) - 2025-10-06 (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%B6%E5%92%8C%E4%B8%87%E4%BA%8B%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [金秋里 听历史的声息拂过耳畔](jin-qiu-li-ting-li-shi-de-sheng-xi-fu-guo-er-pan-2025-09-19--v1.md) - 2025-09-19 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E7%A7%8B%E9%87%8C+%E5%90%AC%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A3%B0%E6%81%AF%E6%8B%82%E8%BF%87%E8%80%B3%E7%95%94&sa=fyb_news&rsv_dl=fyb_news)
+
+## M
+
+- [蜜雪冰城小票藏连载小说](mi-xue-bing-cheng-xiao-piao-cang-lian-zai-xiao-shuo-2025-10-09--v1.md) - 2025-10-09 (v1) [来源](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%8F%E7%A5%A8%E8%97%8F%E8%BF%9E%E8%BD%BD%E5%B0%8F%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)
 
 ## S
 
