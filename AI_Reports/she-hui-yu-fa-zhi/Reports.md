@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：39
+报告总数：40
 
 ---
 
@@ -47,6 +47,10 @@
 - [男子高速戴恐怖面具 杭州交警通报](nan-zi-gao-su-dai-kong-bu-mian-ju-hang-zhou-jiao-jing-tong-bao-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E6%88%B4%E6%81%90%E6%80%96%E9%9D%A2%E5%85%B7+%E6%9D%AD%E5%B7%9E%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [男子送老人过马路 3次敬礼全网刷屏](nan-zi-song-lao-ren-guo-ma-lu-3ci-jing-li-quan-wang-shua-ping-2025-10-02--v1.md) - 2025-10-02 (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%81%E8%80%81%E4%BA%BA%E8%BF%87%E9%A9%AC%E8%B7%AF+3%E6%AC%A1%E6%95%AC%E7%A4%BC%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [男子忘关火外出27天回家才发现](nan-zi-wang-guan-huo-wai-chu-27tian-hui-jia-cai-fa-xian-2025-09-08--v1.md) - 2025-09-08 (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BF%98%E5%85%B3%E7%81%AB%E5%A4%96%E5%87%BA27%E5%A4%A9%E5%9B%9E%E5%AE%B6%E6%89%8D%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)
+
+## Q
+
+- [钱塘江现震撼月亮潮](qian-tang-jiang-xian-zhen-han-yue-liang-chao-2025-10-09--v1.md) - 2025-10-09 (v1) [来源](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E7%8E%B0%E9%9C%87%E6%92%BC%E6%9C%88%E4%BA%AE%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)
 
 ## R
 
