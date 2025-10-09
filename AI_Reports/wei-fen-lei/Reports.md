@@ -1,12 +1,13 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：10
+报告总数：11
 
 ---
 
 ## G
 
+- [古树情缘](gu-shu-qing-yuan-2025-10-09--v1.md) - 2025-10-09 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%A4%E6%A0%91%E6%83%85%E7%BC%98&sa=fyb_news&rsv_dl=fyb_news)
 - [广州塔“定塔神器”出现明显摆动](yan-zhou-ta-ding-ta-shen-qi-chu-xian-ming-xian-bai-dong-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%A1%94%E2%80%9C%E5%AE%9A%E5%A1%94%E7%A5%9E%E5%99%A8%E2%80%9D%E5%87%BA%E7%8E%B0%E6%98%8E%E6%98%BE%E6%91%86%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 
 ## H
