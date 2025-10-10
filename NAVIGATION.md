@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [国安部公布3名台独“水军”身份信息 - 2025-10-10](AI_Reports/shi-zheng-yu-guo-ji/guo-an-bu-gong-bu-3ming-tai-du-shui-jun-shen-fen-xin-xi-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E5%85%AC%E5%B8%833%E5%90%8D%E5%8F%B0%E7%8B%AC%E2%80%9C%E6%B0%B4%E5%86%9B%E2%80%9D%E8%BA%AB%E4%BB%BD%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [李强会见金正恩 - 2025-10-10](AI_Reports/shi-zheng-yu-guo-ji/li-qiang-hui-jian-jin-zheng-en-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%E4%BC%9A%E8%A7%81%E9%87%91%E6%AD%A3%E6%81%A9&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平将出席全球妇女峰会开幕式 - 2025-10-10](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-jiang-chu-xi-quan-qiu-fu-nu-feng-hui-kai-mu-shi-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%AD%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [中国航天 生日快乐 - 2025-10-09](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-hang-tian-sheng-ri-kuai-le-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9+%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)
 - [钱学森遭美方拘禁后失声暴瘦 - 2025-10-08](AI_Reports/shi-zheng-yu-guo-ji/qian-xue-sen-zao-mei-fang-ju-jin-hou-shi-sheng-bao-shou-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%92%B1%E5%AD%A6%E6%A3%AE%E9%81%AD%E7%BE%8E%E6%96%B9%E6%8B%98%E7%A6%81%E5%90%8E%E5%A4%B1%E5%A3%B0%E6%9A%B4%E7%98%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [跟着总书记一起厚植文化底蕴 - 2025-10-07](AI_Reports/shi-zheng-yu-guo-ji/gen-zhao-zong-shu-ji-yi-qi-hou-zhi-wen-hua-di-yun-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%8E%9A%E6%A4%8D%E6%96%87%E5%8C%96%E5%BA%95%E8%95%B4&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [二十届四中全会10月20日至23日召开 - 2025-09-30](AI_Reports/shi-zheng-yu-guo-ji/er-shi-jie-si-zhong-quan-hui-10yue-20ri-zhi-23ri-zhao-kai-2025-09-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A10%E6%9C%8820%E6%97%A5%E8%87%B323%E6%97%A5%E5%8F%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
 - [烈士纪念日 向人民英雄敬献花篮 - 2025-09-30](AI_Reports/shi-zheng-yu-guo-ji/lie-shi-ji-nian-ri-xiang-ren-min-ying-xiong-jing-xian-hua-lan-2025-09-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5+%E5%90%91%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%95%AC%E7%8C%AE%E8%8A%B1%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [内塔尼亚胡向卡塔尔道歉 - 2025-09-30](AI_Reports/shi-zheng-yu-guo-ji/nei-ta-ni-ya-hu-xiang-qia-ta-er-dao-qian-2025-09-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%90%91%E5%8D%A1%E5%A1%94%E5%B0%94%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
-- [坚守党校初心 服务工作大局 - 2025-09-29](AI_Reports/shi-zheng-yu-guo-ji/jian-shou-dang-xiao-chu-xin-fu-wu-gong-zuo-da-ju-2025-09-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%85%9A%E6%A0%A1%E5%88%9D%E5%BF%83+%E6%9C%8D%E5%8A%A1%E5%B7%A5%E4%BD%9C%E5%A4%A7%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
-- [全球首例！中国航母福建舰创纪录 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/quan-qiu-shou-li-zhong-guo-hang-mu-fu-jian-jian-chuang-ji-lu-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E7%A6%8F%E5%BB%BA%E8%88%B9%E5%88%9B%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)
-- [石榴籽，习近平为何一再强调 - 2025-09-28](AI_Reports/shi-zheng-yu-guo-ji/shi-liu-zi-xi-jin-ping-wei-he-yi-zai-qiang-diao-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9F%B3%E6%A6%B4%E7%B1%BD%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E4%B8%80%E5%86%8D%E5%BC%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -189,6 +189,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [北方秋雨持续几天 - 2025-10-10](AI_Reports/wei-fen-lei/bei-fang-qiu-yu-chi-xu-ji-tian-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E7%A7%8B%E9%9B%A8%E6%8C%81%E7%BB%AD%E5%87%A0%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [古树情缘 - 2025-10-09](AI_Reports/wei-fen-lei/gu-shu-qing-yuan-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%A4%E6%A0%91%E6%83%85%E7%BC%98&sa=fyb_news&rsv_dl=fyb_news)
 - [“横竖”都是世界第一 - 2025-09-29](AI_Reports/wei-fen-lei/heng-shu-du-shi-shi-jie-di-yi-2025-09-29--v1.md) (v1)
 - [献给新疆维吾尔自治区成立70周年 - 2025-09-28](AI_Reports/wei-fen-lei/xian-gei-xin-jiang-wei-wu-er-zi-zhi-qu-cheng-li-70zhou-nian-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8C%AE%E7%BB%99%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
