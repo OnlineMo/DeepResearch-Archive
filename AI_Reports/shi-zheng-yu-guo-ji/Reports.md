@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：117
+报告总数：121
 
 ---
 
@@ -27,6 +27,7 @@
 
 ## C
 
+- [朝鲜举行盛大阅兵式](zhao-xian-ju-xing-sheng-da-yue-bing-shi-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%B8%BE%E8%A1%8C%E7%9B%9B%E5%A4%A7%E9%98%85%E5%85%B5%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [朝鲜宣布将对被判有罪人员实施大赦](zhao-xian-xuan-bu-jiang-dui-bei-pan-you-zui-ren-yuan-shi-shi-da-she-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AF%B9%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BA%BA%E5%91%98%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%B5%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [从两种精神看新疆70年巨变](cong-liang-chong-jing-shen-kan-xin-jiang-70nian-ju-bian-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%A4%E7%A7%8D%E7%B2%BE%E7%A5%9E%E7%9C%8B%E6%96%B0%E7%96%8670%E5%B9%B4%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -43,6 +44,7 @@
 
 - [菲将举行大规模游行 中使馆发提醒](fei-jiang-ju-xing-da-gui-mo-you-xing-zhong-shi-guan-fa-ti-xing-2025-09-21--v1.md) - 2025-09-21 (v1)
 - [福建舰通过台湾海峡](fu-jian-jian-tong-guo-tai-wan-hai-xia-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)
+- [赋能“她力量” 中国在行动](fu-neng-ta-li-liang-zhong-guo-zai-xing-dong-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E8%B5%8B%E8%83%BD%E2%80%9C%E5%A5%B9%E5%8A%9B%E9%87%8F%E2%80%9D+%E4%B8%AD%E5%9B%BD%E5%9C%A8%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 
 ## G
 
@@ -156,6 +158,7 @@
 - [详讯：习近平同特朗普通电话](xiang-xun-xi-jin-ping-tong-te-lang-pu-tong-dian-hua-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E8%AF%A6%E8%AE%AF%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [像石榴籽一样紧紧抱在一起](xiang-shi-liu-zi-yi-yang-jin-jin-bao-zai-yi-qi-2025-09-23--v1.md) - 2025-09-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%83%8F%E7%9F%B3%E6%A6%B4%E7%B1%BD%E4%B8%80%E6%A0%B7%E7%B4%A7%E7%B4%A7%E6%8A%B1%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [新华社直播九三阅兵](xin-hua-she-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
+- [悬赏！18名台湾军方违法核心骨干曝光](xuan-shang-18ming-tai-wan-jun-fang-wei-fa-he-xin-gu-gan-pu-guang-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E6%82%AC%E8%B5%8F%EF%BC%8118%E5%90%8D%E5%8F%B0%E6%B9%BE%E5%86%9B%E6%96%B9%E8%BF%9D%E6%B3%95%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
@@ -175,6 +178,7 @@
 - [政治盟友遭枪击身亡 特朗普：降半旗](zheng-zhi-meng-you-zao-qiang-ji-shen-wang-te-lang-pu-jiang-ban-qi-2025-09-11--v1.md) - 2025-09-11 (v1)
 - [致敬伟大胜利](zhi-jing-wei-da-sheng-li-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [致敬英烈！运-20舱内视角看歼-20护航](zhi-jing-ying-lie-yun-20cang-nei-shi-jiao-kan-jian-20hu-hang-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E8%8B%B1%E7%83%88%EF%BC%81%E8%BF%90-20%E8%88%B1%E5%86%85%E8%A7%86%E8%A7%92%E7%9C%8B%E6%AD%BC-20%E6%8A%A4%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)
+- [中方一个个点名多个国家劣迹](zhong-fang-yi-ge-ge-dian-ming-duo-ge-guo-jia-lie-ji-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%80%E4%B8%AA%E4%B8%AA%E7%82%B9%E5%90%8D%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8A%A3%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [中方：某常任理事国一意孤行令人失望](zhong-fang-mou-chang-ren-li-shi-guo-yi-yi-gu-xing-ling-ren-shi-wang-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%9F%90%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9B%BD%E4%B8%80%E6%84%8F%E5%AD%A4%E8%A1%8C%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议](zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-08-30--v1.md) - 2025-08-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国订单至今为零 美国豆农感受痛苦](zhong-guo-ding-dan-zhi-jin-wei-ling-mei-guo-dou-nong-gan-shou-tong-ku-2025-09-23--v1.md) - 2025-09-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%AE%A2%E5%8D%95%E8%87%B3%E4%BB%8A%E4%B8%BA%E9%9B%B6+%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%86%9C%E6%84%9F%E5%8F%97%E7%97%9B%E8%8B%A6&sa=fyb_news&rsv_dl=fyb_news)
