@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：121
+报告总数：124
 
 ---
 
@@ -112,6 +112,7 @@
 - [让和平的薪火代代相传](rang-he-ping-de-xin-huo-dai-dai-xiang-chuan-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E5%92%8C%E5%B9%B3%E7%9A%84%E8%96%AA%E7%81%AB%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报、新华社、央视集体发文](ren-min-ri-bao-xin-hua-she-yang-shi-ji-ti-fa-wen-2025-09-15--v1.md) - 2025-09-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%81%E6%96%B0%E5%8D%8E%E7%A4%BE%E3%80%81%E5%A4%AE%E8%A7%86%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
 - [日本代表最后一刻取消访美](ri-ben-dai-biao-zui-hou-yi-ke-qu-xiao-fang-mei-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E5%8F%96%E6%B6%88%E8%AE%BF%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)
+- [日本在野党协商联手让高市早苗落选](ri-ben-zai-ye-dang-xie-shang-lian-shou-rang-gao-shi-zao-miao-luo-xuan-2025-10-12--v1.md) - 2025-10-12 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%87%8E%E5%85%9A%E5%8D%8F%E5%95%86%E8%81%94%E6%89%8B%E8%AE%A9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%90%BD%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)
 
 ## S
 
@@ -121,6 +122,7 @@
 - [上合组织经贸合作“含金量”](shang-he-zu-zhi-jing-mao-he-zuo-han-jin-liang-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E2%80%9C%E5%90%AB%E9%87%91%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [胜利日的难忘瞬间](sheng-li-ri-de-nan-wang-shun-jian-2025-09-11--v1.md) - 2025-09-11 (v1) [来源](https://www.baidu.com/s?wd=%E8%83%9C%E5%88%A9%E6%97%A5%E7%9A%84%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [石榴籽，习近平为何一再强调](shi-liu-zi-xi-jin-ping-wei-he-yi-zai-qiang-diao-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E7%9F%B3%E6%A6%B4%E7%B1%BD%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E4%B8%80%E5%86%8D%E5%BC%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
+- [树立全球妇女事业发展新的里程碑](shu-li-quan-qiu-fu-nu-shi-ye-fa-zhan-xin-de-li-cheng-bei-2025-10-12--v1.md) - 2025-10-12 (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%91%E7%AB%8B%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 
 ## T
 
@@ -199,4 +201,5 @@
 - [“把伟大抗战精神一代代传下去”](ba-wei-da-kang-zhan-jing-shen-yi-dai-dai-chuan-xia-qu-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%9D%E4%BC%9F%E5%A4%A7%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E4%B8%80%E4%BB%A3%E4%BB%A3%E4%BC%A0%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“上海精神”照亮上合壮大之路](shang-hai-jing-shen-zhao-liang-shang-he-zhuang-da-zhi-lu-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E6%B5%B7%E7%B2%BE%E7%A5%9E%E2%80%9D%E7%85%A7%E4%BA%AE%E4%B8%8A%E5%90%88%E5%A3%AE%E5%A4%A7%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [“我是中国老兵 我骄傲！”](wo-shi-zhong-guo-lao-bing-wo-jiao-ao-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%80%81%E5%85%B5+%E6%88%91%E9%AA%84%E5%82%B2%EF%BC%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [“中国建造”享誉海外！](zhong-guo-jian-zao-xiang-yu-hai-wai-2025-10-12--v1.md) - 2025-10-12 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%BB%BA%E9%80%A0%E2%80%9D%E4%BA%AB%E8%AA%89%E6%B5%B7%E5%A4%96%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
 - [“中国排面”再现人民大会堂](zhong-guo-pai-mian-zai-xian-ren-min-da-hui-tang-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E2%80%9D%E5%86%8D%E7%8E%B0%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)
