@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：41
+报告总数：43
 
 ---
 
@@ -95,4 +95,6 @@
 
 ## “
 
+- [“美女博主”诱导策反100余人窃密](mei-nu-bo-zhu-you-dao-ce-fan-100yu-ren-qie-mi-2025-10-12--v1.md) - 2025-10-12 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8E%E5%A5%B3%E5%8D%9A%E4%B8%BB%E2%80%9D%E8%AF%B1%E5%AF%BC%E7%AD%96%E5%8F%8D100%E4%BD%99%E4%BA%BA%E7%AA%83%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
+- [“人生的意义”小吃店爆红后歇业](ren-sheng-de-yi-yi-xiao-chi-dian-bao-hong-hou-xie-ye-2025-10-12--v1.md) - 2025-10-12 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89%E2%80%9D%E5%B0%8F%E5%90%83%E5%BA%97%E7%88%86%E7%BA%A2%E5%90%8E%E6%AD%87%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [“是鹊桥吗” 杭州上空一幕看呆网友](shi-que-qiao-ma-hang-zhou-shang-kong-yi-mu-kan-ai-wang-you-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%AF%E9%B9%8A%E6%A1%A5%E5%90%97%E2%80%9D+%E6%9D%AD%E5%B7%9E%E4%B8%8A%E7%A9%BA%E4%B8%80%E5%B9%97%E7%9C%8B%E5%91%86%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)
