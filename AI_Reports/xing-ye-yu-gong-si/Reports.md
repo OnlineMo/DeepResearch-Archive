@@ -1,7 +1,7 @@
 # 行业与公司 报告索引
 
 本页包含 **行业与公司** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：6
+报告总数：7
 
 ---
 
@@ -24,6 +24,10 @@
 ## P
 
 - [苹果的牙膏“挤爆了”](ping-guo-de-ya-gao-ji-bao-liao-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E7%89%99%E8%86%8F%E2%80%9C%E6%8C%A4%E7%88%86%E4%BA%86%E2%88%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## W
+
+- [万科董事长辛杰辞职](mo-ke-dong-shi-chang-xin-jie-ci-zhi-2025-10-13--v1.md) - 2025-10-13 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E6%9D%B0%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
