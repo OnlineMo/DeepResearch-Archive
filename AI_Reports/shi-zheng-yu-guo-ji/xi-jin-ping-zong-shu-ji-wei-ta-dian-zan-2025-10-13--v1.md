@@ -1,0 +1,138 @@
+版次: 头版（v1）
+日期: 2025-10-13
+主题: 习近平总书记为“她”点赞
+
+来源: https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E2%80%9C%E5%A5%B9%E2%80%9D%E7%82%B9%E8%B5%9E&sa=fyb_news&rsv_dl=fyb_news
+
+# 习近平总书记为“她”点赞
+
+## 摘要
+- 习近平总书记对“她”的点赞，既指对中国各行各业杰出女性的肯定与表彰，也指对中国广大女性群体的重视与赋能。
+- 官方语境下，“点赞”旨在树立榜样、弘扬正能量，推动国家发展战略和核心价值观，尤其强调女性在实现中华民族伟大复兴中的重要作用。
+- 中国政府已出台一系列政策和行动，在科技创新、就业创业、教育、社会保障等多个领域显著提升女性地位和发展水平，取得了可量化的成就。
+- 尽管成就显著，但在高层次人才培养、职场性别平等、减轻女性家庭无偿照料负担及消除传统观念影响等方面仍面临挑战。
+- 近期（2025年10月）B站移除习近平相关视频“点踩”功能，引发对网络舆论控制和言论审查的关注，揭示了“点赞事件”在网络空间中的另一重含义。
+
+## 背景
+“习近平总书记为‘她’点赞”并非特指某一位女性，而是指代多位在不同领域做出杰出贡献的女性，以及对中国广大女性群体的统称和赞扬 [xzdw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqh6jc2eGGBPoAzADi-B8NyAsqiLwz4pBCxcdryamggfUHpcyqC6efBhRZGt01BCbgOURD3abGLBn0iEmeoi3zUzlsgmouPbhqKlMAHaqNf632Xa9FzhtGcFiczsXZ_-yJOOByz6n5up_09O919PPaJhoa)。中国官方媒体的报道显示，习近平总书记多次在不同场合对各行各业的“巾帼英雄”表示赞扬和肯定，鼓励她们在实现中华民族伟大复兴的进程中发挥重要作用，实现“人生出彩”和“梦想成真” [xzdw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqh6jc2eGGBPoAzADi-B8NyAsqiLwz4pBCxcdryamggfUHpcyqC6efBhRZGt01BCbgOURD3abGLBn0iEmeoi3zUzlsgmouPbhqKlMAHaqNf632Xa9FzhtGcFiczsXZ_-yJOOByz6n5up_09O919PPaJhoa)。
+
+与此同时，“点赞事件”也涵盖了围绕“点赞”这一行为在网络舆论中引发的讨论和相关事件。特别是在数字时代，网络互动中的“点赞”功能及其衍生的“点踩”功能，在涉及对国家领导人的评价时，可能引发关于言论自由和网络审查的争议。近期（截至2025年10月），Bilibili（B站）移除所有涉及习近平视频的“点踩”功能，便是一个典型案例，引发了海内外对网络舆论控制的广泛关注 [voachinese](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMlJ9ZdB2b7rgI1K5aHSee6atv5pMo0wMpW-NogmQ-ds2jk6kg8EhicuRCCEXUF1ztICemy0bmXvPfEpMbaTJIeljSppKd5wdcMajKXC4qrErii3IK2mZfg3UEQqRRPl6Z4cxmj9FwOfbV__FIw4eLB2daFLwcBpOeqhtqgueNUVA-7CPp0-9JaY33qzTFM1o8TWc=)。因此，对“习近平总书记为‘她’点赞”的探讨，需要从官方语境下的积极肯定与赋能，以及网络舆论场中的复杂性和挑战两个维度进行深度分析。
+
+## 深度分析
+
+### 一、官方语境下的“点赞”——对女性力量的肯定与赋能
+
+习近平总书记对“她”的点赞，是其高度重视妇女工作、肯定女性贡献的体现。他多次强调妇女是“半边天”，是物质文明和精神文明的创造者，是推动社会发展和进步的重要力量 [gmw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSQATuK0uJ7GkgGTMYdEGi0XRmFsCnzlj-Xf_imsEmWfN7SC1VDXovZc_2zkLoFjw2ggyt1-P0Rg9tKaXz5JxObFuRn-Jc_mha890adtLO1GX4-IClN1lGbsxg9ebywqkgq02yh8zkkZyl5XPAtFniGA==)。这些“点赞”旨在树立榜样、弘扬正能量，并与国家发展战略和核心价值观紧密结合。
+
+**1. 具体被点赞的杰出女性代表：**
+习近平总书记曾点赞多位在不同领域做出突出贡献的女性，包括：
+*   **刘洋**：中国首位进入太空的女航天员，被赞为“巾帼英雄”和“中国妇女的‘形象大使’” [xzdw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqh6jc2eGGBPoAzADi-B8NyAsqiLwz4pBCxcdryamggfUHpcyqC6efBhRZGt01BCbgOURD3abGLBn0iEmeoi3zUzlsgmouPbhqKlMAHaqNf632Xa9FzhtGcFiczsXZ_-yJOOByz6n5up_09O919PPaJhoa)。
+*   **龚全珍**：“老阿姨”龚全珍，开国将军甘祖昌的夫人，因其半个多世纪以来始终保持艰苦奋斗精神，回乡扶贫助学的事迹而受到深情赞扬 [xzdw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqh6jc2eGGBPoAzADi-B8NyAsqiLwz4pBCxcdryamggfUHpcyqC6efBhRZGt01BCbgOURD3abGLBn0iEmeoi3zUzlsgmouPbhqKlMAHaqNf632Xa9FzhtGcFiczsXZ_-yJOOByz6n5up_09O919PPaJhoa)。
+*   **屠呦呦**：中国首位获得诺贝尔生理学或医学奖的女科学家，因发现青蒿素为人类健康事业作出巨大贡献，习近平总书记曾在新年贺词中专门提及她，并向她颁授“共和国勋章” [xzdw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqh6jc2eGGBPoAzADi-B8NyAsqiLwz4pBCxcdryamggfUHpcyqC6efBhRZGt01BCbgOURD3abGLBn0iEmeoi3zUzlsgmouPbhqKlMAHaqNf632Xa9FzhtGcFiczsXZ_-yJOOByz6n5up_09O919PPaJhoa)。
+*   **张桂梅**：云南丽江华坪女子高级中学校长，因“献身教育扶贫、点燃大山女孩希望”的事迹，被授予“七一勋章”，并受到赞扬 [xzdw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqh6jc2eGGBPoAzADi-B8NyAsqiLwz4pBCxcdryamggfUHpcyqC6efBhRZGt01BCbgOURD3abGLBn0iEmeoi3zUzlsgmouPbhqKlMAHaqNf632Xa9FzhtGcFiczsXZ_-yJOOByz6n5up_09O919PPaJhoa)。
+*   **米雪梅**：一位在广东务工创业20多年的外来工，她的奋斗经历得到了习近平总书记的亲切回应 [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsoDK9k8FwWbJBu8J_UyrBOeB18oeX3mhyobD81qNY3ki1xXb1yOdoKZG6aTE06zAv347kzrLhJ6qLb3BCEbaHADcN66zFmi2UfS681n3eqQLqhdlClXfRvjnFOsXt5LQWppOI8qoNKNGm7APMUJU4xeZQXZAFx84=)。
+*   **马影翠**：一位走出大山又回到大山教书育人的乡村教师，她的坚守和奉献让习近平总书记很受感动 [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsoDK9k8FwWbJBu8J_UyrBOeB18oeX3mhyobD81qNY3ki1xXb1yOdoKZG6aTE06zAv347kzrLhJ6qLb3BCEbaHADcN66zFmi2UfS681n3eqQLqhdlClXfRvjnFOsXt5LQWppOI8qoNKNGm7APMUJU4xeZQXZAFx84=)。
+*   **阿里法·沁 (Arifa Chin)**：一位孟加拉国女孩，她的生命曾被中国医生挽救，后来她致信习近平主席讲述自己的故事和心愿，收到了复信，鼓励她努力学习，实现梦想 [xinhuanet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_d7LOLJt3-bkYGIp2fp4LssqodmQ6OyR9rrZFrNZQicJlflOpZpTzIxALKNzvIFCNZtRKD6zfuNQiwkcjb6KnUDF-xJJCKW0PRfrPFp5a0jivx8MoD14NQElK95HTeRDrGKuiegpU8Lm59OHHkpmleVxalQmF)。
+
+**2. 中国在赋能“她力量”方面的政策与行动：**
+自习近平总书记多次点赞女性以来，中国在推动女性发展和赋能“她力量”方面出台了一系列政策、项目和行动，将男女平等作为基本国策，并将其写入党的报告和国家规划中 [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeEPWvTbvsex3ux5Of866kF8ktZLwt3ixnqIP95Men2MeX-AkEQf6oT9FutO_i2vaptFwKwLkNeCbkFjfP_RwCbOW5hr0fz_C8lAXJewIvhBgZFZgPzQejlGykK6PSJutboUU_1B5y-_QRrMMsp0UQGryLSLok7cvK1A==) [qstheory](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwV6x9-TbWTfB95EOmaUGk7__T_c-yBcRmRgrP0lHHAjBeJ656do4H5zScHrchWWV6Ooytgd6DmaYkf7I3IomvGCnXaSK5YilK7lNL6vnHIlGRD_98k_agGbfdCgN4M05FuK-xfBgumW-KKKYr1Qqska9IGK8=)。
+*   **顶层设计与法律保障：** 制定《中国妇女发展纲要（2021－2030年）》，修订后的《中华人民共和国妇女权益保障法》于2023年1月1日起施行，旨在加强对妇女权益的法律保护，消除就业性别歧视 [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeEPWvTbvsex3ux5Of866kF8ktZLwt3ixnqIP95Men2MeX-AkEQf6oT9FutO_i2vaptFwKwLkNeCbkFjfP_RwCbOW5hr0fz_C8lAXJewIvhBgZFZgPzQejlGykK6PSJutboUU_1B5y-_QRrMMsp0UQGryLSLok7cvK1A==) [qstheory](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwV6x9-TbWTfB95EOmaUGk7__T_c-yBcRmRgrP0lHHAjBeJ656do4H5zScHrchWWV6Ooytgd6DmaYkf7I3IomvGCnXaSK5YilK7lNL6vnHIlGRD_98k_agGbfdCgN4M05FuK-xfBgumW-KKKYr1Qqska9IGK8=)。
+*   **科技创新领域：** 2021年，科技部等13个部门印发《关于支持女性科技人才在科技创新中发挥更大作用的若干措施》，提出16项具体举措，包括支持女性创新创业、完善评价激励机制、支持孕哺期女性科研工作等 [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeEPWvTbvsex3ux5Of866kF8ktZLwt3ixnqIP95Men2MeX-AkEQf6oT9FutO_i2vaptFwKwLkNeCbkFjfP_RwCbOW5hr0fz_C8lAXJewIvhBgZFZgPzQejlGykK6PSJutboUU_1B5y-_QRrMMsp0UQGryLSLok7cvK1A==) [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Sppz91e0bS5YsMgUbGA3sQYYwpSKIHtAfJKT_EPdjJ7ZVp-lkPCkznmo55zM04EZqUhFp8WetJPZGG6q675xkPEOVLGg9aKtJ6yiiKzbdpgkUldVZ8s4U9OrhDaAqjYuZlxt83jhxFg058Lkk-vQ)。
+*   **就业与创业：** 实施“创业创新巾帼行动”和“巾帼就业创业促进行动”，通过财政投入和政策支持促进妇女就业，并禁止以性别为由限制妇女求职就业 [qstheory](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT_zlX_dvVoiWtzJHeKq4PwzOXxG04-9fW31s74AOeCZvufRJiA70g2Mj9UsMKUCSpioH0lonzeo6Urwr76dwspJhUKNiHZS3-akdFm8afJi2fOeI6AEOKmIFhr11hyt5q7xgc5qP4ENV_yUkpIn7NXOGGbcDD5K4Slw==)。
+*   **农村女性发展：** 深化“乡村振兴巾帼行动”，实施高素质女农民培养计划，鼓励支持妇女创办新型农业经营主体，并通过产业扶持、劳务协作等方式提供就业机会 [most](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFH9-Ytpk45zEu-shjOz0fKpJfgESiaRHef6PdDShre5tmcqIxhwYyv5QmE7G6-pWYT1wdfIq6wvAr8zAzBYxpIHaQwJp2taDhSdysK7bXJfctzkZJ7RfnffGdqKnu0E749seg2uHstqo0wAb_ckVGPUa5B9k3kK13_Ec7lMLIhb5IZ1MsSdGRx3H_vqN2pyIT77M=)。
+*   **社会保障与福利：** 出台加快完善生育支持政策体系的若干措施，各地普遍延长生育假期和男性陪产假，增设父母育儿假，并实施3岁以下婴幼儿照护等个人所得税专项附加扣除政策 [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIhpZwUDeCwnA33M5ywEDKpDvMgsau2nH6z-K4sSZuUb286m8qx1vpjc8WhkftnMuWekLYtzVOq1DeYPKVKpO4-bR56ZJxvkuObT9X-y8XHOkcAgXqIMFbgxrdIuM07-1PwjiNAzsPRs7eWTgKlh2xV48voQnlBg0dyhTn8pU=)。
+*   **教育发展与政治参与：** 义务教育阶段性别差距基本消除，高等教育在校生中女生占比达50.76%。重视培养选拔女干部、发展女党员，全国法官、检察官和陪审员中女性比例均较高 [stdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdwX9xSmAerbI_FQW9-sWfbBoffy_XcHPxP8lfE2RmEpCFJVZZuvbMXRvM_5LIOkwDQAy9H2_mcvQcrzVvrjeEPszzGdL2LwxtKCd5gVFw-5U_4K0GiWEN4hq1CbuZXJcUmORQnBPSyAxqBTq752wyq9mLYUtu4w9WHw==)。
+*   **国际合作：** 中国积极参与全球妇女事业发展，曾于2015年和2025年在北京举办全球妇女峰会，并提出了促进男女平等和妇女全面发展的“四点中国主张” [spp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ZPpbDAaVBcCvyJzRwJQx7Fs3EkkmYjFTIsGPssH0fWlZzlqlKH5F8WvXJHxAyFMRQpbQ7wX69srVdfZtA48wuBeWls_6QvE0Z5ZJdxD16MGl1sbV0eaXbmuZ3GueNFYONzZyQupVn0-55n0PqjxPGukMSykY)。
+
+**3. 取得的成就：**
+这些政策和行动取得了显著成效，中国女性的社会地位、经济贡献、教育水平和健康状况均显著提升。女性平均预期寿命达到80.9岁，孕产妇死亡率大幅下降。女性占全社会就业人员比重稳定在43%左右，在科技创新领域，女性科技工作者占比达45.8%，互联网领域创业者中女性超过一半 [qdc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd-tJy3QWe2aznLFRwm7T-8D6FNfDoKFzB5BqPlwFrA3hciNZMPSxhkf2OLwVcgEs945SUWm5tAKh7SjLzMt53VSp6A_eF3o2fIfZzdMjmVEdAdkRXiKuaLlRI0IflkQ==)。
+
+### 二、“点赞事件”的另一面——网络舆论与审查
+
+“习近平总书记点赞事件”的另一面，则体现在网络舆论中围绕“点赞”这一行为所折射出的言论控制和审查现象。
+
+**1. B站“点踩”功能移除事件（2025年10月）：**
+近期，有报道指出中共当局悄然取消了Bilibili（B站）所有涉及习近平视频的“点踩”（dislike）功能，引发海内外热议 [voachinese](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMlJ9ZdB2b7rgI1K5aHSee6atv5pMo0wMpW-NogmQ-ds2jk6kg8EhicuRCCEXUF1ztICemy0bmXvPfEpMbaTJIeljSppKd5wdcMajKXC4qrErii3IK2mZfg3UEQqRRPl6Z4cxmj9FwOfbV__FIw4eLB2daFLwcBpOeqhtqgueNUVA-7CPp0-9JaY33qzTFM1o8TWc=) [aboluowang](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2-ndI3t42o-gD8Zg52-OUp3qycJsmmY7kEFyBIwNEmkd7e9IYUN3u08hG2d4_gw4x9LKk-U_5Arnnps1PByAhNBvBi7ThVoq9-aL4_n4XWI2DlZXQuC5-kOsG-K1zJa_BjyJhB6bICkjueE=)。这一举动表面上是技术调整，但被一些评论员解读为反映了当局对负面反馈的“零容忍”态度，将网络空间改造为“强制欢呼”的场域，使得“全过程民主”只剩下“全过程点赞” [voachinese](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMlJ9ZdB2b7rgI1K5aHSee6atv5pMo0wMpW-NogmQ-ds2jk6kg8EhicuRCCEXUF1ztICemy0bmXvPfEpMbaTJIeljSppKd5wdcMajKXC4qrErii3IK2mZfg3UEQqRRPl6Z4cxmj9FwOfbV__FIw4eLB2daFLwcBpOeqhtqgueNUVA-7CPp0-9JaY33qzTFM1o8TWc=)。评论认为，此举恰恰是因为“点踩”太多，表明习近平在民间已失去威望，即使动用网军也难以掩盖真实的民意 [aboluowang](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2-ndI3t42o-gD8Zg52-OUp3qycJsmmY7kEFyBIwNEmkd7e9IYUN3u08hG2d4_gw4x9LKk-U_5Arnnps1PByAhNBvBi7ThVoq9-aL4_n4XWI2DlZXQuC5-kOsG-K1zJa_BjyJhB6bICkjueE=)。这种氛围被比作毛泽东晚年和“四人帮”垮台前中南海的压抑气氛 [aboluowang](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2-ndI3t42o-gD8Zg52-OUp3qycJsmmY7kEFyBIwNEmkd7e9IYUN3u08hG2d4_gw4x9LKk-U_5Arnnps1PByAhNBvBi7ThVoq9-aL4_n4XWI2DlZXQuC5-kOsG-K1zJa_BjyJhB6bICkjueE=)。
+
+**2. 历史案例与言论审查：**
+过去也曾有与习近平相关的“公关灾难”和言论审查事件。例如，2016年习近平在G20峰会开幕式上将“通商宽农”读成“通商宽衣”后，中国网络舆论管制当局狂删评论，这显示了当局对维护领导人形象的敏感和对负面言论的严格审查 [dayoo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_ujlKwF2OSMPrN8gAmVYGd1JF0r9q974-fA7psPpzG31r7iCmJrgMy7eyJYKOqv1nrDrhWNUR1Eyls022EMnDv-Ya-aCWjICNYppC1XgY4BxNrIP3w-7a-AP_IUu6oobaE5baHbU2pfRaLayytKmPR4i3gaU=)。
+
+**3. 对比与张力：**
+官方语境下的“点赞”旨在弘扬正能量，凝聚人心，鼓舞士气 [xinhuanet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkT-wiizbNWlMvPPAqq30RG1lhXDf7sU5keelF6WWZFmB9P9xo5UHQ-fSlqC0JAiQepmHPqhNpaoHWKpZA9QBNHAsDuNRlSdW6U5BbcjbtIGDhwBhN8jsGbPS7tT2PPFW2NNIb_JV_NLD4ZUmRNFNK4Xmwwf23Fd8sh3jw0M=)。然而，网络舆论中的“点踩”移除事件，则揭示了官方宣传与民间真实反馈之间的张力。这种对负面声音的压制，可能导致公众对信息透明度和言论自由的担忧，并可能影响官方宣传的公信力。
+
+## 结论与建议
+
+**结论：**
+“习近平总书记为‘她’点赞”是一个多维度现象。一方面，它体现了中国最高领导人对杰出女性和广大女性群体的肯定与支持，并推动了一系列旨在提升女性地位和赋能的政策与行动，在科技、就业、教育、社会保障等多个领域取得了显著成效。另一方面，围绕“点赞”的网络舆论事件，特别是近期B站移除“点踩”功能，揭示了中国在言论自由和网络审查方面的挑战，以及官方宣传与民间真实反馈之间的张力。
+
+**建议：**
+1.  **持续深化女性赋能政策：** 针对高层次女性人才缺乏、职场歧视与“母职惩罚”、无偿照料负担过重以及农村女性发展困境等挑战，建议进一步细化和落实政策，确保女性在各领域实现全面发展 [caixin](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6ZWDs9LiOpz6FjvNkyYx3y90fxVjy4c-hBJ9c6xqUOMLWIm7wTmwFKibVJ0m_rRRbEzwBEzh8jPdp99MX1aepD2cShHtPDNDIakkwB6-7XH9VuEmOSpS1ZikfvYmwdR5d8eLBqflWp3Lk1ajF1Oix) [mckinsey](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpF1UQIYM9TI3JmBfV1yamkd71zTp5-_3arE2WPoCVKlhWiJcyDWfu9ayemIZNkf3nGRNnwCCSM_9papmOwOxibWnqrII47eF1Y5wYdsW-4YUdmMz0jcayEqsf4Ii4AdE1vdhyG2TrLSoYdhbxRdF1tnPwjeMEPgRsXc3Da45m4WH4WP90as7tM933D_-emTFwxi_YdP1IvCUki9zMYh0YBAjcMk_tSNUzX1KwEzoIrO5guzOz55yHyYphuhsOUdc6zbsLCBaWN_VVEUU2rrHj1L5WlWu3MSPwok76aLZGKHhsuK1awbeDMnj3WT5VhO_2DY-EOf7VhQUmwzSMPx4_Vo6EF1PcBR-g7DdL5-WGXlfaIJyc0Shn0s-KjDj3vw==)。例如，加大对女性科技领军人才的培养力度，完善企业性别平等战略，并提供更多普惠性托育服务以减轻女性家庭负担。
+2.  **加强政策执行与监督：** 确保《妇女权益保障法》等法律法规的有效实施，打击隐性性别歧视，并加强反家庭暴力等领域的执法力度，提升基层治理中女性的决策参与度 [ce](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhPAaLi3JV_Z_pJAxv3F2po0UxAxjC5eyjH0_gtO1ntwwJZTzshoILfo4odG2s23tFbvhNInWmUyy66lIa124YNnPVI0aAXOStNcTGG173pNy6a6hvAlpO3zt4doQo_GymatamgNN-XtucM6hMBbN7PDlTJV88tw==)。
+3.  **促进社会观念转变：** 鼓励媒体和教育机构积极宣传性别平等理念，挑战“男主外女主内”等传统性别刻板印象，营造更加包容和支持女性发展的社会文化氛围 [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Sppz91e0bS5YsMgUbGA3sQYYwpSKIHtAfJKT_EPdjJ7ZVp-lkPCkznmo55zM04EZqUhFp8WetJPZGG6q675xkPEOVLGg9aKtJ6yiiKzbdpgkUldVZ8s4U9OrhDaAqjYuZlxt83jhxFg058Lkk-vQ)。
+4.  **提升网络透明度与开放性：** 鉴于近期网络舆论事件，建议在维护网络健康环境的同时，平衡言论自由与信息管理，避免过度审查引发的负面解读和公信力下降，以更开放的态度面对多元声音。
+
+**限制条件与待后续验证的问题：**
+- 政策实施效果的长期评估，特别是对职场性别平等和高层次女性人才培养的具体影响，需要更长时间的数据积累和深入研究。
+- 网络舆论环境变化的趋势，以及官方在言论管理方面的策略调整，仍需持续观察和分析。
+- 传统观念对女性发展影响的量化研究和应对策略，需要更具针对性的社会学和心理学研究。
+
+## 数据与引用
+- [xzdw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqh6jc2eGGBPoAzADi-B8NyAsqiLwz4pBCxcdryamggfUHpcyqC6efBhRZGt01BCbgOURD3abGLBn0iEmeoi3zUzlsgmouPbhqKlMAHaqNf632Xa9FzhtGcFiczsXZ_-yJOOByz6n5up_09O919PPaJhoa)
+- [tjbh](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFozWdEUc-9Vjz1jGFaUKEBjDsUMlnmQo9VYfVbF5JdR9soHODRjiErmwacw_jNgAevDPXLurRlrj2DDaQgBcYLG_XJu0GREXP4-RseyT69YEH8KxuGRI-U6lm8xiXfT26-jjXZ)
+- [chinanews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENRXSVAVKDQQmgh4dRzlQekgYJw0ZJNxy4EM2QP8KBQ3a2oxEYvmI_T3t0MtqazdbTLWVfywIWUb1lSKJrQhM6NHFhDm1Hxj6RDInzbAIL8_OC19hDuGD0PZBUj6m12Jkl8rRkO41Jn3TQWUZfWYGIliUS)
+- [12371](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEplYuBImFtpERLSfsV91buQynylO3GlRIVuOKh7HCpYmTw_feLR0LSfzt2nLzq_hLM6uNGDovgHayzdNvJJU4HbEfXpju8BpnaT0uIh4u8EofmyS4oeHvttawFU4zYiSD9feXyFHvYyqvjPLECYNYCjCii9A==)
+- [qstheory](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ0tWyUauXL-oZz-wDqcr4k0CqstYO0aWdp9qBLF-7tWp-5d3JdDqmmnc-lveHXLtmKNhVp1tbvl0Ffp8NqaSz4_nUJeY9l1xm09qPU5ujrwCH6TGHQaM8kRfGV0B4Te1riVMHxz3O6lES4mFKwiLULhIY65jC0k6Y)
+- [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHdFHdGUlLC_QaC6BvvEVTn3EWoI_rY7l1wJRAxb7n44xl-Y-Fu1EQbn9GVvSN0cDkq1hqWhHwQaBwFxFmPhKJI7mtcEOjmvcinMDCGkCyzq1gm8IOqJb5hBQt-NqLL04y3-ewi0pTYU2kIUzDTKeJdg4BnS3pkvxViGx_1D-b5nFnUMk=)
+- [chinadaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWS_PkbFJHJy4c3h90A65_gxt3FrKam2xZT3r42HOAYZ_Ywjg8kJ3ChbbFwlpOyQ0sbAuDRwEy5arsgn1jtgcYWt-he1jySq33uvh6C8hbjS5gSlhrvW00BdljdfDvhmzqYr86JJkZghGoQl4HKvFRNn5NO5Gc1uWKj-CW2_yz06k=)
+- [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsoDK9k8FwWbJBu8J_UyrBOeB18oeX3mhyobD81qNY3ki1xXb1yOdoKZG6aTE06zAv347kzrLhJ6qLb3BCEbaHADcN66zFmi2UfS681n3eqQLqhdlClXfRvjnFOsXt5LQWppOI8qoNKNGm7APMUJU4xeZQXZAFx84=)
+- [xinhuanet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_d7LOLJt3-bkYGIp2fp4LssqodmQ6OyR9rrZFrNZQicJlflOpZpTzIxALKNzvIFCNZtRKD6zfuNQiwkcjb6KnUDF-xJJCKW0PRfrPFp5a0jivx8MoD14NQElK95HTeRDrGKuiegpU8Lm59OHHkpmleVxalQmF)
+- [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD_fiiQU4UuJxZDJb9xreT68BAvaqq3BBrI9TiaBzX4LM5ea9IDIlaQGi6V-mdEeF4b43qdpS5ZlyI4kPZCsptcP_624pKViAiUwjb-sciBagMwBa8o087Rrbq-smcKohdnliciWx7x8_ZrVwMvoTn88aUSfAzjw_G)
+- [spp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5pPJlGzr52dbQmwcUYxaRW497kmiIDlesZN05i4VGEGGPtKON8ys_f0c-vUfpEzL5JmVt5lcvPxK66L14T4lPZHPCCEdYbycOQAqdGJOLQ1-wiECZ7L1vUiCt9yaBQOIMl1m4Ajn93Ap-QPbub3ESsye-SI4=)
+- [shm](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi2J_noKV3gdR86dBNSEj2KSR9cYhl6F69IlIQug-jfrqlLDLUHKMz-bNTcpFXTW31-fbyApxtKFPlXBIvummfFHZUjuf9oQBESj_UWBMXdyWL03e3F43OcYKlD7pv5X9peLpPtqoM-VLBXNIT0bUp)
+- [dswxyjy](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGugqBFV1qchbPq22jvVzm15xjBemUkIa1cH6piKUWW-fTGUZHkiV5ktxnTbM0ZcZvqrKGxJ_4SdVvt5-djgIonDlXiJABKlGlwvaYBgPdKu9OtdJqtuQSSp372GZlxGgIyUyysI06ZEiJeXgPNLZQZd2RnQFpAzg==)
+- [gmw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSQATuK0uJ7GkgGTMYdEGi0XRmFsCnzlj-Xf_imsEmWfN7SC1VDXovZc_2zkLoFjw2ggyt1-P0Rg9tKaXz5JxObFuRn-Jc_mha890adtLO1GX4-IClN1lGbsxg9ebywqkgq02yh8zkkZyl5XPAtFniGA==)
+- [voc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHEy4ExU23qt91KglnwcuMS5giclSBIkK-Ue2AHJZOI-18gHyA1yJEsp976Wj4Jompau046Ap_CO9cNZkjdgHO1fEJ8tv2RB73GIsaRMCvsA14umGPFu8rFRd1KzAMNbHOHR-ii-F034wZLDA=)
+- [dayoo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmA2sqidvQUEtC9yj66Tr2Gt6vwvE9lHD46BSRSTs344rHyyXjzj2AtbH0slq1JzBqnmcxTqLal6ZO16OZAlAPPouhN6tXAlArHTfiGDOkoxGjkbtx7auRjJyARvjuhMQqT-oU0GURfU56mbvDuX9y83eBzg==)
+- [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tbCDy7HwkAoFH63qrSmbzWSmTiLw85I4wgYdkwsagUFwiRiDU84nUOYtz5Zh7mjE4w6XjeAKnv0aYNj9LuZZg42h9SjBG_xgYfGPlCPS5O7ze5H8I6eAxVHL0AEW3HwGpFb5G0oAZXctSWJnb8IXwV0qpeCE)
+- [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkvBX-TiNmLG4NHflKQmfDs2SHFDl7ljhPQiWjU1wFUVw48iI-SllWFmqRNDIc3F4C-MDFh64btxoOIVjM3F7vvcVWQl2jlWw9x7ts21ED5U8EggrwiMSKxWkaDu4M4VfJQDkxI-aHpiO-Taa7SHnwC1x5MMaSltYfFQ5RvjDy)
+- [xinhuanet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkT-wiizbNWlMvPPAqq30RG1lhXDf7sU5keelF6WWZFmB9P9xo5UHQ-fSlqC0JAiQepmHPqhNpaoHWKpZA9QBNHAsDuNRlSdW6U5BbcjbtIGDhwBhN8jsGbPS7tT2PPFW2NNIb_JV_NLD4ZUmRNFNK4Xmwwf23Fd8sh3jw0M=)
+- [dayoo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_ujlKwF2OSMPrN8gAmVYGd1JF0r9q974-fA7psPpzG31r7iCmJrgMy7eyJYKOqv1nrDrhWNUR1Eyls022EMnDv-Ya-aCWjICNYppC1XgY4BxNrIP3w-7a-AP_IUu6oobaE5baHbU2pfRaLayytKmPR4i3gaU=)
+- [xinhuanet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJFueVP-abDsBIF_ti09Qs2jihzrDLqMwWbw94S3HK7thgUGlC1gRo5xvYG9XspLVYZxnwQ8xm9wVmbutrRM5IEKS0ARlI2BZepCUBK2LksOoCtJoiwTW4jNSPjRr3cdLapHC0Co_6im7ZNRcnkOYUxpeqeP0G7PU=)
+- [wuhai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV10AdypJqT4QlDmxCzGkaCzlSEHEnC0LErj0JJgXBG3b7AvH3f2qQ8fMKofu-Z6ErZpCCuaL77J9ARvO7NEE97bnlt5g5W7zOwj-9NvALjrQ2PGnMUR6hHJ9RMs0ML55Jwd9wb33GXUWH7SxD_EgjULxP-6c=)
+- [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFJQ6UwH2Vn8btUHcDDcuThpxE-bubbGwrW5_CI9ORIg498hZkRm4sZDrfyQXgK4mY-pfXHPdnvWCID-DtMFnKEBKw3bte5JH-OXuQKC3xiCsuoZIXZjkxnidT12iB3YtCuiG6NHqKbeCaIIJqzPHMM9J-aEmSfA==)
+- [gmw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkjLWN0cfNG0zHK_pWqOQ9g6YZ9NlHB-j1QAkEiBGAj1MuI9waZ3ys1PWssaV1PYCdsVoHg2gBrXHPPegiUZzYqgU3ouNAa0VE4goW1nRbbgOmjlTYNMPihiAZkBaR35OJXJaZIKMuJT53Juy1du8X-xI=)
+- [12371](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQLC4UmMar7Xiwhzj4JA0Mk5iBASwoY44nMupxobP4Gh1F5bIJfczjJ6uP8QR_bWkJYO5zGYNqsDQUBAtIS2026YLEwpJtdntpZjbwsfJ_NePII9HrbcX0lMJhwl6IjrQJNtNpcA==)
+- [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxgUT7RbJ9S4HRFbmMLi8XwKZqMMOuCoacGjv2buATMx0_YGFySDu2te8BPNKM7AnAyzHnpc_Xjf2z9Pz23uMpKNsUBR1HZTn1oLOZhPCav0mPiZ64lOobL6qNdiCzOiku8ulXa5d_HOi09vJhzCf-qdAx95Ngbg==)
+- [aboluowang](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2-ndI3t42o-gD8Zg52-OUp3qycJsmmY7kEFyBIwNEmkd7e9IYUN3u08hG2d4_gw4x9LKk-U_5Arnnps1PByAhNBvBi7ThVoq9-aL4_n4XWI2DlZXQuC5-kOsG-K1zJa_BjyJhB6bICkjueE=)
+- [voachinese](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMlJ9ZdB2b7rgI1K5aHSee6atv5pMo0wMpW-NogmQ-ds2jk6kg8EhicuRCCEXUF1ztICemy0bmXvPfEpMbaTJIeljSppKd5wdcMajKXC4qrErii3IK2mZfg3UEQqRRPl6Z4cxmj9FwOfbV__FIw4eLB2daFLwcBpOeqhtqgueNUVA-7CPp0-9JaY33qzTFM1o8TWc=)
+- [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeEPWvTbvsex3ux5Of866kF8ktZLwt3ixnqIP95Men2MeX-AkEQf6oT9FutO_i2vaptFwKwLkNeCbkFjfP_RwCbOW5hr0fz_C8lAXJewIvhBgZFZgPzQejlGykK6PSJutboUU_1B5y-_QRrMMsp0UQGryLSLok7cvK1A==)
+- [gmw](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErKL79taeHu2qKO3vNwFtFixl3qkU_Hv8jc43J7QicFYhf2wj2G_P7_cDCDfGfUzoiwegrmKeXe6LpAJP7EMYWdgzzeQd8g145TGv9e_lRmafZAkjrcBGObTP7t0MU5CS-THIo_mrSnKh-IZVdJYq5W0U=)
+- [hlj](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4FFr7zP1GqEDx28mQUjNQl7dy04y4WTemyZXcuS2VrThWccWCa8X0MgdLhw5k7u2wqwA9CAFw58ez7weTz0TuUu0YkkW_gqwteztFpBSyK1LAoeJJlmv2l8cEKXmjvZ9M-XttTmEXEViD6nVsVipTjQDMpO__ZA==)
+- [qstheory](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwV6x9-TbWTfB95EOmaUGk7__T_c-yBcRmRgrP0lHHAjBeJ656do4H5zScHrchWWV6Ooytgd6DmaYkf7I3IomvGCnXaSK5YilK7lNL6vnHIlGRD_98k_agGbfdCgN4M05FuK-xfBgumW-KKKYr1Qqska9IGK8=)
+- [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Sppz91e0bS5YsMgUbGA3sQYYwpSKIHtAfJKT_EPdjJ7ZVp-lkPCkznmo55zM04EZqUhFp8WetJPZGG6q675xkPEOVLGg9aKtJ6yiiKzbdpgkUldVZ8s4U9OrhDaAqjYuZlxt83jhxFg058Lkk-vQ)
+- [qstheory](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT_zlX_dvVoiWtzJHeKq4PwzOXxG04-9fW31s74AOeCZvufRJiA70g2Mj9UsMKUCSpioH0lonzeo6Urwr76dwspJhUKNiHZS3-akdFm8afJi2fOeI6AEOKmIFhr11hyt5q7xgc5qP4ENV_yUkpIn7NXOGGbcDD5K4Slw==)
+- [scio](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFag4AB7oQ42EvtgWQyhCrzrXi2eSqd46KHrtc6nyuNn11lMwUI7dkhv1XgemPv6xYLMm5eLEOoj7YzGMO1awgHHtj47A_r-tnrWjSUP4ZnIwqHVDTbv1pb-x9R3NsGE5Itr29h5KveRC3uBeCSEeC35YavHvZ3EvrEZDZqhugA)
+- [caixin](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6ZWDs9LiOpz6FjvNkyYx3y90fxVjy4c-hBJ9c6xqUOMLWIm7wTmwFKibVJ0m_rRRbEzwBEzh8jPdp99MX1aepD2cShHtPDNDIakkwB6-7XH9VuEmOSpS1ZikfvYmwdR5d8eLBqflWp3Lk1ajF1Oix)
+- [china-embassy](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF18sueCTIjUayaary9uxgo1SRdX5issuWI5GWMSYDRRqKpBE7S79UVTXi62-GU6sbzfVMdsOUHQrav4fxFkPOrlD1V8C8SLVaNUc19_-5dYefpBPkfLTE3F9pDAnjXWgcqvtsydHy7DHyUNwFaMrlD1ICaEBD2Czlspk8QbQ==)
+- [ce](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhPAaLi3JV_Z_pJAxv3F2po0UxAxjC5eyjH0_gtO1ntwwJZTzshoILfo4odG2s23tFbvhNInWmUyy66lIa124YNnPVI0aAXOStNcTGG173pNy6a6hvAlpO3zt4doQo_GymatamgNN-XtucM6hMBbN7PDlTJV88tw==)
+- [npc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjf3SYOxspEkT37qIrsHq7_pM4QMs7RMJeXl3o8lf7VFQ1Nr2Kw7UwsOv7v5az_B0UhH97hrcIdkD4nFRSadCoV2nPwb9L22Lj9wSDMYKZHhKRESeCbdCNKaPibkDULWCN08hj7UQ5C5K-nFPhhwcrraUpURNZI9h_alwE90v-UVS3VhYXcLyXFXBiPZqaRot5tr4=)
+- [cnwomen](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-e9-lS460YwxcE3o9IsFxBziO_wjCb8Onuakqi7jxmK7IxgaG3qAnkYWLlW2tMC6UKYtsPDg0nf7UrkP0z8r6IY6KiGuMsOJrQcsCPCHFw-daa7jXG2FRCFus1LoiHa5_AwayDzFPBiaBrCMPiLXNFay-t1arrtjoeY3ThI7wD5sjYE1O7vXNlw==)
+- [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjE_FoKtlVGUPnxNo_NEk3K19QDAGf3EEpcyUO9gmrhQ1K3dnWxQNkdnXygQ1X0jdBchrcyRcQA5eJI0yvbpwmfhEGDpDTsLfldwljSjUCNta6LslJgfqTOdRTl8qZEK5-LT5wIo4G0SfxphZtPFEEji1Vgg==)
+- [qstheory](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDrK251tFWm7oUqoIbm7VCDAfZCawpVx10fecIYlnNxpFDHBBGhHVUIc8gQ17TzwhNtc9WFIGpqSLRlinzv3r5Qb1MLgUsmFFh0yjjMRwHOfZ5xBtFLSnZx1gMip2VlWt6ZtJDHYhk5NNUjPcT606a8DOwtrY7yNwZLW1uDADg37d3JQ==)
+- [most](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFH9-Ytpk45zEu-shjOz0fKpJfgESiaRHef6PdDShre5tmcqIxhwYyv5QmE7G6-pWYT1wdfIq6wvAr8zAzBYxpIHaQwJp2taDhSdysK7bXJfctzkZJ7RfnffGdqKnu0E749seg2uHstqo0wAb_ckVGPUa5B9k3kK13_Ec7lMLIhb5IZ1MsSdGRx3H_vqN2pyIT77M=)
+- [stdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdwX9xSmAerbI_FQW9-sWfbBoffy_XcHPxP8lfE2RmEpCFJVZZuvbMXRvM_5LIOkwDQAy9H2_mcvQcrzVvrjeEPszzGdL2LwxtKCd5gVFw-5U_4K0GiWEN4hq1CbuZXJcUmORQnBPSyAxqBTq752wyq9mLYUtu4w9WHw==)
+- [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIhpZwUDeCwnA33M5ywEDKpDvMgsau2nH6z-K4sSZuUb286m8qx1vpjc8WhkftnMuWekLYtzVOq1DeYPKVKpO4-bR56ZJxvkuObT9X-y8XHOkcAgXqIMFbgxrdIuM07-1PwjiNAzsPRs7eWTgKlh2xV48voQnlBg0dyhTn8pU=)
+- [csiam](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJIX1Ax0qPWE48qoxV0SErgSPgpWjwgJ5_AC_WsaBlO6Kb30179d5seVwID4UBFZZjDU8vw3ii-DO7u1qqVTbFpWt7iqsI6AE9JJFDJnSEGnawF2pbFOTsmyU44hIdFeTHt7gqNoJ_)
+- [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGFXT_8rb0Qo32JmvfAjGm1UIzHM2r5Ugzx2X8cWkieppMbi8F2VWDh68JMh2491WjBx6QYMnHWq9LmUmeQe6WrPaMupUGSFVlDrcphJ9xJbQ2jgSINR05q0Sfk42hEIOJ4zJaSK78pBruOcaEVrRxEVA6Pg==)
+- [spp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ZPpbDAaVBcCvyJzRwJQx7Fs3EkkmYjFTIsGPssH0fWlZzlqlKH5F8WvXJHxAyFMRQpbQ7wX69srVdfZtA48wuBeWls_6QvE0Z5ZJdxD16MGl1sbV0eaXbmuZ3GueNFYONzZyQupVn0-55n0PqjxPGukMSykY)
+- [qdc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd-tJy3QWe2aznLFRwm7T-8D6FNfDoKFzB5BqPlwFrA3hciNZMPSxhkf2OLwVcgEs945SUWm5tAKh7SjLzMt53VSp6A_eF3o2fIfZzdMjmVEdAdkRXiKuaLlRI0IflkQ==)
+- [un](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf21Gx6b0VcLe9P6JgUowWNIEhTo_VOrNeWlGMRo-5w0-swb3dYjELe6C9SRCzcP-rCLnI-yXoSxvVaMdy710_AqSU5UVs4D1XgtvQ13lUA1pROzw7l-rWCFWUKuUiKOgQzMF2hB-BEdIQGPsiVbpIHawzhElovm2Ac_aW2II=)
+- [unwomen](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxIlut-dlhuAo451JQzRwaCk9hv4ihSKdcRcZL9ab1Aq1HLx_Ouoc012-2n3C9rgnXszkM4w08_9T-m23etYF_GKegSsijw_jGJ0WReNEGDIXfF9YkIMN5qL2gWdQDdDmSBtmrMuGID_2o7Qn6wjoajRSWUWMN3FGmfxsX56pE1F-StvLl2qHlMxOY4-UFsBDGdJUAEbZhTWHdGKLQTAWzIA==)
+- [stats](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz2s0cu6PfMAedRmTWx8sZdBhpPDoZHFvZGWGPdaDrVBzaGhNws6-TX41_BsTVWJQ2K5-C0w8jMj0esvztAxKbhdNUQ0tiBDuHqJxUHHCNapFY1G4atMUAfRlS7PMIhpycLibOl57HN8ZwVB3Ikg_zojadxkIBtOao)
+- [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzPNYWrclRTRl9bAu7b8z06dNqyv0tnxwdJwwUa5oO_1VNp-ABY3_-Td61n3pdgW88NwbSd5TkYReYNHYL1hhK9VypJnoGoMrJodUM_m81jThgL19C4gCv-f5RJ1RuJHKzeGit9b7cMVNmEDFXLmM0pSOayZum)
+- [cnwomen](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlMiRf61uJcXPBNXZbMjifjHHjVxN8Agl6_M5MUcbxiA7W45eJJbU-Xz-4N-5qewdejyaA1E-5ile-G6Pyhpc9_M8Dk1kkAJ3GsmkI0-bbEk24v5T8eEBHQAtkzwO4tgISwRLO2xHjCreDlpM4lBHqdQPx4Zk1olKKXlmlkZH-cxOgeQ==)
+- [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVbMEAgg1Ngtoo6eeb7iIf2Wrkbk-baMHm6-8VWe5uCcF7XXvJHdZhBPdZKdLk9UooKYriRH_kMzKPjugc41JWnN-l1GBDcjYElVOd9nldYnhXIYAnmV9Lt1951HB8SmS8OwEjxx3u7PwU9VqLUY76qKzyz_z0RpFp)
+- [csis](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTOfyLgUSnCtlwDNiSzyQ9Cr2r4qXDJKY86nZFj1wLdVhjFqmpcm7Ehvo5MNqgQPk_b1DTVNR3TSsT2OFqTkU7sMt1BCJWxAKZyjJQEAv-z3NoVna_Y0zoZrtP81o-Xyu_oN66ru1dVtNCLqg5WjVNbL8Vb_g8d7lWeG5n)
+- [undp](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkG-vxEvvGCjLshrNZUnKq0mJ3zK7NR2w9feaWEq-_qOjI1Oaz5isYH6r6RFgYkiz1CqIP3h7B4gFOK9dZvnycvrDMfTn9zctZ__k8XNg6CETuYJSkU99IlwUKN3Vx-Reh8N8wTlbyhw==)
+- [mckinsey](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpF1UQIYM9TI3JmBfV1yamkd71zTp5-_3arE2WPoCVKlhWiJcyDWfu9ayemIZNkf3nGRNnwCCSM_9papmOwOxibWnqrII47eF1Y5wYdsW-4YUdmMz0jcayEqsf4Ii4AdE1vdhyG2TrLSoYdhbxRdF1tnPwjeMEPgRsXc3Da45m4WH4WP90as7tM933D_-emTFwxi_YdP1IvCUki9zMYh0YBAjcMk_tSNUzX1KwEzoIrO5guzOz55yHyYphuhsOUdc6zbsLCBaWN_VVEUU2rrHj1L5WlWu3MSPwok76aLZGKHhsuK1awbeDMnj3WT5VhO_2DY-EOf7VhQUmwzSMPx4_Vo6EF1PcBR-g7DdL5-WGXlfaIJyc0Shn0s-KjDj3vw==)
+- [chinadevelopmentbrief](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7gjVdD1X21mhJvfadmLx0XSC2dSQBWHSUQzicS604Ots0NE11ayxwsiVO-wch6mc8xaEp7GFmBSEjsjU5PbOnmyTbfs5lrsHqKrR2LautaRbcGx3avLclffwKZECbGZJahKqUHcI3DYFZ6NGl3E1TM9jboMocfNmPnw==)
