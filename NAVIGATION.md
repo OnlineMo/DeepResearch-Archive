@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [习近平总书记为“她”点赞 - 2025-10-13](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zong-shu-ji-wei-ta-dian-zan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E2%80%9C%E5%A5%B9%E2%80%9D%E7%82%B9%E8%B5%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [日本在野党协商联手让高市早苗落选 - 2025-10-12](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-zai-ye-dang-xie-shang-lian-shou-rang-gao-shi-zao-miao-luo-xuan-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%87%8E%E5%85%9A%E5%8D%8F%E5%95%86%E8%81%94%E6%89%8B%E8%AE%A9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%90%BD%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)
 - [树立全球妇女事业发展新的里程碑 - 2025-10-12](AI_Reports/shi-zheng-yu-guo-ji/shu-li-quan-qiu-fu-nu-shi-ye-fa-zhan-xin-de-li-cheng-bei-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%91%E7%AB%8B%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 - [“中国建造”享誉海外！ - 2025-10-12](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-jian-zao-xiang-yu-hai-wai-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%BB%BA%E9%80%A0%E2%80%9D%E4%BA%AB%E8%AA%89%E6%B5%B7%E5%A4%96%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [习近平同新加坡总统互致贺电 - 2025-10-04](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-xin-jia-po-zong-tong-hu-zhi-he-dian-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵受阅部队集结画面首次公开 - 2025-10-03](AI_Reports/shi-zheng-yu-guo-ji/jiu-san-yue-bing-shou-yue-bu-dui-ji-jie-hua-mian-shou-ci-gong-kai-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%97%E9%98%9F%E9%98%9F%E9%9B%86%E7%BB%93%E7%94%BB%E9%9D%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
 - [普京：如果俄是纸老虎 那北约算什么？ - 2025-10-03](AI_Reports/shi-zheng-yu-guo-ji/pu-jing-ru-guo-e-shi-zhi-lao-hu-na-bei-yue-suan-shi-yao-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BF%84%E6%98%AF%E7%BA%B8%E8%80%81%E8%99%8E+%E9%82%A3%E5%8C%97%E7%BA%A6%E7%AE%97%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)
-- [中国假期吸引世界流量 - 2025-10-02](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-jia-qi-xi-yin-shi-jie-liu-liang-2025-10-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%81%87%E6%9C%9F%E5%90%B8%E5%BC%95%E4%B8%96%E7%95%8C%E6%B5%81%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -75,6 +75,7 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [Windows 10即将“停服” - 2025-10-13](AI_Reports/ke-ji-yu-hu-lian-wang/windows-10ji-jiang-ting-fu-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=Windows+10%E5%8D%B3%E5%B0%86%E2%80%9C%E5%81%9C%E6%9C%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中国研究出可弯折20000次柔性电池 - 2025-10-08](AI_Reports/ke-ji-yu-hu-lian-wang/zhong-guo-yan-jiu-chu-ke-wan-zhe-20000ci-rou-xing-dian-chi-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E5%87%BA%E5%8F%AF%E5%BC%AF%E6%8A%9820000%E6%AC%A1%E6%9F%94%E6%80%A7%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [中国已用上“地面空间站” - 2025-10-04](AI_Reports/ke-ji-yu-hu-lian-wang/zhong-guo-yi-yong-shang-di-mian-kong-jian-zhan-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%94%A8%E4%B8%8A%E2%80%9C%E5%9C%B0%E9%9D%A2%E7%A9%BA%E9%97%B4%E7%AB%99%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -91,6 +92,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [我们离“人造太阳”有多远 - 2025-10-13](AI_Reports/ke-xue-yu-tai-kong/wo-men-chi-ren-zao-tai-yang-you-duo-yuan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E7%A6%BB%E2%80%9C%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E2%80%9D%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [60秒延时摄影赏中秋月 - 2025-10-07](AI_Reports/ke-xue-yu-tai-kong/60miao-yan-shi-she-ying-shang-zhong-qiu-yue-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=60%E7%A7%92%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E8%B5%8F%E4%B8%AD%E7%A7%8B%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)
 - [超大满月中秋登场 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/chao-da-man-yue-zhong-qiu-deng-chang-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E6%BB%A1%E6%9C%88%E4%B8%AD%E7%A7%8B%E7%99%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [核电站竟然还有产珍珠的副业 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/he-dian-zhan-jing-ran-huan-you-chan-zhen-zhu-de-fu-ye-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%B8%E7%94%B5%E7%AB%99%E7%AB%9F%E7%84%B6%E8%BF%98%E6%9C%89%E4%BA%A7%E7%8F%A0%E7%8F%A0%E7%9A%84%E5%89%AF%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
@@ -107,6 +109,7 @@
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
 
+- [美股期指集体反弹 - 2025-10-13](AI_Reports/jing-ji-yu-shi-chang/mei-gu-qi-zhi-ji-ti-fan-dan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [纵深推进全国统一大市场建设 - 2025-09-16](AI_Reports/jing-ji-yu-shi-chang/zong-shen-tui-jin-quan-guo-tong-yi-da-shi-chang-jian-she-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%B5%E6%B7%B1%E6%8E%A8%E8%BF%9B%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [存款去哪了？央行数据揭秘 - 2025-09-13](AI_Reports/jing-ji-yu-shi-chang/cun-kuan-qu-na-liao-yang-xing-shu-ju-jie-mi-2025-09-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E5%8E%BB%E5%93%AA%E4%BA%86%EF%BC%9F%E5%A4%AE%E8%A1%8C%E6%95%B0%E6%8D%AE%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)
 - [央行开展10000亿元买断式逆回购操作 - 2025-09-05](AI_Reports/jing-ji-yu-shi-chang/yang-xing-kai-zhan-10000yi-yuan-mai-duan-shi-ni-hui-gou-cao-zuo-2025-09-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%B1%9510000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD%E6%93%8D%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)
@@ -122,6 +125,7 @@
 ## 行业与公司
 [点击查看行业与公司完整报告索引 →](AI_Reports/xing-ye-yu-gong-si/Reports.md)
 
+- [万科董事长辛杰辞职 - 2025-10-13](AI_Reports/xing-ye-yu-gong-si/mo-ke-dong-shi-chang-xin-jie-ci-zhi-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E6%9D%B0%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [中国专业技术人才超过8000万人 - 2025-09-27](AI_Reports/xing-ye-yu-gong-si/zhong-guo-zhuan-ye-ji-zhu-ren-cai-chao-guo-8000mo-ren-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E4%BA%BA%E6%89%8D%E8%B6%85%E8%BF%878000%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [蔡国强始祖鸟发布致歉信 - 2025-09-21](AI_Reports/xing-ye-yu-gong-si/cai-guo-qiang-shi-zu-niao-fa-bu-zhi-qian-xin-2025-09-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BC%BA%E5%A7%8B%E7%A5%96%E9%B8%9F%E5%8F%91%E5%B8%83%E8%87%B4%E6%AD%89%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [今起连续3天有三场重要发布会 - 2025-09-17](AI_Reports/xing-ye-yu-gong-si/jin-qi-lian-xu-3tian-you-san-chang-zhong-yao-fa-bu-hui-2025-09-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E8%B5%B7%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E6%9C%89%E4%B8%89%E5%9C%BA%E9%87%8D%E8%A6%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
