@@ -1,7 +1,7 @@
 # 教育与考试 报告索引
 
 本页包含 **教育与考试** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：9
+报告总数：10
 
 ---
 
@@ -16,6 +16,10 @@
 ## D
 
 - [顶尖华裔数学家被迫在美筹款](ding-jian-hua-yi-shu-xue-jia-bei-po-zai-mei-chou-kuan-2025-09-09--v1.md) - 2025-09-09 (v1)
+
+## K
+
+- [考公年龄放宽至38岁 考生发声](kao-gong-nian-ling-fang-kuan-zhi-38sui-kao-sheng-fa-sheng-2025-10-15--v1.md) - 2025-10-15 (v1) [来源](https://www.baidu.com/s?wd=%E8%80%83%E5%85%AC%E5%B9%B4%E9%BE%84%E6%94%BE%E5%AE%BD%E8%87%B338%E5%B2%81+%E8%80%83%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)
 
 ## L
 
