@@ -1,9 +1,13 @@
 # 娱乐与明星 报告索引
 
 本页包含 **娱乐与明星** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：3
+报告总数：4
 
 ---
+
+## B
+
+- [不张扬 自闪耀 她们自成星辰](bu-zhang-yang-zi-shan-yao-ta-men-zi-cheng-xing-chen-2025-10-15--v1.md) - 2025-10-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8D%E5%BC%A0%E6%89%AC+%E8%87%AA%E9%97%AA%E8%80%80+%E5%A5%B9%E4%BB%AC%E8%87%AA%E6%88%90%E6%98%9F%E8%BE%B0&sa=fyb_news&rsv_dl=fyb_news)
 
 ## N
 
