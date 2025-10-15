@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [“中国和冰岛都积极倡导性别平等” - 2025-10-15](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-he-bing-dao-du-ji-ji-chang-dao-xing-bie-ping-deng-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%86%B0%E5%B2%9B%E9%83%BD%E7%A7%AF%E6%9E%81%E5%80%A1%E5%AF%BC%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [商务部：中美昨天进行了工作层会谈 - 2025-10-14](AI_Reports/shi-zheng-yu-guo-ji/shang-wu-bu-zhong-mei-zuo-tian-jin-xing-liao-gong-zuo-ceng-hui-tan-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E4%B8%AD%E7%BE%8E%E6%98%A8%E5%A4%A9%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%B7%A5%E4%BD%9C%E5%B1%82%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平在全球妇女峰会提出四点建议 - 2025-10-14](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zai-quan-qiu-fu-nu-feng-hui-ti-chu-si-dian-jian-yi-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E6%8F%90%E5%87%BA%E5%9B%9B%E7%82%B9%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平总书记为“她”点赞 - 2025-10-13](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zong-shu-ji-wei-ta-dian-zan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E2%80%9C%E5%A5%B9%E2%80%9D%E7%82%B9%E8%B5%9E&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [武契奇暗示可能爆发新的战争 - 2025-10-06](AI_Reports/shi-zheng-yu-guo-ji/wu-qi-qi-an-shi-ke-neng-bao-fa-xin-de-zhan-zheng-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E7%9A%84%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)
 - [红色预警！强台风麦德姆最新路径公布 - 2025-10-05](AI_Reports/shi-zheng-yu-guo-ji/hong-se-yu-jing-qiang-tai-feng-mai-de-mu-zui-xin-lu-jing-gong-bu-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%A2%E8%B0%83%E9%A2%84%E8%AD%A6%EF%BC%81%E5%BC%BA%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 - [歼-35与歼-35A机库首度公开 - 2025-10-05](AI_Reports/shi-zheng-yu-guo-ji/jian-35yu-jian-35aji-ku-shou-du-gong-kai-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%BC-35%E4%B8%8E%E6%AD%BC-35A%E6%9C%BA%E5%BA%93%E9%A6%96%E5%BA%93%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平同新加坡总统互致贺电 - 2025-10-04](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-xin-jia-po-zong-tong-hu-zhi-he-dian-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -51,6 +51,7 @@
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
 
+- [不张扬 自闪耀 她们自成星辰 - 2025-10-15](AI_Reports/yu-le-yu-ming-xing/bu-zhang-yang-zi-shan-yao-ta-men-zi-cheng-xing-chen-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8D%E5%BC%A0%E6%89%AC+%E8%87%AA%E9%97%AA%E8%80%80+%E5%A5%B9%E4%BB%AC%E8%87%AA%E6%88%90%E6%98%9F%E8%BE%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [女厕一推门就看到男明星“咧嘴笑” - 2025-09-08](AI_Reports/yu-le-yu-ming-xing/nu-ce-yi-tui-men-jiu-kan-dao-nan-ming-xing-lie-zui-xiao-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8E%95%E4%B8%80%E6%8E%A8%E9%97%A8%E5%B0%B1%E7%9C%8B%E5%88%B0%E7%94%B7%E6%98%8E%E6%98%9F%E2%80%9C%E5%92%A7%E5%98%B4%E7%AC%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [演员段伟伦去世 曾出演警察故事系列 - 2025-08-28](AI_Reports/yu-le-yu-ming-xing/yan-yuan-duan-wei-lun-qu-shi-ceng-chu-yan-jing-cha-gu-shi-xi-lie-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%AE%B5%E4%BC%9F%E4%BC%A6%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E8%AD%A6%E5%AF%9F%E6%95%85%E4%BA%8B%E7%B3%BB%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普祝贺泰勒斯威夫特订婚 - 2025-08-27](AI_Reports/yu-le-yu-ming-xing/te-lang-pu-zhu-he-tai-le-si-wei-fu-te-ding-hun-2025-08-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A5%9D%E8%B4%BA%E6%B3%B0%E5%8B%92%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E8%AE%A2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)
@@ -69,6 +70,8 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [让二追三！国乒男团3-2日本晋级决赛 - 2025-10-15](AI_Reports/ti-yu-yu-sai-shi/rang-er-zhui-san-guo-ping-nan-tuan-3-2ri-ben-jin-ji-jue-sai-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%EF%BC%81%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23-2%E6%97%A5%E6%9C%AC%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
+- [日本队被中国逆转后集体“凝固” - 2025-10-15](AI_Reports/ti-yu-yu-sai-shi/ri-ben-dui-bei-zhong-guo-ni-zhuan-hou-ji-ti-ning-gu-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%80%86%E8%BD%AC%E5%90%8E%E9%9B%86%E4%BD%93%E2%80%9C%E5%87%9D%E5%9B%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [苏翊鸣完成世界上第一个背靠背1980 - 2025-10-10](AI_Reports/ti-yu-yu-sai-shi/su-yi-ming-wan-cheng-shi-jie-shang-di-yi-ge-bei-kao-bei-1980-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%AE%8C%E6%88%90%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%83%8C%E9%9D%A0%E8%83%8C1980&sa=fyb_news&rsv_dl=fyb_news)
 - [球还没开踢 友谊的小船已经翻了 - 2025-09-06](AI_Reports/ti-yu-yu-sai-shi/qiu-huan-mei-kai-ti-you-yi-de-xiao-chuan-yi-jing-fan-liao-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%98%E6%B2%A1%E5%BC%80%E8%B8%A2+%E5%8F%8B%E8%B0%8A%E7%9A%84%E5%B0%8F%E8%88%B9%E5%B7%B2%E7%BB%8F%E7%BF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -138,6 +141,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [考公年龄放宽至38岁 考生发声 - 2025-10-15](AI_Reports/jiao-yu-yu-kao-shi/kao-gong-nian-ling-fang-kuan-zhi-38sui-kao-sheng-fa-sheng-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%80%83%E5%85%AC%E5%B9%B4%E9%BE%84%E6%94%BE%E5%AE%BD%E8%87%B338%E5%B2%81+%E8%80%83%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [事关1670多万学生 六部门重磅发文 - 2025-09-27](AI_Reports/jiao-yu-yu-kao-shi/shi-guan-1670duo-mo-xue-sheng-liu-bu-men-zhong-bang-fa-wen-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B31670%E5%A4%9A%E4%B8%87%E5%AD%A6%E7%94%9F+%E5%85%AD%E9%83%A8%E9%97%A8%E9%87%8D%E7%A3%85%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
 - [刘备扮演者孙彦军成大学校长 - 2025-09-26](AI_Reports/jiao-yu-yu-kao-shi/liu-bei-ban-yan-zhe-sun-yan-jun-cheng-da-xue-xiao-chang-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%98%E5%87%86%E5%A4%87%E6%89%AE%E6%BC%94%E8%80%85%E5%AD%99%E5%BD%A6%E5%86%9B%E6%88%90%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [这些新大学分数赶超“985” - 2025-09-14](AI_Reports/jiao-yu-yu-kao-shi/zhe-xie-xin-da-xue-fen-shu-gan-chao-985-2025-09-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%96%B0%E5%A4%A7%E5%AD%A6%E5%88%86%E6%95%B0%E8%B5%B6%E8%B6%85%E2%80%9C985%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
