@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：127
+报告总数：128
 
 ---
 
@@ -204,5 +204,6 @@
 - [“把伟大抗战精神一代代传下去”](ba-wei-da-kang-zhan-jing-shen-yi-dai-dai-chuan-xia-qu-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%9D%E4%BC%9F%E5%A4%A7%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E4%B8%80%E4%BB%A3%E4%BB%A3%E4%BC%A0%E4%B8%8B%E5%8E%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“上海精神”照亮上合壮大之路](shang-hai-jing-shen-zhao-liang-shang-he-zhuang-da-zhi-lu-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E6%B5%B7%E7%B2%BE%E7%A5%9E%E2%80%9D%E7%85%A7%E4%BA%AE%E4%B8%8A%E5%90%88%E5%A3%AE%E5%A4%A7%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [“我是中国老兵 我骄傲！”](wo-shi-zhong-guo-lao-bing-wo-jiao-ao-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%80%81%E5%85%B5+%E6%88%91%E9%AA%84%E5%82%B2%EF%BC%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [“中国和冰岛都积极倡导性别平等”](zhong-guo-he-bing-dao-du-ji-ji-chang-dao-xing-bie-ping-deng-2025-10-15--v1.md) - 2025-10-15 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%86%B0%E5%B2%9B%E9%83%BD%E7%A7%AF%E6%9E%81%E5%80%A1%E5%AF%BC%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“中国建造”享誉海外！](zhong-guo-jian-zao-xiang-yu-hai-wai-2025-10-12--v1.md) - 2025-10-12 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%BB%BA%E9%80%A0%E2%80%9D%E4%BA%AB%E8%AA%89%E6%B5%B7%E5%A4%96%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
 - [“中国排面”再现人民大会堂](zhong-guo-pai-mian-zai-xian-ren-min-da-hui-tang-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E2%80%9D%E5%86%8D%E7%8E%B0%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)
