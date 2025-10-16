@@ -1,7 +1,7 @@
 # 科技与互联网 报告索引
 
 本页包含 **科技与互联网** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：4
+报告总数：5
 
 ---
 
@@ -11,6 +11,7 @@
 
 ## W
 
+- [微信朋友圈凉了？回应来了](wei-xin-peng-you-quan-liang-liao-hui-ying-lai-liao-2025-10-16--v1.md) - 2025-10-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%87%89%E4%BA%86%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [Windows 10即将“停服”](windows-10ji-jiang-ting-fu-2025-10-13--v1.md) - 2025-10-13 (v1) [来源](https://www.baidu.com/s?wd=Windows+10%E5%8D%B3%E5%B0%86%E2%80%9C%E5%81%9C%E6%9C%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
