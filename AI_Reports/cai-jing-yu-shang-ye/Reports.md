@@ -1,7 +1,7 @@
 # 财经与商业 报告索引
 
 本页包含 **财经与商业** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：6
+报告总数：7
 
 ---
 
@@ -22,3 +22,4 @@
 
 - [“6元鸡排讲出了6亿项目的气魄”](6yuan-ji-pai-jiang-chu-liao-6yi-xiang-mu-de-qi-po-2025-09-29--v1.md) - 2025-09-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C6%E5%85%83%E9%B8%A1%E6%8E%92%E8%AE%B2%E5%87%BA%E4%BA%866%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%B0%94%E9%AD%84%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“毛孩子”或成商场新流量密码](mao-hai-zi-huo-cheng-shang-chang-xin-liu-liang-mi-ma-2025-10-04--v1.md) - 2025-10-04 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%9B%E5%AD%A9%E5%AD%90%E2%80%9D%E6%88%96%E6%88%90%E5%95%86%E5%9C%BA%E6%96%B0%E6%B5%81%E9%87%8F%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)
+- [“竹裤架”突然翻红](zhu-ku-jia-tu-ran-fan-hong-2025-10-17--v1.md) - 2025-10-17 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AB%B9%E8%A3%A4%E6%9E%B6%E2%80%9D%E7%AA%81%E7%84%B6%E7%BF%BB%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)
