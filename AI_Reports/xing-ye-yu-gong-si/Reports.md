@@ -1,7 +1,7 @@
 # 行业与公司 报告索引
 
 本页包含 **行业与公司** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：7
+报告总数：8
 
 ---
 
@@ -28,6 +28,10 @@
 ## W
 
 - [万科董事长辛杰辞职](mo-ke-dong-shi-chang-xin-jie-ci-zhi-2025-10-13--v1.md) - 2025-10-13 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E6%9D%B0%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)
+
+## X
+
+- [新西兰从韩国抢回造船订单塞给中国](xin-xi-lan-cong-han-guo-qiang-hui-zao-chuan-ding-dan-sai-gei-zhong-guo-2025-10-17--v1.md) - 2025-10-17 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E4%BB%8E%E9%9F%A9%E5%9B%BD%E6%8A%A2%E5%9B%9E%E9%80%A0%E8%88%B9%E8%AE%A2%E5%8D%95%E5%A1%9E%E7%BB%99%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
