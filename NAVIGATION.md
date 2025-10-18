@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [让百姓过上好日子 总书记惦念在心 - 2025-10-18](AI_Reports/shi-zheng-yu-guo-ji/rang-bai-xing-guo-shang-hao-ri-zi-zong-shu-ji-dian-nian-zai-xin-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E8%80%81%E7%99%BE%E5%A7%93%E8%BF%87%E4%B8%8A%E5%A5%BD%E6%97%A5%E5%AD%90+%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%83%A6%E5%BF%B5%E5%9C%A8%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
+- [泽连斯基穿上正装 特朗普：我很喜欢 - 2025-10-18](AI_Reports/shi-zheng-yu-guo-ji/ze-lian-si-ji-chuan-shang-zheng-zhuang-te-lang-pu-wo-hen-xi-huan-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [看中国如何守住每一粒米 - 2025-10-17](AI_Reports/shi-zheng-yu-guo-ji/kan-zhong-guo-ru-he-shou-zhu-mei-yi-li-mi-2025-10-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E5%AE%88%E4%BD%8F%E6%AF%8F%E4%B8%80%E7%B2%92%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [“始终绷紧粮食安全这根弦” - 2025-10-17](AI_Reports/shi-zheng-yu-guo-ji/shi-zhong-beng-jin-liang-shi-an-quan-zhe-gen-xian-2025-10-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%A7%8B%E7%BB%88%E7%BB%B7%E7%B4%A7%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E8%BF%99%E6%A0%B9%E5%BC%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中方回应特朗普让中国停买俄石油 - 2025-10-17](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-hui-ying-te-lang-pu-rang-zhong-guo-ting-mai-e-shi-you-2025-10-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%81%9C%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,12 +23,11 @@
 - [国安部公布3名台独“水军”身份信息 - 2025-10-10](AI_Reports/shi-zheng-yu-guo-ji/guo-an-bu-gong-bu-3ming-tai-du-shui-jun-shen-fen-xin-xi-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E5%85%AC%E5%B8%833%E5%90%8D%E5%8F%B0%E7%8B%AC%E2%80%9C%E6%B0%B4%E5%86%9B%E2%80%9D%E8%BA%AB%E4%BB%BD%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [李强会见金正恩 - 2025-10-10](AI_Reports/shi-zheng-yu-guo-ji/li-qiang-hui-jian-jin-zheng-en-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%E4%BC%9A%E8%A7%81%E9%87%91%E6%AD%A3%E6%81%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平将出席全球妇女峰会开幕式 - 2025-10-10](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-jiang-chu-xi-quan-qiu-fu-nu-feng-hui-kai-mu-shi-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%AD%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
-- [中国航天 生日快乐 - 2025-10-09](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-hang-tian-sheng-ri-kuai-le-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9+%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)
-- [钱学森遭美方拘禁后失声暴瘦 - 2025-10-08](AI_Reports/shi-zheng-yu-guo-ji/qian-xue-sen-zao-mei-fang-ju-jin-hou-shi-sheng-bao-shou-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%92%B1%E5%AD%A6%E6%A3%AE%E9%81%AD%E7%BE%8E%E6%96%B9%E6%8B%98%E7%A6%81%E5%90%8E%E5%A4%B1%E5%A3%B0%E6%9A%B4%E7%98%A6&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [沪上阿姨推出子宫形玩偶引争议 - 2025-10-18](AI_Reports/she-hui-yu-fa-zhi/hu-shang-a-yi-tui-chu-zi-gong-xing-wan-ou-yin-zheng-yi-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%B8%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%8E%A8%E5%87%BA%E5%AD%90%E5%AE%AB%E5%BD%A2%E7%8E%A9%E5%81%B6%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝多地共享单车骑行中自动锁车 - 2025-10-16](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-duo-di-gong-xiang-dan-che-qi-xing-zhong-zi-dong-suo-che-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%A4%9A%E5%9C%B0%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E9%AA%91%E8%A1%8C%E4%B8%AD%E8%87%AA%E5%8A%A8%E9%94%81%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [业主私挖300平地下室致32户开裂 - 2025-10-14](AI_Reports/she-hui-yu-fa-zhi/ye-zhu-si-wa-300ping-di-xia-shi-zhi-32hu-kai-lie-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%87%B432%E6%88%B7%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)
 - [“美女博主”诱导策反100余人窃密 - 2025-10-12](AI_Reports/she-hui-yu-fa-zhi/mei-nu-bo-zhu-you-dao-ce-fan-100yu-ren-qie-mi-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8E%E5%A5%B3%E5%8D%9A%E4%B8%BB%E2%80%9D%E8%AF%B1%E5%AF%BC%E7%AD%96%E5%8F%8D100%E4%BD%99%E4%BA%BA%E7%AA%83%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [天坑溶洞垃圾10层楼高 当地通报 - 2025-09-29](AI_Reports/she-hui-yu-fa-zhi/tian-keng-rong-dong-la-ji-10ceng-lou-gao-dang-di-tong-bao-2025-09-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%9D%91%E6%BA%B6%E6%B4%9E%E5%9E%83%E5%9C%BE10%E5%B1%82%E6%A5%BC%E9%AB%98+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [游客称在景区遭遇21474836元停车费 - 2025-09-29](AI_Reports/she-hui-yu-fa-zhi/you-ke-cheng-zai-jing-qu-zao-yu-21474836yuan-ting-che-fei-2025-09-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E6%99%AF%E5%8C%BA%E9%81%AD%E9%81%8721474836%E5%85%83%E5%81%9C%E8%BD%A6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [甘肃陇西发生5.6级地震 - 2025-09-27](AI_Reports/she-hui-yu-fa-zhi/gan-su-long-xi-fa-sheng-5-6ji-di-zhen-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%99%87%E8%A5%BF%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)
-- [景德镇城管已为鸡排哥成立工作专班 - 2025-09-27](AI_Reports/she-hui-yu-fa-zhi/jing-de-zhen-cheng-guan-yi-wei-ji-pai-ge-cheng-li-gong-zuo-zhuan-ban-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AF%E5%BE%B7%E9%95%87%E5%9F%8E%E7%AE%A1%E5%B7%B2%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -106,6 +106,11 @@
 - [“红月亮”高清大图来了 - 2025-09-08](AI_Reports/ke-xue-yu-tai-kong/hong-yue-liang-gao-qing-da-tu-lai-liao-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%BA%A2%E6%9C%88%E4%BA%AE%E2%80%9D%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中国正规划对1颗小行星实施高速撞击 - 2025-09-06](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-zheng-gui-hua-dui-1ke-xiao-xing-xing-shi-shi-gao-su-zhuang-ji-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%A7%84%E5%88%92%E5%AF%B91%E9%A2%97%E5%B0%8F%E8%A1%8C%E6%98%9F%E5%AE%9E%E6%96%BD%E9%AB%98%E9%80%9F%E6%92%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)
 
+## 医疗保健与生物技术
+[点击查看医疗保健与生物技术完整报告索引 →](AI_Reports/yi-liao-bao-jian-yu-sheng-wu-ji-zhu/Reports.md)
+
+- [男孩自查文献确诊罕见卟啉病 - 2025-10-18](AI_Reports/yi-liao-bao-jian-yu-sheng-wu-ji-zhu/nan-hai-zi-cha-wen-xian-que-zhen-han-jian-bu-lan-bing-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%87%AA%E6%9F%A5%E6%96%87%E7%8C%AE%E7%A1%AE%E8%AF%8A%E7%BD%95%E8%A7%81%E5%8D%9C%E5%95%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)
+
 ## 能源与气候
 [点击查看能源与气候完整报告索引 →](AI_Reports/neng-yuan-yu-qi-hou/Reports.md)
 
@@ -131,6 +136,7 @@
 ## 行业与公司
 [点击查看行业与公司完整报告索引 →](AI_Reports/xing-ye-yu-gong-si/Reports.md)
 
+- [拔节生长 中国制造锻造更强筋骨 - 2025-10-18](AI_Reports/xing-ye-yu-gong-si/ba-jie-sheng-chang-zhong-guo-zhi-zao-duan-zao-geng-qiang-jin-gu-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8B%94%E8%8A%82%E7%94%9F%E9%95%BF+%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E9%94%BB%E9%80%A0%E6%9B%B4%E5%BC%BA%E7%AD%8B%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [新西兰从韩国抢回造船订单塞给中国 - 2025-10-17](AI_Reports/xing-ye-yu-gong-si/xin-xi-lan-cong-han-guo-qiang-hui-zao-chuan-ding-dan-sai-gei-zhong-guo-2025-10-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E4%BB%8E%E9%9F%A9%E5%9B%BD%E6%8A%A2%E5%9B%9E%E9%80%A0%E8%88%B9%E8%AE%A2%E5%8D%95%E5%A1%9E%E7%BB%99%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [万科董事长辛杰辞职 - 2025-10-13](AI_Reports/xing-ye-yu-gong-si/mo-ke-dong-shi-chang-xin-jie-ci-zhi-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E6%9D%B0%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [中国专业技术人才超过8000万人 - 2025-09-27](AI_Reports/xing-ye-yu-gong-si/zhong-guo-zhuan-ye-ji-zhu-ren-cai-chao-guo-8000mo-ren-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E4%BA%BA%E6%89%8D%E8%B6%85%E8%BF%878000%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
