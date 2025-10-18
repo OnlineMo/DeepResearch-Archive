@@ -1,13 +1,17 @@
 # 行业与公司 报告索引
 
 本页包含 **行业与公司** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：8
+报告总数：9
 
 ---
 
 ## 0-9
 
 - [2025民营企业500强揭晓：京东第一](2025min-ying-qi-ye-500qiang-jie-xiao-jing-dong-di-yi-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=2025%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A500%E5%BC%BA%E6%8F%AD%E6%99%93%EF%BC%9A%E4%BA%AC%E4%B8%9C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)
+
+## B
+
+- [拔节生长 中国制造锻造更强筋骨](ba-jie-sheng-chang-zhong-guo-zhi-zao-duan-zao-geng-qiang-jin-gu-2025-10-18--v1.md) - 2025-10-18 (v1) [来源](https://www.baidu.com/s?wd=%E6%8B%94%E8%8A%82%E7%94%9F%E9%95%BF+%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E9%94%BB%E9%80%A0%E6%9B%B4%E5%BC%BA%E7%AD%8B%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news)
 
 ## C
 
