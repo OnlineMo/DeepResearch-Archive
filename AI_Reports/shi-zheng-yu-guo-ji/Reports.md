@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：132
+报告总数：134
 
 ---
 
@@ -111,6 +111,7 @@
 
 ## R
 
+- [让百姓过上好日子 总书记惦念在心](rang-bai-xing-guo-shang-hao-ri-zi-zong-shu-ji-dian-nian-zai-xin-2025-10-18--v1.md) - 2025-10-18 (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E8%80%81%E7%99%BE%E5%A7%93%E8%BF%87%E4%B8%8A%E5%A5%BD%E6%97%A5%E5%AD%90+%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%83%A6%E5%BF%B5%E5%9C%A8%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [让和平的薪火代代相传](rang-he-ping-de-xin-huo-dai-dai-xiang-chuan-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E5%92%8C%E5%B9%B3%E7%9A%84%E8%96%AA%E7%81%AB%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报、新华社、央视集体发文](ren-min-ri-bao-xin-hua-she-yang-shi-ji-ti-fa-wen-2025-09-15--v1.md) - 2025-09-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%81%E6%96%B0%E5%8D%8E%E7%A4%BE%E3%80%81%E5%A4%AE%E8%A7%86%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
 - [日本代表最后一刻取消访美](ri-ben-dai-biao-zui-hou-yi-ke-qu-xiao-fang-mei-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E5%8F%96%E6%B6%88%E8%AE%BF%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)
@@ -178,6 +179,7 @@
 
 ## Z
 
+- [泽连斯基穿上正装 特朗普：我很喜欢](ze-lian-si-ji-chuan-shang-zheng-zhuang-te-lang-pu-wo-hen-xi-huan-2025-10-18--v1.md) - 2025-10-18 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [这是你没见过的阅兵训练画面](zhe-shi-ni-mei-jian-guo-de-yue-bing-xun-lian-hua-mian-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%BD%A0%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E9%98%85%E5%85%B5%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [这是我们的新疆！](zhe-shi-wo-men-de-xin-jiang-2025-09-26--v1.md) - 2025-09-26 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
 - [这些受阅武器装备震撼亮相](zhe-xie-shou-yue-wu-qi-zhuang-bei-zhen-han-liang-xiang-2025-09-05--v1.md) - 2025-09-05 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%8F%97%E9%98%85%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87%E9%9C%87%E6%92%AE%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)
