@@ -1,7 +1,7 @@
 # 行业与公司 报告索引
 
 本页包含 **行业与公司** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：9
+报告总数：10
 
 ---
 
@@ -20,6 +20,7 @@
 ## H
 
 - [寒武纪85后创始人身家超1500亿](han-wu-ji-85hou-chuang-shi-ren-shen-jia-chao-1500yi-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%92%E6%AD%A6%E7%BA%AA85%E5%90%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BA%AB%E5%AE%B6%E8%B6%851500%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
+- [毫厘之间铸造“中国精度”](hao-li-zhi-jian-zhu-zao-zhong-guo-jing-du-2025-10-19--v1.md) - 2025-10-19 (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%AB%E5%8E%98%E4%B9%8B%E9%93%B8%E9%80%A0%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%B2%BE%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## J
 
