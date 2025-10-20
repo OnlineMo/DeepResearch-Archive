@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [六个“新”字看成绩 - 2025-10-20](AI_Reports/shi-zheng-yu-guo-ji/liu-ge-xin-zi-kan-cheng-ji-2025-10-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%AD%E4%B8%AA%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E7%9C%8B%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记擘画中国式现代化新篇章 - 2025-10-20](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-bo-hua-zhong-guo-shi-xian-dai-hua-xin-pian-zhang-2025-10-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%93%B7%E7%94%BB%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [从“中国规划”看“中国之治” - 2025-10-19](AI_Reports/shi-zheng-yu-guo-ji/cong-zhong-guo-gui-hua-kan-zhong-guo-zhi-zhi-2025-10-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%A7%84%E5%88%92%E2%80%9D%E7%9C%8B%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%B9%8B%E6%B2%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [美用42款特种武器网攻“北京时间” - 2025-10-19](AI_Reports/shi-zheng-yu-guo-ji/mei-yong-42kuan-te-chong-wu-qi-wang-gong-bei-jing-shi-jian-2025-10-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%A842%E6%AC%BE%E7%89%B9%E7%A7%8D%E6%AD%A6%E5%99%A8%E7%BD%91%E6%94%BB%E2%80%9C%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [台风“风神”将带来暴雨大暴雨 - 2025-10-19](AI_Reports/shi-zheng-yu-guo-ji/tai-feng-feng-shen-jiang-dai-lai-bao-yu-da-bao-yu-2025-10-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E9%A3%8E%E7%A5%9E%E2%80%9D%E5%B0%86%E5%B8%A6%E6%9D%A5%E6%9A%B4%E9%9B%A8%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,12 +23,11 @@
 - [“中国建造”享誉海外！ - 2025-10-12](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-jian-zao-xiang-yu-hai-wai-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%BB%BA%E9%80%A0%E2%80%9D%E4%BA%AB%E8%AA%89%E6%B5%B7%E5%A4%96%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
 - [赋能“她力量” 中国在行动 - 2025-10-11](AI_Reports/shi-zheng-yu-guo-ji/fu-neng-ta-li-liang-zhong-guo-zai-xing-dong-2025-10-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B5%8B%E8%83%BD%E2%80%9C%E5%A5%B9%E5%8A%9B%E9%87%8F%E2%80%9D+%E4%B8%AD%E5%9B%BD%E5%9C%A8%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [悬赏！18名台湾军方违法核心骨干曝光 - 2025-10-11](AI_Reports/shi-zheng-yu-guo-ji/xuan-shang-18ming-tai-wan-jun-fang-wei-fa-he-xin-gu-gan-pu-guang-2025-10-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%82%AC%E8%B5%8F%EF%BC%8118%E5%90%8D%E5%8F%B0%E6%B9%BE%E5%86%9B%E6%96%B9%E8%BF%9D%E6%B3%95%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
-- [朝鲜举行盛大阅兵式 - 2025-10-11](AI_Reports/shi-zheng-yu-guo-ji/zhao-xian-ju-xing-sheng-da-yue-bing-shi-2025-10-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%B8%BE%E8%A1%8C%E7%9B%9B%E5%A4%A7%E9%98%85%E5%85%B5%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
-- [中方一个个点名多个国家劣迹 - 2025-10-11](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-yi-ge-ge-dian-ming-duo-ge-guo-jia-lie-ji-2025-10-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%80%E4%B8%AA%E4%B8%AA%E7%82%B9%E5%90%8D%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8A%A3%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [谁在利用1068号段发送诈骗短信 - 2025-10-20](AI_Reports/she-hui-yu-fa-zhi/shui-zai-li-yong-1068hao-duan-fa-song-zha-pian-duan-xin-2025-10-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E5%88%A9%E7%94%A81068%E5%8F%B7%E6%AE%B5%E5%8F%91%E9%80%81%E8%AF%88%E9%AA%97%E7%9F%AD%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [沪上阿姨推出子宫形玩偶引争议 - 2025-10-18](AI_Reports/she-hui-yu-fa-zhi/hu-shang-a-yi-tui-chu-zi-gong-xing-wan-ou-yin-zheng-yi-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%B8%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%8E%A8%E5%87%BA%E5%AD%90%E5%AE%AB%E5%BD%A2%E7%8E%A9%E5%81%B6%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝多地共享单车骑行中自动锁车 - 2025-10-16](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-duo-di-gong-xiang-dan-che-qi-xing-zhong-zi-dong-suo-che-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%A4%9A%E5%9C%B0%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E9%AA%91%E8%A1%8C%E4%B8%AD%E8%87%AA%E5%8A%A8%E9%94%81%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [业主私挖300平地下室致32户开裂 - 2025-10-14](AI_Reports/she-hui-yu-fa-zhi/ye-zhu-si-wa-300ping-di-xia-shi-zhi-32hu-kai-lie-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%87%B432%E6%88%B7%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [人民网评“鸡排哥”爆火 - 2025-09-30](AI_Reports/she-hui-yu-fa-zhi/ren-min-wang-ping-ji-pai-ge-bao-huo-2025-09-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E9%B8%A1%E6%8E%92%E5%93%A5%E2%80%9D%E7%88%86%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)
 - [天坑溶洞垃圾10层楼高 当地通报 - 2025-09-29](AI_Reports/she-hui-yu-fa-zhi/tian-keng-rong-dong-la-ji-10ceng-lou-gao-dang-di-tong-bao-2025-09-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%9D%91%E6%BA%B6%E6%B4%9E%E5%9E%83%E5%9C%BE10%E5%B1%82%E6%A5%BC%E9%AB%98+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [游客称在景区遭遇21474836元停车费 - 2025-09-29](AI_Reports/she-hui-yu-fa-zhi/you-ke-cheng-zai-jing-qu-zao-yu-21474836yuan-ting-che-fei-2025-09-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E6%99%AF%E5%8C%BA%E9%81%AD%E9%81%8721474836%E5%85%83%E5%81%9C%E8%BD%A6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)
-- [甘肃陇西发生5.6级地震 - 2025-09-27](AI_Reports/she-hui-yu-fa-zhi/gan-su-long-xi-fa-sheng-5-6ji-di-zhen-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%99%87%E8%A5%BF%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -165,6 +165,7 @@
 ## 旅游与出行
 [点击查看旅游与出行完整报告索引 →](AI_Reports/lu-you-yu-chu-xing/Reports.md)
 
+- [火车免费坐？12306今起又上新功能 - 2025-10-20](AI_Reports/lu-you-yu-chu-xing/huo-che-mian-fei-zuo-12306jin-qi-you-shang-xin-gong-neng-2025-10-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E5%85%8D%E8%B4%B9%E5%9D%90%EF%BC%9F12306%E4%BB%8A%E8%B5%B7%E5%8F%88%E4%B8%8A%E6%96%B0%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [老外成青甘大环线“显眼包” - 2025-10-09](AI_Reports/lu-you-yu-chu-xing/lao-wai-cheng-qing-gan-da-huan-xian-xian-yan-bao-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E6%88%90%E9%9D%92%E7%94%98%E5%A4%A7%E7%8E%AF%E7%BA%BF%E2%80%9C%E6%98%BE%E7%9C%BC%E5%8C%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [亲历珠峰暴雪游客：全身结冰 很恐怖 - 2025-10-07](AI_Reports/lu-you-yu-chu-xing/qin-li-zhu-feng-bao-xue-you-ke-quan-shen-jie-bing-hen-kong-bu-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%B2%E5%8E%86%E7%8F%A0%E5%B3%B0%E6%9A%B4%E9%9B%AA%E6%B8%B8%E5%AE%A2%EF%BC%9A%E5%85%A8%E8%BA%AB%E7%BB%93%E5%86%B0+%E5%BE%88%E6%81%90%E6%80%96&sa=fyb_news&rsv_dl=fyb_news)
 - [被悟空带火的小西天：游客暴增百倍 - 2025-10-05](AI_Reports/lu-you-yu-chu-xing/bei-wu-kong-dai-huo-de-xiao-xi-tian-you-ke-bao-zeng-bai-bei-2025-10-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A2%AB%E6%82%9F%E7%A9%BA%E5%B8%A6%E7%81%AB%E7%9A%84%E5%B0%8F%E8%A5%BF%E5%A4%A9%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%9A%B4%E5%A2%9E%E7%99%BE%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)
