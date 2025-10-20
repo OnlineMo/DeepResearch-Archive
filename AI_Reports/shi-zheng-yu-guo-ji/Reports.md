@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：137
+报告总数：139
 
 ---
 
@@ -84,6 +84,7 @@
 
 - [李强会见金正恩](li-qiang-hui-jian-jin-zheng-en-2025-10-10--v1.md) - 2025-10-10 (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%E4%BC%9A%E8%A7%81%E9%87%91%E6%AD%A3%E6%81%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [烈士纪念日 向人民英雄敬献花篮](lie-shi-ji-nian-ri-xiang-ren-min-ying-xiong-jing-xian-hua-lan-2025-09-30--v1.md) - 2025-09-30 (v1) [来源](https://www.baidu.com/s?wd=%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5+%E5%90%91%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%95%AC%E7%8C%AE%E8%8A%B1%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)
+- [六个“新”字看成绩](liu-ge-xin-zi-kan-cheng-ji-2025-10-20--v1.md) - 2025-10-20 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%AD%E4%B8%AA%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E7%9C%8B%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)
 
 ## M
 
@@ -200,6 +201,7 @@
 - [中国抗战阅兵以来日本砸560亿搞公关](zhong-guo-kang-zhan-yue-bing-yi-lai-ri-ben-za-560yi-gao-gong-guan-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5%E4%BB%A5%E6%9D%A5%E6%97%A5%E6%9C%AC%E7%A0%B8560%E4%BA%BF%E6%90%9E%E5%85%AC%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [中国正式成为安第斯共同体观察员国](zhong-guo-zheng-shi-cheng-wei-an-di-si-gong-tong-ti-guan-cha-yuan-guo-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E6%88%90%E4%B8%BA%E5%AE%89%E7%AC%AC%E6%96%AF%E5%85%B1%E5%90%8C%E4%BD%93%E8%A7%82%E5%AF%9F%E5%91%98%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [中美完全可以相互成就、共同繁荣](zhong-mei-wan-quan-ke-yi-xiang-hu-cheng-jiu-gong-tong-fan-rong-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%B2%E6%88%90%E5%B0%B1%E3%80%81%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记擘画中国式现代化新篇章](zong-shu-ji-bo-hua-zhong-guo-shi-xian-dai-hua-xin-pian-zhang-2025-10-20--v1.md) - 2025-10-20 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%93%B7%E7%94%BB%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记部署全国统一大市场建设](zong-shu-ji-bu-shu-quan-guo-tong-yi-da-shi-chang-jian-she-2025-09-17--v1.md) - 2025-09-17 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%83%A8%E7%BD%B2%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的人民情怀](zong-shu-ji-de-ren-min-qing-huai-2025-09-08--v1.md) - 2025-09-08 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的这六天](zong-shu-ji-de-zhe-liu-tian-2025-09-09--v1.md) - 2025-09-09 (v1) [来源]([百度搜索](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%BF%99%E5%85%AD%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news))
