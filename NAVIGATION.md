@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [党的二十届四中全会在北京举行 - 2025-10-21](AI_Reports/shi-zheng-yu-guo-ji/dang-de-er-shi-jie-si-zhong-quan-hui-zai-bei-jing-ju-xing-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
+- [解放军正告澳方立即停止侵权挑衅 - 2025-10-21](AI_Reports/shi-zheng-yu-guo-ji/jie-fang-jun-zheng-gao-ao-fang-li-ji-ting-zhi-qin-quan-tiao-xin-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%AD%A3%E5%91%8A%E6%BE%B3%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85&sa=fyb_news&rsv_dl=fyb_news)
+- [临聘人员偷拍军事装备发家庭群泄密 - 2025-10-21](AI_Reports/shi-zheng-yu-guo-ji/lin-pin-ren-yuan-tou-pai-jun-shi-zhuang-bei-fa-jia-ting-qun-xie-mi-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%81%B7%E6%8B%8D%E5%86%9B%E4%BA%8B%E8%A3%85%E5%A4%87%E5%8F%91%E5%AE%B6%E5%BA%AD%E7%BE%A4%E6%B3%84%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 - [六个“新”字看成绩 - 2025-10-20](AI_Reports/shi-zheng-yu-guo-ji/liu-ge-xin-zi-kan-cheng-ji-2025-10-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%AD%E4%B8%AA%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E7%9C%8B%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记擘画中国式现代化新篇章 - 2025-10-20](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-bo-hua-zhong-guo-shi-xian-dai-hua-xin-pian-zhang-2025-10-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%93%B7%E7%94%BB%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [从“中国规划”看“中国之治” - 2025-10-19](AI_Reports/shi-zheng-yu-guo-ji/cong-zhong-guo-gui-hua-kan-zhong-guo-zhi-zhi-2025-10-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%A7%84%E5%88%92%E2%80%9D%E7%9C%8B%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%B9%8B%E6%B2%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [习近平总书记为“她”点赞 - 2025-10-13](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zong-shu-ji-wei-ta-dian-zan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E2%80%9C%E5%A5%B9%E2%80%9D%E7%82%B9%E8%B5%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [日本在野党协商联手让高市早苗落选 - 2025-10-12](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-zai-ye-dang-xie-shang-lian-shou-rang-gao-shi-zao-miao-luo-xuan-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%87%8E%E5%85%9A%E5%8D%8F%E5%95%86%E8%81%94%E6%89%8B%E8%AE%A9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%90%BD%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)
 - [树立全球妇女事业发展新的里程碑 - 2025-10-12](AI_Reports/shi-zheng-yu-guo-ji/shu-li-quan-qiu-fu-nu-shi-ye-fa-zhan-xin-de-li-cheng-bei-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%91%E7%AB%8B%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news)
-- [“中国建造”享誉海外！ - 2025-10-12](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-jian-zao-xiang-yu-hai-wai-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%BB%BA%E9%80%A0%E2%80%9D%E4%BA%AB%E8%AA%89%E6%B5%B7%E5%A4%96%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)
-- [赋能“她力量” 中国在行动 - 2025-10-11](AI_Reports/shi-zheng-yu-guo-ji/fu-neng-ta-li-liang-zhong-guo-zai-xing-dong-2025-10-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B5%8B%E8%83%BD%E2%80%9C%E5%A5%B9%E5%8A%9B%E9%87%8F%E2%80%9D+%E4%B8%AD%E5%9B%BD%E5%9C%A8%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
-- [悬赏！18名台湾军方违法核心骨干曝光 - 2025-10-11](AI_Reports/shi-zheng-yu-guo-ji/xuan-shang-18ming-tai-wan-jun-fang-wei-fa-he-xin-gu-gan-pu-guang-2025-10-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%82%AC%E8%B5%8F%EF%BC%8118%E5%90%8D%E5%8F%B0%E6%B9%BE%E5%86%9B%E6%96%B9%E8%BF%9D%E6%B3%95%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -128,6 +128,7 @@
 ## 政策与法规
 [点击查看政策与法规完整报告索引 →](AI_Reports/zheng-ce-yu-fa-gui/Reports.md)
 
+- [十四五规划这个字的重要性前所未有 - 2025-10-21](AI_Reports/zheng-ce-yu-fa-gui/shi-si-wu-gui-hua-zhe-ge-zi-de-zhong-yao-xing-qian-suo-wei-you-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E4%BA%94%E8%A7%84%E5%88%92%E8%BF%99%E4%B8%AA%E5%AD%97%E7%9A%93%E9%87%8D%E8%A6%81%E6%80%A7%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89&sa=fyb_news&rsv_dl=fyb_news)
 - [事关你我 10月起一批新规即将施行 - 2025-09-28](AI_Reports/zheng-ce-yu-fa-gui/shi-guan-ni-wo-10yue-qi-yi-pi-xin-gui-ji-jiang-shi-xing-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E4%BD%A0%E6%88%91+10%E6%9C%88%E8%B5%B7%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%8D%B3%E5%B0%86%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [住房租赁新规来了 如何影响你我 - 2025-09-15](AI_Reports/zheng-ce-yu-fa-gui/zhu-fang-zu-ren-xin-gui-lai-liao-ru-he-ying-xiang-ni-wo-2025-09-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E7%A7%9F%E8%B5%81%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86+%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)
 - [9月新规来了 - 2025-08-30](AI_Reports/zheng-ce-yu-fa-gui/9yue-xin-gui-lai-liao-2025-08-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=9%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -198,6 +199,7 @@
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
+- [00后对出莫言上联获10万奖金 - 2025-10-21](AI_Reports/wen-hua-yu-mei-ti/00hou-dui-chu-mo-yan-shang-lian-huo-10mo-jiang-jin-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%90%8D%E5%87%BA%E8%8E%AB%E8%A8%80%E4%B8%8A%E8%81%94%E8%8E%B710%E4%B8%87%E5%A5%96%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)
 - [巾帼华章 - 2025-10-16](AI_Reports/wen-hua-yu-mei-ti/jin-guo-hua-zhang-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%BE%E5%B8%BC%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [蜜雪冰城小票藏连载小说 - 2025-10-09](AI_Reports/wen-hua-yu-mei-ti/mi-xue-bing-cheng-xiao-piao-cang-lian-zai-xiao-shuo-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%8F%E7%A5%A8%E8%97%8F%E8%BF%9E%E8%BD%BD%E5%B0%8F%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [中华文化跃动传承之力 - 2025-10-08](AI_Reports/wen-hua-yu-mei-ti/zhong-hua-wen-hua-yue-dong-chuan-cheng-zhi-li-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E8%B7%83%E5%8A%A8%E4%BC%A0%E6%89%BF%E4%B9%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
