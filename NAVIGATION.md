@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [奋斗 为了人民的向往 - 2025-10-22](AI_Reports/shi-zheng-yu-guo-ji/fen-dou-wei-liao-ren-min-de-xiang-wang-2025-10-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97+%E4%B8%BA%E4%BA%BA%E6%B0%91%E7%9A%84%E5%90%91%E5%BE%80&sa=fyb_news&rsv_dl=fyb_news)
+- [海景房把清晰看军港当卖点泄密 - 2025-10-22](AI_Reports/shi-zheng-yu-guo-ji/hai-jing-fang-ba-qing-xi-kan-jun-gang-dang-mai-dian-xie-mi-2025-10-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%B7%E6%99%AF%E6%88%BF%E6%8A%8A%E6%B8%85%E6%99%B0%E7%9C%8B%E5%86%9B%E6%B8%AF%E5%BD%93%E5%8D%96%E7%82%B9%E6%B3%84%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 - [党的二十届四中全会在北京举行 - 2025-10-21](AI_Reports/shi-zheng-yu-guo-ji/dang-de-er-shi-jie-si-zhong-quan-hui-zai-bei-jing-ju-xing-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [解放军正告澳方立即停止侵权挑衅 - 2025-10-21](AI_Reports/shi-zheng-yu-guo-ji/jie-fang-jun-zheng-gao-ao-fang-li-ji-ting-zhi-qin-quan-tiao-xin-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%AD%A3%E5%91%8A%E6%BE%B3%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85&sa=fyb_news&rsv_dl=fyb_news)
 - [临聘人员偷拍军事装备发家庭群泄密 - 2025-10-21](AI_Reports/shi-zheng-yu-guo-ji/lin-pin-ren-yuan-tou-pai-jun-shi-zhuang-bei-fa-jia-ting-qun-xie-mi-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%81%B7%E6%8B%8D%E5%86%9B%E4%BA%8B%E8%A3%85%E5%A4%87%E5%8F%91%E5%AE%B6%E5%BA%AD%E7%BE%A4%E6%B3%84%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,8 +23,6 @@
 - [商务部：中美昨天进行了工作层会谈 - 2025-10-14](AI_Reports/shi-zheng-yu-guo-ji/shang-wu-bu-zhong-mei-zuo-tian-jin-xing-liao-gong-zuo-ceng-hui-tan-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E4%B8%AD%E7%BE%8E%E6%98%A8%E5%A4%A9%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%B7%A5%E4%BD%9C%E5%B1%82%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平在全球妇女峰会提出四点建议 - 2025-10-14](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zai-quan-qiu-fu-nu-feng-hui-ti-chu-si-dian-jian-yi-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E6%8F%90%E5%87%BA%E5%9B%9B%E7%82%B9%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平总书记为“她”点赞 - 2025-10-13](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zong-shu-ji-wei-ta-dian-zan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E2%80%9C%E5%A5%B9%E2%80%9D%E7%82%B9%E8%B5%9E&sa=fyb_news&rsv_dl=fyb_news)
-- [日本在野党协商联手让高市早苗落选 - 2025-10-12](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-zai-ye-dang-xie-shang-lian-shou-rang-gao-shi-zao-miao-luo-xuan-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%87%8E%E5%85%9A%E5%8D%8F%E5%95%86%E8%81%94%E6%89%8B%E8%AE%A9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%90%BD%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)
-- [树立全球妇女事业发展新的里程碑 - 2025-10-12](AI_Reports/shi-zheng-yu-guo-ji/shu-li-quan-qiu-fu-nu-shi-ye-fa-zhan-xin-de-li-cheng-bei-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%91%E7%AB%8B%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -109,6 +109,7 @@
 ## 医疗保健与生物技术
 [点击查看医疗保健与生物技术完整报告索引 →](AI_Reports/yi-liao-bao-jian-yu-sheng-wu-ji-zhu/Reports.md)
 
+- [国产医疗装备“利器”层出 - 2025-10-22](AI_Reports/yi-liao-bao-jian-yu-sheng-wu-ji-zhu/guo-chan-yi-liao-zhuang-bei-li-qi-ceng-chu-2025-10-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E5%8C%BB%E7%96%97%E8%A3%85%E5%A4%87%E2%80%9C%E5%88%A9%E5%99%A8%E2%80%9D%E5%B1%82%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [男孩自查文献确诊罕见卟啉病 - 2025-10-18](AI_Reports/yi-liao-bao-jian-yu-sheng-wu-ji-zhu/nan-hai-zi-cha-wen-xian-que-zhen-han-jian-bu-lan-bing-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%87%AA%E6%9F%A5%E6%96%87%E7%8C%AE%E7%A1%AE%E8%AF%8A%E7%BD%95%E8%A7%81%E5%8D%9C%E5%95%89%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 能源与气候
@@ -188,6 +189,8 @@
 ## 财经与商业
 [点击查看财经与商业完整报告索引 →](AI_Reports/cai-jing-yu-shang-ye/Reports.md)
 
+- [教授每年强制自己定投100克黄金 - 2025-10-22](AI_Reports/cai-jing-yu-shang-ye/jiao-shou-mei-nian-qiang-zhi-zi-ji-ding-tou-100ke-huang-jin-2025-10-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E6%AF%8F%E5%B9%B4%E5%BC%BA%E5%88%B6%E8%87%AA%E5%B7%B1%E5%AE%9A%E6%8A%95100%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)
+- [胖东来高端研学每人收费100万 - 2025-10-22](AI_Reports/cai-jing-yu-shang-ye/pang-dong-lai-gao-duan-yan-xue-mei-ren-shou-fei-100mo-2025-10-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%AB%98%E7%AB%AF%E7%A0%94%E5%AD%A6%E6%AF%8F%E4%BA%BA%E6%94%B6%E8%B4%B9100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
 - [“竹裤架”突然翻红 - 2025-10-17](AI_Reports/cai-jing-yu-shang-ye/zhu-ku-jia-tu-ran-fan-hong-2025-10-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AB%B9%E8%A3%A4%E6%9E%B6%E2%80%9D%E7%AA%81%E7%84%B6%E7%BF%BB%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [数览大国金融“十四五”答卷 - 2025-10-16](AI_Reports/cai-jing-yu-shang-ye/shu-lan-da-guo-jin-rong-shi-si-wu-da-juan-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%95%B0%E8%A7%88%E5%A4%A7%E5%9B%BD%E9%87%91%E8%9E%8D%E2%80%9C%E5%8D%81%E5%9B%9B%E4%BA%94%E2%80%9D%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [“毛孩子”或成商场新流量密码 - 2025-10-04](AI_Reports/cai-jing-yu-shang-ye/mao-hai-zi-huo-cheng-shang-chang-xin-liu-liang-mi-ma-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%9B%E5%AD%A9%E5%AD%90%E2%80%9D%E6%88%96%E6%88%90%E5%95%86%E5%9C%BA%E6%96%B0%E6%B5%81%E9%87%8F%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)
