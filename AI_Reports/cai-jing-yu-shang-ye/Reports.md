@@ -1,13 +1,21 @@
 # 财经与商业 报告索引
 
 本页包含 **财经与商业** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：7
+报告总数：9
 
 ---
 
 ## D
 
 - [多家银行准备就绪 贴息“红包”来了](duo-jia-yin-xing-zhun-bei-jiu-xu-tie-xi-hong-bao-lai-liao-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA+%E8%B4%B4%E6%81%AF%E2%80%9C%E7%BA%A2%E5%8C%85%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+
+## J
+
+- [教授每年强制自己定投100克黄金](jiao-shou-mei-nian-qiang-zhi-zi-ji-ding-tou-100ke-huang-jin-2025-10-22--v1.md) - 2025-10-22 (v1) [来源](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E6%AF%8F%E5%B9%B4%E5%BC%BA%E5%88%B6%E8%87%AA%E5%B7%B1%E5%AE%9A%E6%8A%95100%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)
+
+## P
+
+- [胖东来高端研学每人收费100万](pang-dong-lai-gao-duan-yan-xue-mei-ren-shou-fei-100mo-2025-10-22--v1.md) - 2025-10-22 (v1) [来源](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%AB%98%E7%AB%AF%E7%A0%94%E5%AD%A6%E6%AF%8F%E4%BA%BA%E6%94%B6%E8%B4%B9100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## S
 
