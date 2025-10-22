@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：142
+报告总数：144
 
 ---
 
@@ -45,6 +45,7 @@
 ## F
 
 - [菲将举行大规模游行 中使馆发提醒](fei-jiang-ju-xing-da-gui-mo-you-xing-zhong-shi-guan-fa-ti-xing-2025-09-21--v1.md) - 2025-09-21 (v1)
+- [奋斗 为了人民的向往](fen-dou-wei-liao-ren-min-de-xiang-wang-2025-10-22--v1.md) - 2025-10-22 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97+%E4%B8%BA%E4%BA%BA%E6%B0%91%E7%9A%84%E5%90%91%E5%BE%80&sa=fyb_news&rsv_dl=fyb_news)
 - [福建舰通过台湾海峡](fu-jian-jian-tong-guo-tai-wan-hai-xia-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [赋能“她力量” 中国在行动](fu-neng-ta-li-liang-zhong-guo-zai-xing-dong-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E8%B5%8B%E8%83%BD%E2%80%9C%E5%A5%B9%E5%8A%9B%E9%87%8F%E2%80%9D+%E4%B8%AD%E5%9B%BD%E5%9C%A8%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -57,6 +58,7 @@
 
 ## H
 
+- [海景房把清晰看军港当卖点泄密](hai-jing-fang-ba-qing-xi-kan-jun-gang-dang-mai-dian-xie-mi-2025-10-22--v1.md) - 2025-10-22 (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%B7%E6%99%AF%E6%88%BF%E6%8A%8A%E6%B8%85%E6%99%B0%E7%9C%8B%E5%86%9B%E6%B8%AF%E5%BD%93%E5%8D%96%E7%82%B9%E6%B3%84%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 - [红旗-22导弹现身塞尔维亚阅兵彩排](hong-qi-22dao-dan-xian-shen-sai-er-wei-ya-yue-bing-cai-pai-2025-09-16--v1.md) - 2025-09-16 (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%A2%E6%97%97-22%E5%AF%BC%E5%BC%B9%E7%8E%B0%E8%BA%AB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E9%98%85%E5%85%B5%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)
 - [红色预警！强台风麦德姆最新路径公布](hong-se-yu-jing-qiang-tai-feng-mai-de-mu-zui-xin-lu-jing-gong-bu-2025-10-05--v1.md) - 2025-10-05 (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%A2%E8%B0%83%E9%A2%84%E8%AD%A6%EF%BC%81%E5%BC%BA%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 
