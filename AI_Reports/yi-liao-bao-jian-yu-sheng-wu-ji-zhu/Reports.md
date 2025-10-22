@@ -1,9 +1,13 @@
 # 医疗保健与生物技术 报告索引
 
 本页包含 **医疗保健与生物技术** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：1
+报告总数：2
 
 ---
+
+## G
+
+- [国产医疗装备“利器”层出](guo-chan-yi-liao-zhuang-bei-li-qi-ceng-chu-2025-10-22--v1.md) - 2025-10-22 (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E5%8C%BB%E7%96%97%E8%A3%85%E5%A4%87%E2%80%9C%E5%88%A9%E5%99%A8%E2%80%9D%E5%B1%82%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)
 
 ## N
 
