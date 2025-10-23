@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：144
+报告总数：147
 
 ---
 
@@ -145,6 +145,7 @@
 - [泰国女总理佩通坦遭解职](tai-guo-nu-zong-li-pei-tong-tan-zao-jie-zhi-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%80%BB%E7%90%86%E4%BD%A9%E9%80%9A%E5%9D%A6%E9%81%AD%E8%A7%A3%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普回应以军空袭卡塔尔：深感遗憾](te-lang-pu-hui-ying-yi-jun-kong-xi-qia-ta-er-shen-gan-yi-han-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%8D%A1%E5%A1%94%E5%B0%94%EF%BC%9A%E6%B7%B1%E6%84%9F%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普上诉失败 需赔女方8330万美元](te-lang-pu-shang-su-shi-bai-xu-pei-nu-fang-8330mo-mei-yuan-2025-09-09--v1.md) - 2025-09-09 (v1) [来源]([百度搜索](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E8%AF%89%E5%A4%B1%E8%B4%A5+%E9%9C%80%E8%B5%94%E5%A5%B3%E6%96%B98330%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news))
+- [特朗普：取消与普京的会面](te-lang-pu-qu-xiao-yu-pu-jing-de-hui-mian-2025-10-23--v1.md) - 2025-10-23 (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [天安门广场国庆升旗仪式完整视频](tian-an-men-yan-chang-guo-qing-sheng-qi-yi-shi-wan-zheng-shi-pin-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 
 ## W
@@ -152,6 +153,7 @@
 - [完整准确全面贯彻新时代党的治疆方略](wan-zheng-zhun-que-quan-mian-guan-che-xin-shi-dai-dang-de-zhi-jiang-fang-lue-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%8C%E6%95%B4%E5%87%86%E7%A1%AE%E5%85%A8%E9%9D%A2%E8%B4%AF%E5%BD%BB%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%9A%E7%9A%84%E6%B2%BB%E7%96%86%E6%96%B9%E7%95%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [旺旺集团总经理：去看祖国的阅兵仪式](wang-wang-ji-tuan-zong-jing-li-qu-kan-zu-guo-de-yue-bing-yi-shi-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E9%9B%86%E5%9B%A2%E6%80%BB%E7%BB%8F%E7%90%86%EF%BC%9A%E5%8E%BB%E7%9C%8B%E7%A5%96%E5%9B%BD%E7%9A%84%E9%98%85%E5%85%B5%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [为新疆更美好的明天共同奋斗](wei-xin-jiang-geng-mei-hao-de-ming-tian-gong-tong-fen-dou-2025-09-27--v1.md) - 2025-09-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E6%96%B0%E7%96%86%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%98%8E%E5%A4%A9%E5%85%B1%E5%90%8C%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
+- [五年规划为何是中国发展秘诀](wu-nian-gui-hua-wei-he-shi-zhong-guo-fa-zhan-mi-jue-2025-10-23--v1.md) - 2025-10-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E4%B8%BA%E4%BD%95%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E7%A7%98%E8%AF%80&sa=fyb_news&rsv_dl=fyb_news)
 - [武契奇暗示可能爆发新的战争](wu-qi-qi-an-shi-ke-neng-bao-fa-xin-de-zhan-zheng-2025-10-06--v1.md) - 2025-10-06 (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E7%9A%84%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)
 
 ## X
@@ -180,6 +182,7 @@
 ## Y
 
 - [一镜到底航拍阅兵方队](yi-jing-dao-di-hang-pai-yue-bing-fang-dui-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E8%88%AA%E6%8B%8D%E9%98%85%E5%85%B5%E6%96%B9%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
+- [一个“实”字解码新时代发展之道](yi-ge-shi-zi-jie-ma-xin-shi-dai-fa-zhan-zhi-dao-2025-10-23--v1.md) - 2025-10-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E2%80%9C%E5%AE%9E%E2%80%9D%E5%AD%97%E8%A7%A3%E7%A0%81%E6%96%B0%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B1%95%E4%B9%8B%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)
 - [以色列与西班牙爆发激烈外交冲突](yi-se-lie-yu-xi-ban-ya-bao-fa-ji-lie-wai-jiao-chong-tu-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%8F%91%E6%BF%80%E7%83%88%E5%A4%96%E4%BA%A4%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)
 - [以史为鉴 面向未来](yi-shi-wei-jian-mian-xiang-wei-lai-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4+%E9%9D%A2%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [以总理：绝不会有巴勒斯坦国 等着瞧](yi-zong-li-jue-bu-hui-you-ba-le-si-tan-guo-deng-zhao-qiao-2025-09-22--v1.md) - 2025-09-22 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E6%80%BB%E7%90%86%EF%BC%9A%E7%BB%9D%E4%B8%8D%E4%BC%9A%E6%9C%89%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD+%E7%AD%89%E7%9D%80%E7%9E%A7&sa=fyb_news&rsv_dl=fyb_news)
