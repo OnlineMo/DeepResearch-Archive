@@ -1,7 +1,7 @@
 # 旅游与出行 报告索引
 
 本页包含 **旅游与出行** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：10
+报告总数：11
 
 ---
 
@@ -38,3 +38,4 @@
 ## “
 
 - [“第一天出去旅游的人已老实”](di-yi-tian-chu-qu-lu-you-de-ren-yi-lao-shi-2025-10-02--v1.md) - 2025-10-02 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%B7%B2%E8%80%81%E5%AE%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [“鸟巢”有多忙？档期已排到2027年](niao-chao-you-duo-mang-dang-qi-yi-pai-dao-2027nian-2025-10-23--v1.md) - 2025-10-23 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E9%B8%9F%E5%B7%A2%E2%80%9D%E6%9C%89%E5%A4%9A%E5%BF%99%EF%BC%9F%E6%A1%A3%E6%9C%9F%E5%B7%B2%E6%8E%92%E5%88%B02027%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
