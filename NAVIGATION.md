@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [特朗普：取消与普京的会面 - 2025-10-23](AI_Reports/shi-zheng-yu-guo-ji/te-lang-pu-qu-xiao-yu-pu-jing-de-hui-mian-2025-10-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
+- [五年规划为何是中国发展秘诀 - 2025-10-23](AI_Reports/shi-zheng-yu-guo-ji/wu-nian-gui-hua-wei-he-shi-zhong-guo-fa-zhan-mi-jue-2025-10-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E4%B8%BA%E4%BD%95%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E7%A7%98%E8%AF%80&sa=fyb_news&rsv_dl=fyb_news)
+- [一个“实”字解码新时代发展之道 - 2025-10-23](AI_Reports/shi-zheng-yu-guo-ji/yi-ge-shi-zi-jie-ma-xin-shi-dai-fa-zhan-zhi-dao-2025-10-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E2%80%9C%E5%AE%9E%E2%80%9D%E5%AD%97%E8%A7%A3%E7%A0%81%E6%96%B0%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B1%95%E4%B9%8B%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)
 - [奋斗 为了人民的向往 - 2025-10-22](AI_Reports/shi-zheng-yu-guo-ji/fen-dou-wei-liao-ren-min-de-xiang-wang-2025-10-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97+%E4%B8%BA%E4%BA%BA%E6%B0%91%E7%9A%84%E5%90%91%E5%BE%80&sa=fyb_news&rsv_dl=fyb_news)
 - [海景房把清晰看军港当卖点泄密 - 2025-10-22](AI_Reports/shi-zheng-yu-guo-ji/hai-jing-fang-ba-qing-xi-kan-jun-gang-dang-mai-dian-xie-mi-2025-10-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%B7%E6%99%AF%E6%88%BF%E6%8A%8A%E6%B8%85%E6%99%B0%E7%9C%8B%E5%86%9B%E6%B8%AF%E5%BD%93%E5%8D%96%E7%82%B9%E6%B3%84%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 - [党的二十届四中全会在北京举行 - 2025-10-21](AI_Reports/shi-zheng-yu-guo-ji/dang-de-er-shi-jie-si-zhong-quan-hui-zai-bei-jing-ju-xing-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [中方回应特朗普让中国停买俄石油 - 2025-10-17](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-hui-ying-te-lang-pu-rang-zhong-guo-ting-mai-e-shi-you-2025-10-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%81%9C%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [马斯克星链成缅甸电诈帮凶？美方调查 - 2025-10-16](AI_Reports/shi-zheng-yu-guo-ji/ma-si-ke-xing-lian-cheng-mian-dian-dian-zha-bang-xiong-mei-fang-diao-cha-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%98%9F%E9%93%BE%E6%88%90%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%B8%AE%E5%87%B6%EF%BC%9F%E7%BE%8E%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [“中国和冰岛都积极倡导性别平等” - 2025-10-15](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-he-bing-dao-du-ji-ji-chang-dao-xing-bie-ping-deng-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%86%B0%E5%B2%9B%E9%83%BD%E7%A7%AF%E6%9E%81%E5%80%A1%E5%AF%BC%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [商务部：中美昨天进行了工作层会谈 - 2025-10-14](AI_Reports/shi-zheng-yu-guo-ji/shang-wu-bu-zhong-mei-zuo-tian-jin-xing-liao-gong-zuo-ceng-hui-tan-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E4%B8%AD%E7%BE%8E%E6%98%A8%E5%A4%A9%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%B7%A5%E4%BD%9C%E5%B1%82%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平在全球妇女峰会提出四点建议 - 2025-10-14](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zai-quan-qiu-fu-nu-feng-hui-ti-chu-si-dian-jian-yi-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E6%8F%90%E5%87%BA%E5%9B%9B%E7%82%B9%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平总书记为“她”点赞 - 2025-10-13](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zong-shu-ji-wei-ta-dian-zan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E2%80%9C%E5%A5%B9%E2%80%9D%E7%82%B9%E8%B5%9E&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -97,6 +97,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [今冬是否为超级冷冬？气象局释疑 - 2025-10-23](AI_Reports/ke-xue-yu-tai-kong/jin-dong-shi-fou-wei-chao-ji-leng-dong-qi-xiang-ju-shi-yi-2025-10-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%86%AC%E6%98%AF%E5%90%A6%E4%B8%BA%E8%B6%85%E7%BA%A7%E5%86%B7%E5%86%AC%EF%BC%9F%E6%B0%B4%E8%B1%A1%E5%B1%80%E9%87%8A%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)
 - [我们离“人造太阳”有多远 - 2025-10-13](AI_Reports/ke-xue-yu-tai-kong/wo-men-chi-ren-zao-tai-yang-you-duo-yuan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E7%A6%BB%E2%80%9C%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E2%80%9D%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [60秒延时摄影赏中秋月 - 2025-10-07](AI_Reports/ke-xue-yu-tai-kong/60miao-yan-shi-she-ying-shang-zhong-qiu-yue-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=60%E7%A7%92%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E8%B5%8F%E4%B8%AD%E7%A7%8B%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)
 - [超大满月中秋登场 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/chao-da-man-yue-zhong-qiu-deng-chang-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E6%BB%A1%E6%9C%88%E4%B8%AD%E7%A7%8B%E7%99%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
@@ -167,6 +168,7 @@
 ## 旅游与出行
 [点击查看旅游与出行完整报告索引 →](AI_Reports/lu-you-yu-chu-xing/Reports.md)
 
+- [“鸟巢”有多忙？档期已排到2027年 - 2025-10-23](AI_Reports/lu-you-yu-chu-xing/niao-chao-you-duo-mang-dang-qi-yi-pai-dao-2027nian-2025-10-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E9%B8%9F%E5%B7%A2%E2%80%9D%E6%9C%89%E5%A4%9A%E5%BF%99%EF%BC%9F%E6%A1%A3%E6%9C%9F%E5%B7%B2%E6%8E%92%E5%88%B02027%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [火车免费坐？12306今起又上新功能 - 2025-10-20](AI_Reports/lu-you-yu-chu-xing/huo-che-mian-fei-zuo-12306jin-qi-you-shang-xin-gong-neng-2025-10-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E5%85%8D%E8%B4%B9%E5%9D%90%EF%BC%9F12306%E4%BB%8A%E8%B5%B7%E5%8F%88%E4%B8%8A%E6%96%B0%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [老外成青甘大环线“显眼包” - 2025-10-09](AI_Reports/lu-you-yu-chu-xing/lao-wai-cheng-qing-gan-da-huan-xian-xian-yan-bao-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E6%88%90%E9%9D%92%E7%94%98%E5%A4%A7%E7%8E%AF%E7%BA%BF%E2%80%9C%E6%98%BE%E7%9C%BC%E5%8C%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [亲历珠峰暴雪游客：全身结冰 很恐怖 - 2025-10-07](AI_Reports/lu-you-yu-chu-xing/qin-li-zhu-feng-bao-xue-you-ke-quan-shen-jie-bing-hen-kong-bu-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%B2%E5%8E%86%E7%8F%A0%E5%B3%B0%E6%9A%B4%E9%9B%AA%E6%B8%B8%E5%AE%A2%EF%BC%9A%E5%85%A8%E8%BA%AB%E7%BB%93%E5%86%B0+%E5%BE%88%E6%81%90%E6%80%96&sa=fyb_news&rsv_dl=fyb_news)
