@@ -1,7 +1,7 @@
 # 科学与太空 报告索引
 
 本页包含 **科学与太空** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：8
+报告总数：9
 
 ---
 
@@ -16,6 +16,10 @@
 ## H
 
 - [核电站竟然还有产珍珠的副业](he-dian-zhan-jing-ran-huan-you-chan-zhen-zhu-de-fu-ye-2025-10-06--v1.md) - 2025-10-06 (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%B8%E7%94%B5%E7%AB%99%E7%AB%9F%E7%84%B6%E8%BF%98%E6%9C%89%E4%BA%A7%E7%8F%A0%E7%8F%A0%E7%9A%84%E5%89%AF%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
+
+## J
+
+- [今冬是否为超级冷冬？气象局释疑](jin-dong-shi-fou-wei-chao-ji-leng-dong-qi-xiang-ju-shi-yi-2025-10-23--v1.md) - 2025-10-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%86%AC%E6%98%AF%E5%90%A6%E4%B8%BA%E8%B6%85%E7%BA%A7%E5%86%B7%E5%86%AC%EF%BC%9F%E6%B0%B4%E8%B1%A1%E5%B1%80%E9%87%8A%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)
 
 ## N
 
