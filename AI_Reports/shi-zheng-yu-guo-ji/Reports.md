@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：147
+报告总数：150
 
 ---
 
@@ -41,6 +41,7 @@
 
 - [俄方：普京在华停留如此久实属罕见](e-fang-pu-jing-zai-hua-ting-liu-ru-ci-jiu-shi-shu-han-jian-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%9C%A8%E5%8D%8E%E5%81%9C%E7%95%99%E5%A6%82%E6%AD%A4%E4%B9%85%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)
 - [二十届四中全会10月20日至23日召开](er-shi-jie-si-zhong-quan-hui-10yue-20ri-zhi-23ri-zhao-kai-2025-09-30--v1.md) - 2025-09-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A10%E6%9C%8820%E6%97%A5%E8%87%B323%E6%97%A5%E5%8F%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
+- [二十届四中全会公报发布](er-shi-jie-si-zhong-quan-hui-gong-bao-fa-bu-2025-10-24--v1.md) - 2025-10-24 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## F
 
@@ -87,6 +88,7 @@
 ## L
 
 - [李强会见金正恩](li-qiang-hui-jian-jin-zheng-en-2025-10-10--v1.md) - 2025-10-10 (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%E4%BC%9A%E8%A7%81%E9%87%91%E6%AD%A3%E6%81%A9&sa=fyb_news&rsv_dl=fyb_news)
+- [力挺两岸统一的台退役中将遭重判](li-ting-liang-an-tong-yi-de-tai-tui-yi-zhong-jiang-zao-zhong-pan-2025-10-24--v1.md) - 2025-10-24 (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%9B%E6%8C%BA%E4%B8%A4%E5%B2%B8%E7%BB%9F%E4%B8%80%E7%9A%84%E5%8F%B0%E9%80%80%E5%BD%B9%E4%B8%AD%E5%B0%86%E9%81%AD%E9%87%8D%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)
 - [烈士纪念日 向人民英雄敬献花篮](lie-shi-ji-nian-ri-xiang-ren-min-ying-xiong-jing-xian-hua-lan-2025-09-30--v1.md) - 2025-09-30 (v1) [来源](https://www.baidu.com/s?wd=%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5+%E5%90%91%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%95%AC%E7%8C%AE%E8%8A%B1%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [临聘人员偷拍军事装备发家庭群泄密](lin-pin-ren-yuan-tou-pai-jun-shi-zhuang-bei-fa-jia-ting-qun-xie-mi-2025-10-21--v1.md) - 2025-10-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%81%B7%E6%8B%8D%E5%86%9B%E4%BA%8B%E8%A3%85%E5%A4%87%E5%8F%91%E5%AE%B6%E5%BA%AD%E7%BE%A4%E6%B3%84%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 - [六个“新”字看成绩](liu-ge-xin-zi-kan-cheng-ji-2025-10-20--v1.md) - 2025-10-20 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%AD%E4%B8%AA%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E7%9C%8B%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)
@@ -97,6 +99,7 @@
 - [美国白宫正式宣布政府即将“关门”](mei-guo-bai-gong-zheng-shi-xuan-bu-zheng-fu-ji-jiang-guan-men-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E6%94%BF%E5%BA%9C%E5%8D%B3%E5%B0%86%E2%80%9C%E5%85%B3%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [美国拘捕约300名韩国人](mei-guo-ju-bu-yue-300ming-han-guo-ren-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95%E7%BA%A6300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [美用42款特种武器网攻“北京时间”](mei-yong-42kuan-te-chong-wu-qi-wang-gong-bei-jing-shi-jian-2025-10-19--v1.md) - 2025-10-19 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%A842%E6%AC%BE%E7%89%B9%E7%A7%8D%E6%AD%A6%E5%99%A8%E7%BD%91%E6%94%BB%E2%80%9C%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [缅甸军方突袭KK园区](mian-dian-jun-fang-tu-xi-kkyuan-qu-2025-10-24--v1.md) - 2025-10-24 (v1) [来源](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%86%9B%E6%96%B9%E7%AA%81%E8%A2%ADKK%E5%9B%AD%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)
 
 ## N
 
