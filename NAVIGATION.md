@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [二十届四中全会公报发布 - 2025-10-24](AI_Reports/shi-zheng-yu-guo-ji/er-shi-jie-si-zhong-quan-hui-gong-bao-fa-bu-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
+- [力挺两岸统一的台退役中将遭重判 - 2025-10-24](AI_Reports/shi-zheng-yu-guo-ji/li-ting-liang-an-tong-yi-de-tai-tui-yi-zhong-jiang-zao-zhong-pan-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%9B%E6%8C%BA%E4%B8%A4%E5%B2%B8%E7%BB%9F%E4%B8%80%E7%9A%84%E5%8F%B0%E9%80%80%E5%BD%B9%E4%B8%AD%E5%B0%86%E9%81%AD%E9%87%8D%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)
+- [缅甸军方突袭KK园区 - 2025-10-24](AI_Reports/shi-zheng-yu-guo-ji/mian-dian-jun-fang-tu-xi-kkyuan-qu-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%86%9B%E6%96%B9%E7%AA%81%E8%A2%ADKK%E5%9B%AD%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普：取消与普京的会面 - 2025-10-23](AI_Reports/shi-zheng-yu-guo-ji/te-lang-pu-qu-xiao-yu-pu-jing-de-hui-mian-2025-10-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [五年规划为何是中国发展秘诀 - 2025-10-23](AI_Reports/shi-zheng-yu-guo-ji/wu-nian-gui-hua-wei-he-shi-zhong-guo-fa-zhan-mi-jue-2025-10-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E4%B8%BA%E4%BD%95%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E7%A7%98%E8%AF%80&sa=fyb_news&rsv_dl=fyb_news)
 - [一个“实”字解码新时代发展之道 - 2025-10-23](AI_Reports/shi-zheng-yu-guo-ji/yi-ge-shi-zi-jie-ma-xin-shi-dai-fa-zhan-zhi-dao-2025-10-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E2%80%9C%E5%AE%9E%E2%80%9D%E5%AD%97%E8%A7%A3%E7%A0%81%E6%96%B0%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B1%95%E4%B9%8B%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [泽连斯基穿上正装 特朗普：我很喜欢 - 2025-10-18](AI_Reports/shi-zheng-yu-guo-ji/ze-lian-si-ji-chuan-shang-zheng-zhuang-te-lang-pu-wo-hen-xi-huan-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [看中国如何守住每一粒米 - 2025-10-17](AI_Reports/shi-zheng-yu-guo-ji/kan-zhong-guo-ru-he-shou-zhu-mei-yi-li-mi-2025-10-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E5%AE%88%E4%BD%8F%E6%AF%8F%E4%B8%80%E7%B2%92%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [“始终绷紧粮食安全这根弦” - 2025-10-17](AI_Reports/shi-zheng-yu-guo-ji/shi-zhong-beng-jin-liang-shi-an-quan-zhe-gen-xian-2025-10-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%A7%8B%E7%BB%88%E7%BB%B7%E7%B4%A7%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E8%BF%99%E6%A0%B9%E5%BC%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [中方回应特朗普让中国停买俄石油 - 2025-10-17](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-hui-ying-te-lang-pu-rang-zhong-guo-ting-mai-e-shi-you-2025-10-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%81%9C%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)
-- [马斯克星链成缅甸电诈帮凶？美方调查 - 2025-10-16](AI_Reports/shi-zheng-yu-guo-ji/ma-si-ke-xing-lian-cheng-mian-dian-dian-zha-bang-xiong-mei-fang-diao-cha-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%98%9F%E9%93%BE%E6%88%90%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%B8%AE%E5%87%B6%EF%BC%9F%E7%BE%8E%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
-- [“中国和冰岛都积极倡导性别平等” - 2025-10-15](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-he-bing-dao-du-ji-ji-chang-dao-xing-bie-ping-deng-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%86%B0%E5%B2%9B%E9%83%BD%E7%A7%AF%E6%9E%81%E5%80%A1%E5%AF%BC%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -121,6 +121,7 @@
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
 
+- [十五五时期经济社会发展主要目标 - 2025-10-24](AI_Reports/jing-ji-yu-shi-chang/shi-wu-wu-shi-qi-jing-ji-she-hui-fa-zhan-zhu-yao-mu-biao-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E4%BA%B5%E6%97%B6%E6%9C%9F%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)
 - [逆势向上！中国外贸增速逐季加快 - 2025-10-14](AI_Reports/jing-ji-yu-shi-chang/ni-shi-xiang-shang-zhong-guo-wai-mao-zeng-su-zhu-ji-jia-kuai-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%80%86%E5%8A%BF%E5%90%91%E4%B8%8A%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%80%9F%E9%80%90%E5%AD%A3%E5%B0%8F%E5%BF%AB&sa=fyb_news&rsv_dl=fyb_news)
 - [美股期指集体反弹 - 2025-10-13](AI_Reports/jing-ji-yu-shi-chang/mei-gu-qi-zhi-ji-ti-fan-dan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [纵深推进全国统一大市场建设 - 2025-09-16](AI_Reports/jing-ji-yu-shi-chang/zong-shen-tui-jin-quan-guo-tong-yi-da-shi-chang-jian-she-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%B5%E6%B7%B1%E6%8E%A8%E8%BF%9B%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
@@ -153,6 +154,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [中小学春秋假来了 各地怎么放 - 2025-10-24](AI_Reports/jiao-yu-yu-kao-shi/zhong-xiao-xue-chun-qiu-jia-lai-liao-ge-di-zen-yao-fang-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87%E6%9D%A5%E4%BA%86+%E5%90%84%E5%9C%B0%E6%80%8E%E4%B9%88%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [大一新生家长提前“空巢”了 - 2025-10-19](AI_Reports/jiao-yu-yu-kao-shi/da-yi-xin-sheng-jia-chang-ti-qian-kong-chao-liao-2025-10-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E6%8F%90%E5%89%8D%E2%80%9C%E7%A9%BA%E5%B7%A2%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [考公年龄放宽至38岁 考生发声 - 2025-10-15](AI_Reports/jiao-yu-yu-kao-shi/kao-gong-nian-ling-fang-kuan-zhi-38sui-kao-sheng-fa-sheng-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%80%83%E5%85%AC%E5%B9%B4%E9%BE%84%E6%94%BE%E5%AE%BD%E8%87%B338%E5%B2%81+%E8%80%83%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [事关1670多万学生 六部门重磅发文 - 2025-09-27](AI_Reports/jiao-yu-yu-kao-shi/shi-guan-1670duo-mo-xue-sheng-liu-bu-men-zhong-bang-fa-wen-2025-09-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B31670%E5%A4%9A%E4%B8%87%E5%AD%A6%E7%94%9F+%E5%85%AD%E9%83%A8%E9%97%A8%E9%87%8D%E7%A3%85%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
