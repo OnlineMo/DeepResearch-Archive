@@ -1,7 +1,7 @@
 # 教育与考试 报告索引
 
 本页包含 **教育与考试** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：11
+报告总数：12
 
 ---
 
@@ -38,4 +38,5 @@
 ## Z
 
 - [这些新大学分数赶超“985”](zhe-xie-xin-da-xue-fen-shu-gan-chao-985-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%96%B0%E5%A4%A7%E5%AD%A6%E5%88%86%E6%95%B0%E8%B5%B6%E8%B6%85%E2%80%9C985%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [中小学春秋假来了 各地怎么放](zhong-xiao-xue-chun-qiu-jia-lai-liao-ge-di-zen-yao-fang-2025-10-24--v1.md) - 2025-10-24 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87%E6%9D%A5%E4%BA%86+%E5%90%84%E5%9C%B0%E6%80%8E%E4%B9%88%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [作家马伯庸：儿子语文不好要上作文班](zuo-jia-ma-bo-yong-er-zi-yu-wen-bu-hao-yao-shang-zuo-wen-ban-2025-08-30--v1.md) - 2025-08-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E9%A9%AC%E4%BC%AF%E5%BA%B8%EF%BC%9A%E5%84%BF%E5%AD%90%E8%AF%AD%E6%96%87%E4%B8%8D%E5%A5%BD%E8%A6%81%E4%B8%8A%E4%BD%9C%E6%96%87%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)
