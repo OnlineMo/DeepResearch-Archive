@@ -1,7 +1,7 @@
 # 经济与市场 报告索引
 
 本页包含 **经济与市场** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：5
+报告总数：6
 
 ---
 
@@ -16,6 +16,10 @@
 ## N
 
 - [逆势向上！中国外贸增速逐季加快](ni-shi-xiang-shang-zhong-guo-wai-mao-zeng-su-zhu-ji-jia-kuai-2025-10-14--v1.md) - 2025-10-14 (v1) [来源](https://www.baidu.com/s?wd=%E9%80%86%E5%8A%BF%E5%90%91%E4%B8%8A%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%80%9F%E9%80%90%E5%AD%A3%E5%B0%8F%E5%BF%AB&sa=fyb_news&rsv_dl=fyb_news)
+
+## S
+
+- [十五五时期经济社会发展主要目标](shi-wu-wu-shi-qi-jing-ji-she-hui-fa-zhan-zhu-yao-mu-biao-2025-10-24--v1.md) - 2025-10-24 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E4%BA%B5%E6%97%B6%E6%9C%9F%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
