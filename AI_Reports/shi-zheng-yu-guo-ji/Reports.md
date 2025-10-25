@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：150
+报告总数：153
 
 ---
 
@@ -35,6 +35,7 @@
 ## D
 
 - [当年汶川男孩如今受阅军官](dang-nian-wen-chuan-nan-hai-ru-jin-shou-yue-jun-guan-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%BD%93%E5%B9%B3%E6%B1%B6%E5%B7%9D%E7%94%B7%E5%AD%A9%E5%A6%82%E4%BB%8A%E5%8F%97%E9%98%85%E5%86%9B%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)
+- [党的二十届四中全会擘画发展蓝图](dang-de-er-shi-jie-si-zhong-quan-hui-bo-hua-fa-zhan-lan-tu-2025-10-25--v1.md) - 2025-10-25 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E6%93%98%E7%94%BB%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [党的二十届四中全会在北京举行](dang-de-er-shi-jie-si-zhong-quan-hui-zai-bei-jing-ju-xing-2025-10-21--v1.md) - 2025-10-21 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## E
@@ -71,6 +72,8 @@
 - [坚守党校初心 服务工作大局](jian-shou-dang-xiao-chu-xin-fu-wu-gong-zuo-da-ju-2025-09-29--v1.md) - 2025-09-29 (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%85%9A%E6%A0%A1%E5%88%9D%E5%BF%83+%E6%9C%8D%E5%8A%A1%E5%B7%A5%E4%BD%9C%E5%A4%A7%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [江苏、江西省委书记等带头捐款](jiang-su-jiang-xi-sheng-wei-shu-ji-deng-dai-tou-juan-kuan-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E3%80%81%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%AD%89%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [解放军正告澳方立即停止侵权挑衅](jie-fang-jun-zheng-gao-ao-fang-li-ji-ting-zhi-qin-quan-tiao-xin-2025-10-21--v1.md) - 2025-10-21 (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%AD%A3%E5%91%8A%E6%BE%B3%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85&sa=fyb_news&rsv_dl=fyb_news)
+- [今天是第一个台湾光复纪念日](jin-tian-shi-di-yi-ge-tai-wan-guang-fu-ji-nian-ri-2025-10-25--v1.md) - 2025-10-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%B0%E6%B9%BE%E5%85%82%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)
+- [金正恩参谒中国人民志愿军烈士陵园](jin-zheng-en-can-ye-zhong-guo-ren-min-zhi-yuan-jun-lie-shi-ling-yuan-2025-10-25--v1.md) - 2025-10-25 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E5%8F%82%E8%B0%92%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E9%99%B5%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [金正恩乘专列来华 现场画面公布](jin-zheng-en-cheng-zhuan-lie-lai-hua-xian-chang-hua-mian-gong-bu-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%98%E4%B8%93%E5%88%97%E6%9D%A5%E5%8D%8E+%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)
 - [近距离感受“大国重器”](jin-ju-chi-gan-shou-da-guo-zhong-qi-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%91%E8%B7%9D%E7%A6%BB%E6%84%9F%E5%8F%97%E2%80%9C%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [九三阅兵不仅回望历史 更面向未来](jiu-san-yue-bing-bu-jin-hui-wang-li-shi-geng-mian-xiang-wei-lai-2025-09-07--v1.md) - 2025-09-07 (v1)
