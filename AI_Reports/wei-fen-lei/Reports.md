@@ -1,9 +1,13 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：12
+报告总数：13
 
 ---
+
+## 0-9
+
+- [2000多年前的人脸认证](2000duo-nian-qian-de-ren-lian-ren-zheng-2025-10-26--v1.md) - 2025-10-26 (v1) [来源](https://www.baidu.com/s?wd=2000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AE%A4%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)
 
 ## B
 
