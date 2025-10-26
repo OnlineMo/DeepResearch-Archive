@@ -1,13 +1,14 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：153
+报告总数：155
 
 ---
 
 ## 0-9
 
 - [80秒带你回顾三次综合演练画面](80miao-dai-ni-hui-gu-san-ci-zong-he-yan-lian-hua-mian-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=80%E7%A7%92%E5%B8%A6%E4%BD%A0%E5%9B%9E%E9%A1%A顾%E4%B8%89%E6%AC%A1%E7%BB%BC%E5%90%88%E6%BC%94%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
+- [8个高频词一起学习四中全会公报](8ge-gao-pin-ci-yi-qi-xue-xi-si-zhong-quan-hui-gong-bao-2025-10-26--v1.md) - 2025-10-26 (v1) [来源](https://www.baidu.com/s?wd=8%E4%B8%AA%E9%AB%98%E9%A2%91%E8%AF%8D%E4%B8%80%E8%B5%B7%E5%AD%A6%E4%B9%A0%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [94年前的今天 我们永远不能忘记](94nian-qian-de-jin-tian-wo-men-yong-yuan-bu-neng-wang-ji-2025-09-18--v1.md) - 2025-09-18 (v1) [来源](https://www.baidu.com/s?wd=94%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9+%E6%88%91%E4%BB%AC%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%83%BD%E5%BF%98%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)
 
 ## A
@@ -30,6 +31,7 @@
 - [朝鲜举行盛大阅兵式](zhao-xian-ju-xing-sheng-da-yue-bing-shi-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%B8%BE%E8%A1%8C%E7%9B%9B%E5%A4%A7%E9%98%85%E5%85%B5%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [朝鲜宣布将对被判有罪人员实施大赦](zhao-xian-xuan-bu-jiang-dui-bei-pan-you-zui-ren-yuan-shi-shi-da-she-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AF%B9%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BA%BA%E5%91%98%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%B5%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [从两种精神看新疆70年巨变](cong-liang-chong-jing-shen-kan-xin-jiang-70nian-ju-bian-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%A4%E7%A7%8D%E7%B2%BE%E7%A5%9E%E7%9C%8B%E6%96%B0%E7%96%8670%E5%B9%B4%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)
+- [从一份蓝图 看见中国的明天](cong-yi-fen-lan-tu-kan-jian-zhong-guo-de-ming-tian-2025-10-26--v1.md) - 2025-10-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%80%E4%BB%BD%E8%93%9D%E5%9B%BE+%E7%9C%8B%E8%A7%81%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [从“中国规划”看“中国之治”](cong-zhong-guo-gui-hua-kan-zhong-guo-zhi-zhi-2025-10-19--v1.md) - 2025-10-19 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%A7%84%E5%88%92%E2%80%9D%E7%9C%8B%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%B9%8B%E6%B2%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
