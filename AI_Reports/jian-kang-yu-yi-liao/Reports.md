@@ -1,7 +1,7 @@
 # 健康与医疗 报告索引
 
 本页包含 **健康与医疗** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：4
+报告总数：5
 
 ---
 
@@ -12,6 +12,10 @@
 ## L
 
 - [李连杰公布病情：生日时发现颈部肿块](li-lian-jie-gong-bu-bing-qing-sheng-ri-shi-fa-xian-jing-bu-zhong-kuai-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%85%AC%E5%B8%83%E7%97%85%E6%83%85%EF%BC%9A%E7%94%9F%E6%97%A5%E6%97%B6%E5%8F%91%E7%8E%B0%E9%A2%88%E9%83%A8%E8%82%BF%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)
+
+## N
+
+- [女子参加荒野求生14天后瘦成闪电](nu-zi-can-jia-huang-ye-qiu-sheng-14tian-hou-shou-cheng-shan-dian-2025-10-26--v1.md) - 2025-10-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%97%E5%8F%82%E5%8A%A0%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F14%E5%A4%A9%E5%90%8E%E7%98%A6%E6%88%90%E9%97%AA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
