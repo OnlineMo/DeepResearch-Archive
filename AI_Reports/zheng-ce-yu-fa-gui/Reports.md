@@ -1,7 +1,7 @@
 # 政策与法规 报告索引
 
 本页包含 **政策与法规** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：5
+报告总数：6
 
 ---
 
@@ -17,6 +17,10 @@
 
 - [十四五规划这个字的重要性前所未有](shi-si-wu-gui-hua-zhe-ge-zi-de-zhong-yao-xing-qian-suo-wei-you-2025-10-21--v1.md) - 2025-10-21 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E4%BA%94%E8%A7%84%E5%88%92%E8%BF%99%E4%B8%AA%E5%AD%97%E7%9A%93%E9%87%8D%E8%A6%81%E6%80%A7%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89&sa=fyb_news&rsv_dl=fyb_news)
 - [事关你我 10月起一批新规即将施行](shi-guan-ni-wo-10yue-qi-yi-pi-xin-gui-ji-jiang-shi-xing-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E4%BD%A0%E6%88%91+10%E6%9C%88%E8%B5%B7%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%8D%B3%E5%B0%86%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
+
+## Y
+
+- [一揽子增量政策实施效果如何](yi-lan-zi-zeng-liang-zheng-ce-shi-shi-xiao-guo-ru-he-2025-10-28--v1.md) - 2025-10-28 (v1)
 
 ## Z
 
