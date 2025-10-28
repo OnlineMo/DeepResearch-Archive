@@ -1,13 +1,14 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：50
+报告总数：52
 
 ---
 
 ## 0-9
 
 - [00后女钢筋工每天工地干10小时赚320](00hou-nu-gang-jin-gong-mei-tian-gong-di-gan-10xiao-shi-zhuan-320-2025-09-09--v1.md) - 2025-09-09 (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E9%92%A2%E7%AD%8B%E5%B7%A5%E6%AF%8F%E5%A4%A9%E5%B7%A5%E5%9C%B0%E5%B9%B210%E5%B0%8F%E6%97%B6%E8%B5%9A320&sa=fyb_news&rsv_dl=fyb_news)
+- [00后用家用打印机造250多万假币](00hou-yong-jia-yong-da-yin-ji-zao-250duo-mo-jia-bi-2025-10-28--v1.md) - 2025-10-28 (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E7%94%A8%E5%AE%B6%E7%94%A8%E6%89%93%E5%8D%B0%E6%9C%BA%E9%80%A0250%E5%A4%9A%E4%B8%87%E5%81%87%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)
 - [12306回应国庆开票即候补](12306hui-ying-guo-qing-kai-piao-ji-hou-bu-2025-09-17--v1.md) - 2025-09-17 (v1) [来源](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%9B%BD%E5%BA%86%E5%BC%80%E7%A5%A8%E5%8D%B3%E5%80%99%E8%A1%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [5万余人观礼离场后干干净净](5mo-yu-ren-guan-li-chi-chang-hou-gan-gan-jing-jing-2025-09-04--v1.md) - 2025-09-04 (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%A4%BC%E7%A6%BB%E5%9C%BA%E5%90%8E%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -60,6 +61,7 @@
 ## R
 
 - [人民网评“鸡排哥”爆火](ren-min-wang-ping-ji-pai-ge-bao-huo-2025-09-30--v1.md) - 2025-09-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E9%B8%A1%E6%8E%92%E5%93%A5%E2%80%9D%E7%88%86%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)
+- [肉联公司门口堆满死猪 7人被控制](rou-lian-gong-si-men-kou-dui-man-si-zhu-7ren-bei-kong-zhi-2025-10-28--v1.md) - 2025-10-28 (v1) [来源](https://www.baidu.com/s?wd=%E8%82%89%E8%81%94%E5%85%AC%E5%8F%B8%E9%97%A8%E5%8F%A3%E5%A0%86%E6%BB%A1%E6%AD%BB%E7%8C%AA+7%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)
 
 ## S
 
