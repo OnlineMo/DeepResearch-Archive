@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：159
+报告总数：161
 
 ---
 
@@ -169,6 +169,7 @@
 
 ## X
 
+- [习近平参观故宫博物院展览](xi-jin-ping-can-guan-gu-gong-bo-wu-yuan-zhan-lan-2025-10-28--v1.md) - 2025-10-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E8%A7%82%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E5%B1%95%E8%A7%88&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平回信勉励全国特岗教师代表](xi-jin-ping-hui-xin-mian-li-quan-guo-te-gang-jiao-shi-dai-biao-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E4%BF%A1%E5%8B%89%E5%8A%B1%E5%85%A8%E5%9B%BD%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%88%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见俄罗斯国家杜马主席](xi-jin-ping-hui-jian-e-luo-si-guo-jia-du-ma-zhu-xi-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见联合国秘书长古特雷斯](xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
@@ -188,6 +189,7 @@
 - [详讯：习近平同特朗普通电话](xiang-xun-xi-jin-ping-tong-te-lang-pu-tong-dian-hua-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E8%AF%A6%E8%AE%AF%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [像石榴籽一样紧紧抱在一起](xiang-shi-liu-zi-yi-yang-jin-jin-bao-zai-yi-qi-2025-09-23--v1.md) - 2025-09-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%83%8F%E7%9F%B3%E6%A6%B4%E7%B1%BD%E4%B8%80%E6%A0%B7%E7%B4%A7%E7%B4%A7%E6%8A%B1%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [新华社直播九三阅兵](xin-hua-she-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
+- [新华社重磅发文！两岸统一有这些利好](xin-hua-she-zhong-bang-fa-wen-liang-an-tong-yi-you-zhe-xie-li-hao-2025-10-28--v1.md) - 2025-10-28 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%87%8D%E7%B6%85%E7%99%BC%E6%96%87%EF%BC%81%E5%85%A9%E5%B2%B8%E7%B6%B1%E4%B8%80%E6%9C%89%E9%80%99%E4%BA%9B%E5%88%A9%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [悬赏！18名台湾军方违法核心骨干曝光](xuan-shang-18ming-tai-wan-jun-fang-wei-fa-he-xin-gu-gan-pu-guang-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E6%82%AC%E8%B5%8F%EF%BC%8118%E5%90%8D%E5%8F%B0%E6%B9%BE%E5%86%9B%E6%96%B9%E8%BF%9D%E6%B3%95%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
