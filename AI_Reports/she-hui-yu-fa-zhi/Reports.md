@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：52
+报告总数：53
 
 ---
 
@@ -98,6 +98,7 @@
 
 ## Z
 
+- [这个培训班一半以上的警官不能露面](zhe-ge-pei-xun-ban-yi-ban-yi-shang-de-jing-guan-bu-neng-lu-mian-2025-10-29--v1.md) - 2025-10-29 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%9F%B9%E8%AE%AD%E7%8F%AD%E4%B8%80%E5%8D%8A%E4%BB%A5%E4%B8%8A%E7%9A%84%E8%AD%A6%E5%AE%98%E4%B8%8D%E8%83%BD%E9%9C%B2%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [中国人口预期寿命不断提高](zhong-guo-ren-kou-yu-qi-shou-ming-bu-duan-ti-gao-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E9%A2%84%E6%9C%9F%E5%AF%BF%E5%91%BD%E4%B8%8D%E6%96%AD%E6%8F%90%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)
 - [中国游客马来西亚失联 定位在海里](zhong-guo-you-ke-ma-lai-xi-ya-shi-lian-ding-wei-zai-hai-li-2025-10-08--v1.md) - 2025-10-08 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A4%B1%E8%81%94+%E5%AE%9A%E4%BD%8D%E5%9C%A8%E6%B5%B7%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [中国最大收费站挤满返程大军](zhong-guo-zui-da-shou-fei-zhan-ji-man-fan-cheng-da-jun-2025-10-08--v1.md) - 2025-10-08 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8C%A4%E6%BB%A1%E8%BF%94%E7%A8%8B%E5%A4%A7%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
