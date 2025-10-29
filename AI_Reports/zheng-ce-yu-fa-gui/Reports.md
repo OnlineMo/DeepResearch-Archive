@@ -1,7 +1,7 @@
 # 政策与法规 报告索引
 
 本页包含 **政策与法规** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：6
+报告总数：8
 
 ---
 
@@ -25,3 +25,8 @@
 ## Z
 
 - [住房租赁新规来了 如何影响你我](zhu-fang-zu-ren-xin-gui-lai-liao-ru-he-ying-xiang-ni-wo-2025-09-15--v1.md) - 2025-09-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E7%A7%9F%E8%B5%81%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86+%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)
+
+## “
+
+- [“十五五”规划建议发布](shi-wu-wu-gui-hua-jian-yi-fa-bu-2025-10-29--v1.md) - 2025-10-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
+- [“十五五”这项任务排首位](shi-wu-wu-zhe-xiang-ren-wu-pai-shou-wei-2025-10-29--v1.md) - 2025-10-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%B5%E2%80%9D%E8%BF%99%E9%A1%B9%E4%BB%BB%E5%8A%A1%E6%8E%92%E9%A6%96%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)
