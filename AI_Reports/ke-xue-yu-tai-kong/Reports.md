@@ -1,7 +1,7 @@
 # 科学与太空 报告索引
 
 本页包含 **科学与太空** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：9
+报告总数：10
 
 ---
 
@@ -24,6 +24,10 @@
 ## N
 
 - [男子种猴面包树18年 2棵达结果要求](nan-zi-chong-hou-mian-bao-shu-18nian-2ke-da-jie-guo-yao-qiu-2025-09-15--v1.md) - 2025-09-15 (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%8D%E7%8C%B4%E9%9D%A2%E5%8C%85%E6%A0%9118%E5%B9%B4+2%E6%A3%B5%E8%BE%BE%E7%BB%93%E6%9E%9C%E8%A6%81%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news)
+
+## S
+
+- [神二十一乘组确定：张陆 武飞 张洪章](shen-er-shi-yi-cheng-zu-que-ding-zhang-lu-wu-fei-zhang-hong-zhang-2025-10-30--v1.md) - 2025-10-30 (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B9%98%E7%BB%84%E7%A1%AE%E5%AE%9A%EF%BC%9A%E5%BC%A0%E9%99%86+%E6%AD%A6%E9%A3%9E+%E5%BC%A0%E6%B4%AA%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 
 ## W
 
