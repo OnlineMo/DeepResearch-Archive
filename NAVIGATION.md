@@ -97,6 +97,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [神二十一乘组确定：张陆 武飞 张洪章 - 2025-10-30](AI_Reports/ke-xue-yu-tai-kong/shen-er-shi-yi-cheng-zu-que-ding-zhang-lu-wu-fei-zhang-hong-zhang-2025-10-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B9%98%E7%BB%84%E7%A1%AE%E5%AE%9A%EF%BC%9A%E5%BC%A0%E9%99%86+%E6%AD%A6%E9%A3%9E+%E5%BC%A0%E6%B4%AA%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [今冬是否为超级冷冬？气象局释疑 - 2025-10-23](AI_Reports/ke-xue-yu-tai-kong/jin-dong-shi-fou-wei-chao-ji-leng-dong-qi-xiang-ju-shi-yi-2025-10-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%86%AC%E6%98%AF%E5%90%A6%E4%B8%BA%E8%B6%85%E7%BA%A7%E5%86%B7%E5%86%AC%EF%BC%9F%E6%B0%B4%E8%B1%A1%E5%B1%80%E9%87%8A%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)
 - [我们离“人造太阳”有多远 - 2025-10-13](AI_Reports/ke-xue-yu-tai-kong/wo-men-chi-ren-zao-tai-yang-you-duo-yuan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E7%A6%BB%E2%80%9C%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E2%80%9D%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [60秒延时摄影赏中秋月 - 2025-10-07](AI_Reports/ke-xue-yu-tai-kong/60miao-yan-shi-she-ying-shang-zhong-qiu-yue-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=60%E7%A7%92%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E8%B5%8F%E4%B8%AD%E7%A7%8B%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)
@@ -121,6 +122,7 @@
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
 
+- [中央定调 未来五年房地产方向明确 - 2025-10-30](AI_Reports/jing-ji-yu-shi-chang/zhong-yang-ding-diao-wei-lai-wu-nian-fang-di-chan-fang-xiang-ming-que-2025-10-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%AE%9A%E8%B0%83+%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B9%E5%90%91%E6%98%8E%E7%A1%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [十五五时期经济社会发展主要目标 - 2025-10-24](AI_Reports/jing-ji-yu-shi-chang/shi-wu-wu-shi-qi-jing-ji-she-hui-fa-zhan-zhu-yao-mu-biao-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E4%BA%B5%E6%97%B6%E6%9C%9F%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)
 - [逆势向上！中国外贸增速逐季加快 - 2025-10-14](AI_Reports/jing-ji-yu-shi-chang/ni-shi-xiang-shang-zhong-guo-wai-mao-zeng-su-zhu-ji-jia-kuai-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%80%86%E5%8A%BF%E5%90%91%E4%B8%8A%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%80%9F%E9%80%90%E5%AD%A3%E5%B0%8F%E5%BF%AB&sa=fyb_news&rsv_dl=fyb_news)
 - [美股期指集体反弹 - 2025-10-13](AI_Reports/jing-ji-yu-shi-chang/mei-gu-qi-zhi-ji-ti-fan-dan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)
@@ -131,6 +133,8 @@
 ## 政策与法规
 [点击查看政策与法规完整报告索引 →](AI_Reports/zheng-ce-yu-fa-gui/Reports.md)
 
+- [“十五五”笃行启新程 - 2025-10-30](AI_Reports/zheng-ce-yu-fa-gui/shi-wu-wu-du-xing-qi-xin-cheng-2025-10-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E7%AC%83%E8%A1%8C%E5%90%AF%E6%96%B0%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)
+- [“十五五”要实施这些“大工程” - 2025-10-30](AI_Reports/zheng-ce-yu-fa-gui/shi-wu-wu-yao-shi-shi-zhe-xie-da-gong-cheng-2025-10-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A6%81%E5%AE%9E%E6%96%BD%E8%BF%99%E4%BA%9B%E2%80%9C%E5%A4%A7%E5%B7%A5%E7%A8%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“十五五”规划建议发布 - 2025-10-29](AI_Reports/zheng-ce-yu-fa-gui/shi-wu-wu-gui-hua-jian-yi-fa-bu-2025-10-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 - [“十五五”这项任务排首位 - 2025-10-29](AI_Reports/zheng-ce-yu-fa-gui/shi-wu-wu-zhe-xiang-ren-wu-pai-shou-wei-2025-10-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%B5%E2%80%9D%E8%BF%99%E9%A1%B9%E4%BB%BB%E5%8A%A1%E6%8E%92%E9%A6%96%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [一揽子增量政策实施效果如何 - 2025-10-28](AI_Reports/zheng-ce-yu-fa-gui/yi-lan-zi-zeng-liang-zheng-ce-shi-shi-xiao-guo-ru-he-2025-10-28--v1.md) (v1)
@@ -211,6 +215,7 @@
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
+- [餐馆走红成“全球第五大摄影巨头” - 2025-10-30](AI_Reports/wen-hua-yu-mei-ti/can-guan-zou-hong-cheng-quan-qiu-di-wu-da-she-ying-ju-tou-2025-10-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A4%90%E9%A6%86%E8%B5%B0%E7%BA%A2%E6%88%90%E2%80%9C%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%E5%A4%A7%E6%91%84%E5%BD%B1%E5%B7%A8%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [00后对出莫言上联获10万奖金 - 2025-10-21](AI_Reports/wen-hua-yu-mei-ti/00hou-dui-chu-mo-yan-shang-lian-huo-10mo-jiang-jin-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%90%8D%E5%87%BA%E8%8E%AB%E8%A8%80%E4%B8%8A%E8%81%94%E8%8E%B710%E4%B8%87%E5%A5%96%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)
 - [巾帼华章 - 2025-10-16](AI_Reports/wen-hua-yu-mei-ti/jin-guo-hua-zhang-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%BE%E5%B8%BC%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [蜜雪冰城小票藏连载小说 - 2025-10-09](AI_Reports/wen-hua-yu-mei-ti/mi-xue-bing-cheng-xiao-piao-cang-lian-zai-xiao-shuo-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%8F%E7%A5%A8%E8%97%8F%E8%BF%9E%E8%BD%BD%E5%B0%8F%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)
