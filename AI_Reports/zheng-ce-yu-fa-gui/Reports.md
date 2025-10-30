@@ -1,7 +1,7 @@
 # 政策与法规 报告索引
 
 本页包含 **政策与法规** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：8
+报告总数：10
 
 ---
 
@@ -28,5 +28,7 @@
 
 ## “
 
+- [“十五五”笃行启新程](shi-wu-wu-du-xing-qi-xin-cheng-2025-10-30--v1.md) - 2025-10-30 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E7%AC%83%E8%A1%8C%E5%90%AF%E6%96%B0%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [“十五五”规划建议发布](shi-wu-wu-gui-hua-jian-yi-fa-bu-2025-10-29--v1.md) - 2025-10-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
+- [“十五五”要实施这些“大工程”](shi-wu-wu-yao-shi-shi-zhe-xie-da-gong-cheng-2025-10-30--v1.md) - 2025-10-30 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A6%81%E5%AE%9E%E6%96%BD%E8%BF%99%E4%BA%9B%E2%80%9C%E5%A4%A7%E5%B7%A5%E7%A8%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“十五五”这项任务排首位](shi-wu-wu-zhe-xiang-ren-wu-pai-shou-wei-2025-10-29--v1.md) - 2025-10-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%B5%E2%80%9D%E8%BF%99%E9%A1%B9%E4%BB%BB%E5%8A%A1%E6%8E%92%E9%A6%96%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)
