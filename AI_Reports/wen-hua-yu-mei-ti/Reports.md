@@ -1,7 +1,7 @@
 # 文化与媒体 报告索引
 
 本页包含 **文化与媒体** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：13
+报告总数：14
 
 ---
 
@@ -12,6 +12,10 @@
 ## B
 
 - [本世纪最晚中秋来了](ben-shi-ji-zui-wan-zhong-qiu-lai-liao-2025-10-05--v1.md) - 2025-10-05 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%AC%E4%B8%96%E7%BA%AA%E6%9C%80%E6%99%9A%E4%B8%AD%E7%A7%8B%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+
+## C
+
+- [餐馆走红成“全球第五大摄影巨头”](can-guan-zou-hong-cheng-quan-qiu-di-wu-da-she-ying-ju-tou-2025-10-30--v1.md) - 2025-10-30 (v1) [来源](https://www.baidu.com/s?wd=%E9%A4%90%E9%A6%86%E8%B5%B0%E7%BA%A2%E6%88%90%E2%80%9C%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%E5%A4%A7%E6%91%84%E5%BD%B1%E5%B7%A8%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
 
