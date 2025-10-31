@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：13
+报告总数：14
 
 ---
 
@@ -49,6 +49,7 @@
 ## Z
 
 - [这一握 情深意重](zhe-yi-wo-qing-shen-yi-zhong-2025-09-07--v1.md) - 2025-09-07 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%8F%A1+%E6%83%85%E6%B7%B1%E6%84%8F%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)
+- [注意！是“10086”不是“l0086”](zhu-yi-shi-10086-bu-shi-l0086-2025-10-31--v1.md) - 2025-10-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%98%AF%E2%80%9C10086%E2%80%9D%E4%B8%8D%E6%98%AF%E2%80%9Cl0086%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## “
 
