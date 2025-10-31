@@ -1,0 +1,114 @@
+版次: 头版（v1）
+日期: 2025-10-31
+主题: 习主席的这些话亮明中国态度
+
+来源: https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E8%BF%99%E4%BA%9B%E8%AF%9D%E4%BA%AE%E6%98%8E%E4%B8%AD%E5%9B%BD%E6%80%81%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news
+
+# 习主席的这些话亮明中国态度
+
+## 摘要
+- 2025年，中国国家主席习近平通过一系列重要讲话和外交行动，清晰阐明了中国在维护多边主义、推动全球治理体系改革方面的坚定立场，并倡导构建人类命运共同体。
+- 在复杂的大国关系中，中国寻求稳定与合作，尤其是在中美关系中通过高层对话管控分歧，但同时也划清了核心利益的红线，并强调对话优于对抗。
+- 中国致力于深化与“全球南方”国家的团结合作，将周边外交置于优先位置，并积极推动区域命运共同体建设。
+- 国内政策聚焦高质量发展和科技自立自强，中共二十届四中全会审议通过了“十五五”规划建议，为未来五年发展擘画蓝图，强调中国式现代化是民族复兴的唯一正确道路。
+- 在港澳台问题上，中国重申“一国两制”方针，坚决反对“台独”分裂行径和外部势力干涉，坚决捍卫国家主权和领土完整。
+
+## 背景
+2025年，全球政治经济格局持续演变，国际关系复杂多变。在此背景下，中国国家主席习近平发表了一系列重要讲话，并参与了多场重要的国内外活动，全面阐述了中国在多边主义、全球治理、经济发展、国家统一以及大国关系等核心议题上的立场和愿景。这些言论和行动不仅为中国自身的未来发展指明了方向，也向国际社会亮明了中国在全球舞台上的态度和角色定位。本报告将围绕习近平主席在2025年的关键表态，深入分析其所传递的中国态度，并结合国际社会的解读进行交叉验证。
+
+## 深度分析
+
+### 1. 国际秩序与全球治理：多边主义的坚定倡导者
+2025年，中国坚定不移地维护多边主义和国际公平正义，积极推动全球治理体系的改革与完善。习近平主席在多个国际场合强调了这一立场。
+*   **倡导多边主义与人类命运共同体：** 9月8日，习近平主席在金砖国家领导人线上峰会上强调，金砖国家应弘扬开放包容、合作共赢的金砖精神，共同捍卫多边主义，维护多边贸易体制，并推进“大金砖合作”，携手构建人类命运共同体 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)。他提出了坚持多边主义、开放共赢、团结合作的三点建议 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)。
+*   **提出全球治理倡议：** 9月1日，在“上海合作组织+”会议上，习近平主席提出了全球治理倡议，旨在推动构建更加公正合理的全球治理体系，其核心理念包括奉行主权平等、遵守国际法治、践行多边主义、倡导以人为本和注重行动导向 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)。外交部长王毅进一步阐释，该倡议已得到140多个国家和国际组织的明确支持 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)。
+*   **国际社会解读：** 国际社会普遍认为，中国在全球舞台上的影响力日益增长，其所倡导的全球治理理念受到广泛关注 [aljazeera](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8qeaqk-gMnqi82D1NcRT7XJ8zdM8RkbbV_lXz0TXQmPer3tCnKZiaD4WZ5qIyThJJIuQK9Aa7IViYrcmiRGjglQON8f83cneaSMWwmLR7dqURj8LWSkl0ueomy7i5BqjYkC7GjGk8RU_yh0dqq2rF1VjNPCNMPa8RoPNBVuAey36ofCHPOG7p5YDaJM5eWvm2DHxkQtjO81mlg8skXjf9JdD1vEMioCv1z_HhL_2fcZSphNV5leloXxk7gcFxcFyP1MGgkEPQhf6z9aUr_snQF-7jjlxHAUh7oPVCmfuivUe4Su3wqzkFyDuWRNtv4BIY)。然而，七国集团（G7）等西方国家对中国在全球治理中的角色持谨慎态度，并在关键矿产等领域计划建立联盟，以应对中国的主导地位 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBOaJ4aS0yYTw0AqIniYFh_s7byFX6mcaoBuQ5jm52FAkBSrkroF6sWWGrVHAeW31sK__ophtxI94mXuMGkUHj6dsCkNJdPuttMRoexsECThzUnQJJPS3nfIi3Kl8KSSq6BFyl1hU6UscbxsPAl_7CkHq_AYOH)。
+
+### 2. 大国关系：在竞争中寻求稳定与合作
+中国在处理大国关系时，展现出寻求对话与合作的意愿，同时也划清了核心利益的红线。
+*   **中美关系：寻求稳定与管控分歧**
+    *   10月30日，习近平主席在韩国釜山同美国总统特朗普举行会晤，这是两国领导人自2019年以来的首次面对面会谈 [inewsweek](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmw5OtbuMFvTkMM8w_V3P59txtox3CEHMxS7XWbTLKkUp5Z3Jo7TORFHadCN91I-4HPNCgqvL_or05f93XlvnVLbHPOHZ4EErwyDRwZyhTbVW-vJuTufxb0wMueZUjBUmmSgz4X6dk_FgQLoAuLFwx)。习近平指出，中美关系总体保持稳定，强调对话优于对抗，两国应保持各渠道各层级沟通，增进了解 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)。双方达成了一项为期一年的“贸易休战协议”，包括美国降低关税、北京恢复进口美国大豆、推迟部分稀土金属出口限制以及加大打击芬太尼非法贩运的力度 [fmprc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKl2lYm5P29SoMsqJ0ttDkPOnleQ4dkWcVXrdl3CoeimRlT9VGr8_yJhaiJncZW94GR-uTvjivPH9vv_zYjxw_gfUwQ-vbTnWG5b_B0Bzpb6nGP-SvGVJWzm5s71Sw-gH6BAhbXmegwxtykppJFvGINJtK-enpyqWsna4=)。
+    *   中方对美关系划出了台湾问题、道路制度、民主人权、发展权利四条不容挑战的红线 [fmprc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKl2lYm5P29SoMsqJ0ttDkPOnleQ4dkWcVXrdl3CoeimRlT9VGr8_yJhaiJncZW94GR-uTvjivPH9vv_zYjxw_gfUwQ-vbTnWG5b_B0Bzpb6nGP-SvGVJWzm5s71Sw-gH6BAhbXmegwxtykppJFvGINJtK-enpyqWsna4=)。
+    *   **国际社会解读：** 此次会晤被视为具有里程碑意义，有助于稳定全球市场情绪和贸易预期 [aljazeera](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8qeaqk-gMnqi82D1NcRT7XJ8zdM8RkbbV_lXz0TXQmPer3tCnKZiaD4WZ5qIyThJJIuQK9Aa7IViYrcmiRGjglQON8f83cneaSMWwmLR7dqURj8LWSkl0ueomy7i5BqjYkC7GjGk8RU_yh0dqq2rF1VjNPCNMPa8RoPNBVuAey36ofCHPOG7p5YDaJM5eWvm2DHxkQtjO81mlg8skXjf9JdD1vEMioCv1z_HhL_2fcZSphNV5leloXxk7gcFxcFyP1MGgkEPQhf6z9aUr_snQF-7jjlxHAUh7oPVCmfuivUe4Su3wqzkFyDuWRNtv4BIY)。但专家分析指出，尽管两国在部分经贸议题上互相退让，中美之间更根本的结构性竞争格局并未改变，尤其在半导体和关键矿产等领域，分歧依然突出 [aljazeera](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8qeaqk-gMnqi82D1NcRT7XJ8zdM8RkbbV_lXz0TXQmPer3tCnKZiaD4WZ5qIyThJJIuQK9Aa7IViYrcmiRGjglQON8f83cneaSMWwmLR7dqURj8LWSkl0ueomy7i5BqjYkC7GjGk8RU_yh0dqq2rF1VjNPCNMPa8RoPNBVuAey36ofCHPOG7p5YDaJM5eWvm2DHxkQtjO81mlg8skXjf9JdD1vEMioCv1z_HhL_2fcZSphNV5leloXxk7gcFxcFyP1MGgkEPQhf6z9aUr_snQF-7jjlxHAUh7oPVCmfuivUe4Su3wqzkFyDuWRNtv4BIY)。
+*   **中欧关系：去风险而非脱钩**
+    *   2025年是中国与欧盟建交50周年。7月24日，习近平主席在北京会见欧洲理事会主席科斯塔和欧盟委员会主席冯德莱恩时指出，中欧是推动多极化的两大力量，合作大于竞争，共识多于分歧 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3mEXD71pMDUV1OboSZPw1L5O9m0h4K_IR3ZzsrJXq9dvJZuVW0g9CUjv-xgpmj0IefMoazEhFGRoDPN7UNTQbc6ugP9Xi_UseFiACD2jVJlgfMIy99fV3kiCp4bsehDGhnUBi8nZ33AnUtt-QhhqO9ZYJKK4=)。他提出了坚持相互尊重、开放合作、践行多边主义的三点主张 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3mEXD71pMDUV1OboSZPw1L5O9m0h4K_IR3ZzsrJXq9dvJZuVW0g9CUjv-xgpmj0IefMoazEhFGRoDPN7UNTQbc6ugP9Xi_UseFiACD2jVJlgfMIy99fV3kiCp4bsehDGhnUBi8nZ33AnUtt-QhhqO9ZYJKK4=)。
+    *   **国际社会解读：** 欧盟对华态度被概括为“去风险，而非脱钩”，但欧洲对华战略仍存在不连贯性，成员国之间存在相互冲突的议程，使得中国能够利用欧洲内部的分歧 [aljazeera](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8qeaqk-gMnqi82D1NcRT7XJ8zdM8RkbbV_lXz0TXQmPer3tCnKZiaD4WZ5qIyThJJIuQK9Aa7IViYrcmiRGjglQON8f83cneaSMWwmLR7dqURj8LWSkl0ueomy7i5BqjYkC7GjGk8RU_yh0dqq2rF1VjNPCNMPa8RoPNBVuAey36ofCHPOG7p5YDaJM5eWvm2DHxkQtjO81mlg8skXjf9JdD1vEMioCv1z_HhL_2fcZSphNV5leloXxk7gcFxcFyP1MGgkEPQhf6z9aUr_snQF-7jjlxHAUh7oPVCmfuivUe4Su3wqzkFyDuWRNtv4BIY)。
+*   **中俄关系：** 中俄关系持续展现新活力，在两国元首的战略引领下日益成熟稳定，并以不结盟、不对抗、不针对第三方的原则为基础 [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa67qSmvnhMxS_Aq82tHkQ1Z9tMesqf_9sSloVQAa14cdCJiOtkNMGekkjvuLlDJJHrmRkMAC7GZ0yonhfdRuqYNl8GR0W2ijhcPC5Tg6j0ciCh6BgLvq8YsoIbUXYecnX8fbVKUOB-gSHlesCSmdAZP3UHE32)。
+
+### 3. 周边外交与“全球南方”：构建命运共同体与共同发展
+中国将周边外交置于优先位置，并积极推动与“全球南方”国家的团结合作。
+*   **周边外交：** 4月8日至9日，中央周边工作会议在北京举行，习近平主席强调中国与周边国家关系处于近代以来最好的时期，坚持“亲诚惠容”的周边外交理念，倡导构建周边命运共同体 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsU7xnIof80FOT0M4gjW6grhgnMkpe_Q1XMe2Dq9SLaDzgHVHNyTBVZMmWfSPczoFxIeEf5g6S-XNzKaMz2B571u9g6phJFh2QufvcGdVePM1u4ako3_bY56Aw3B-Wr95I-LatGFy0WzoeFwgxZQiUeN58nvo=)。4月14日至18日，习近平主席对越南、马来西亚、柬埔寨进行了国事访问，推动双边命运共同体建设迈上新台阶 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsU7xnIof80FOT0M4gjW6grhgnMkpe_Q1XMe2Dq9SLaDzgHVHNyTBVZMmWfSPczoFxIeEf5g6S-XNzKaMz2B571u9g6phJFh2QufvcGdVePM1u4ako3_bY56Aw3B-Wr95I-LatGFy0WzoeFwgxZQiUeN58nvo=)。
+*   **“全球南方”合作：** 习近平主席提出将金砖国家打造成促进“全球南方”团结合作的主要渠道和推动全球治理变革的先锋力量 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)。中国式现代化为“全球南方”的现代化提供了广阔机遇 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsU7xnIof80FOT0M4gjW6grhgnMkpe_Q1XMe2Dq9SLaDzgHVHNyTBVZMmWfSPczoFxIeEf5g6S-XNzKaMz2B571u9g6phJFh2QufvcGdVePM1u4ako3_bY56Aw3B-Wr95I-LatGFy0WzoeFwgxZQiUeN58nvo=)。
+
+### 4. 国内发展与国家统一：高质量发展与底线思维
+中国将国内发展作为实现民族复兴的基石，并对国家统一问题保持坚定立场。
+*   **经济发展与“十五五”规划：**
+    *   10月20日至23日，中共二十届四中全会在北京举行，审议通过了《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》 [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqMufnRYJGp-vZCeP9ReZU7pXgMKa4qLeplO6TXWIs-m2bZY9iDHqH60A1i4DFWx1M7V9Jbd1LNHLI_CJaLZ-qP89se97WDQKSyxHxcSclguUSSKsyJ1G3RplH0ExjLlmIfw5fo6yWh7PSoWpIpW23hVVh4GM=)。会议强调要实现全年经济社会发展目标，加强宏观政策，推动高质量发展，保障和改善民生，并加快经济社会发展全面绿色转型，建设美丽中国 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)。
+    *   习近平主席在1月10日强调，中国式现代化是党的二十大的一项重大理论创新，是实现强国建设和民族复兴的唯一正确道路 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)。
+    *   **国际社会解读：** 尽管中国经济在2025年前三季度实现了5.2%的增长，但有分析指出，中国经济面临高债务、消费通缩和房地产危机等内部挑战 [aljazeera](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8qeaqk-gMnqi82D1NcRT7XJ8zdM8RkbbV_lXz0TXQmPer3tCnKZiaD4WZ5qIyThJJIuQK9Aa7IViYrcmiRGjglQON8f83cneaSMWwmLR7dqURj8LWSkl0ueomy7i5BqjYkC7GjGk8RU_yh0dqq2rF1VjNPCNMPa8RoPNBVuAey36ofCHPOG7p5YDaJM5eWvm2DHxkQtjO81mlg8skXjf9JdD1vEMioCv1z_HhL_2fcZSphNV5leloXxk7gcFxcFyP1MGgkEPQhf6z9aUr_snQF-7jjlxHAUh7oPVCmfuivUe4Su3wqzkFyDuWRNtv4BIY)。一些专家认为，中国可能进入“反改革时代”，并预测中国增长可能失速 [aljazeera](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8qeaqk-gMnqi82D1NcRT7XJ8zdM8RkbbV_lXz0TXQmPer3tCnKZiaD4WZ5qIyThJJIuQK9Aa7IViYrcmiRGjglQON8f83cneaSMWwmLR7dqURj8LWSkl0ueomy7i5BqjYkC7GjGk8RU_yh0dqq2rF1VjNPCNMPa8RoPNBVuAey36ofCHPOG7p5YDaJM5eWvm2DHxkQtjO81mlg8skXjf9JdD1vEMioCv1z_HhL_2fcZSphNV5leloXxk7gcFxcFyP1MGgkEPQhf6z9aUr_snQF-7jjlxHAUh7oPVCmfuivUe4Su3wqzkFyDuWRNtv4BIY)。
+*   **港澳台政策：**
+    *   在庆祝中华人民共和国成立76周年招待会上，习近平主席重申了“一国两制”方针，支持港澳更好融入国家发展大局 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)。
+    *   他强调要深化两岸交流合作，坚决反对“台独”分裂行径和外部势力干涉，坚决捍卫国家主权和领土完整 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)。
+    *   **国际社会解读：** G7外长声明中删除了“一个中国”政策的表述，并支持台湾有意义参与国际组织，显示出西方国家在此问题上的立场变化 [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBOaJ4aS0yYTw0AqIniYFh_s7byFX6mcaoBuQ5jm52FAkBSrkroF6sWWGrVHAeW31sK__ophtxI94mXuMGkUHj6dsCkNJdPuttMRoexsECThzUnQJJPS3nfIi3Kl8KSSq6BFyl1hU6UscbxsPAl_7CkHq_AYOH)。
+
+## 结论与建议
+
+### 结论
+1.  **全球治理的积极参与者：** 中国在2025年通过习近平主席的系列讲话和政策行动，清晰地亮明了其在全球治理中倡导真正的多边主义、维护国际公平正义、构建人类命运共同体的坚定立场。
+2.  **大国关系的战略平衡：** 在复杂的大国关系中，中国寻求稳定与合作，尤其是在中美关系中通过高层对话管控分歧，但同时也划清了核心利益的红线，展现出战略定力。
+3.  **国内发展的核心驱动：** 中国将国内高质量发展和科技自立自强作为实现民族复兴的基石，并通过“十五五”规划明确了未来发展路径，强调中国式现代化是唯一正确道路。
+4.  **国家统一的坚定决心：** 在港澳台问题上，中国态度坚决，重申“一国两制”方针，坚决反对“台独”和外部干涉，维护国家主权和领土完整。
+
+### 建议
+1.  **深化全球治理合作：** 中国应持续推动“全球治理倡议”等，深化与“全球南方”国家的合作，提升中国在全球治理体系中的话语权和影响力，为解决全球性挑战贡献中国智慧和力量。
+2.  **优化大国关系策略：** 在维护核心利益的同时，继续寻求与主要大国的对话与合作，尤其是在气候变化、公共卫生、人工智能治理等全球性挑战上发挥建设性作用，避免结构性竞争演变为全面对抗。
+3.  **聚焦内部改革与发展：** 坚定不移地落实“十五五”规划，解决经济内部挑战（如债务、房地产风险），确保高质量发展和科技自立自强，为中国在全球舞台上的影响力提供坚实支撑。
+4.  **坚持国家统一立场：** 在港澳台问题上保持战略定力，同时加强两岸民间交流，争取国际社会对“一国两制”和国家统一立场的理解和支持，坚决遏制任何分裂行径。
+
+### 限制条件与待后续验证的问题
+*   中美贸易休战协议的长期效果以及两国在半导体、关键矿产等结构性竞争领域的演变趋势。
+*   欧盟“去风险”战略的具体实施及其对中欧经贸关系和政治互信的影响。
+*   中国经济内部挑战（如高债务、消费通缩、房地产危机）的解决进展及其对“十五五”规划目标实现的影响。
+*   国际社会对中国提出的各项全球倡议（如全球治理倡议）的接受程度和实际参与情况，以及这些倡议在全球治理实践中的具体成效。
+
+## 数据与引用
+*   [mfa](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGjmfMnM4n_xwjltxzEB7IWEDCiS0eQxSxXR4aKh490eEzOzBtRIU4Ct-UVg612_8QeFWFag3v2mPZguD-6iS1wvXeGjFMUt9E9O9DwAzPq-IsYLLfrNo_f3ywVqNRp7u7JGbv8KJUNSt_98H67wwLZfP_eH9)
+*   [mofcom](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENbe5uyXrhJsuj_WKPNBwy4QT_lSz5whYFk9Rs8hvcf1pt3fH4EH20FSg6egzkapbNHI7a6-LRuH9clKwR4Tp-G9NElPGi0ftDO_Sfb2_SiNiAVoSqDsXfc_X-Y6M4u8cPNHC2xIUmcsM0k5_Ro8fbCcM8KEDaTVl2QjqETPMchqN1pr6MNKftzlKWHa8S)
+*   [chinadiplomacy](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xK7nuCFZxV4zXMADqt26jgdiMETc8wLS49eYF2BeqSQoD03JyAMEGYO6xMV1ytk6uC9du10P5nOkPOC9WQYZ-bjWU4XUYBzesvO2KOc2Bb7Afg4dxcHjlCj_2INu34j0z3OxUbZ0U718_rWxiZY-Nn2TET77JcD8608MBz0=)
+*   [fmprc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6mMm8nFn6FwQ__QIMVWrUpeiW4YpeIPdDA1EqR4gFPw7A9xjwcDrGggWji4t7g4LvAEGq_JVSawzbMs7qU3X0IkaoaaxnURncEY5H6JEE_GF1zrcJX6NvufLScUUQC6gbVFzVgz1t_1G-HUcfWPD2ZnDhhn4_ZJXiP4uNHMk=)
+*   [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl0x6fPiRwgaNgSPLEG9VyFEqK1k7aR_vDRNwEw08j0dSbUsZBptp9S4yV4Dnrb9CDO08ZROWHN-_xwMnFRoBDvmWaeTuEZ9GN2K9M0d9tiwYpz1YyCqdORrSWjefpnqZv)
+*   [takungpao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhj1AOgUZBZxM4_LYqWe15NC0iD8-7btpBOEfBi_yVm3-bTNPCZi_KoQDklOe9W_Pa7jGGAzFLFQ3XNi36FSQBxfDsBHqaxPblkb1NRlQMgpank4TqSKhvr8GqvsRibZOomw21gyVowwMLAGGa1hlgLhbR97HGRw==)
+*   [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzCiWhLbiOEWwyzp91gdd89rR5XBNDCfR3f8zlVVAe2VYHfZtxqhLCQHUoVLuMaI07PGbg6zEel2-CjPj9uDWvAFBW3GRJnxyG-p2_JepB7XO7gpzeJFKVhRN8jK2z1ba8nVWG_UKwGuqUi0VHQc3AIauiw7kzYeTZpR2lYtg=)
+*   [ningbo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBLhezPneastUpHkX1wdgUQ3DaAL-vk6KrAicG-1wRvRsRo5BznNFlRtXdYhy0ZT6pdt5QtltSIcWm0NtDHbyOS4DkaMF7wqMmO0x6qu1rz8WJBHxIqm02lU5iF7XzBrfqQ5Bo2BNDkr9394n5V_7NeREAVtI35qMdhIWaQiz7)
+*   [dangjian](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF98pYEW41bxoz_-PWcPN7fZo0_YHh4zjEsarXvjP6TaHFiXNmDaoQGOrRmA_iqjTtO7mECzsE3QrQ4mqDTHrLkwkBIBfTtsXxW-sMFw4j_FJXOW4XM8P31oANB4iNVy5cEKDURAVHwz3M2g1voGiPxrCjeNWeGfE42HCMHtKeV)
+*   [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPwRdrYHxWWSjBRWt6_62Nz1g_O_gPClrwTZDU-kbeq4e5cZAG4hPVUzJcNBhrB9GI3exMcvMFvZE-FG8wFAiR5dvZpeZbOfLeSKny1SICNHyh5vd6BmkThw88bxZ-4rvuEYY21p8-V1BfP-_DgXDyRfX69FsnLw==)
+*   [yicai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvpnjaqDZXwGI7JB7nhvMRiiA6YSMZA-7WW9fcoy2kwbds_6bSGg8q-iB3kIrxvGY3q7-2PFj6WY4JTO4F0IRFh8s-xZUlGsMfXwccCGuaspqagzEFd57f7QrIOb2unpEb0Bkl)
+*   [inewsweek](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmw5OtbuMFvTkMM8w_V3P59txtox3CEHMxS7XWbTLKkUp5Z3Jo7TORFHadCN91I-4HPNCgqvL_or05f93XlvnVLbHPOHZ4EErwyDRwZyhTbVW-vJuTufxb0wMueZUjBUmmSgz4X6dk_FgQLoAuLFwx)
+*   [www](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp_fdGF33SZ-30FNkuJFMhbQJVyky4jeWjzTQr-E5ijOTZJElgrh93P9TmWYHPBd8AX-WIf-lyJNqYrkhNlJM9yO_dDdfsLglhpJckhdYssuX9c4SdRd7RB-0x5umnKDjC-FJc5_-fT4p7-ma92LYIyE14UTst)
+*   [beijing](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqJmpnw0Uv9KgKbzhUAoA6drMbYcfXcZzjI3PHacDHhqLb_lmI4dFOq7rpt8T2LTsPFBlk4HfWStiJHf68Bld36VKCUAcMQbqi9TbW3QjWQhgsqD0by0Rn5eJIa9h_UYMRAPGEnIoDEflIDlxwBR17hzpftrVnKQ3tbjspXhxlnrNqz6N8ZwgaUJ1LaeetGWhjVa5u6tLIK6ft)
+*   [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbT-rF_jOS3wyc-4npKsHI12BzgGVKS2qauz9BZithgHRH3_NBbOLJmDyEvtPkIgW7oDMKpMB1oK3eOLeqq3NqS0isx-4xEnz7jw5je1RbQtpgYAN8niamVgS1yUWKk0lEADKwFNAiKQ==)
+*   [cssn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED6xZdJcZU2yLqpbg2ExcKXg0OiAHj9OQbKroeZLeGe27oIwQqjYRsp6mbf7u_n4vYLmFdkxFiYj3O6ft5ALMq2sAyivDBIozLFki4dXnTHYo2VZv3hADSfKQVrN1P0b2qXftWBT0JhYOlcNY34RSTHXpNjzwkMiXDMqCbO9TIWg==)
+*   [aljazeera](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8k745yNf_V5N_ChXEvHgMk6l2PJPmfhwbUnNRtPWjDAaAnznwEQrpKT1A40zKZxFIMikllBDb-rJYbI2oXIpE3_fRnNmMHjJIB6VM_ShIVwMowpiWgcQ1IznKOf68uAIKNSu9OH5d9worV9QTk-m8O80jRHtgYEy0_ZtalhfO9ctoisky8IzWt4-wB8dVQTwsEL5dShsE4zSvn2Q65eu58XZEboPc5-ghaA7d5gwIGTarLkKJtjqzwhAT6hj0BabCXBTK1Sqn3tNVuueTv-B7iS0b0pYkqzk6fO8snpLeIhv_OCZK3fXOrSm2NXKsHRQ=)
+*   [gxzf](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGPqjSLm1OFY_7oFxA1m9IMldkvuSpe3bGq0dMDotErU8YmsTNachnx67_2y57mTsk_BegVxLAk0fLyKwroLJCbKJyEpcZE3Svua4NxA8UJzAW7eboRzCKaYRZOX6yEHX0O-TZEA56rH4n)
+*   [voachinese](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjbbB3SW61mKKMMhg_G9IEeqtvZGaxvjhuhupQBBs6pom6LrVp9flnoIhBGACDlK2yLj9nEWWmyTOgLPAuBDQSCPkcBeTScrVh26YVSNjeQWSLUmaXdEay2WlwKXMJs_fX19-E5kyCfRbm0Gj0zjlgV09V0PAEmKsDrfzLLy2iVtK6sHtTQfY792XMItHnMgqEhnNZy-PBguQuN36yM2oePcAMMI5TGB0PFr1Y)
+*   [ciis](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTHzebr91fxbBSD38xcMT6fm4oAnX71SHNAW9JruQLD5apVcfRmUqYtwJiAzd_iQYdqGCrBsGDHt12L1JUNQmKSheBda53PNmcqtt9dNyE1UQ8X7X5q95lUgEBmCyP7zFJ_0qwCaCMvtV29exCrScbWCfAvyWIU7X-Zg==)
+*   [moj](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH27O_3CVv1nc2g1v_eXNHl6C-mbI4sdPMOFyt5cDAhY6f3yt6vJ7emV41_SumietSbEk1idhMCUhKvYE4dhbKQHwal1e8M4e1FTiOi6dfhcWxwJ41epz0aNay_uFZkVZEdYW8X3-Np0dVwEm3nSqoHncrueu-kYw==)
+*   [aljazeera](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8qeaqk-gMnqi82D1NcRT7XJ8zdM8RkbbV_lXz0TXQmPer3tCnKZiaD4WZ5qIyThJJIuQK9Aa7IViYrcmiRGjglQON8f83cneaSMWwmLR7dqURj8LWSkl0ueomy7i5BqjYkC7GjGk8RU_yh0dqq2rF1VjNPCNMPa8RoPNBVuAey36ofCHPOG7p5YDaJM5eWvm2DHxkQtjO81mlg8skXjf9JdD1vEMioCv1z_HhL_2fcZSphNV5leloXxk7gcFxcFyP1MGgkEPQhf6z9aUr_snQF-7jjlxHAUh7oPVCmfuivUe4Su3wqzkFyDuWRNtv4BIY)
+*   [ifeng](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErhQWRveF1MZBckikAs3uTxPJVXBZUnaofOTPjwvZ07qDTOasGlB3vZQfoaun2I-kwfQCa60O_IukYsX4nQKJ5MtMw0zqQ-hSHcmm3SJ40c9Ongcwm3WdrC01Z0XrvYQ==)
+*   [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPiifSnlFNuuLfPEh6xjDPOyp-Nt05DJVyUgTS09GCnVLcl_EGuOymMw1AuiAMs3XgnHW4Q6WZW3g0f0IG4D6gnIiVhAl-jQ37ZT_rNxQvaiJxXsf3jeosUrXMoADnF9ooAVxh6PLetHx57g62bZUjZe8ZfCGO2qb_eoMKxe9cK18=)
+*   [sinchew](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrL-5NeTxCJXFVfz4PGl8YWRcW-dq2tuhfX0NoGI8fls1qCJiqMFe4Otmij_-OYIkFRFVEaMwsKIigsGU-U6Q30i1WHSL3H5OFMTjes3QB3s7MBffpye0TzOgeiAoPDob_CSzznpEkDlKlCfCEbqdLpsr5kmQAH26C)
+*   [zmyx](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC6p_ddNgXNm8I2KjpdWHH6iasUMLDvOTFfWYcwfWrgqw9GtPn1WAvt0TBlXK1lrmhInzpgOakoIpUje1LfnBWH2Ld_kSCxZIrZOBBzG1_4izGONtvdT92EBXaMJEogJw=)
+*   [chinausfocus](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhz9nATrSQz9zDup3uZo3n1QwdVIvmfcihVjvh_hx1MEH7Aowzm7CaIeQjllpDV_T06AS6Jfd2HZIIlVqLPoCNUZD_bgHOYYq0kjbxrgNJnOXZXlBwpotK2zSqkAOiIoCjBJGZRzCTgSud2l_IlLfz-nB6OP6rCfYm)
+*   [udn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsEGl9dDSIRIUj-EOvt0yazs35tiIKTpuN2uFilbR4G0lWkFu3h9XMKHX-1KxL-fP0bG4lQjieCRkKgEBI4tje2b8-j1ZPLlqqc15ZXASd3z2d7F7xvdX66sge8hk1aKpmcF8zuHkS7aA=)
+*   [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2GiTQVEXVZYYUvS4-SjuvuSuM2NYeNElOr_ZZiz98gxupJ3-7K15gBfTldhtLn8BrimlZ3NI2jxGbtC7lOOYwdYE6DW4XyuexVRFDFtTUfnomShVF-SS4elwrFt6ziUWGGrq-wDU=)
+*   [cls](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYNwi8zqEpRkUPlYsmr6VmXq1vdc7T1pczU-FkU0js1EmGatXBS7CcnxeqGub0JYK5fXLH7KcJL3m9_ij7kYg-JftOydbnPMj2lg-imF6LZGSDmbZQKUKvCVTZug==)
+*   [chinatimes](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3IARfzGrJLyIrQGwUplu_8T5vIr6DK2nA8ZfqmBuUGXq_cVIckql5S1y7wjeWj7O6sr6cKp9pNVaPKX9NX3f7sMgLRyu3jPtbJJatTPNEQeu-grPtHxqi8bF6KkzWZfPj9uAPaQKa669fcWfPzThCFD1TwJw=)
+*   [12371](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqKel0T1q6HRkcfCNFxQ91RlnwccD2xlliVLK3ct_qqozJsOfehaVR_ozbCUxL-2vWCEq0Tl_MEuz1vSNBLlVngc3R3WdNUO6er_4W7se9x_ZEp-5auZ_nAjY-As9p0feJyeOTbumVN7DhwxfHvMTymZwS6nE=)
+*   [sunrisemedium](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErKad2GH4YGBNtMW1ouR8hnKh6NWAPjhwPggbK5TKJ2CVG71C9RTfc3Te41tBO3mZQ80APNs2kzajWQi5MQYdnuqZMF-QGhKEocaSP78zQjX-glVc65iVYV6rzql2Rvpdiav3oi80SKVXqzZYBu2ph6DktZi5BwM8=)
+*   [6park](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm-5dYvqrIx0KFg-S2J1DIX18zVbduJ70FIlkITlpcSoYljhFN_0ScSu0wJtSd2nBj_EylzDHkWeWHQw3_TECtoNxTjDojdX8CuyNix2-Or1hvuQg4Cz-0-lfRW5wSk67JKewMm5Y=)
+*   [cac](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl6eFdq8xnqw1Pea20dcYEEH0udYZmLKGDHvvyh91j1vhWquIPXNmplUp2Hzzz1Z7cbMrSzdWS7ox8b2P7FqLUr-sPT7y2GuK6X2HHCOUsMqz1NC_aRhjgHNi9LP5RPqI9sjk33xVEsTRGfkJcEAsyGNui)
+*   [cppcc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIAycSvo9WIU_3N66dI3HSj4dCgfhyAy0RmfsO_qV9egPrHYBwUReMp7PCu5duCl5aUQJtTZMwbLezfEr9Yn0vTvbyhxmlKg0GXn3M8a5NN859qt7bIixVZiqXCBrW1ZCXG4Xz-jcIgnP8)
+*   [china-embassy](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpvHRb0F8PlZyX9_X46j1rJ3_qKXlH2EYbP-xidAz5qztXSZmq7Z7H6AsOhvzmbpnua5imwJagKoG1dv_FvMsOaELlj3sfjkkAK87PijOdNFsu8K9-bvJgacRX8xKiqtWV38iXZFLy4roChyYt4R1JwlN2VBO9WZudRjHuSJq_eiE=)
+*   [fredgao](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8EcKa5YjTZmCcHjDcQExv7zqBlKSufUTGHXulKC-HmBMQfVQ7ChaWUvgwJ8RyUqudVrte-G1wrU4-n7Aa-X9q6A2EBpYh-l1B4UDZ35ByIU4TlYSK5VlBMf2rSbDj5s_7arnUTS25BsfGZ0IaD4130RsoPy5RNSz9pJhprv8s44U=)
+*   [info](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXNDqh72doTWHGX-hm1vcx2k5iXVroWPgrunZJrToxhhQy8YdKL638OhyeAYKaBmchqiATz5vB6YGQ9DQiCc8oAw84q722ux5eIiqMI4d4MseSLkGKQvZOpS5JBKADPtJkfx_8inKokIEto9cjTc5PzptINcaSWLcadDg=)
+*   [chinadaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOJ0qcFyXkZ5ZDnC1kz7vcarwWCs4Rk4UBnf2lvsOfX9s2t5txuIU1k8VJsmFiP1yAopZk8chHvBWrXgVGNqD07HK7qSNLsYvXqpLi2s23JxioE5mZrs1CYcQQmt7l3H2eod3YnvSq6lIUowPaToBHILrsoIa7mkVh5LoQRY1jVoQArQo=)
