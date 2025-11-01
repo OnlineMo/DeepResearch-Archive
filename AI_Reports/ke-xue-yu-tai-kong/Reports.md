@@ -1,7 +1,7 @@
 # 科学与太空 报告索引
 
 本页包含 **科学与太空** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：10
+报告总数：12
 
 ---
 
@@ -12,6 +12,7 @@
 ## C
 
 - [超大满月中秋登场](chao-da-man-yue-zhong-qiu-deng-chang-2025-10-06--v1.md) - 2025-10-06 (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E6%BB%A1%E6%9C%88%E4%B8%AD%E7%A7%8B%E7%99%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [从绕地球飞3圈到只飞2圈](cong-rao-di-qiu-fei-3quan-dao-zhi-fei-2quan-2025-11-01--v1.md) - 2025-11-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BB%95%E5%9C%B0%E7%90%83%E9%A3%9E3%E5%9C%88%E5%88%B0%E5%8F%AA%E9%A3%9E2%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)
 
 ## H
 
@@ -28,6 +29,7 @@
 ## S
 
 - [神二十一乘组确定：张陆 武飞 张洪章](shen-er-shi-yi-cheng-zu-que-ding-zhang-lu-wu-fei-zhang-hong-zhang-2025-10-30--v1.md) - 2025-10-30 (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B9%98%E7%BB%84%E7%A1%AE%E5%AE%9A%EF%BC%9A%E5%BC%A0%E9%99%86+%E6%AD%A6%E9%A3%9E+%E5%BC%A0%E6%B4%AA%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
+- [神舟二十一号航天员行囊揭秘](shen-zhou-er-shi-yi-hao-hang-tian-yuan-xing-nang-jie-mi-2025-11-01--v1.md) - 2025-11-01 (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%80%E5%8F%B7%E8%88%AA%E5%A4%A9%E5%91%98%E8%A1%8C%E5%9B%8A%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)
 
 ## W
 
