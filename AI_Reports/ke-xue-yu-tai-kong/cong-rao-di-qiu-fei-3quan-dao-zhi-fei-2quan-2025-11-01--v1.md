@@ -1,0 +1,104 @@
+版次: 头版（v1）
+日期: 2025-11-01
+主题: 从绕地球飞3圈到只飞2圈
+
+来源: https://www.baidu.com/s?wd=%E4%BB%8E%E7%BB%95%E5%9C%B0%E7%90%83%E9%A3%9E3%E5%9C%88%E5%88%B0%E5%8F%AA%E9%A3%9E2%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news
+
+# 从绕地球飞3圈到只飞2圈
+
+## 摘要
+- 神舟二十一号任务于2025年10月31日成功实现3.5小时自主快速交会对接，将飞船绕地球飞行圈数从以往的3-4圈缩短至2圈，标志着中国空间交会对接技术迈入新阶段 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==) [wikipedia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL0fS58gs5fjB_LAY0s60JnkepgS_sJ8hs0PZx4kZaSZ5t5gfBjiiUoubrdQEzp6JWtHlRNSQir2ff5vj11Bs_2g0bXOndqzHZGek4e4vwN54EhXR2An5X5iceEy8-_Vq0cLAB)。
+- 此次“提速”的关键在于运载火箭的精准发射入轨、飞船近程导引段的优化以及智能飞行路线设计，确保了初始轨道参数的极小偏差 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==) [thedailycpec](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzHYU7ep_P-GXR-vpMgpfZhBjdVdQKykKxfrfuOzBL5jMaX2-c9GqUVNzJTxU-237GWO855xh9C9myOOjMvLP0nek6yn5wAVNS6sFPfPjaCvH9NlqsZP7RF7T-WkishvgfO6pe_dchHMxPYMFwwbkKff_QlirdvBnKgpT2WqfCBAsWaVhsXBv-wusJ3XSe6CnB6Xib)。
+- 技术升级包括制导导航与控制系统的高精度运行、复杂计算的飞船自主执行能力，以及“刚柔并济”的受控阻尼缓冲对接机构，大幅提升了对接的适应性、成功率和可靠性 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==) [stdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGad41CFWCEwc1LZJ52oAqN0Vo0_3g1hF7TMd4-o8jUFBzeo8hv9tkY-0EOK34VsPKqttZX20HGXDN2vxj9dncr3ifjA1Nrf_XLtNwFJgBDR5yERs-s_4z2je0lqhQmaPoP8ruYNtR3FUm9c_3gnboX4SRoFQho1U3x_w_V0w==)。
+- 快速交会对接方案带来了多重益处，包括提升航天员舒适度、降低能源消耗、增强任务应对故障能力，并显著提高了任务规划的灵活性和应急响应能力，减少了对发射时间窗口的约束 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+
+## 背景
+“从绕地球飞3圈到只飞2圈”指的是载人飞船与空间站进行交会对接时，所需绕地球飞行的圈数和时间大幅缩短的技术突破。在以往的载人航天任务中，飞船通常需要绕地球飞行3圈甚至4圈，耗时约6.5小时才能完成与空间站的对接 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==) [thedailycpec](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzHYU7ep_P-GXR-vpMgpfZhBjdVdQKykKxfrfuOzBL5jMaX2-c9GqUVNzJTxU-237GWO855xh9C9myOOjMvLP0nek6yn5wAVNS6sFPfPjaCvH9NlqsZP7RF7T-WkishvgfO6pe_dchHMxPYMFwwbkKff_QlirdvBnKgpT2WqfCBAsWaVhsXBv-wusJ3XSe6CnB6Xib)。
+
+2025年10月31日，中国神舟二十一号载人飞船成功发射，并在约3.5小时后与中国空间站天和核心舱完成自主快速交会对接，实现了航天员乘组的“太空会师” [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==) [wikipedia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL0fS58gs5fjB_LAY0s60JnkepgS_sJ8hs0PZx4kZaSZ5t5gfBjiiUoubrdQEzp6JWtHlRNSQir2ff5vj11Bs_2g0bXOndqzHZGek4e4vwN54EhXR2An5X5iceEy8-_Vq0cLAB)。此次任务的成功，标志着中国载人航天工程在空间交会对接技术上取得了重大进展，将对接时间缩短了一半以上，极大地提升了任务效率和安全性。这是中国空间站进入应用与发展阶段后的第6艘载人飞船任务，也是中国第16次载人航天飞行任务 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+
+## 深度分析
+
+### 快速交会对接技术的核心突破
+神舟二十一号任务中实现的“从绕地球飞3圈到只飞2圈”的突破，核心在于3.5小时自主快速交会对接方案的成功实施。这一“提速”主要得益于以下几个方面的优化和技术升级：
+
+1.  **减少绕飞圈数与缩短对接时间**：
+    *   以往飞船需要绕地球飞行3圈甚至4圈来调整轨道，而现在只需2圈即可完成对接，将对接时间从约6.5小时缩短至约3.5小时 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==) [thedailycpec](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzHYU7ep_P-GXR-vpMgpfZhBjdVdQKykKxfrfuOzBL5jMaX2-c9GqUVNzJTxU-237GWO855xh9C9myOOjMvLP0nek6yn5wAVNS6sFPfPjaCvH9NlqsZP7RF7T-WkishvgfO6pe_dchHMxPYMFwwbkKff_QlirdvBnKgpT2WqfCBAsWaVhsXBv-wusJ3XSe6CnB6Xib)。这种效率的提升，直接减少了航天员在狭小飞船舱内的等待时间，显著提升了乘组的舒适性 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+
+2.  **运载火箭的精准发射与入轨控制**：
+    *   长征二号F遥二十一运载火箭在发射和入轨控制方面提供了精准助力。火箭通过采用产品化双十表光学惯组等先进控制系统，显著提高了测量精度和稳定性，确保飞船进入初始相位差极小的轨道，为快速对接奠定了坚实基础 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==) [thedailycpec](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzHYU7ep_P-GXR-vpMgpfZhBjdVdQKykKxfrfuOzBL5jMaX2-c9GqUVNzJTxU-237GWO855xh9C9myOOjMvLP0nek6yn5wAVNS6sFPfPjaCvH9NlqsZP7RF7T-WkishvgfO6pe_dchHMxPYMFwwbkKff_QlirdvBnKgpT2WqfCBAsWaVhsXBv-wusJ3XSe6CnB6Xib)。这种高精度入轨能力，是实现少圈快速对接的前提。
+
+3.  **飞船自身技术的全面升级**：
+    *   **制导导航与控制系统（GNC）**：飞船的GNC系统运行平稳，保持了高精度和高稳定性，能够精确引导飞船完成复杂的轨道机动和姿态调整 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+    *   **对接机构的进化**：飞船的对接机构已升级为“刚柔并济”的受控阻尼缓冲系统。该系统能够灵活应对不同对接工况，动态调节缓冲力度，大幅提升了对接的适应范围、成功率和可靠性 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+    *   **自主快速交会对接模式**：中国航天技术已将复杂的计算过程从地面测控转移到飞船自主执行，显著提升了远距离导引的效率 [stdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGad41CFWCEwc1LZJ52oAqN0Vo0_3g1hF7TMd4-o8jUFBzeo8hv9tkY-0EOK34VsPKqttZX20HGXDN2vxj9dncr3ifjA1Nrf_XLtNwFJgBDR5yERs-s_4z2je0lqhQmaPoP8ruYNtR3FUm9c_3gnboX4SRoFQho1U3x_w_V0w==)。“初始全相位”技术使得飞船在入轨时无论与空间站的初始相位差如何，都能在规定时间内实现精确对接，这一能力经过了3000多次测试和200多种极端工况分析验证 [stdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGad41CFWCEwc1LZJ52oAqN0Vo0_3g1hF7TMd4-o8jUFBzeo8hv9tkY-0EOK34VsPKqttZX20HGXDN2vxj9dncr3ifjA1Nrf_XLtNwFJgBDR5yERs-s_4z2je0lqhQmaPoP8ruYNtR3FUm9c_3gnboX4SRoFQho1U3x_w_V0w==)。
+
+4.  **优化飞行路线与缩短近程导引段**：
+    *   飞船的路线设计更加智能，优化了从远距离飞行到近距离对接的过渡段。即使轨道存在细微偏差，系统也能自动纠正，确保安全抵达 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。同时，飞船进入近程对接阶段时，距离空间站更近，从而实现更快对接 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+
+### 快速交会对接带来的多重效益
+3.5小时快速交会对接方案的实现，不仅是技术上的突破，更带来了深远的实际效益：
+*   **提高了神舟飞船自主交会对接能力**：增强了中国载人航天任务的自主性和可靠性 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+*   **提升航天员舒适性与安全性**：减少了航天员的飞行压力和舱内等待时间，降低了长时间飞行可能带来的不适和风险 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+*   **降低能源消耗**：缩短飞行时间意味着飞船对电池燃料等能源的需求减少，延长了飞船在轨寿命和任务灵活性 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+*   **增强任务整体应对故障的能力**：更快的对接速度为应对突发情况和故障处理留出了更多时间窗口 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+*   **提升任务规划灵活性和应急响应能力**：减轻了对发射时间窗口的约束，可实现全年任意日期发射，极大地提高了空间站任务规划的灵活性和应急响应能力 [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)。
+
+### 轨道优化与效率提升的广阔前景
+神舟二十一号的快速交会对接是当前全球航天领域追求轨道优化和效率提升的一个缩影。在更广阔的范围内，人工智能（AI）与机器学习（ML）、可重复使用航天器技术以及卫星星座的部署与优化，正共同推动航天任务向更高效、更智能的方向发展：
+
+*   **人工智能与机器学习在轨道优化中的应用**：AI和ML技术在深空探测、轨迹规划和再入轨迹优化中发挥着越来越重要的作用。例如，NASA和ESA在深空探测中应用AI实时处理海量数据，快速识别科学价值区域 [yzwb](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_hUFgduh4lfgd0Z-Vs-tpULNmHIhxH5Il8V3yBJLoEkI_ysZfOBJWF-3cvl2V166swQPamrUYeQaIOnSpss_w-5yG5e6qyQ1_oyi2H2GPzrQWg6NsEUUMyfRKvETT4jb6GVyb56Mq2vUMhb7PT0FcaSMhSI0=)。智能优化算法能够在无模型下进行决策控制，解决轨迹规划对模型依赖性强、适应性低的问题 [futurephecda](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrODfwlTJsk-bTTqs6pz8xYXHRquW6XtFv9RYVeic19qLby-up8FI4j0_iUA4ktZ7x2bE80po3j8_ZOtpiKO4tF4Dd6Jcjq_5NHsIzIUWwU9m6XJmtHR73QffAu5X_x-tO)。基于历史数据训练和强化学习的轨迹规划模型，提高了复杂场景下的决策效率，例如利用深度学习预测再入过程中的热流分布，动态调整飞行姿态和轨迹 [sciencenet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5RyOHLxmrNFuWHHNw2mOjGiefkSiCkO9n6zNbA1X_818lQuKpnm9jlMOA8SKrZmejgx5NGV_u8YjE9oS8szZQPHtkB51Ja4HrTZ3wwYf0T4Do0WaSOnjCEa1A5ZQJtV-H3yhaI_8Z_i34cKDvLaRqCOB6FDZ5p7Ea8DO0VCpfXtZ6GtFT)。哈尔滨工业大学崔乃刚教授团队提出的自适应网格细化方法，通过序列凸优化（SCP）算法，显著提升了可重复使用运载器轨迹求解的计算效率和收敛性 [bit](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOtZQ0jmC1I_ikZVmgyfYwsnbfcrNeonnrI0TO2WTgwKq3ZTsJ4HC8OYW_wgo-A5IDTFnJstXVKsa37VqT4FReL2mKndXsfkQ5l37aePllCq-eAZgWJoEk8Xb0Snn1dtmwgCLRKS5pPasJ7txVh7lYrBI2MEgMmw0MVQvMi33zndeSC28SvVsZaPtZ-NuqNffGzgOV-NWxfBH1eA==)。
+*   **可重复使用航天器技术**：完全可重复使用航天器技术是降低天地往返成本、缩短研制周期、提高太空探索效率的关键。美国X-37B已多次执行任务，展现了高中低全轨道、强轨道机动以及多次往返能力 [yzwb](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_hUFgduh4lfgd0Z-Vs-tpULNmHIhxH5Il8V3yBJLoEkI_ysZfOBJWF-3cvl2V166swQPamrUYeQaIOnSpss_w-5yG5e6qyQ1_oyi2H2GPzrQWg6NsEUUMyfRKvETT4jb6GVyb56Mq2vUMhb7PT0FcaSMhSI0=)。中国也在大力投入研发，多款商业航天可重复使用运载火箭计划于2025年完成首飞 [yzwb](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_hUFgduh4lfgd0Z-Vs-tpULNmHIhxH5Il8V3yBJLoEkI_ysZfOBJWF-3cvl2V166swQPamrUYeQaIOnSpss_w-5yG5e6qyQ1_oyi2H2GPzrQWg6NsEUUMyfRKvETT4jb6GVyb56Mq2vUMhb7PT0FcaSMhSI0=)。
+*   **卫星星座部署与优化**：全球低轨卫星星座产业高速发展，中国“国网星座”和“千帆星座”项目正在加速部署，旨在实现低时延大容量与广域覆盖 [chyxx](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdTzo30A3V4O1T593y5jstN5dJPaxMqMewEk0_1aZU6ggyZ_0C-vgNR3DJhH2OonqyR2xh1sSfLkILukTXWHP2gGLYmVptex5XucNJqEzG5fQjAoCFw8IrL43iKkV-3sP2bEoY)。这些星座的部署和优化，对轨道资源的高效利用和避免空间碎片提出了更高要求。
+
+这些前沿技术与神舟二十一号的快速交会对接技术相辅相成，共同推动着航天任务向更高效、更经济、更智能的未来发展。
+
+## 结论与建议
+
+### 结论
+神舟二十一号任务成功实现“从绕地球飞3圈到只飞2圈”的快速交会对接，是中国载人航天工程在空间技术领域取得的又一里程碑式成就。这一突破不仅显著提升了载人飞船与空间站对接的效率和安全性，优化了航天员的飞行体验，也为中国空间站的长期运营和未来更复杂的太空探索任务奠定了坚实基础。它充分展现了中国在航天器设计、制导导航与控制、对接机构以及任务规划等方面的成熟技术和创新能力。
+
+### 建议
+1.  **持续深化自主智能化技术**：在现有快速交会对接技术的基础上，进一步融合人工智能和机器学习，提升飞船自主决策和应对复杂未知环境的能力，探索更短时间甚至即时对接的可能性。
+2.  **拓展技术应用场景**：将快速交会对接技术与可重复使用航天器、在轨服务等前沿技术深度融合，构建更高效、更经济的太空运输与运营体系，例如应用于未来月球或深空探测任务中的轨道交会与对接，以缩短任务周期并降低风险。
+3.  **加强国际合作与标准制定**：在确保国家安全的前提下，积极推动快速交会对接技术的国际交流与合作，共同探索制定未来空间交会对接的国际标准，促进全球航天事业的共同发展。
+
+### 限制条件与待后续验证的问题
+*   尽管技术已取得重大突破，但详细的算法和控制策略，尤其是在极端或未知空间环境下的适应性，仍需进一步公开和进行更多验证。
+*   快速交会对接技术在不同类型航天器和不同轨道环境下的普适性与鲁棒性，以及其大规模应用的成本效益分析，仍是未来需要深入研究和验证的问题。
+
+## 数据与引用
+*   [jfdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnzRxtyQ7jhU_8NCamV6erB3liR04vl2Hw31sXtV9YlA9lKRxrccbAG2x5SYq7HCQJRGyOp3V9OIjCP8n8CKXDqq7kMaNZA3kLT8FQyj8TMHBH3PK39D4pibLnW05ntA9GURQehBnyw==)
+*   [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVThEPHNtQPFAvPp2u6rXGTWNQKEVvy4UuraOUd2q9Zp8C-jv7ouSkX4tQLztBbMAjNYMwltQE7BeonKPuge_ZXBbRiFH4qALl-hPPbr-z7hibK9FgCbdjl6P8BTlfciPxzgu0cVjIC93T-26sskGTUXETCVCATyuypbLhehg-Uo7v-Xjv1bfqGCpZyphnAN1A5qhpT14HPny9iFyJh42wiCs=)
+*   [eastmoney](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBsGJkHkwQDL7ctOqzwR9MbVBXhMWIjjw-JTh3yokyplZz4yWKO3TQ4YJtUyttEJSRrQZL0kSX8H5aaUMOJdEKJUargL4nSPbwM3ukJsPFZEJFy6RvY4jRDqFbbqRXnpK3P3H7L5YeIlZ3lXylAd3Uyw==)
+*   [qq](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtNVJO_JEfSjCCt4DF84R8lfDPqTOtkMGZT85FHJgjBLViMAlw3LZrahNKBj_3QHT1H4DGo2gCEbXUmf1q-cqZkpAyRSzUfkwxX52vcqrpwbDJmJRahWGohWOZU4-Z7jvCjaPwprrN3IY=)
+*   [ce](https://aisearch.cloud.google.com/id/0-5)
+*   [ifeng](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeman6S4CYj-pMf54XMEvTR-mRfDb8TGQWhSqQpXxO_5AV4cqynYXP_IOVGqGyzLV_lIYUs0o9-BYzIUMJABNxBsV39cuvH6s_bf5ZD-tjgVWH6iM6Bu-iNmL0JKTP)
+*   [qianlong](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqkaGS1HFWTVrjqE4GjgRSdeyQSyNEmvBDdUKBw2ER_XOQvmZp4JEN7TWhno0utaUK8b3HRIL-XRdc-KLuN-M-D9GKpUhRbPgosrwGXo-0NmmRPgoTqfNn7Z4NNl7j9PBKOzxAhjVn8kS-qsA=)
+*   [yzwb](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKLVpDqMv1I3x2I1vIokY6JSfR4yPmJeg105xwxEKTK-MK-uKsirNgHr64M_boNxP9KBf2R6ddciZx4ZOcfcZ6cdgoSAKC1u0ul16il9vDXQ452SstWGgXFj3bSCU0aRbT7V07TTu2xkWUJ9DJKpgaqirWYw==)
+*   [wikipedia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Emz6K_EiYvl4pNropygLG7RhNhuwnyJEZuMLexBpU3wBOfE3PVHYE2z0Kef0ID_VFVeg87wkpyhH2Pe9ijmxDPTucfMjbYSbR8WwUCSdYFtGyOTnI0MN3j0ex0yW3b6vw-Pqh5fOfGLbq8k4WbY_8_FZ2vycPyg2TsIuHrkIGDmp6zzSXhgBwgQpd5TXoA==)
+*   [yzwb](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_hUFgduh4lfgd0Z-Vs-tpULNmHIhxH5Il8V3yBJLoEkI_ysZfOBJWF-3cvl2V166swQPamrUYeQaIOnSpss_w-5yG5e6qyQ1_oyi2H2GPzrQWg6NsEUUMyfRKvETT4jb6GVyb56Mq2vUMhb7PT0FcaSMhSI0=)
+*   [81](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB9R63aiioMiO2bfDVOy-uAaYF2ymn_MD_4FgJbnVC9gvdBicZ37t-PWxby2M7mMkCS76sTWIiJXh4Zv6bkwgISiOIPZau7kMWFpIGhPof9OZx6JQKALvqBIRuZCPrfURz3Qc=)
+*   [shobserver](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmwVxbFWnaZgqq_eFQy7Pkaoztitc05cvMHlDSs_JITE6l7_6XDcQhaABK-QRRAkEbpGskJyvVeK_e2sQxxztjMacLz5KKljL5VFdvMWml6xADcqO7sPTYkMJG7h9O0NRXBiWSuTM4Pfr1HjY=)
+*   [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY-CqnoOYXdDqtvjtPl0v9rsPtQR2VDHtcHrZUDYd-bHN32f_iYu9f-eIHNqoYLOsKKOtol2RvqxZiTDn8ZAB6erZ2aFL943vUlqWFnyFDIFxQB2FFm6Qs4YEH-rXdWhtrzVNcGNoh9pC-EO02Bsp7B0wMJ-Y_mEI=)
+*   [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHheF3eo5Ma0j5og2mdi22u6V1mWMbURzxeFYm9dEtes15rlxRy6mDudDeJCGgaiH22EhR5nj8WxRr0Q3d-Le9w2IqPFZ5OXFnE9YGoSpOBOdx686UY2q-o4E2vvjY5n_Mmr-ms6moqA0rbHwEJYjWc50h8tAvBq8_hXuWgnWb7CoPPitSaqbcCofhcYWKc31fBd0n-iWnbvxvbNK6m65ywE2rq)
+*   [futurephecda](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrODfwlTJsk-bTTqs6pz8xYXHRquW6XtFv9RYVeic19qLby-up8FI4j0_iUA4ktZ7x2bE80po3j8_ZOtpiKO4tF4Dd6Jcjq_5NHsIzIUWwU9m6XJmtHR73QffAu5X_x-tO)
+*   [bit](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOtZQ0jmC1I_ikZVmgyfYwsnbfcrNeonnrI0TO2WTgwKq3ZTsJ4HC8OYW_wgo-A5IDTFnJstXVKsa37VqT4FReL2mKndXsfkQ5l37aePllCq-eAZgWJoEk8Xb0Snn1dtmwgCLRKS5pPasJ7txVh7lYrBI2MEgMmw0MVQvMi33zndeSC28SvVsZaPtZ-NuqNffGzgOV-NWxfBH1eA==)
+*   [sciencenet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5RyOHLxmrNFuWHHNw2mOjGiefkSiCkO9n6zNbA1X_818lQuKpnm9jlMOA8SKrZmejgx5NGV_u8YjE9oS8szZQPHtkB51Ja4HrTZ3wwYf0T4Do0WaSOnjCEa1A5ZQJtV-H3yhaI_8Z_i34cKDvLaRqCOB6FDZ5p7Ea8DO0VCpfXtZ6GtFT)
+*   [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf9rIHDmSyefIO5bQdbHsJ3t6APB3cW9-YtAUVp6Jbm3rG6uZ9TY0FEFBJ5SCIs5I6stbvOs3jCBYKLl1wRf0kU8sTZ8sdnGhkeButKBkU-iglKiWeqbv6_d-kQyhtXqLl2tuwG0yT2lYLeQNCVsA=)
+*   [chyxx](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdTzo30A3V4O1T593y5jstN5dJPaxMqMewEk0_1aZU6ggyZ_0C-vgNR3DJhH2OonqyR2xh1sSfLkILukTXWHP2gGLYmVptex5XucNJqEzG5fQjAoCFw8IrL43iKkV-3sP2bEoY)
+*   [iim](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_djHKWD2Ufgd08ovXUXiAl17elYCnd5GBzublWCI24TmQXQ5IFdd0HeQjphhBfmOsPKPsGAPmzAo8ecJYcEl1II3gYNWDyRRUmQmTIO3RMtBQl0xUS4ZQE1sZzBqUUSKZbahy4LiO6u8=)
+*   [chinaerospace](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF0B7B6p2SWkHcFFlVuaJfkQMt4o5G527AkQ1c2B8H0nKjsfr8gA2UlPScs7VvSY0GVa07qskTzOlsDNO5qV2kXV3CFnp2CB4CIgPLHtcDFyYEliaLsyw4ZeBGtj6KfJowokNYuF1qDGwsrgbbAjAYYCgQ3TRaUI3mfWkQqmtYgxs1-69ACw==)
+*   [vzkoo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvOaE4CrQzkoeLJIySh_qAaAiUuorLO4hgn4c9XWCCaKnb5D18_OumSn0qvIdR4cnu2SSWmgoI39AUHmf_XEWJqoI3rFqlznF2Fe4jluWgR9qZHi7mRxtBbQuiczuI87SMvgpoat9yp8r4-b1V5fRFkNxV0uv9RG-xc2E=)
+*   [stcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExpDw6b1nDaUcsy-h0NT0iPfG7YvGFT_DF-8wsxEGJ1zYxiZbUy_YxPJ9EhkQV3eidoRXENu-xyzm54meaMq65W5ii9j-pTFRYjjKOB1hrtTut2hgD-wmm3bXvqqlSRiig0fHt289m9s7Vtw==)
+*   [ce](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9n7W71xV8qEGGlHOBs0_UJX-2BdkrT93nO4vJiNHuWCZI6C7fbI7lol9J0aWffwH_Ck-Ou6E2kVchYAv8VZnSMgaKR35egZicGfjdSzC-MJ3VrM_-t8opGJhlP5ClCQJt4PUw5S5F69E5pty75FMb0w8gD6JUFkF49dc=)
+*   [wikipedia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL0fS58gs5fjB_LAY0s60JnkepgS_sJ8hs0PZx4kZaSZ5t5gfBjiiUoubrdQEzp6JWtHlRNSQir2ff5vj11Bs_2g0bXOndqzHZGek4e4vwN54EhXR2An5X5iceEy8-_Vq0cLAB)
+*   [cgtn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXAcqkx4-BTgUZcCLqn-yQG2xzAcMbjiAVaW8e4ZJzH18Y7dTj3Snbpk_BafOMsrK-16aN7t274NOxpWTNgOLujTLDaSgOPaeSenzTRca06k_rlM9gHnAR5ZE_dvziLWjSSRV66W8dYiNkANkKjcJ4GHPqmk74SeO6t7SXfMOj_aG7VcpBJ2ImxdxzGynKVwXHVu41zxrQuKmppt8ITMAUmVwaU0diqkU=)
+*   [thedailycpec](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzHYU7ep_P-GXR-vpMgpfZhBjdVdQKykKxfrfuOzBL5jMaX2-c9GqUVNzJTxU-237GWO855xh9C9myOOjMvLP0nek6yn5wAVNS6sFPfPjaCvH9NlqsZP7RF7T-WkishvgfO6pe_dchHMxPYMFwwbkKff_QlirdvBnKgpT2WqfCBAsWaVhsXBv-wusJ3XSe6CnB6Xib)
+*   [teledynelecroy](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdoa1NHURb6z_4ZyYE6Ly12IuVZsC3lMEFNmcPqX42bsz-6sTgpH_u__8Igd8QAypwgq8-x7m2jChnYBwjeQ1L70PGatgiOkH2AkcUzpAGgTb9RXDAMblk8LNLyBDRNiRkaQLhQ2QW9WoVyKTuM6V8mY_wEHca94jHQBflEPyo-ROLbwzGd0tOQoufG6VOASyGoO9R8QdEIOEsadUPxq-LWXGJVcEKXF7tmmFOXYH2gTGOSJrbdd37t3cCGkL4PJo9AZn9ClBF)
+*   [dotdotnews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs7WDD9BbDumBE_I4O85PTMTH9Cu_Y5-vCPfOalUwF0O-_PuTGaJhYHubcKeMdQ0UHiSC5bc0fEvXHlCOB_OHGVJibLYxsOjmtap8YWejsKCguOtmdZCgjfhv7v7xysdiLWHNFisyIHSlogNcfHcIKaM1PozInf7RC-JUE8RgSWSJhXWSG)
+*   [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaXzzbt7G6bIQJkNaDY9-QCy4Y2hk110crz_3Qr-3vorAfX-vPEi98QJm8L1MEUvCxaiFoPR6aDTNPNRlGe4C9cr4Qih6Zq2EGkboXH2Gy59E1fnqZt6r711FDftqgdHY9wzHKqNL_HmaHdTnoDCox49I8UH-MwaKETqFVwlsxKwF-SA==)
+*   [newsgd](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq2V_vWNEQ9SxOmxfZ0PGayBECK3eXvzuzalsN7ByWwcpF00keKrMX5BGLmOUI6WfcnTX0V0xkSTQsHbBp71sjj8MMTO7QlYX5AVhyJqnnDYEf1gdjLl2VbtCksORsVwg6b0tLZCmLiTrnDiQX_A1OQYY=)
+*   [chinadailyasia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTdJMjC04CA1Vjw3tD9EVFgOOi8H0vVss-DUcNpRlO2zLr9LWjPTm6RweALM21StHg1ICInDaeT43yEUAccNIY9MDryRq0wTmsoI2D_yQUHUKsmlBFZ0jMz_S1YPJOaXO87QiqdZziw==)
+*   [stdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGad41CFWCEwc1LZJ52oAqN0Vo0_3g1hF7TMd4-o8jUFBzeo8hv9tkY-0EOK34VsPKqttZX20HGXDN2vxj9dncr3ifjA1Nrf_XLtNwFJgBDR5yERs-s_4z2je0lqhQmaPoP8ruYNtR3FUm9c_3gnboX4SRoFQho1U3x_w_V0w==)
+*   [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk9-9JsjKbr5x69ZLZ0nPfo0JRRNK3B1JduHfBjkv5_kcX9oz8EJhtRaKjF7YfTq3y2sGGBxrDWS9j7SynUdz3Q9KYNN3WzKK_apeKtpA7GRFHCHjhfaySTEJCdg0BXuITYmnv9lE=)
