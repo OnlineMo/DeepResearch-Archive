@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：53
+报告总数：55
 
 ---
 
@@ -20,6 +20,7 @@
 
 - [大风+暴雨要来了！这些地区注意防范](da-feng-bao-yu-yao-lai-liao-zhe-xie-di-qu-zhu-yi-fang-fan-2025-09-16--v1.md) - 2025-09-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A3%8E%2B%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%81%E8%BF%99%E4%BA%9B%E5%9C%B0%E5%8C%BA%E6%B3%A8%E6%84%8F%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)
 - [店家回应炒蛏子和螃蟹两个菜661元](dian-jia-hui-ying-chao-cheng-zi-he-pang-xie-liang-ge-cai-661yuan-2025-10-07--v1.md) - 2025-10-07 (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E7%82%92%E8%9B%8F%E5%AD%90%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)
+- [动物园狮子因腿短走红 被叫“柯基”](dong-wu-yuan-shi-zi-yin-tui-duan-zou-hong-bei-jiao-ke-ji-2025-11-01--v1.md) - 2025-11-01 (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%8B%AE%E5%AD%90%E5%9B%A0%E8%85%BF%E7%9F%AD%E8%B5%B0%E7%BA%A2+%E8%A2%AB%E5%8F%AB%E2%80%9C%E6%9F%AF%E5%9F%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## F
 
@@ -61,6 +62,7 @@
 ## R
 
 - [人民网评“鸡排哥”爆火](ren-min-wang-ping-ji-pai-ge-bao-huo-2025-09-30--v1.md) - 2025-09-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E2%80%9C%E9%B8%A1%E6%8E%92%E5%93%A5%E2%80%9D%E7%88%86%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)
+- [日本熊灾现场有明显吃人痕迹](ri-ben-xiong-zai-xian-chang-you-ming-xian-chi-ren-hen-ji-2025-11-01--v1.md) - 2025-11-01 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%B0%E7%8E%B0%E5%9C%BA%E6%9C%89%E6%98%8E%E6%98%BE%E5%90%83%E4%BA%BA%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [肉联公司门口堆满死猪 7人被控制](rou-lian-gong-si-men-kou-dui-man-si-zhu-7ren-bei-kong-zhi-2025-10-28--v1.md) - 2025-10-28 (v1) [来源](https://www.baidu.com/s?wd=%E8%82%89%E8%81%94%E5%85%AC%E5%8F%B8%E9%97%A8%E5%8F%A3%E5%A0%86%E6%BB%A1%E6%AD%BB%E7%8C%AA+7%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)
 
 ## S
