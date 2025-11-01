@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：167
+报告总数：168
 
 ---
 
@@ -33,6 +33,7 @@
 - [朝鲜举行盛大阅兵式](zhao-xian-ju-xing-sheng-da-yue-bing-shi-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%B8%BE%E8%A1%8C%E7%9B%9B%E5%A4%A7%E9%98%85%E5%85%B5%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [朝鲜宣布将对被判有罪人员实施大赦](zhao-xian-xuan-bu-jiang-dui-bei-pan-you-zui-ren-yuan-shi-shi-da-she-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AF%B9%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BA%BA%E5%91%98%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%B5%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [从两种精神看新疆70年巨变](cong-liang-chong-jing-shen-kan-xin-jiang-70nian-ju-bian-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%A4%E7%A7%8D%E7%B2%BE%E7%A5%9E%E7%9C%8B%E6%96%B0%E7%96%8670%E5%B9%B4%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)
+- [从三个维度读懂“大国担当”](cong-san-ge-wei-du-du-dong-da-guo-dan-dang-2025-11-01--v1.md) - 2025-11-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%AF%BB%E6%87%82%E2%80%9C%E5%A4%A7%E5%9B%BD%E6%8B%85%E5%BD%93%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [从一份蓝图 看见中国的明天](cong-yi-fen-lan-tu-kan-jian-zhong-guo-de-ming-tian-2025-10-26--v1.md) - 2025-10-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%80%E4%BB%BD%E8%93%9D%E5%9B%BE+%E7%9C%8B%E8%A7%81%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [从“十五五”全球热词看中国新机遇](cong-shi-wu-wu-quan-qiu-re-ci-kan-zhong-guo-xin-ji-yu-2025-10-27--v1.md) - 2025-10-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E5%85%A8%E7%90%83%E7%83%AD%E8%AF%8D%E7%9C%8B%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)
 - [从“中国规划”看“中国之治”](cong-zhong-guo-gui-hua-kan-zhong-guo-zhi-zhi-2025-10-19--v1.md) - 2025-10-19 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%A7%84%E5%88%92%E2%80%9D%E7%9C%8B%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%B9%8B%E6%B2%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
