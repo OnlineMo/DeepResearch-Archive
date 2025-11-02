@@ -1,12 +1,13 @@
 # 政策与法规 报告索引
 
 本页包含 **政策与法规** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：10
+报告总数：11
 
 ---
 
 ## 0-9
 
+- [11月新规一起了解](11yue-xin-gui-yi-qi-liao-jie-2025-11-02--v1.md) - 2025-11-02 (v1) [来源](https://www.baidu.com/s?wd=11%E6%9C%88%E6%96%B0%E8%A7%84%E4%B8%80%E8%B5%B7%E4%BA%86%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)
 - [9月新规来了](9yue-xin-gui-lai-liao-2025-08-30--v1.md) - 2025-08-30 (v1) [来源](https://www.baidu.com/s?wd=9%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## G
