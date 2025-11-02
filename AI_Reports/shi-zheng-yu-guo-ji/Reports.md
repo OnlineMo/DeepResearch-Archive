@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：168
+报告总数：169
 
 ---
 
@@ -183,6 +183,7 @@
 - [习近平接见新疆各族各界代表](xi-jin-ping-jie-jian-xin-jiang-ge-zu-ge-jie-dai-biao-2025-09-24--v1.md) - 2025-09-24 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8E%A5%E8%A7%81%E6%96%B0%E7%96%86%E5%90%84%E6%97%8F%E5%90%84%E7%95%8C%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平深情瞻仰人民英雄纪念碑](xi-jin-ping-shen-qing-zhan-yang-ren-min-ying-xiong-ji-nian-bei-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E7%9E%BB%E4%BB%B0%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平提出全球治理倡议](xi-jin-ping-ti-chu-quan-qiu-zhi-li-chang-yi-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA%E5%85%A8%E7%90%83%E6%B2%BB%E7%90%86%E5%80%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平同韩国总统李在明会谈](xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2025-11-02--v1.md) - 2025-11-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同新加坡总统互致贺电](xi-jin-ping-tong-xin-jia-po-zong-tong-hu-zhi-he-dian-2025-10-04--v1.md) - 2025-10-04 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平鲜明宣示这8个字](xi-jin-ping-xian-ming-xuan-shi-zhe-8ge-zi-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%B2%9C%E6%98%8E%E5%AE%A3%E7%A4%BA%E8%BF%998%E4%B8%AA%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平在全球妇女峰会提出四点建议](xi-jin-ping-zai-quan-qiu-fu-nu-feng-hui-ti-chu-si-dian-jian-yi-2025-10-14--v1.md) - 2025-10-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E6%8F%90%E5%87%BA%E5%9B%9B%E7%82%B9%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
