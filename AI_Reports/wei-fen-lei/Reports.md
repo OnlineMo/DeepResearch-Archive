@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：14
+报告总数：15
 
 ---
 
@@ -25,6 +25,7 @@
 ## J
 
 - [今日起 常温纯牛奶中禁止添加复原乳](jin-ri-qi-chang-wen-chun-niu-nai-zhong-jin-zhi-tian-jia-fu-yuan-ru-2025-09-16--v1.md) - 2025-09-16 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E8%B5%B7+%E5%B8%B8%E6%B8%A9%E7%BA%AF%E7%89%9B%E5%A5%B6%E4%B8%AD%E7%A6%81%E6%AD%A2%E6%B7%BB%E5%8A%A0%E5%A4%8D%E5%8E%9F%E4%B9%B3&sa=fyb_news&rsv_dl=fyb_news)
+- [绝密地址！青海省西宁市500号信箱](jue-mi-di-zhi-qing-hai-sheng-xi-zhu-shi-500hao-xin-xiang-2025-11-02--v1.md) - 2025-11-02 (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%9D%E5%AF%86%E5%9C%B0%E5%9D%80%EF%BC%81%E9%9D%92%E6%B5%B7%E7%9C%81%E8%A5%BF%E5%AE%81%E5%B8%82500%E5%8F%B7%E4%BF%A1%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)
 
 ## M
 
