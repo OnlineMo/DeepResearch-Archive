@@ -1,7 +1,7 @@
 # 科学与太空 报告索引
 
 本页包含 **科学与太空** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：12
+报告总数：13
 
 ---
 
@@ -34,6 +34,10 @@
 ## W
 
 - [我们离“人造太阳”有多远](wo-men-chi-ren-zao-tai-yang-you-duo-yuan-2025-10-13--v1.md) - 2025-10-13 (v1) [来源](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E7%A6%BB%E2%80%9C%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E2%80%9D%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)
+
+## Y
+
+- [迎接神二十回家 东风着陆场准备就绪](ying-jie-shen-er-shi-hui-jia-dong-feng-zhao-lu-chang-zhun-bei-jiu-xu-2025-11-03--v1.md) - 2025-11-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%8E%E6%8E%A5%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9E%E5%AE%B6+%E4%B8%9C%E9%A3%8E%E7%9D%80%E9%99%86%E5%9C%BA%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
