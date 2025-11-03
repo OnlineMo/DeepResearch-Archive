@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [更好的中国 造福亚太和世界 - 2025-11-03](AI_Reports/shi-zheng-yu-guo-ji/geng-hao-de-zhong-guo-zao-fu-ya-tai-he-shi-jie-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%B8%AD%E5%9B%BD+%E9%80%A0%E7%A6%8F%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
+- [曝光！间谍在中国搜集亲本种子 - 2025-11-03](AI_Reports/shi-zheng-yu-guo-ji/pu-guang-jian-die-zai-zhong-guo-sou-ji-qin-ben-chong-zi-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B9%E5%85%89%EF%BC%81%E9%97%B4%E8%B0%8D%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%90%9C%E9%9B%86%E4%BA%B2%E6%9C%AC%E7%A7%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同韩国总统李在明会谈 - 2025-11-02](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 - [从三个维度读懂“大国担当” - 2025-11-01](AI_Reports/shi-zheng-yu-guo-ji/cong-san-ge-wei-du-du-dong-da-guo-dan-dang-2025-11-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%AF%BB%E6%87%82%E2%80%9C%E5%A4%A7%E5%9B%BD%E6%8B%85%E5%BD%93%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [1分钟带你看APEC - 2025-10-31](AI_Reports/shi-zheng-yu-guo-ji/1fen-zhong-dai-ni-kan-apec-2025-10-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=1%E5%88%86%E9%92%9F%E5%B8%A6%E4%BD%A0%E7%9C%8BAPEC&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,12 +23,11 @@
 - [从一份蓝图 看见中国的明天 - 2025-10-26](AI_Reports/shi-zheng-yu-guo-ji/cong-yi-fen-lan-tu-kan-jian-zhong-guo-de-ming-tian-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%80%E4%BB%BD%E8%93%9D%E5%9B%BE+%E7%9C%8B%E8%A7%81%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [党的二十届四中全会擘画发展蓝图 - 2025-10-25](AI_Reports/shi-zheng-yu-guo-ji/dang-de-er-shi-jie-si-zhong-quan-hui-bo-hua-fa-zhan-lan-tu-2025-10-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E6%93%98%E7%94%BB%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [今天是第一个台湾光复纪念日 - 2025-10-25](AI_Reports/shi-zheng-yu-guo-ji/jin-tian-shi-di-yi-ge-tai-wan-guang-fu-ji-nian-ri-2025-10-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%B0%E6%B9%BE%E5%85%82%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)
-- [金正恩参谒中国人民志愿军烈士陵园 - 2025-10-25](AI_Reports/shi-zheng-yu-guo-ji/jin-zheng-en-can-ye-zhong-guo-ren-min-zhi-yuan-jun-lie-shi-ling-yuan-2025-10-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E5%8F%82%E8%B0%92%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E9%99%B5%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)
-- [二十届四中全会公报发布 - 2025-10-24](AI_Reports/shi-zheng-yu-guo-ji/er-shi-jie-si-zhong-quan-hui-gong-bao-fa-bu-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [央视起底兼职骗局黑色产业链 - 2025-11-03](AI_Reports/she-hui-yu-fa-zhi/yang-shi-qi-di-jian-zhi-pian-ju-hei-se-chan-ye-lian-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [90后民警油罐车内救被困司机牺牲 - 2025-11-02](AI_Reports/she-hui-yu-fa-zhi/90hou-min-jing-you-guan-che-nei-jiu-bei-kun-si-ji-xi-sheng-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=90%E5%90%8E%E6%B0%91%E8%AD%A6%E6%B2%B9%E7%BD%90%E8%BD%A6%E5%86%85%E6%95%91%E8%A2%AB%E5%9B%B0%E5%8F%B8%E6%9C%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [动物园狮子因腿短走红 被叫“柯基” - 2025-11-01](AI_Reports/she-hui-yu-fa-zhi/dong-wu-yuan-shi-zi-yin-tui-duan-zou-hong-bei-jiao-ke-ji-2025-11-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%8B%AE%E5%AD%90%E5%9B%A0%E8%85%BF%E7%9F%AD%E8%B5%B0%E7%BA%A2+%E8%A2%AB%E5%8F%AB%E2%80%9C%E6%9F%AF%E5%9F%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [日本熊灾现场有明显吃人痕迹 - 2025-11-01](AI_Reports/she-hui-yu-fa-zhi/ri-ben-xiong-zai-xian-chang-you-ming-xian-chi-ren-hen-ji-2025-11-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%B0%E7%8E%B0%E5%9C%BA%E6%9C%89%E6%98%8E%E6%98%BE%E5%90%83%E4%BA%BA%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [钱塘江现震撼月亮潮 - 2025-10-09](AI_Reports/she-hui-yu-fa-zhi/qian-tang-jiang-xian-zhen-han-yue-liang-chao-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E7%8E%B0%E9%9C%87%E6%92%BC%E6%9C%88%E4%BA%AE%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国游客马来西亚失联 定位在海里 - 2025-10-08](AI_Reports/she-hui-yu-fa-zhi/zhong-guo-you-ke-ma-lai-xi-ya-shi-lian-ding-wei-zai-hai-li-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A4%B1%E8%81%94+%E5%AE%9A%E4%BD%8D%E5%9C%A8%E6%B5%B7%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [中国最大收费站挤满返程大军 - 2025-10-08](AI_Reports/she-hui-yu-fa-zhi/zhong-guo-zui-da-shou-fei-zhan-ji-man-fan-cheng-da-jun-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8C%A4%E6%BB%A1%E8%BF%94%E7%A8%8B%E5%A4%A7%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
-- [店家回应炒蛏子和螃蟹两个菜661元 - 2025-10-07](AI_Reports/she-hui-yu-fa-zhi/dian-jia-hui-ying-chao-cheng-zi-he-pang-xie-liang-ge-cai-661yuan-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E7%82%92%E8%9B%8F%E5%AD%90%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -70,6 +70,7 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [观众为全红婵下起“娃娃雨” - 2025-11-03](AI_Reports/ti-yu-yu-sai-shi/guan-zhong-wei-quan-hong-chan-xia-qi-wa-wa-yu-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E4%B8%BA%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8B%E8%B5%B7%E2%80%9C%E5%A8%83%E5%A8%83%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [让二追三！国乒男团3-2日本晋级决赛 - 2025-10-15](AI_Reports/ti-yu-yu-sai-shi/rang-er-zhui-san-guo-ping-nan-tuan-3-2ri-ben-jin-ji-jue-sai-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%EF%BC%81%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23-2%E6%97%A5%E6%9C%AC%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [日本队被中国逆转后集体“凝固” - 2025-10-15](AI_Reports/ti-yu-yu-sai-shi/ri-ben-dui-bei-zhong-guo-ni-zhuan-hou-ji-ti-ning-gu-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%80%86%E8%BD%AC%E5%90%8E%E9%9B%86%E4%BD%93%E2%80%9C%E5%87%9D%E5%9B%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [苏翊鸣完成世界上第一个背靠背1980 - 2025-10-10](AI_Reports/ti-yu-yu-sai-shi/su-yi-ming-wan-cheng-shi-jie-shang-di-yi-ge-bei-kao-bei-1980-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%AE%8C%E6%88%90%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%83%8C%E9%9D%A0%E8%83%8C1980&sa=fyb_news&rsv_dl=fyb_news)
@@ -98,6 +99,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [迎接神二十回家 东风着陆场准备就绪 - 2025-11-03](AI_Reports/ke-xue-yu-tai-kong/ying-jie-shen-er-shi-hui-jia-dong-feng-zhao-lu-chang-zhun-bei-jiu-xu-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%8E%E6%8E%A5%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9E%E5%AE%B6+%E4%B8%9C%E9%A3%8E%E7%9D%80%E9%99%86%E5%9C%BA%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [从绕地球飞3圈到只飞2圈 - 2025-11-01](AI_Reports/ke-xue-yu-tai-kong/cong-rao-di-qiu-fei-3quan-dao-zhi-fei-2quan-2025-11-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BB%95%E5%9C%B0%E7%90%83%E9%A3%9E3%E5%9C%88%E5%88%B0%E5%8F%AA%E9%A3%9E2%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)
 - [神舟二十一号航天员行囊揭秘 - 2025-11-01](AI_Reports/ke-xue-yu-tai-kong/shen-zhou-er-shi-yi-hao-hang-tian-yuan-xing-nang-jie-mi-2025-11-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%80%E5%8F%B7%E8%88%AA%E5%A4%A9%E5%91%98%E8%A1%8C%E5%9B%8A%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)
 - [神二十一乘组确定：张陆 武飞 张洪章 - 2025-10-30](AI_Reports/ke-xue-yu-tai-kong/shen-er-shi-yi-cheng-zu-que-ding-zhang-lu-wu-fei-zhang-hong-zhang-2025-10-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B9%98%E7%BB%84%E7%A1%AE%E5%AE%9A%EF%BC%9A%E5%BC%A0%E9%99%86+%E6%AD%A6%E9%A3%9E+%E5%BC%A0%E6%B4%AA%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
