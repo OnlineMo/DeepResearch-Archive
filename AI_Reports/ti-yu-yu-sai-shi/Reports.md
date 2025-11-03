@@ -1,9 +1,13 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：4
+报告总数：5
 
 ---
+
+## G
+
+- [观众为全红婵下起“娃娃雨”](guan-zhong-wei-quan-hong-chan-xia-qi-wa-wa-yu-2025-11-03--v1.md) - 2025-11-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E4%B8%BA%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8B%E8%B5%B7%E2%80%9C%E5%A8%83%E5%A8%83%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Q
 
