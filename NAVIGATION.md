@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [金永南逝世朝鲜举行国葬 金正恩吊唁 - 2025-11-04](AI_Reports/shi-zheng-yu-guo-ji/jin-yong-nan-shi-shi-zhao-xian-ju-xing-guo-zang-jin-zheng-en-diao-yan-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%B0%B8%E5%8D%97%E9%80%9D%E4%B8%96%E6%9C%9D%E9%B2%9D%E4%B8%BE%E8%A1%8C%E5%9B%BD%E8%91%AC+%E9%87%91%E6%AD%A3%E6%81%A9%E5%90%8A%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)
+- [习主席的韩国APEC时间 - 2025-11-04](AI_Reports/shi-zheng-yu-guo-ji/xi-zhu-xi-de-han-guo-apecshi-jian-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E9%9F%A9%E5%9B%BDAPEC%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [更好的中国 造福亚太和世界 - 2025-11-03](AI_Reports/shi-zheng-yu-guo-ji/geng-hao-de-zhong-guo-zao-fu-ya-tai-he-shi-jie-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%B8%AD%E5%9B%BD+%E9%80%A0%E7%A6%8F%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [曝光！间谍在中国搜集亲本种子 - 2025-11-03](AI_Reports/shi-zheng-yu-guo-ji/pu-guang-jian-die-zai-zhong-guo-sou-ji-qin-ben-chong-zi-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B9%E5%85%89%EF%BC%81%E9%97%B4%E8%B0%8D%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%90%9C%E9%9B%86%E4%BA%B2%E6%9C%AC%E7%A7%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同韩国总统李在明会谈 - 2025-11-02](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,12 +23,11 @@
 - [抓住时间窗口 赢得战略主动 - 2025-10-27](AI_Reports/shi-zheng-yu-guo-ji/zhua-zhu-shi-jian-chuang-kou-ying-de-zhan-lue-zhu-dong-2025-10-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%93%E4%BD%8F%E6%97%B6%E9%97%A8%E7%AA%97%E5%8F%A3+%E8%B5%A2%E5%BE%97%E6%88%98%E7%95%A5%E4%B8%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [8个高频词一起学习四中全会公报 - 2025-10-26](AI_Reports/shi-zheng-yu-guo-ji/8ge-gao-pin-ci-yi-qi-xue-xi-si-zhong-quan-hui-gong-bao-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=8%E4%B8%AA%E9%AB%98%E9%A2%91%E8%AF%8D%E4%B8%80%E8%B5%B7%E5%AD%A6%E4%B9%A0%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [从一份蓝图 看见中国的明天 - 2025-10-26](AI_Reports/shi-zheng-yu-guo-ji/cong-yi-fen-lan-tu-kan-jian-zhong-guo-de-ming-tian-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%80%E4%BB%BD%E8%93%9D%E5%9B%BE+%E7%9C%8B%E8%A7%81%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
-- [党的二十届四中全会擘画发展蓝图 - 2025-10-25](AI_Reports/shi-zheng-yu-guo-ji/dang-de-er-shi-jie-si-zhong-quan-hui-bo-hua-fa-zhan-lan-tu-2025-10-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E6%93%98%E7%94%BB%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)
-- [今天是第一个台湾光复纪念日 - 2025-10-25](AI_Reports/shi-zheng-yu-guo-ji/jin-tian-shi-di-yi-ge-tai-wan-guang-fu-ji-nian-ri-2025-10-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%B0%E6%B9%BE%E5%85%82%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [儿时的公益广告照进现实 - 2025-11-04](AI_Reports/she-hui-yu-fa-zhi/er-shi-de-gong-yi-yan-gao-zhao-jin-xian-shi-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%84%BF%E6%97%B6%E7%9A%84%E5%85%AC%E7%9B%8A%E5%B9%BF%E5%91%8A%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [央视起底兼职骗局黑色产业链 - 2025-11-03](AI_Reports/she-hui-yu-fa-zhi/yang-shi-qi-di-jian-zhi-pian-ju-hei-se-chan-ye-lian-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [90后民警油罐车内救被困司机牺牲 - 2025-11-02](AI_Reports/she-hui-yu-fa-zhi/90hou-min-jing-you-guan-che-nei-jiu-bei-kun-si-ji-xi-sheng-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=90%E5%90%8E%E6%B0%91%E8%AD%A6%E6%B2%B9%E7%BD%90%E8%BD%A6%E5%86%85%E6%95%91%E8%A2%AB%E5%9B%B0%E5%8F%B8%E6%9C%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [动物园狮子因腿短走红 被叫“柯基” - 2025-11-01](AI_Reports/she-hui-yu-fa-zhi/dong-wu-yuan-shi-zi-yin-tui-duan-zou-hong-bei-jiao-ke-ji-2025-11-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%8B%AE%E5%AD%90%E5%9B%A0%E8%85%BF%E7%9F%AD%E8%B5%B0%E7%BA%A2+%E8%A2%AB%E5%8F%AB%E2%80%9C%E6%9F%AF%E5%9F%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [中国人口预期寿命不断提高 - 2025-10-11](AI_Reports/she-hui-yu-fa-zhi/zhong-guo-ren-kou-yu-qi-shou-ming-bu-duan-ti-gao-2025-10-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E9%A2%84%E6%9C%9F%E5%AF%BF%E5%91%BD%E4%B8%8D%E6%96%AD%E6%8F%90%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)
 - [钱塘江现震撼月亮潮 - 2025-10-09](AI_Reports/she-hui-yu-fa-zhi/qian-tang-jiang-xian-zhen-han-yue-liang-chao-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E7%8E%B0%E9%9C%87%E6%92%BC%E6%9C%88%E4%BA%AE%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国游客马来西亚失联 定位在海里 - 2025-10-08](AI_Reports/she-hui-yu-fa-zhi/zhong-guo-you-ke-ma-lai-xi-ya-shi-lian-ding-wei-zai-hai-li-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A4%B1%E8%81%94+%E5%AE%9A%E4%BD%8D%E5%9C%A8%E6%B5%B7%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
-- [中国最大收费站挤满返程大军 - 2025-10-08](AI_Reports/she-hui-yu-fa-zhi/zhong-guo-zui-da-shou-fei-zhan-ji-man-fan-cheng-da-jun-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8C%A4%E6%BB%A1%E8%BF%94%E7%A8%8B%E5%A4%A7%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -127,6 +127,7 @@
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
 
+- [9组数字速览第八届进博会 - 2025-11-04](AI_Reports/jing-ji-yu-shi-chang/9zu-shu-zi-su-lan-di-ba-jie-jin-bo-hui-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=9%E7%BB%84%E6%95%B0%E5%AD%97%E9%80%9F%E8%A7%88%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [中央定调 未来五年房地产方向明确 - 2025-10-30](AI_Reports/jing-ji-yu-shi-chang/zhong-yang-ding-diao-wei-lai-wu-nian-fang-di-chan-fang-xiang-ming-que-2025-10-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%AE%9A%E8%B0%83+%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B9%E5%90%91%E6%98%8E%E7%A1%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [十五五时期经济社会发展主要目标 - 2025-10-24](AI_Reports/jing-ji-yu-shi-chang/shi-wu-wu-shi-qi-jing-ji-she-hui-fa-zhan-zhu-yao-mu-biao-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E4%BA%B5%E6%97%B6%E6%9C%9F%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)
 - [逆势向上！中国外贸增速逐季加快 - 2025-10-14](AI_Reports/jing-ji-yu-shi-chang/ni-shi-xiang-shang-zhong-guo-wai-mao-zeng-su-zhu-ji-jia-kuai-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%80%86%E5%8A%BF%E5%90%91%E4%B8%8A%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%80%9F%E9%80%90%E5%AD%A3%E5%B0%8F%E5%BF%AB&sa=fyb_news&rsv_dl=fyb_news)
@@ -221,6 +222,7 @@
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
+- [战国漆器图案与人民币纹样高度相似 - 2025-11-04](AI_Reports/wen-hua-yu-mei-ti/zhan-guo-qi-qi-tu-an-yu-ren-min-bi-wen-yang-gao-du-xiang-si-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%88%98%E5%9B%BD%E6%BC%86%E5%99%A8%E5%9B%BE%E6%A1%88%E4%B8%8E%E4%BA%BA%E6%B0%91%E5%B8%81%E7%BA%B9%E6%A0%B7%E9%AB%98%E5%BA%A6%E7%9B%B8%E4%BC%BC&sa=fyb_news&rsv_dl=fyb_news)
 - [餐馆走红成“全球第五大摄影巨头” - 2025-10-30](AI_Reports/wen-hua-yu-mei-ti/can-guan-zou-hong-cheng-quan-qiu-di-wu-da-she-ying-ju-tou-2025-10-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A4%90%E9%A6%86%E8%B5%B0%E7%BA%A2%E6%88%90%E2%80%9C%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%E5%A4%A7%E6%91%84%E5%BD%B1%E5%B7%A8%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [00后对出莫言上联获10万奖金 - 2025-10-21](AI_Reports/wen-hua-yu-mei-ti/00hou-dui-chu-mo-yan-shang-lian-huo-10mo-jiang-jin-2025-10-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%90%8D%E5%87%BA%E8%8E%AB%E8%A8%80%E4%B8%8A%E8%81%94%E8%8E%B710%E4%B8%87%E5%A5%96%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)
 - [巾帼华章 - 2025-10-16](AI_Reports/wen-hua-yu-mei-ti/jin-guo-hua-zhang-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%BE%E5%B8%BC%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
