@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：57
+报告总数：58
 
 ---
 
@@ -22,6 +22,10 @@
 - [大风+暴雨要来了！这些地区注意防范](da-feng-bao-yu-yao-lai-liao-zhe-xie-di-qu-zhu-yi-fang-fan-2025-09-16--v1.md) - 2025-09-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%A3%8E%2B%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%81%E8%BF%99%E4%BA%9B%E5%9C%B0%E5%8C%BA%E6%B3%A8%E6%84%8F%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)
 - [店家回应炒蛏子和螃蟹两个菜661元](dian-jia-hui-ying-chao-cheng-zi-he-pang-xie-liang-ge-cai-661yuan-2025-10-07--v1.md) - 2025-10-07 (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E7%82%92%E8%9B%8F%E5%AD%90%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)
 - [动物园狮子因腿短走红 被叫“柯基”](dong-wu-yuan-shi-zi-yin-tui-duan-zou-hong-bei-jiao-ke-ji-2025-11-01--v1.md) - 2025-11-01 (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%8B%AE%E5%AD%90%E5%9B%A0%E8%85%BF%E7%9F%AD%E8%B5%B0%E7%BA%A2+%E8%A2%AB%E5%8F%AB%E2%80%9C%E6%9F%AF%E5%9F%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## E
+
+- [儿时的公益广告照进现实](er-shi-de-gong-yi-yan-gao-zhao-jin-xian-shi-2025-11-04--v1.md) - 2025-11-04 (v1) [来源](https://www.baidu.com/s?wd=%E5%84%BF%E6%97%B6%E7%9A%84%E5%85%AC%E7%9B%8A%E5%B9%BF%E5%91%8A%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)
 
 ## F
 
