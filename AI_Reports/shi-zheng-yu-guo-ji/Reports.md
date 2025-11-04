@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：171
+报告总数：173
 
 ---
 
@@ -85,6 +85,7 @@
 - [江苏、江西省委书记等带头捐款](jiang-su-jiang-xi-sheng-wei-shu-ji-deng-dai-tou-juan-kuan-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E3%80%81%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%AD%89%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [解放军正告澳方立即停止侵权挑衅](jie-fang-jun-zheng-gao-ao-fang-li-ji-ting-zhi-qin-quan-tiao-xin-2025-10-21--v1.md) - 2025-10-21 (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%AD%A3%E5%91%8A%E6%BE%B3%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85&sa=fyb_news&rsv_dl=fyb_news)
 - [今天是第一个台湾光复纪念日](jin-tian-shi-di-yi-ge-tai-wan-guang-fu-ji-nian-ri-2025-10-25--v1.md) - 2025-10-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%B0%E6%B9%BE%E5%85%82%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)
+- [金永南逝世朝鲜举行国葬 金正恩吊唁](jin-yong-nan-shi-shi-zhao-xian-ju-xing-guo-zang-jin-zheng-en-diao-yan-2025-11-04--v1.md) - 2025-11-04 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%B0%B8%E5%8D%97%E9%80%9D%E4%B8%96%E6%9C%9D%E9%B2%9D%E4%B8%BE%E8%A1%8C%E5%9B%BD%E8%91%AC+%E9%87%91%E6%AD%A3%E6%81%A9%E5%90%8A%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [金正恩参谒中国人民志愿军烈士陵园](jin-zheng-en-can-ye-zhong-guo-ren-min-zhi-yuan-jun-lie-shi-ling-yuan-2025-10-25--v1.md) - 2025-10-25 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E5%8F%82%E8%B0%92%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E9%99%B5%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [金正恩乘专列来华 现场画面公布](jin-zheng-en-cheng-zhuan-lie-lai-hua-xian-chang-hua-mian-gong-bu-2025-09-02--v1.md) - 2025-09-02 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%98%E4%B8%93%E5%88%97%E6%9D%A5%E5%8D%8E+%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)
 - [近距离感受“大国重器”](jin-ju-chi-gan-shou-da-guo-zhong-qi-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%91%E8%B7%9D%E7%A6%BB%E6%84%9F%E5%8F%97%E2%80%9C%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -196,6 +197,7 @@
 - [习近平祝贺中国致公党成立100周年](xi-jin-ping-zhu-he-zhong-guo-zhi-gong-dang-cheng-li-100zhou-nian-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E8%87%B4%E5%85%AC%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平总书记为“她”点赞](xi-jin-ping-zong-shu-ji-wei-ta-dian-zan-2025-10-13--v1.md) - 2025-10-13 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E2%80%9C%E5%A5%B9%E2%80%9D%E7%82%B9%E8%B5%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平：要做到全村最好的房子是学校](xi-jin-ping-yao-zuo-dao-quan-cun-zui-hao-de-fang-zi-shi-xue-xiao-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%A6%81%E5%81%9A%E5%88%B0%E5%85%A8%E6%9D%91%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%BF%E5%AD%90%E6%98%AF%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)
+- [习主席的韩国APEC时间](xi-zhu-xi-de-han-guo-apecshi-jian-2025-11-04--v1.md) - 2025-11-04 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E9%9F%A9%E5%9B%BDAPEC%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [习主席的这些话亮明中国态度](xi-zhu-xi-de-zhe-xie-hua-liang-ming-zhong-guo-tai-du-2025-10-31--v1.md) - 2025-10-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E8%BF%99%E4%BA%9B%E8%AF%9D%E4%BA%AE%E6%98%8E%E4%B8%AD%E5%9B%BD%E6%80%81%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [现场直播九三阅兵](xian-chang-zhi-bo-jiu-san-yue-bing-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [详讯：习近平同特朗普通电话](xiang-xun-xi-jin-ping-tong-te-lang-pu-tong-dian-hua-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E8%AF%A6%E8%AE%AF%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
