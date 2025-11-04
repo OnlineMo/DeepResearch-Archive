@@ -1,9 +1,13 @@
 # 经济与市场 报告索引
 
 本页包含 **经济与市场** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：7
+报告总数：8
 
 ---
+
+## 0-9
+
+- [9组数字速览第八届进博会](9zu-shu-zi-su-lan-di-ba-jie-jin-bo-hui-2025-11-04--v1.md) - 2025-11-04 (v1) [来源](https://www.baidu.com/s?wd=9%E7%BB%84%E6%95%B0%E5%AD%97%E9%80%9F%E8%A7%88%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 
 ## C
 
