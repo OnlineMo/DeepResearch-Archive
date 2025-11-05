@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：15
+报告总数：16
 
 ---
 
@@ -46,6 +46,7 @@
 ## Y
 
 - [一颗纽扣 两个朋友](yi-ke-niu-kou-liang-ge-peng-you-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%A2%97%E7%BA%BD%E6%89%A3+%E4%B8%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)
+- [以开放汇合作之力](yi-kai-fang-hui-he-zuo-zhi-li-2025-11-05--v1.md) - 2025-11-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BC%80%E6%94%BE%E6%B1%87%E5%90%88%E4%BD%9C%E4%B9%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
