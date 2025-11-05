@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [今年APEC会议有哪些成果 - 2025-11-05](AI_Reports/shi-zheng-yu-guo-ji/jin-nian-apechui-yi-you-na-xie-cheng-guo-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4APEC%E4%BC%9A%E8%AE%AE%E6%9C%89%E5%93%AA%E4%BA%9B%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)
+- [美国一飞机坠毁 附近大楼被撞 - 2025-11-05](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-yi-fei-ji-zhui-hui-fu-jin-da-lou-bei-zhuang-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81+%E9%99%84%E8%BF%91%E5%A4%A7%E6%A5%BC%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [金永南逝世朝鲜举行国葬 金正恩吊唁 - 2025-11-04](AI_Reports/shi-zheng-yu-guo-ji/jin-yong-nan-shi-shi-zhao-xian-ju-xing-guo-zang-jin-zheng-en-diao-yan-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%B0%B8%E5%8D%97%E9%80%9D%E4%B8%96%E6%9C%9D%E9%B2%9D%E4%B8%BE%E8%A1%8C%E5%9B%BD%E8%91%AC+%E9%87%91%E6%AD%A3%E6%81%A9%E5%90%8A%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [习主席的韩国APEC时间 - 2025-11-04](AI_Reports/shi-zheng-yu-guo-ji/xi-zhu-xi-de-han-guo-apecshi-jian-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E9%9F%A9%E5%9B%BDAPEC%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [更好的中国 造福亚太和世界 - 2025-11-03](AI_Reports/shi-zheng-yu-guo-ji/geng-hao-de-zhong-guo-zao-fu-ya-tai-he-shi-jie-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%B8%AD%E5%9B%BD+%E9%80%A0%E7%A6%8F%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,12 +23,11 @@
 - [从“十五五”全球热词看中国新机遇 - 2025-10-27](AI_Reports/shi-zheng-yu-guo-ji/cong-shi-wu-wu-quan-qiu-re-ci-kan-zhong-guo-xin-ji-yu-2025-10-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E5%85%A8%E7%90%83%E7%83%AD%E8%AF%8D%E7%9C%8B%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)
 - [缅军方引爆KK园区 上千人跳河出逃 - 2025-10-27](AI_Reports/shi-zheng-yu-guo-ji/mian-jun-fang-yin-bao-kkyuan-qu-shang-qian-ren-tiao-he-chu-tao-2025-10-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BC%85%E5%86%9B%E6%96%B9%E5%BC%95%E7%88%86KK%E5%9B%AD%E5%8C%BA+%E4%B8%8A%E5%8D%83%E4%BA%BA%E8%B7%B3%E6%B2%B3%E5%87%BA%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)
 - [抓住时间窗口 赢得战略主动 - 2025-10-27](AI_Reports/shi-zheng-yu-guo-ji/zhua-zhu-shi-jian-chuang-kou-ying-de-zhan-lue-zhu-dong-2025-10-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%93%E4%BD%8F%E6%97%B6%E9%97%A8%E7%AA%97%E5%8F%A3+%E8%B5%A2%E5%BE%97%E6%88%98%E7%95%A5%E4%B8%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
-- [8个高频词一起学习四中全会公报 - 2025-10-26](AI_Reports/shi-zheng-yu-guo-ji/8ge-gao-pin-ci-yi-qi-xue-xi-si-zhong-quan-hui-gong-bao-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=8%E4%B8%AA%E9%AB%98%E9%A2%91%E8%AF%8D%E4%B8%80%E8%B5%B7%E5%AD%A6%E4%B9%A0%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
-- [从一份蓝图 看见中国的明天 - 2025-10-26](AI_Reports/shi-zheng-yu-guo-ji/cong-yi-fen-lan-tu-kan-jian-zhong-guo-de-ming-tian-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%80%E4%BB%BD%E8%93%9D%E5%9B%BE+%E7%9C%8B%E8%A7%81%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [网友买高铁靠窗座位却遇“面壁座” - 2025-11-05](AI_Reports/she-hui-yu-fa-zhi/wang-you-mai-gao-tie-kao-chuang-zuo-wei-que-yu-mian-bi-zuo-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E9%AB%98%E9%93%81%E9%9D%A0%E7%AA%97%E5%BA%A7%E4%BD%8D%E5%8D%B4%E9%81%87%E2%80%9C%E9%9D%A2%E5%A3%81%E5%BA%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [儿时的公益广告照进现实 - 2025-11-04](AI_Reports/she-hui-yu-fa-zhi/er-shi-de-gong-yi-yan-gao-zhao-jin-xian-shi-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%84%BF%E6%97%B6%E7%9A%84%E5%85%AC%E7%9B%8A%E5%B9%BF%E5%91%8A%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [央视起底兼职骗局黑色产业链 - 2025-11-03](AI_Reports/she-hui-yu-fa-zhi/yang-shi-qi-di-jian-zhi-pian-ju-hei-se-chan-ye-lian-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [90后民警油罐车内救被困司机牺牲 - 2025-11-02](AI_Reports/she-hui-yu-fa-zhi/90hou-min-jing-you-guan-che-nei-jiu-bei-kun-si-ji-xi-sheng-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=90%E5%90%8E%E6%B0%91%E8%AD%A6%E6%B2%B9%E7%BD%90%E8%BD%A6%E5%86%85%E6%95%91%E8%A2%AB%E5%9B%B0%E5%8F%B8%E6%9C%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,11 +47,11 @@
 - [“人生的意义”小吃店爆红后歇业 - 2025-10-12](AI_Reports/she-hui-yu-fa-zhi/ren-sheng-de-yi-yi-xiao-chi-dian-bao-hong-hou-xie-ye-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89%E2%80%9D%E5%B0%8F%E5%90%83%E5%BA%97%E7%88%86%E7%BA%A2%E5%90%8E%E6%AD%87%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [中国人口预期寿命不断提高 - 2025-10-11](AI_Reports/she-hui-yu-fa-zhi/zhong-guo-ren-kou-yu-qi-shou-ming-bu-duan-ti-gao-2025-10-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E9%A2%84%E6%9C%9F%E5%AF%BF%E5%91%BD%E4%B8%8D%E6%96%AD%E6%8F%90%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)
 - [钱塘江现震撼月亮潮 - 2025-10-09](AI_Reports/she-hui-yu-fa-zhi/qian-tang-jiang-xian-zhen-han-yue-liang-chao-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E7%8E%B0%E9%9C%87%E6%92%BC%E6%9C%88%E4%BA%AE%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)
-- [中国游客马来西亚失联 定位在海里 - 2025-10-08](AI_Reports/she-hui-yu-fa-zhi/zhong-guo-you-ke-ma-lai-xi-ya-shi-lian-ding-wei-zai-hai-li-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A4%B1%E8%81%94+%E5%AE%9A%E4%BD%8D%E5%9C%A8%E6%B5%B7%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
 
+- [刘思涵你的校服在非洲火了 - 2025-11-05](AI_Reports/yu-le-yu-ming-xing/liu-si-han-ni-de-xiao-fu-zai-fei-zhou-huo-liao-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%98%E6%80%9D%E6%B6%B5%E4%BD%A0%E7%9A%84%E6%A0%A1%E6%9C%8D%E5%9C%A8%E9%9D%9E%E6%B4%B2%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [不张扬 自闪耀 她们自成星辰 - 2025-10-15](AI_Reports/yu-le-yu-ming-xing/bu-zhang-yang-zi-shan-yao-ta-men-zi-cheng-xing-chen-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8D%E5%BC%A0%E6%89%AC+%E8%87%AA%E9%97%AA%E8%80%80+%E5%A5%B9%E4%BB%AC%E8%87%AA%E6%88%90%E6%98%9F%E8%BE%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [女厕一推门就看到男明星“咧嘴笑” - 2025-09-08](AI_Reports/yu-le-yu-ming-xing/nu-ce-yi-tui-men-jiu-kan-dao-nan-ming-xing-lie-zui-xiao-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8E%95%E4%B8%80%E6%8E%A8%E9%97%A8%E5%B0%B1%E7%9C%8B%E5%88%B0%E7%94%B7%E6%98%8E%E6%98%9F%E2%80%9C%E5%92%A7%E5%98%B4%E7%AC%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [演员段伟伦去世 曾出演警察故事系列 - 2025-08-28](AI_Reports/yu-le-yu-ming-xing/yan-yuan-duan-wei-lun-qu-shi-ceng-chu-yan-jing-cha-gu-shi-xi-lie-2025-08-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%AE%B5%E4%BC%9F%E4%BC%A6%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E8%AD%A6%E5%AF%9F%E6%95%85%E4%BA%8B%E7%B3%BB%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)
@@ -241,6 +242,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [以开放汇合作之力 - 2025-11-05](AI_Reports/wei-fen-lei/yi-kai-fang-hui-he-zuo-zhi-li-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BC%80%E6%94%BE%E6%B1%87%E5%90%88%E4%BD%9C%E4%B9%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [绝密地址！青海省西宁市500号信箱 - 2025-11-02](AI_Reports/wei-fen-lei/jue-mi-di-zhi-qing-hai-sheng-xi-zhu-shi-500hao-xin-xiang-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%9D%E5%AF%86%E5%9C%B0%E5%9D%80%EF%BC%81%E9%9D%92%E6%B5%B7%E7%9C%81%E8%A5%BF%E5%AE%81%E5%B8%82500%E5%8F%B7%E4%BF%A1%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [注意！是“10086”不是“l0086” - 2025-10-31](AI_Reports/wei-fen-lei/zhu-yi-shi-10086-bu-shi-l0086-2025-10-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%98%AF%E2%80%9C10086%E2%80%9D%E4%B8%8D%E6%98%AF%E2%80%9Cl0086%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [2000多年前的人脸认证 - 2025-10-26](AI_Reports/wei-fen-lei/2000duo-nian-qian-de-ren-lian-ren-zheng-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AE%A4%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)
