@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：58
+报告总数：59
 
 ---
 
@@ -83,6 +83,7 @@
 
 ## W
 
+- [网友买高铁靠窗座位却遇“面壁座”](wang-you-mai-gao-tie-kao-chuang-zuo-wei-que-yu-mian-bi-zuo-2025-11-05--v1.md) - 2025-11-05 (v1) [来源](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E9%AB%98%E9%93%81%E9%9D%A0%E7%AA%97%E5%BA%A7%E4%BD%8D%E5%8D%B4%E9%81%87%E2%80%9C%E9%9D%A2%E5%A3%81%E5%BA%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [武汉现超大月饼重388斤 500人排队吃](wu-yi-xian-chao-da-yue-bing-zhong-388jin-500ren-pai-dui-chi-2025-10-07--v1.md) - 2025-10-07 (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%8E%B0%E8%B6%85%E5%A4%A7%E6%9C%88%E9%A5%BC%E9%87%8D388%E6%96%A4+500%E4%BA%BA%E6%8E%92%E9%98%9F%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## X
