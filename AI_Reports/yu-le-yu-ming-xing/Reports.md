@@ -1,13 +1,17 @@
 # 娱乐与明星 报告索引
 
 本页包含 **娱乐与明星** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：4
+报告总数：5
 
 ---
 
 ## B
 
 - [不张扬 自闪耀 她们自成星辰](bu-zhang-yang-zi-shan-yao-ta-men-zi-cheng-xing-chen-2025-10-15--v1.md) - 2025-10-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8D%E5%BC%A0%E6%89%AC+%E8%87%AA%E9%97%AA%E8%80%80+%E5%A5%B9%E4%BB%AC%E8%87%AA%E6%88%90%E6%98%9F%E8%BE%B0&sa=fyb_news&rsv_dl=fyb_news)
+
+## L
+
+- [刘思涵你的校服在非洲火了](liu-si-han-ni-de-xiao-fu-zai-fei-zhou-huo-liao-2025-11-05--v1.md) - 2025-11-05 (v1) [来源](https://www.baidu.com/s?wd=%E5%88%98%E6%80%9D%E6%B6%B5%E4%BD%A0%E7%9A%84%E6%A0%A1%E6%9C%8D%E5%9C%A8%E9%9D%9E%E6%B4%B2%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## N
 
