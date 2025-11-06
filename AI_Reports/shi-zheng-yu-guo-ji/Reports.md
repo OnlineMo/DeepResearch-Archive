@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：175
+报告总数：176
 
 ---
 
@@ -52,6 +52,7 @@
 ## E
 
 - [俄方：普京在华停留如此久实属罕见](e-fang-pu-jing-zai-hua-ting-liu-ru-ci-jiu-shi-shu-han-jian-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%9C%A8%E5%8D%8E%E5%81%9C%E7%95%99%E5%A6%82%E6%AD%A4%E4%B9%85%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)
+- [俄罗斯接连亮出“大杀器”](e-luo-si-jie-lian-liang-chu-da-sha-qi-2025-11-06--v1.md) - 2025-11-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%8E%A5%E8%BF%9E%E4%BA%AE%E5%87%BA%E2%80%9C%E5%A4%A7%E6%9D%80%E5%99%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [二十届四中全会10月20日至23日召开](er-shi-jie-si-zhong-quan-hui-10yue-20ri-zhi-23ri-zhao-kai-2025-09-30--v1.md) - 2025-09-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A10%E6%9C%8820%E6%97%A5%E8%87%B323%E6%97%A5%E5%8F%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
 - [二十届四中全会公报发布](er-shi-jie-si-zhong-quan-hui-gong-bao-fa-bu-2025-10-24--v1.md) - 2025-10-24 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 
