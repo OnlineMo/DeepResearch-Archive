@@ -1,7 +1,7 @@
 # 文化与媒体 报告索引
 
 本页包含 **文化与媒体** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：15
+报告总数：16
 
 ---
 
@@ -46,3 +46,7 @@
 - [这一天致青年 我们如何赓续与传承](zhe-yi-tian-zhi-qing-nian-wo-men-ru-he-geng-xu-yu-chuan-cheng-2025-10-02--v1.md) - 2025-10-02 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%A4%A9%E8%87%B4%E9%9D%92%E5%B9%B4+%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E8%B5%93%E7%BB%AD%E4%B8%8E%E4%BC%A0%E6%89%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [中华文化跃动传承之力](zhong-hua-wen-hua-yue-dong-chuan-cheng-zhi-li-2025-10-08--v1.md) - 2025-10-08 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E8%B7%83%E5%8A%A8%E4%BC%A0%E6%89%BF%E4%B9%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [最深沉、最持久的情感所系](zui-shen-chen-zui-chi-jiu-de-qing-gan-suo-xi-2025-10-03--v1.md) - 2025-10-03 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E6%B7%B1%E6%B2%B9%E3%80%81%E6%9C%80%E6%8C%81%E4%B9%85%E7%9A%84%E6%83%85%E6%84%9F%E6%89%80%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)
+
+## “
+
+- [“大海”的底气](da-hai-de-di-qi-2025-11-06--v1.md) - 2025-11-06 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B5%B7%E2%80%9D%E7%9A%84%E5%BA%95%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)
