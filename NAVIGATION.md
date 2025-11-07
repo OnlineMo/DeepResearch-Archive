@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [高标准建设海南自由贸易港 - 2025-11-07](AI_Reports/shi-zheng-yu-guo-ji/gao-biao-zhun-jian-she-hai-nan-zi-you-mao-yi-gang-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%87%E5%87%86%E5%BB%BA%E8%AE%BE%E6%B5%B7%E5%8D%97%E8%87%AA%E7%94%B1%E8%B4%B8%E6%98%93%E6%B8%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [耿爽点名美国：那我也就不再含蓄了 - 2025-11-07](AI_Reports/shi-zheng-yu-guo-ji/geng-shuang-dian-ming-mei-guo-na-wo-ye-jiu-bu-zai-han-xu-liao-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%80%BF%E7%88%BD%E7%82%B3%E5%90%8D%E7%BE%8E%E5%9B%BD%EF%BC%9A%E9%82%A3%E6%88%91%E4%B9%9F%E5%B0%B1%E4%B8%8D%E5%86%8D%E5%90%AB%E8%93%84%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [首个、首座、首次！中国硬核实力再刷屏 - 2025-11-07](AI_Reports/shi-zheng-yu-guo-ji/shou-ge-shou-zuo-shou-ci-zhong-guo-ying-he-shi-li-zai-shua-ping-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E3%80%81%E9%A6%96%E5%BA%A7%E3%80%81%E9%A6%96%E6%AC%A1%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%E5%86%8D%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [俄罗斯接连亮出“大杀器” - 2025-11-06](AI_Reports/shi-zheng-yu-guo-ji/e-luo-si-jie-lian-liang-chu-da-sha-qi-2025-11-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%8E%A5%E8%BF%9E%E4%BA%AE%E5%87%BA%E2%80%9C%E5%A4%A7%E6%9D%80%E5%99%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [今年APEC会议有哪些成果 - 2025-11-05](AI_Reports/shi-zheng-yu-guo-ji/jin-nian-apechui-yi-you-na-xie-cheng-guo-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4APEC%E4%BC%9A%E8%AE%AE%E6%9C%89%E5%93%AA%E4%BA%9B%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [美国一飞机坠毁 附近大楼被撞 - 2025-11-05](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-yi-fei-ji-zhui-hui-fu-jin-da-lou-bei-zhuang-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81+%E9%99%84%E8%BF%91%E5%A4%A7%E6%A5%BC%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [“台独”沈伯洋被立案侦查意味什么 - 2025-10-29](AI_Reports/shi-zheng-yu-guo-ji/tai-du-chen-bo-yang-bei-li-an-zhen-cha-yi-wei-shi-yao-2025-10-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E6%B2%88%E4%BC%AF%E6%B4%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5%E6%84%8F%E5%91%B3%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平参观故宫博物院展览 - 2025-10-28](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-can-guan-gu-gong-bo-wu-yuan-zhan-lan-2025-10-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E8%A7%82%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E5%B1%95%E8%A7%88&sa=fyb_news&rsv_dl=fyb_news)
 - [新华社重磅发文！两岸统一有这些利好 - 2025-10-28](AI_Reports/shi-zheng-yu-guo-ji/xin-hua-she-zhong-bang-fa-wen-liang-an-tong-yi-you-zhe-xie-li-hao-2025-10-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%87%8D%E7%B6%85%E7%99%BC%E6%96%87%EF%BC%81%E5%85%A9%E5%B2%B8%E7%B6%B1%E4%B8%80%E6%9C%89%E9%80%99%E4%BA%9B%E5%88%A9%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)
-- [2架美军机在南海相继坠毁 - 2025-10-27](AI_Reports/shi-zheng-yu-guo-ji/2jia-mei-jun-ji-zai-nan-hai-xiang-ji-zhui-hui-2025-10-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8D%97%E6%B5%B7%E7%9B%B8%E7%BB%A7%E5%9D%A0%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)
-- [从“十五五”全球热词看中国新机遇 - 2025-10-27](AI_Reports/shi-zheng-yu-guo-ji/cong-shi-wu-wu-quan-qiu-re-ci-kan-zhong-guo-xin-ji-yu-2025-10-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E5%85%A8%E7%90%83%E7%83%AD%E8%AF%8D%E7%9C%8B%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)
-- [缅军方引爆KK园区 上千人跳河出逃 - 2025-10-27](AI_Reports/shi-zheng-yu-guo-ji/mian-jun-fang-yin-bao-kkyuan-qu-shang-qian-ren-tiao-he-chu-tao-2025-10-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BC%85%E5%86%9B%E6%96%B9%E5%BC%95%E7%88%86KK%E5%9B%AD%E5%8C%BA+%E4%B8%8A%E5%8D%83%E4%BA%BA%E8%B7%B3%E6%B2%B3%E5%87%BA%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -81,6 +81,7 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [17个项目获互联网大会领先科技奖 - 2025-11-07](AI_Reports/ke-ji-yu-hu-lian-wang/17ge-xiang-mu-huo-hu-lian-wang-da-hui-ling-xian-ke-ji-jiang-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=17%E4%B8%AA%E9%A1%B9%E7%9B%AE%E8%8E%B7%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E9%A2%86%E5%85%88%E7%A7%91%E6%8A%80%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)
 - [马斯克称5年后不再有手机和App - 2025-11-02](AI_Reports/ke-ji-yu-hu-lian-wang/ma-si-ke-cheng-5nian-hou-bu-zai-you-shou-ji-he-app-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%8B%E6%89%8B%E6%9C%BA%E5%92%8CApp&sa=fyb_news&rsv_dl=fyb_news)
 - [微信朋友圈凉了？回应来了 - 2025-10-16](AI_Reports/ke-ji-yu-hu-lian-wang/wei-xin-peng-you-quan-liang-liao-hui-ying-lai-liao-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%87%89%E4%BA%86%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [eSIM手机来了 移动联通电信均开通 - 2025-10-14](AI_Reports/ke-ji-yu-hu-lian-wang/esimshou-ji-lai-liao-yi-dong-lian-tong-dian-xin-jun-kai-tong-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=eSIM%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86+%E7%A7%BB%E5%8A%A8%E8%81%94%E9%80%9A%E7%94%B5%E4%BF%A1%E5%9D%87%E5%BC%80%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)
@@ -101,6 +102,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [今年是罕见的“九月早立冬” - 2025-11-07](AI_Reports/ke-xue-yu-tai-kong/jin-nian-shi-han-jian-de-jiu-yue-zao-li-dong-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E6%98%AF%E7%BD%95%E8%A7%81%E7%9A%84%E2%80%9C%E4%B9%9D%E6%9C%88%E6%97%A9%E7%AB%8B%E5%86%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中国航天器首次观测到星际天体 - 2025-11-06](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-hang-tian-qi-shou-ci-guan-ce-dao-xing-ji-tian-ti-2025-11-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%99%A8%E9%A6%96%E6%AC%A1%E8%A7%82%E6%B5%8B%E5%88%B0%E6%98%9F%E9%99%85%E5%A4%A9%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)
 - [迎接神二十回家 东风着陆场准备就绪 - 2025-11-03](AI_Reports/ke-xue-yu-tai-kong/ying-jie-shen-er-shi-hui-jia-dong-feng-zhao-lu-chang-zhun-bei-jiu-xu-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%8E%E6%8E%A5%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9E%E5%AE%B6+%E4%B8%9C%E9%A3%8E%E7%9D%80%E9%99%86%E5%9C%BA%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [从绕地球飞3圈到只飞2圈 - 2025-11-01](AI_Reports/ke-xue-yu-tai-kong/cong-rao-di-qiu-fei-3quan-dao-zhi-fei-2quan-2025-11-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E7%BB%95%E5%9C%B0%E7%90%83%E9%A3%9E3%E5%9C%88%E5%88%B0%E5%8F%AA%E9%A3%9E2%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)
