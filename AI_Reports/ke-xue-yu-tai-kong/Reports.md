@@ -1,7 +1,7 @@
 # 科学与太空 报告索引
 
 本页包含 **科学与太空** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：14
+报告总数：15
 
 ---
 
@@ -21,6 +21,7 @@
 ## J
 
 - [今冬是否为超级冷冬？气象局释疑](jin-dong-shi-fou-wei-chao-ji-leng-dong-qi-xiang-ju-shi-yi-2025-10-23--v1.md) - 2025-10-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%86%AC%E6%98%AF%E5%90%A6%E4%B8%BA%E8%B6%85%E7%BA%A7%E5%86%B7%E5%86%AC%EF%BC%9F%E6%B0%B4%E8%B1%A1%E5%B1%80%E9%87%8A%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)
+- [今年是罕见的“九月早立冬”](jin-nian-shi-han-jian-de-jiu-yue-zao-li-dong-2025-11-07--v1.md) - 2025-11-07 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E6%98%AF%E7%BD%95%E8%A7%81%E7%9A%84%E2%80%9C%E4%B9%9D%E6%9C%88%E6%97%A9%E7%AB%8B%E5%86%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## N
 
