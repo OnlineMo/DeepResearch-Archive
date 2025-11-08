@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：59
+报告总数：60
 
 ---
 
@@ -16,6 +16,10 @@
 ## A
 
 - [按摩店初中文凭小伙娶美国女博士](an-mo-dian-chu-zhong-wen-ping-xiao-huo-qu-mei-guo-nu-bo-shi-2025-10-27--v1.md) - 2025-10-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%8C%89%E6%91%A9%E5%BA%97%E5%88%9D%E4%B8%AD%E6%96%87%E5%87%AD%E5%B0%8F%E4%BC%99%E5%A8%B6%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)
+
+## B
+
+- [被欠物业费1200万 物业退出不干了](bei-qian-wu-ye-fei-1200mo-wu-ye-tui-chu-bu-gan-liao-2025-11-08--v1.md) - 2025-11-08 (v1) [来源](https://www.baidu.com/s?wd=%E8%A2%AB%E6%AC%A0%E7%89%A9%E4%B8%9A%E8%B4%B91200%E4%B8%87+%E7%89%A9%E4%B8%9A%E9%80%80%E5%87%BA%E4%B8%8D%E5%B9%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
 
