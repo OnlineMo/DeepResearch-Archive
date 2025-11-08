@@ -1,12 +1,13 @@
 # 旅游与出行 报告索引
 
 本页包含 **旅游与出行** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：11
+报告总数：12
 
 ---
 
 ## B
 
+- [北京飞悉尼惊现-43元票价 客服回应](bei-jing-fei-xi-ni-liang-xian-43yuan-piao-jie-ke-fu-hui-ying-2025-11-08--v1.md) - 2025-11-08 (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A3%9E%E6%82%89%E5%B0%BC%E6%83%8A%E7%B0%BE-43%E5%85%83%E7%A5%A8%E4%BB%B7+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [被悟空带火的小西天：游客暴增百倍](bei-wu-kong-dai-huo-de-xiao-xi-tian-you-ke-bao-zeng-bai-bei-2025-10-05--v1.md) - 2025-10-05 (v1) [来源](https://www.baidu.com/s?wd=%E8%A2%AB%E6%82%9F%E7%A9%BA%E5%B8%A6%E7%81%AB%E7%9A%84%E5%B0%8F%E8%A5%BF%E5%A4%A9%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%9A%B4%E5%A2%9E%E7%99%BE%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
