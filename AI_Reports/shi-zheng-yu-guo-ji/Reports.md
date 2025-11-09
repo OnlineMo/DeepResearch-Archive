@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：180
+报告总数：182
 
 ---
 
@@ -101,6 +101,7 @@
 ## K
 
 - [看上合发展壮大的“行动密码”](kan-shang-he-fa-zhan-zhuang-da-de-xing-dong-mi-ma-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%8A%E5%90%88%E5%8F%91%E5%B1%95%E5%A3%AE%E5%A4%A7%E7%9A%84%E2%80%9C%E8%A1%8C%E5%8A%A8%E5%AF%86%E7%A0%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [看习近平心系南粤大地](kan-xi-jin-ping-xin-xi-nan-yue-da-di-2025-11-09--v1.md) - 2025-11-09 (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E5%8D%97%E7%B2%A4%E5%A4%A7%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [看中国如何守住每一粒米](kan-zhong-guo-ru-he-shou-zhu-mei-yi-li-mi-2025-10-17--v1.md) - 2025-10-17 (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E5%AE%88%E4%BD%8F%E6%AF%8F%E4%B8%80%E7%B2%92%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [看总书记关心的清洁能源这样发电](kan-zong-shu-ji-guan-xin-de-qing-ji-neng-yuan-zhe-yang-fa-dian-2025-09-22--v1.md) - 2025-09-22 (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E5%BF%83%E7%9A%84%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90%E8%BF%99%E6%A0%B7%E5%8F%91%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [扩大高水平开放 拓展发展新空间](kuo-da-gao-shui-ping-kai-fang-tuo-zhan-fa-zhan-xin-kong-jian-2025-09-18--v1.md) - 2025-09-18 (v1) [来源](https://www.baidu.com/s?wd=%E6%89%A9%E5%A4%A7%E9%AB%98%E6%B0%B4%E5%B9%B3%E5%BC%80%E6%94%BE+%E6%8B%93%E5%B1%95%E5%8F%91%E5%B1%95%E6%96%B0%E7%A9%BA%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
@@ -175,6 +176,7 @@
 - [特朗普上诉失败 需赔女方8330万美元](te-lang-pu-shang-su-shi-bai-xu-pei-nu-fang-8330mo-mei-yuan-2025-09-09--v1.md) - 2025-09-09 (v1) [来源]([百度搜索](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E8%AF%89%E5%A4%B1%E8%B4%A5+%E9%9C%80%E8%B5%94%E5%A5%B3%E6%96%B98330%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news))
 - [特朗普：取消与普京的会面](te-lang-pu-qu-xiao-yu-pu-jing-de-hui-mian-2025-10-23--v1.md) - 2025-10-23 (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [天安门广场国庆升旗仪式完整视频](tian-an-men-yan-chang-guo-qing-sheng-qi-yi-shi-wan-zheng-shi-pin-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
+- [退休人员为让孩子留学给间谍送绝密](tui-xiu-ren-yuan-wei-rang-hai-zi-liu-xue-gei-jian-die-song-jue-mi-2025-11-09--v1.md) - 2025-11-09 (v1) [来源](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E4%B8%BA%E8%AE%A9%E5%AD%90%E5%A5%B3%E7%95%99%E5%AD%A6%E7%BB%99%E9%97%B4%E谍%E9%80%81%E7%BB%9D%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## W
 
