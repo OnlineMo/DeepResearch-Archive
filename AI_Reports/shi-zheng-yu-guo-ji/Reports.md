@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：182
+报告总数：183
 
 ---
 
@@ -189,6 +189,7 @@
 ## X
 
 - [习近平参观故宫博物院展览](xi-jin-ping-can-guan-gu-gong-bo-wu-yuan-zhan-lan-2025-10-28--v1.md) - 2025-10-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E8%A7%82%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E5%B1%95%E8%A7%88&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平出席第十五届全运会开幕式](xi-jin-ping-chu-xi-di-shi-wu-jie-quan-yun-hui-kai-mu-shi-2025-11-10--v1.md) - 2025-11-10 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%9C%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平出席福建舰入列授旗仪式](xi-jin-ping-chu-xi-fu-jian-jian-ru-lie-shou-qi-yi-shi-2025-11-08--v1.md) - 2025-11-08 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E6%8E%88%E6%97%97%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平回信勉励全国特岗教师代表](xi-jin-ping-hui-xin-mian-li-quan-guo-te-gang-jiao-shi-dai-biao-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E4%BF%A1%E5%8B%89%E5%8A%B1%E5%85%A8%E5%9B%BD%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%88%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见俄罗斯国家杜马主席](xi-jin-ping-hui-jian-e-luo-si-guo-jia-du-ma-zhu-xi-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
