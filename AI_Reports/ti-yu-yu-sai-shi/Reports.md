@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：8
+报告总数：10
 
 ---
 
@@ -12,6 +12,10 @@
 ## G
 
 - [观众为全红婵下起“娃娃雨”](guan-zhong-wei-quan-hong-chan-xia-qi-wa-wa-yu-2025-11-03--v1.md) - 2025-11-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E4%B8%BA%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8B%E8%B5%B7%E2%80%9C%E5%A8%83%E5%A8%83%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## M
+
+- [每天都吃很饱的荒野求生选手退赛](mei-tian-du-chi-hen-bao-de-huang-ye-qiu-sheng-xuan-shou-tui-sai-2025-11-10--v1.md) - 2025-11-10 (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%90%83%E5%BE%88%E9%A5%B1%E7%9A%84%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E9%80%89%E6%89%8B%E9%80%80%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Q
 
@@ -25,6 +29,7 @@
 
 ## S
 
+- [十五运会这些看点值得关注](shi-wu-yun-hui-zhe-xie-kan-dian-zhi-de-guan-zhu-2025-11-10--v1.md) - 2025-11-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%8C%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9C%8B%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [苏翊鸣完成世界上第一个背靠背1980](su-yi-ming-wan-cheng-shi-jie-shang-di-yi-ge-bei-kao-bei-1980-2025-10-10--v1.md) - 2025-10-10 (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%AE%8C%E6%88%90%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%83%8C%E9%9D%A0%E8%83%8C1980&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
