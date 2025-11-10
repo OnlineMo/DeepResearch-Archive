@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：60
+报告总数：61
 
 ---
 
@@ -99,6 +99,7 @@
 ## Y
 
 - [央视曝光直播间“高端四件套”猫腻](yang-shi-pu-guang-zhi-bo-jian-gao-duan-si-jian-tao-mao-ni-2025-09-22--v1.md) - 2025-09-22 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9B%B4%E6%92%AD%E9%97%B4%E2%80%9C%E9%AB%98%E7%AB%AF%E5%9B%9B%E4%BB%B6%E5%A5%97%E2%80%9D%E7%8C%AB%E8%85%BB&sa=fyb_news&rsv_dl=fyb_news)
+- [央视曝光：医保卡被薅羊毛](yang-shi-pu-guang-yi-bao-qia-bei-hao-yang-mao-2025-11-10--v1.md) - 2025-11-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A%E5%8C%BB%E4%BF%9D%E5%8D%A1%E8%A2%AB%E8%96%8B%E7%BE%8A%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝多地共享单车骑行中自动锁车](yang-shi-pu-duo-di-gong-xiang-dan-che-qi-xing-zhong-zi-dong-suo-che-2025-10-16--v1.md) - 2025-10-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%A4%9A%E5%9C%B0%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E9%AA%91%E8%A1%8C%E4%B8%AD%E8%87%AA%E5%8A%A8%E9%94%81%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [央视起底兼职骗局黑色产业链](yang-shi-qi-di-jian-zhi-pian-ju-hei-se-chan-ye-lian-2025-11-03--v1.md) - 2025-11-03 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [业主私挖300平地下室致32户开裂](ye-zhu-si-wa-300ping-di-xia-shi-zhi-32hu-kai-lie-2025-10-14--v1.md) - 2025-10-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%87%B432%E6%88%B7%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)
