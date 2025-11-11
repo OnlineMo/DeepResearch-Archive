@@ -1,13 +1,17 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：10
+报告总数：11
 
 ---
 
 ## B
 
 - [别错过！十五运会金牌赛程来了](bie-cuo-guo-shi-wu-yun-hui-jin-pai-sai-cheng-lai-liao-2025-11-06--v1.md) - 2025-11-06 (v1) [来源](https://www.baidu.com/s?wd=%E5%88%AB%E9%94%99%E8%BF%87%EF%BC%81%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%E8%B5%9B%E7%A8%8B%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+
+## D
+
+- [当甲骨文遇上十五运会](dang-jia-gu-wen-yu-shang-shi-wu-yun-hui-2025-11-11--v1.md) - 2025-11-11 (v1) [来源](https://www.baidu.com/s?wd=%E5%BD%93%E7%94%B2%E9%AA%A8%E6%96%87%E9%81%87%E4%B8%8A%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 
 ## G
 
