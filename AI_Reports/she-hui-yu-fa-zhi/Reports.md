@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：61
+报告总数：62
 
 ---
 
@@ -109,6 +109,7 @@
 - [游客因台风被困三亚：酒店玻璃都弯了](you-ke-yin-tai-feng-bei-kun-san-ya-jiu-dian-bo-li-du-wan-liao-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9B%A0%E5%8F%B0%E9%A3%8E%E8%A2%AB%E5%9B%B0%E4%B8%89%E4%BA%9A%EF%BC%9A%E9%85%92%E5%BA%97%E7%8E%BB%E7%92%83%E9%83%BD%E5%BC%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [俞孔坚坠亡前最后影像曝光](yu-kong-jian-zhui-wang-qian-zui-hou-ying-xiang-pu-guang-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%9E%E5%AD%94%E5%9D%A0%E4%BA%A1%E5%89%8D%E6%9C%80%E5%90%8E%E5%BD%B1%E5%83%8F%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 - [育儿补贴申领正式全面开放](yu-er-bu-tie-shen-ling-zheng-shi-quan-mian-kai-fang-2025-09-09--v1.md) - 2025-09-09 (v1) [来源](https://www.baidu.com/s?wd=%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E7%94%B3%E9%A2%86%E6%AD%A3%E5%BC%8F%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
+- [云南通报赤裸小孩事件](yun-nan-tong-bao-chi-luo-xiao-hai-shi-jian-2025-11-11--v1.md) - 2025-11-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E8%B5%A4%E8%A3%B8%E5%B0%8F%E5%AD%A9%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
