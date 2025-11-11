@@ -1,7 +1,7 @@
 # 财经与商业 报告索引
 
 本页包含 **财经与商业** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：9
+报告总数：10
 
 ---
 
@@ -20,6 +20,7 @@
 ## S
 
 - [数览大国金融“十四五”答卷](shu-lan-da-guo-jin-rong-shi-si-wu-da-juan-2025-10-16--v1.md) - 2025-10-16 (v1) [来源](https://www.baidu.com/s?wd=%E6%95%B0%E8%A7%88%E5%A4%A7%E5%9B%BD%E9%87%91%E8%9E%8D%E2%80%9C%E5%8D%81%E5%9B%9B%E4%BA%94%E2%80%9D%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
+- [双十一商品到手价全凭运气](shuang-shi-yi-shang-pin-dao-shou-jie-quan-ping-yun-qi-2025-11-11--v1.md) - 2025-11-11 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%95%86%E5%93%81%E5%88%B0%E6%89%8B%E4%BB%B7%E5%85%A8%E5%87%AD%E8%BF%90%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
