@@ -1,7 +1,7 @@
 # 文化与媒体 报告索引
 
 本页包含 **文化与媒体** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：16
+报告总数：17
 
 ---
 
@@ -20,6 +20,10 @@
 ## D
 
 - [端起历史的望远镜](duan-qi-li-shi-de-wang-yuan-jing-2025-09-19--v1.md) - 2025-09-19 (v1) [来源](https://www.baidu.com/s?wd=%E7%AB%AF%E8%B5%B7%E5%8E%86%E5%8F%B2%E7%9A%84%E6%9C%9B%E8%BF%9C%E9%95%9C&sa=fyb_news&rsv_dl=fyb_news)
+
+## G
+
+- [故宫博物院讣告：耿宝昌逝世](gu-gong-bo-wu-yuan-fu-gao-geng-bao-chang-shi-shi-2025-11-11--v1.md) - 2025-11-11 (v1) [来源](https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%AE%A3%E5%91%8A%EF%BC%9A%E8%80%BF%E5%AE%9D%E6%98%8C%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)
 
 ## J
 
