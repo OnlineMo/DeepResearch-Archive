@@ -1,12 +1,13 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：11
+报告总数：13
 
 ---
 
 ## B
 
+- [比孙杨、潘展乐还快！他是谁](bi-sun-yang-pan-zhan-le-huan-kuai-ta-shi-shui-2025-11-12--v1.md) - 2025-11-12 (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%94%E5%AD%99%E6%9D%A8%E3%80%81%E6%BD%98%E5%B1%95%E4%B9%90%E8%BF%98%E5%BF%AB%EF%BC%81%E4%BB%96%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
 - [别错过！十五运会金牌赛程来了](bie-cuo-guo-shi-wu-yun-hui-jin-pai-sai-cheng-lai-liao-2025-11-06--v1.md) - 2025-11-06 (v1) [来源](https://www.baidu.com/s?wd=%E5%88%AB%E9%94%99%E8%BF%87%EF%BC%81%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%E8%B5%9B%E7%A8%8B%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
@@ -15,6 +16,7 @@
 
 ## G
 
+- [跟着全运会吉祥物打卡世界级湾区](gen-zhao-quan-yun-hui-ji-xiang-wu-da-qia-shi-jie-ji-wan-qu-2025-11-12--v1.md) - 2025-11-12 (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E6%89%93%E5%8D%A1%E4%B8%96%E7%95%8C%E7%BA%A7%E6%B9%BE%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [观众为全红婵下起“娃娃雨”](guan-zhong-wei-quan-hong-chan-xia-qi-wa-wa-yu-2025-11-03--v1.md) - 2025-11-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E4%B8%BA%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8B%E8%B5%B7%E2%80%9C%E5%A8%83%E5%A8%83%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## M
