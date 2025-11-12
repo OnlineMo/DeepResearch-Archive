@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：184
+报告总数：185
 
 ---
 
@@ -205,6 +205,7 @@
 - [习近平在全球妇女峰会提出四点建议](xi-jin-ping-zai-quan-qiu-fu-nu-feng-hui-ti-chu-si-dian-jian-yi-2025-10-14--v1.md) - 2025-10-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E6%8F%90%E5%87%BA%E5%9B%9B%E7%82%B9%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平重点强调这些历史启迪](xi-jin-ping-zhong-dian-qiang-diao-zhe-xie-li-shi-qi-di-2025-09-05--v1.md) - 2025-09-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E7%82%B9%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E5%8E%86%E5%8F%B2%E5%90%AF%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平祝贺中国致公党成立100周年](xi-jin-ping-zhu-he-zhong-guo-zhi-gong-dang-cheng-li-100zhou-nian-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E8%87%B4%E5%85%AC%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平总书记海南广东之行纪实](xi-jin-ping-zong-shu-ji-hai-nan-yan-dong-zhi-xing-ji-shi-2025-11-12--v1.md) - 2025-11-12 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%B5%B7%E5%8D%97%E5%B9%BF%E4%B8%9C%E4%B9%8B%E8%A1%8C%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平总书记琼粤行](xi-jin-ping-zong-shu-ji-qiong-yue-xing-2025-11-11--v1.md) - 2025-11-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%90%BC%E7%B2%A4%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平总书记为“她”点赞](xi-jin-ping-zong-shu-ji-wei-ta-dian-zan-2025-10-13--v1.md) - 2025-10-13 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E2%80%9C%E5%A5%B9%E2%80%9D%E7%82%B9%E8%B5%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平：要做到全村最好的房子是学校](xi-jin-ping-yao-zuo-dao-quan-cun-zui-hao-de-fang-zi-shi-xue-xiao-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%A6%81%E5%81%9A%E5%88%B0%E5%85%A8%E6%9D%91%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%BF%E5%AD%90%E6%98%AF%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)
