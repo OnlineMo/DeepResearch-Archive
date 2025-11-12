@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [习近平总书记海南广东之行纪实 - 2025-11-12](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zong-shu-ji-hai-nan-yan-dong-zhi-xing-ji-shi-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%B5%B7%E5%8D%97%E5%B9%BF%E4%B8%9C%E4%B9%8B%E8%A1%8C%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平总书记琼粤行 - 2025-11-11](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zong-shu-ji-qiong-yue-xing-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%90%BC%E7%B2%A4%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平出席第十五届全运会开幕式 - 2025-11-10](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-chu-xi-di-shi-wu-jie-quan-yun-hui-kai-mu-shi-2025-11-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%9C%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [看习近平心系南粤大地 - 2025-11-09](AI_Reports/shi-zheng-yu-guo-ji/kan-xi-jin-ping-xin-xi-nan-yue-da-di-2025-11-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E5%8D%97%E7%B2%A4%E5%A4%A7%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,11 +23,11 @@
 - [从三个维度读懂“大国担当” - 2025-11-01](AI_Reports/shi-zheng-yu-guo-ji/cong-san-ge-wei-du-du-dong-da-guo-dan-dang-2025-11-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%AF%BB%E6%87%82%E2%80%9C%E5%A4%A7%E5%9B%BD%E6%8B%85%E5%BD%93%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [1分钟带你看APEC - 2025-10-31](AI_Reports/shi-zheng-yu-guo-ji/1fen-zhong-dai-ni-kan-apec-2025-10-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=1%E5%88%86%E9%92%9F%E5%B8%A6%E4%BD%A0%E7%9C%8BAPEC&sa=fyb_news&rsv_dl=fyb_news)
 - [美参议院通过终止特朗普关税决议 - 2025-10-31](AI_Reports/shi-zheng-yu-guo-ji/mei-can-yi-yuan-tong-guo-zhong-zhi-te-lang-pu-guan-shui-jue-yi-2025-10-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%BB%88%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%86%B3%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
-- [美国为何要疯狂攻击“北京时间” - 2025-10-31](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-wei-he-yao-feng-kuang-gong-ji-bei-jing-shi-jian-2025-10-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E7%96%AF%E7%8B%82%E6%94%BB%E5%87%BB%E2%80%9C%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [8人穿“警服”为婚礼开路？后续来了 - 2025-11-12](AI_Reports/she-hui-yu-fa-zhi/8ren-chuan-jing-fu-wei-hun-li-kai-lu-hou-xu-lai-liao-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=8%E4%BA%BA%E7%A9%BF%E2%80%9C%E8%AD%A6%E6%9C%8D%E2%80%9D%E4%B8%BA%E5%A9%9A%E7%A4%BC%E5%BC%80%E8%B7%AF%EF%BC%9F%E5%90%8E%E7%BB%AD%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [云南通报赤裸小孩事件 - 2025-11-11](AI_Reports/she-hui-yu-fa-zhi/yun-nan-tong-bao-chi-luo-xiao-hai-shi-jian-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E8%B5%A4%E8%A3%B8%E5%B0%8F%E5%AD%A9%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光：医保卡被薅羊毛 - 2025-11-10](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-guang-yi-bao-qia-bei-hao-yang-mao-2025-11-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A%E5%8C%BB%E4%BF%9D%E5%8D%A1%E8%A2%AB%E8%96%8B%E7%BE%8A%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [被欠物业费1200万 物业退出不干了 - 2025-11-08](AI_Reports/she-hui-yu-fa-zhi/bei-qian-wu-ye-fei-1200mo-wu-ye-tui-chu-bu-gan-liao-2025-11-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A2%AB%E6%AC%A0%E7%89%A9%E4%B8%9A%E8%B4%B91200%E4%B8%87+%E7%89%A9%E4%B8%9A%E9%80%80%E5%87%BA%E4%B8%8D%E5%B9%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [沪上阿姨推出子宫形玩偶引争议 - 2025-10-18](AI_Reports/she-hui-yu-fa-zhi/hu-shang-a-yi-tui-chu-zi-gong-xing-wan-ou-yin-zheng-yi-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%B8%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%8E%A8%E5%87%BA%E5%AD%90%E5%AE%AB%E5%BD%A2%E7%8E%A9%E5%81%B6%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝多地共享单车骑行中自动锁车 - 2025-10-16](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-duo-di-gong-xiang-dan-che-qi-xing-zhong-zi-dong-suo-che-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%A4%9A%E5%9C%B0%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E9%AA%91%E8%A1%8C%E4%B8%AD%E8%87%AA%E5%8A%A8%E9%94%81%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [业主私挖300平地下室致32户开裂 - 2025-10-14](AI_Reports/she-hui-yu-fa-zhi/ye-zhu-si-wa-300ping-di-xia-shi-zhi-32hu-kai-lie-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%87%B432%E6%88%B7%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)
-- [“美女博主”诱导策反100余人窃密 - 2025-10-12](AI_Reports/she-hui-yu-fa-zhi/mei-nu-bo-zhu-you-dao-ce-fan-100yu-ren-qie-mi-2025-10-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8E%E5%A5%B3%E5%8D%9A%E4%B8%BB%E2%80%9D%E8%AF%B1%E5%AF%BC%E7%AD%96%E5%8F%8D100%E4%BD%99%E4%BA%BA%E7%AA%83%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -72,6 +72,8 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [比孙杨、潘展乐还快！他是谁 - 2025-11-12](AI_Reports/ti-yu-yu-sai-shi/bi-sun-yang-pan-zhan-le-huan-kuai-ta-shi-shui-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%94%E5%AD%99%E6%9D%A8%E3%80%81%E6%BD%98%E5%B1%95%E4%B9%90%E8%BF%98%E5%BF%AB%EF%BC%81%E4%BB%96%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
+- [跟着全运会吉祥物打卡世界级湾区 - 2025-11-12](AI_Reports/ti-yu-yu-sai-shi/gen-zhao-quan-yun-hui-ji-xiang-wu-da-qia-shi-jie-ji-wan-qu-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E6%89%93%E5%8D%A1%E4%B8%96%E7%95%8C%E7%BA%A7%E6%B9%BE%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [当甲骨文遇上十五运会 - 2025-11-11](AI_Reports/ti-yu-yu-sai-shi/dang-jia-gu-wen-yu-shang-shi-wu-yun-hui-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BD%93%E7%94%B2%E9%AA%A8%E6%96%87%E9%81%87%E4%B8%8A%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [每天都吃很饱的荒野求生选手退赛 - 2025-11-10](AI_Reports/ti-yu-yu-sai-shi/mei-tian-du-chi-hen-bao-de-huang-ye-qiu-sheng-xuan-shou-tui-sai-2025-11-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%90%83%E5%BE%88%E9%A5%B1%E7%9A%84%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E9%80%89%E6%89%8B%E9%80%80%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [十五运会这些看点值得关注 - 2025-11-10](AI_Reports/ti-yu-yu-sai-shi/shi-wu-yun-hui-zhe-xie-kan-dian-zhi-de-guan-zhu-2025-11-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%8C%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9C%8B%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)
@@ -215,6 +217,7 @@
 ## 健康与医疗
 [点击查看健康与医疗完整报告索引 →](AI_Reports/jian-kang-yu-yi-liao/Reports.md)
 
+- [荒野求生5名选手血钾超标 - 2025-11-12](AI_Reports/jian-kang-yu-yi-liao/huang-ye-qiu-sheng-5ming-xuan-shou-xie-jia-chao-biao-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F5%E5%90%8D%E9%80%89%E6%89%8B%E8%A1%80%E9%92%BE%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)
 - [熬夜到什么程度？医生划出4条红线 - 2025-11-06](AI_Reports/jian-kang-yu-yi-liao/ao-ye-dao-shi-yao-cheng-du-yi-sheng-hua-chu-4tiao-hong-xian-2025-11-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%86%AC%E5%A4%9C%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%EF%BC%9F%E5%8C%BB%E7%94%9F%E5%88%92%E5%87%BA4%E6%9D%A1%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [女子参加荒野求生14天后瘦成闪电 - 2025-10-26](AI_Reports/jian-kang-yu-yi-liao/nu-zi-can-jia-huang-ye-qiu-sheng-14tian-hou-shou-cheng-shan-dian-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%97%E5%8F%82%E5%8A%A0%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F14%E5%A4%A9%E5%90%8E%E7%98%A6%E6%88%90%E9%97%AA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [抗“冻”6年的蔡磊已丧失语言能力 - 2025-09-26](AI_Reports/jian-kang-yu-yi-liao/kang-dong-6nian-de-cai-lei-yi-sang-shi-yu-yan-neng-li-2025-09-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%97%E2%80%9C%E5%86%BB%E2%80%9D6%E5%B9%B4%E7%9A%84%E8%94%A1%E7%A3%8A%E5%B7%B2%E4%B8%A7%E5%A4%B1%E8%AF%AD%E8%A8%80%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
