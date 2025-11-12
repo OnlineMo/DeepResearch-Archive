@@ -1,13 +1,17 @@
 # 健康与医疗 报告索引
 
 本页包含 **健康与医疗** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：6
+报告总数：7
 
 ---
 
 ## A
 
 - [熬夜到什么程度？医生划出4条红线](ao-ye-dao-shi-yao-cheng-du-yi-sheng-hua-chu-4tiao-hong-xian-2025-11-06--v1.md) - 2025-11-06 (v1) [来源](https://www.baidu.com/s?wd=%E7%86%AC%E5%A4%9C%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%EF%BC%9F%E5%8C%BB%E7%94%9F%E5%88%92%E5%87%BA4%E6%9D%A1%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
+
+## H
+
+- [荒野求生5名选手血钾超标](huang-ye-qiu-sheng-5ming-xuan-shou-xie-jia-chao-biao-2025-11-12--v1.md) - 2025-11-12 (v1) [来源](https://www.baidu.com/s?wd=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F5%E5%90%8D%E9%80%89%E6%89%8B%E8%A1%80%E9%92%BE%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## K
 
