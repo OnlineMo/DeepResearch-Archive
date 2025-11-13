@@ -1,7 +1,7 @@
 # 经济与市场 报告索引
 
 本页包含 **经济与市场** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：9
+报告总数：10
 
 ---
 
@@ -28,6 +28,10 @@
 ## S
 
 - [十五五时期经济社会发展主要目标](shi-wu-wu-shi-qi-jing-ji-she-hui-fa-zhan-zhu-yao-mu-biao-2025-10-24--v1.md) - 2025-10-24 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E4%BA%B5%E6%97%B6%E6%9C%9F%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)
+
+## T
+
+- [The last-ever penny will be minted today in Philadelphia](the-last-ever-penny-will-be-minted-today-in-philadelphia-2025-11-13--v1.md) - 2025-11-13 (v1) [来源](https://www.cnn.com/2025/11/12/business/last-penny-minted)
 
 ## Y
 
