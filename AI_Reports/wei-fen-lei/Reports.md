@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：16
+报告总数：17
 
 ---
 
@@ -34,6 +34,10 @@
 ## N
 
 - [女生接退伍男友 男友眼睛瞬间亮了](nu-sheng-jie-tui-wu-nan-you-nan-you-yan-jing-shun-jian-liang-liao-2025-09-07--v1.md) - 2025-09-07 (v1)
+
+## P
+
+- [Project Euler](project-euler-2025-11-13--v1.md) - 2025-11-13 (v1) [来源](https://projecteuler.net)
 
 ## R
 
