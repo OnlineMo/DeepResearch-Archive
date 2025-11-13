@@ -89,6 +89,7 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [Google将允许用户未经验证侧载Android应用 - 2025-11-13](AI_Reports/ke-ji-yu-hu-lian-wang/google-will-allow-users-to-sideload-android-apps-without-verification-2025-11-13--v1.md) (v1) [来源](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 - [17个项目获互联网大会领先科技奖 - 2025-11-07](AI_Reports/ke-ji-yu-hu-lian-wang/17ge-xiang-mu-huo-hu-lian-wang-da-hui-ling-xian-ke-ji-jiang-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=17%E4%B8%AA%E9%A1%B9%E7%9B%AE%E8%8E%B7%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E9%A2%86%E5%85%88%E7%A7%91%E6%8A%80%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)
 - [马斯克称5年后不再有手机和App - 2025-11-02](AI_Reports/ke-ji-yu-hu-lian-wang/ma-si-ke-cheng-5nian-hou-bu-zai-you-shou-ji-he-app-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%8B%E6%89%8B%E6%9C%BA%E5%92%8CApp&sa=fyb_news&rsv_dl=fyb_news)
 - [微信朋友圈凉了？回应来了 - 2025-10-16](AI_Reports/ke-ji-yu-hu-lian-wang/wei-xin-peng-you-quan-liang-liao-hui-ying-lai-liao-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%87%89%E4%BA%86%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -96,6 +97,16 @@
 - [Windows 10即将“停服” - 2025-10-13](AI_Reports/ke-ji-yu-hu-lian-wang/windows-10ji-jiang-ting-fu-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=Windows+10%E5%8D%B3%E5%B0%86%E2%80%9C%E5%81%9C%E6%9C%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中国研究出可弯折20000次柔性电池 - 2025-10-08](AI_Reports/ke-ji-yu-hu-lian-wang/zhong-guo-yan-jiu-chu-ke-wan-zhe-20000ci-rou-xing-dian-chi-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E5%87%BA%E5%8F%AF%E5%BC%AF%E6%8A%9820000%E6%AC%A1%E6%9F%94%E6%80%A7%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [中国已用上“地面空间站” - 2025-10-04](AI_Reports/ke-ji-yu-hu-lian-wang/zhong-guo-yi-yong-shang-di-mian-kong-jian-zhan-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%94%A8%E4%B8%8A%E2%80%9C%E5%9C%B0%E9%9D%A2%E7%A9%BA%E9%97%B4%E7%AB%99%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## 人工智能和机器学习
+[点击查看人工智能和机器学习完整报告索引 →](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/Reports.md)
+
+- [Marble: A Multimodal World Model - 2025-11-13](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/marble-a-multimodal-world-model-2025-11-13--v1.md) (v1) [来源](https://www.worldlabs.ai/blog/marble-world-model)
+
+## 软件开发与工程
+[点击查看软件开发与工程完整报告索引 →](AI_Reports/ruan-jian-kai-fa-yu-gong-cheng/Reports.md)
+
+- [Yt-dlp: External JavaScript runtime now required for full YouTube support - 2025-11-13](AI_Reports/ruan-jian-kai-fa-yu-gong-cheng/yt-dlp-external-javascript-runtime-now-required-for-full-youtube-support-2025-11-13--v1.md) (v1) [来源](https://github.com/yt-dlp/yt-dlp/issues/15012)
 
 ## 网络安全
 [点击查看网络安全完整报告索引 →](AI_Reports/wang-luo-an-quan/Reports.md)
@@ -140,6 +151,7 @@
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
 
+- [The last-ever penny will be minted today in Philadelphia - 2025-11-13](AI_Reports/jing-ji-yu-shi-chang/the-last-ever-penny-will-be-minted-today-in-philadelphia-2025-11-13--v1.md) (v1) [来源](https://www.cnn.com/2025/11/12/business/last-penny-minted)
 - [进博会上的“全勤生” - 2025-11-08](AI_Reports/jing-ji-yu-shi-chang/jin-bo-hui-shang-de-quan-qin-sheng-2025-11-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E2%80%9C%E5%85%A8%E5%8B%A4%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [9组数字速览第八届进博会 - 2025-11-04](AI_Reports/jing-ji-yu-shi-chang/9zu-shu-zi-su-lan-di-ba-jie-jin-bo-hui-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=9%E7%BB%84%E6%95%B0%E5%AD%97%E9%80%9F%E8%A7%88%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [中央定调 未来五年房地产方向明确 - 2025-10-30](AI_Reports/jing-ji-yu-shi-chang/zhong-yang-ding-diao-wei-lai-wu-nian-fang-di-chan-fang-xiang-ming-que-2025-10-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%AE%9A%E8%B0%83+%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B9%E5%90%91%E6%98%8E%E7%A1%AE&sa=fyb_news&rsv_dl=fyb_news)
@@ -263,6 +275,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [Project Euler - 2025-11-13](AI_Reports/wei-fen-lei/project-euler-2025-11-13--v1.md) (v1) [来源](https://projecteuler.net)
 - [以开放汇合作之力 - 2025-11-05](AI_Reports/wei-fen-lei/yi-kai-fang-hui-he-zuo-zhi-li-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BC%80%E6%94%BE%E6%B1%87%E5%90%88%E4%BD%9C%E4%B9%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [绝密地址！青海省西宁市500号信箱 - 2025-11-02](AI_Reports/wei-fen-lei/jue-mi-di-zhi-qing-hai-sheng-xi-zhu-shi-500hao-xin-xiang-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%9D%E5%AF%86%E5%9C%B0%E5%9D%80%EF%BC%81%E9%9D%92%E6%B5%B7%E7%9C%81%E8%A5%BF%E5%AE%81%E5%B8%82500%E5%8F%B7%E4%BF%A1%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [注意！是“10086”不是“l0086” - 2025-10-31](AI_Reports/wei-fen-lei/zhu-yi-shi-10086-bu-shi-l0086-2025-10-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%98%AF%E2%80%9C10086%E2%80%9D%E4%B8%8D%E6%98%AF%E2%80%9Cl0086%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
