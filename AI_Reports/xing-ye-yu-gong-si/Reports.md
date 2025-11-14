@@ -1,12 +1,13 @@
 # 行业与公司 报告索引
 
 本页包含 **行业与公司** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：11
+报告总数：12
 
 ---
 
 ## 0-9
 
+- [1444.49吨！中国探明首个千吨级金矿](1444-49dun-zhong-guo-tan-ming-shou-ge-qian-dun-ji-jin-kuang-2025-11-14--v1.md) - 2025-11-14 (v1) [来源](https://www.baidu.com/s?wd=1444.49%E5%90%A8%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%8E%A2%E6%98%8E%E9%A6%96%E4%B8%AA%E5%8D%83%E5%90%A8%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [2025民营企业500强揭晓：京东第一](2025min-ying-qi-ye-500qiang-jie-xiao-jing-dong-di-yi-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=2025%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A500%E5%BC%BA%E6%8F%AD%E6%99%93%EF%BC%9A%E4%BA%AC%E4%B8%9C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)
 
 ## B
