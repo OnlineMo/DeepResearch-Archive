@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [人民日报：绝不容忍高市早苗越线挑衅 - 2025-11-14](AI_Reports/shi-zheng-yu-guo-ji/ren-min-ri-bao-jue-bu-rong-ren-gao-shi-zao-miao-yue-xian-tiao-xin-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E7%BB%9D%E4%B8%8D%E5%AE%B9%E5%BF%8D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B6%8A%E7%BA%BF%E6%8C%91%E8%A1%85&sa=fyb_news&rsv_dl=fyb_news)
+- [孙卫东奉示召见日本大使提严正交涉 - 2025-11-14](AI_Reports/shi-zheng-yu-guo-ji/sun-wei-dong-feng-shi-zhao-jian-ri-ben-da-shi-ti-yan-zheng-jiao-she-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AD%99%E5%8D%AB%E4%B8%9C%E5%A5%89%E7%A4%BA%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E6%8F%90%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平复信青年汉学家 - 2025-11-14](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-fu-xin-qing-nian-yi-xue-jia-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E9%9D%92%E5%B9%B4%E6%B1%89%E5%AD%A6%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平总书记海南广东之行纪实 - 2025-11-12](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zong-shu-ji-hai-nan-yan-dong-zhi-xing-ji-shi-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%B5%B7%E5%8D%97%E5%B9%BF%E4%B8%9C%E4%B9%8B%E8%A1%8C%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平总书记琼粤行 - 2025-11-11](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-zong-shu-ji-qiong-yue-xing-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%90%BC%E7%B2%A4%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平出席第十五届全运会开幕式 - 2025-11-10](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-chu-xi-di-shi-wu-jie-quan-yun-hui-kai-mu-shi-2025-11-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%9C%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [更好的中国 造福亚太和世界 - 2025-11-03](AI_Reports/shi-zheng-yu-guo-ji/geng-hao-de-zhong-guo-zao-fu-ya-tai-he-shi-jie-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%B8%AD%E5%9B%BD+%E9%80%A0%E7%A6%8F%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [曝光！间谍在中国搜集亲本种子 - 2025-11-03](AI_Reports/shi-zheng-yu-guo-ji/pu-guang-jian-die-zai-zhong-guo-sou-ji-qin-ben-chong-zi-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B9%E5%85%89%EF%BC%81%E9%97%B4%E8%B0%8D%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%90%9C%E9%9B%86%E4%BA%B2%E6%9C%AC%E7%A7%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同韩国总统李在明会谈 - 2025-11-02](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
-- [从三个维度读懂“大国担当” - 2025-11-01](AI_Reports/shi-zheng-yu-guo-ji/cong-san-ge-wei-du-du-dong-da-guo-dan-dang-2025-11-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%AF%BB%E6%87%82%E2%80%9C%E5%A4%A7%E5%9B%BD%E6%8B%85%E5%BD%93%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [1分钟带你看APEC - 2025-10-31](AI_Reports/shi-zheng-yu-guo-ji/1fen-zhong-dai-ni-kan-apec-2025-10-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=1%E5%88%86%E9%92%9F%E5%B8%A6%E4%BD%A0%E7%9C%8BAPEC&sa=fyb_news&rsv_dl=fyb_news)
-- [美参议院通过终止特朗普关税决议 - 2025-10-31](AI_Reports/shi-zheng-yu-guo-ji/mei-can-yi-yuan-tong-guo-zhong-zhi-te-lang-pu-guan-shui-jue-yi-2025-10-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%BB%88%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%86%B3%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -72,6 +72,7 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [小孩哥小孩姐惊艳十五运会 - 2025-11-14](AI_Reports/ti-yu-yu-sai-shi/xiao-hai-ge-xiao-hai-jie-liang-yan-shi-wu-yun-hui-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%B0%8F%E5%AD%A6%E5%A7%90%E6%83%8A%E8%89%B3%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [比孙杨、潘展乐还快！他是谁 - 2025-11-12](AI_Reports/ti-yu-yu-sai-shi/bi-sun-yang-pan-zhan-le-huan-kuai-ta-shi-shui-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%94%E5%AD%99%E6%9D%A8%E3%80%81%E6%BD%98%E5%B1%95%E4%B9%90%E8%BF%98%E5%BF%AB%EF%BC%81%E4%BB%96%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
 - [跟着全运会吉祥物打卡世界级湾区 - 2025-11-12](AI_Reports/ti-yu-yu-sai-shi/gen-zhao-quan-yun-hui-ji-xiang-wu-da-qia-shi-jie-ji-wan-qu-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E6%89%93%E5%8D%A1%E4%B8%96%E7%95%8C%E7%BA%A7%E6%B9%BE%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [当甲骨文遇上十五运会 - 2025-11-11](AI_Reports/ti-yu-yu-sai-shi/dang-jia-gu-wen-yu-shang-shi-wu-yun-hui-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BD%93%E7%94%B2%E9%AA%A8%E6%96%87%E9%81%87%E4%B8%8A%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
@@ -181,6 +182,7 @@
 ## 行业与公司
 [点击查看行业与公司完整报告索引 →](AI_Reports/xing-ye-yu-gong-si/Reports.md)
 
+- [1444.49吨！中国探明首个千吨级金矿 - 2025-11-14](AI_Reports/xing-ye-yu-gong-si/1444-49dun-zhong-guo-tan-ming-shou-ge-qian-dun-ji-jin-kuang-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=1444.49%E5%90%A8%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%8E%A2%E6%98%8E%E9%A6%96%E4%B8%AA%E5%8D%83%E5%90%A8%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [这场重磅发布会干货满满 - 2025-10-25](AI_Reports/xing-ye-yu-gong-si/zhe-chang-zhong-bang-fa-bu-hui-gan-huo-man-man-2025-10-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%E4%BC%9A%E5%B9%B2%E8%B4%A7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [毫厘之间铸造“中国精度” - 2025-10-19](AI_Reports/xing-ye-yu-gong-si/hao-li-zhi-jian-zhu-zao-zhong-guo-jing-du-2025-10-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%AB%E5%8E%98%E4%B9%8B%E9%93%B8%E9%80%A0%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%B2%BE%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [拔节生长 中国制造锻造更强筋骨 - 2025-10-18](AI_Reports/xing-ye-yu-gong-si/ba-jie-sheng-chang-zhong-guo-zhi-zao-duan-zao-geng-qiang-jin-gu-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8B%94%E8%8A%82%E7%94%9F%E9%95%BF+%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E9%94%BB%E9%80%A0%E6%9B%B4%E5%BC%BA%E7%AD%8B%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news)
