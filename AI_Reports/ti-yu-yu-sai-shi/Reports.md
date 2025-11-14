@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：13
+报告总数：14
 
 ---
 
@@ -37,6 +37,10 @@
 
 - [十五运会这些看点值得关注](shi-wu-yun-hui-zhe-xie-kan-dian-zhi-de-guan-zhu-2025-11-10--v1.md) - 2025-11-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%8C%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9C%8B%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [苏翊鸣完成世界上第一个背靠背1980](su-yi-ming-wan-cheng-shi-jie-shang-di-yi-ge-bei-kao-bei-1980-2025-10-10--v1.md) - 2025-10-10 (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%AE%8C%E6%88%90%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%83%8C%E9%9D%A0%E8%83%8C1980&sa=fyb_news&rsv_dl=fyb_news)
+
+## X
+
+- [小孩哥小孩姐惊艳十五运会](xiao-hai-ge-xiao-hai-jie-liang-yan-shi-wu-yun-hui-2025-11-14--v1.md) - 2025-11-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%B0%8F%E5%AD%A6%E5%A7%90%E6%83%8A%E8%89%B3%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
