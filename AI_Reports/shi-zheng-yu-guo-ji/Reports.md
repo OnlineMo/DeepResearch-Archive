@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：185
+报告总数：188
 
 ---
 
@@ -150,6 +150,7 @@
 - [让百姓过上好日子 总书记惦念在心](rang-bai-xing-guo-shang-hao-ri-zi-zong-shu-ji-dian-nian-zai-xin-2025-10-18--v1.md) - 2025-10-18 (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E8%80%81%E7%99%BE%E5%A7%93%E8%BF%87%E4%B8%8A%E5%A5%BD%E6%97%A5%E5%AD%90+%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%83%A6%E5%BF%B5%E5%9C%A8%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [让和平的薪火代代相传](rang-he-ping-de-xin-huo-dai-dai-xiang-chuan-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E5%92%8C%E5%B9%B3%E7%9A%84%E8%96%AA%E7%81%AB%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报、新华社、央视集体发文](ren-min-ri-bao-xin-hua-she-yang-shi-ji-ti-fa-wen-2025-09-15--v1.md) - 2025-09-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%81%E6%96%B0%E5%8D%8E%E7%A4%BE%E3%80%81%E5%A4%AE%E8%A7%86%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
+- [人民日报：绝不容忍高市早苗越线挑衅](ren-min-ri-bao-jue-bu-rong-ren-gao-shi-zao-miao-yue-xian-tiao-xin-2025-11-14--v1.md) - 2025-11-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E7%BB%9D%E4%B8%8D%E5%AE%B9%E5%BF%8D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B6%8A%E7%BA%BF%E6%8C%91%E8%A1%85&sa=fyb_news&rsv_dl=fyb_news)
 - [日本代表最后一刻取消访美](ri-ben-dai-biao-zui-hou-yi-ke-qu-xiao-fang-mei-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E5%8F%96%E6%B6%88%E8%AE%BF%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [日本在野党协商联手让高市早苗落选](ri-ben-zai-ye-dang-xie-shang-lian-shou-rang-gao-shi-zao-miao-luo-xuan-2025-10-12--v1.md) - 2025-10-12 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%87%8E%E5%85%9A%E5%8D%8F%E5%95%86%E8%81%94%E6%89%8B%E8%AE%A9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%90%BD%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -164,6 +165,7 @@
 - [石榴籽，习近平为何一再强调](shi-liu-zi-xi-jin-ping-wei-he-yi-zai-qiang-diao-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E7%9F%B3%E6%A6%B4%E7%B1%BD%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E4%B8%80%E5%86%8D%E5%BC%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
 - [首个、首座、首次！中国硬核实力再刷屏](shou-ge-shou-zuo-shou-ci-zhong-guo-ying-he-shi-li-zai-shua-ping-2025-11-07--v1.md) - 2025-11-07 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E3%80%81%E9%A6%96%E5%BA%A7%E3%80%81%E9%A6%96%E6%AC%A1%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%E5%86%8D%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [树立全球妇女事业发展新的里程碑](shu-li-quan-qiu-fu-nu-shi-ye-fa-zhan-xin-de-li-cheng-bei-2025-10-12--v1.md) - 2025-10-12 (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%91%E7%AB%8B%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news)
+- [孙卫东奉示召见日本大使提严正交涉](sun-wei-dong-feng-shi-zhao-jian-ri-ben-da-shi-ti-yan-zheng-jiao-she-2025-11-14--v1.md) - 2025-11-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%AD%99%E5%8D%AB%E4%B8%9C%E5%A5%89%E7%A4%BA%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E6%8F%90%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89&sa=fyb_news&rsv_dl=fyb_news)
 
 ## T
 
@@ -191,6 +193,7 @@
 - [习近平参观故宫博物院展览](xi-jin-ping-can-guan-gu-gong-bo-wu-yuan-zhan-lan-2025-10-28--v1.md) - 2025-10-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E8%A7%82%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E5%B1%95%E8%A7%88&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平出席第十五届全运会开幕式](xi-jin-ping-chu-xi-di-shi-wu-jie-quan-yun-hui-kai-mu-shi-2025-11-10--v1.md) - 2025-11-10 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%9C%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平出席福建舰入列授旗仪式](xi-jin-ping-chu-xi-fu-jian-jian-ru-lie-shou-qi-yi-shi-2025-11-08--v1.md) - 2025-11-08 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E6%8E%88%E6%97%97%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平复信青年汉学家](xi-jin-ping-fu-xin-qing-nian-yi-xue-jia-2025-11-14--v1.md) - 2025-11-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E9%9D%92%E5%B9%B4%E6%B1%89%E5%AD%A6%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平回信勉励全国特岗教师代表](xi-jin-ping-hui-xin-mian-li-quan-guo-te-gang-jiao-shi-dai-biao-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E4%BF%A1%E5%8B%89%E5%8A%B1%E5%85%A8%E5%9B%BD%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%88%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见俄罗斯国家杜马主席](xi-jin-ping-hui-jian-e-luo-si-guo-jia-du-ma-zhu-xi-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见联合国秘书长古特雷斯](xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
