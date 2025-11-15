@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：188
+报告总数：191
 
 ---
 
@@ -152,6 +152,8 @@
 - [人民日报、新华社、央视集体发文](ren-min-ri-bao-xin-hua-she-yang-shi-ji-ti-fa-wen-2025-09-15--v1.md) - 2025-09-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%81%E6%96%B0%E5%8D%8E%E7%A4%BE%E3%80%81%E5%A4%AE%E8%A7%86%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报：绝不容忍高市早苗越线挑衅](ren-min-ri-bao-jue-bu-rong-ren-gao-shi-zao-miao-yue-xian-tiao-xin-2025-11-14--v1.md) - 2025-11-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E7%BB%9D%E4%B8%8D%E5%AE%B9%E5%BF%8D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B6%8A%E7%BA%BF%E6%8C%91%E8%A1%85&sa=fyb_news&rsv_dl=fyb_news)
 - [日本代表最后一刻取消访美](ri-ben-dai-biao-zui-hou-yi-ke-qu-xiao-fang-mei-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E5%8F%96%E6%B6%88%E8%AE%BF%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)
+- [日本人士：高市涉台言论违背国际法](ri-ben-ren-shi-gao-shi-she-tai-yan-lun-wei-bei-guo-ji-fa-2025-11-15--v1.md) - 2025-11-15 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A3%AB%EF%BC%9A%E9%AB%98%E5%B8%82%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%E8%BF%9D%E8%83%8C%E5%9B%BD%E9%99%85%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)
+- [日本若碰红线新账旧账一起清算](ri-ben-ruo-peng-hong-xian-xin-zhang-jiu-zhang-yi-qi-qing-suan-2025-11-15--v1.md) - 2025-11-15 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E7%A2%B0%E7%BA%A2%E7%BA%B2%E6%96%B0%E8%B4%A6%E6%97%A7%E8%B4%A6%E4%B8%80%E8%B5%B7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)
 - [日本在野党协商联手让高市早苗落选](ri-ben-zai-ye-dang-xie-shang-lian-shou-rang-gao-shi-zao-miao-luo-xuan-2025-10-12--v1.md) - 2025-10-12 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%87%8E%E5%85%9A%E5%8D%8F%E5%95%86%E8%81%94%E6%89%8B%E8%AE%A9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%90%BD%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)
 
 ## S
@@ -197,6 +199,7 @@
 - [习近平回信勉励全国特岗教师代表](xi-jin-ping-hui-xin-mian-li-quan-guo-te-gang-jiao-shi-dai-biao-2025-09-10--v1.md) - 2025-09-10 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E4%BF%A1%E5%8B%89%E5%8A%B1%E5%85%A8%E5%9B%BD%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%88%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见俄罗斯国家杜马主席](xi-jin-ping-hui-jian-e-luo-si-guo-jia-du-ma-zhu-xi-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见联合国秘书长古特雷斯](xi-jin-ping-hui-jian-lian-he-guo-mi-shu-chang-gu-te-lei-si-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平会见泰国国王哇集拉隆功](xi-jin-ping-hui-jian-tai-guo-guo-wang-wa-ji-la-long-gong-2025-11-15--v1.md) - 2025-11-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%9B%BD%E5%9B%BD%E7%8E%8B%E5%93%87%E9%9B%86%E6%8B%89%E9%9A%9D%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见土耳其总统埃尔多安](xi-jin-ping-hui-jian-tu-er-qi-zong-tong-ai-er-duo-an-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平将出席全球妇女峰会开幕式](xi-jin-ping-jiang-chu-xi-quan-qiu-fu-nu-feng-hui-kai-mu-shi-2025-10-10--v1.md) - 2025-10-10 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%AD%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平接见新疆各族各界代表](xi-jin-ping-jie-jian-xin-jiang-ge-zu-ge-jie-dai-biao-2025-09-24--v1.md) - 2025-09-24 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8E%A5%E8%A7%81%E6%96%B0%E7%96%86%E5%90%84%E6%97%8F%E5%90%84%E7%95%8C%E4%BB%A3%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
