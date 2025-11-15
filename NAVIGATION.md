@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [日本人士：高市涉台言论违背国际法 - 2025-11-15](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-ren-shi-gao-shi-she-tai-yan-lun-wei-bei-guo-ji-fa-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A3%AB%EF%BC%9A%E9%AB%98%E5%B8%82%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%E8%BF%9D%E8%83%8C%E5%9B%BD%E9%99%85%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)
+- [日本若碰红线新账旧账一起清算 - 2025-11-15](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-ruo-peng-hong-xian-xin-zhang-jiu-zhang-yi-qi-qing-suan-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E7%A2%B0%E7%BA%A2%E7%BA%B2%E6%96%B0%E8%B4%A6%E6%97%A7%E8%B4%A6%E4%B8%80%E8%B5%B7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平会见泰国国王哇集拉隆功 - 2025-11-15](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-tai-guo-guo-wang-wa-ji-la-long-gong-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%9B%BD%E5%9B%BD%E7%8E%8B%E5%93%87%E9%9B%86%E6%8B%89%E9%9A%9D%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报：绝不容忍高市早苗越线挑衅 - 2025-11-14](AI_Reports/shi-zheng-yu-guo-ji/ren-min-ri-bao-jue-bu-rong-ren-gao-shi-zao-miao-yue-xian-tiao-xin-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E7%BB%9D%E4%B8%8D%E5%AE%B9%E5%BF%8D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B6%8A%E7%BA%BF%E6%8C%91%E8%A1%85&sa=fyb_news&rsv_dl=fyb_news)
 - [孙卫东奉示召见日本大使提严正交涉 - 2025-11-14](AI_Reports/shi-zheng-yu-guo-ji/sun-wei-dong-feng-shi-zhao-jian-ri-ben-da-shi-ti-yan-zheng-jiao-she-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AD%99%E5%8D%AB%E4%B8%9C%E5%A5%89%E7%A4%BA%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E6%8F%90%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平复信青年汉学家 - 2025-11-14](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-fu-xin-qing-nian-yi-xue-jia-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E9%9D%92%E5%B9%B4%E6%B1%89%E5%AD%A6%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [美国一飞机坠毁 附近大楼被撞 - 2025-11-05](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-yi-fei-ji-zhui-hui-fu-jin-da-lou-bei-zhuang-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81+%E9%99%84%E8%BF%91%E5%A4%A7%E6%A5%BC%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [金永南逝世朝鲜举行国葬 金正恩吊唁 - 2025-11-04](AI_Reports/shi-zheng-yu-guo-ji/jin-yong-nan-shi-shi-zhao-xian-ju-xing-guo-zang-jin-zheng-en-diao-yan-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%B0%B8%E5%8D%97%E9%80%9D%E4%B8%96%E6%9C%9D%E9%B2%9D%E4%B8%BE%E8%A1%8C%E5%9B%BD%E8%91%AC+%E9%87%91%E6%AD%A3%E6%81%A9%E5%90%8A%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [习主席的韩国APEC时间 - 2025-11-04](AI_Reports/shi-zheng-yu-guo-ji/xi-zhu-xi-de-han-guo-apecshi-jian-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E9%9F%A9%E5%9B%BDAPEC%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
-- [更好的中国 造福亚太和世界 - 2025-11-03](AI_Reports/shi-zheng-yu-guo-ji/geng-hao-de-zhong-guo-zao-fu-ya-tai-he-shi-jie-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%B8%AD%E5%9B%BD+%E9%80%A0%E7%A6%8F%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
-- [曝光！间谍在中国搜集亲本种子 - 2025-11-03](AI_Reports/shi-zheng-yu-guo-ji/pu-guang-jian-die-zai-zhong-guo-sou-ji-qin-ben-chong-zi-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B9%E5%85%89%EF%BC%81%E9%97%B4%E8%B0%8D%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%90%9C%E9%9B%86%E4%BA%B2%E6%9C%AC%E7%A7%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平同韩国总统李在明会谈 - 2025-11-02](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -72,6 +72,7 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [“水上芭蕾”是如何练成的 - 2025-11-15](AI_Reports/ti-yu-yu-sai-shi/shui-shang-ba-lei-shi-ru-he-lian-cheng-de-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E4%B8%8A%E8%8A%AD%E8%95%BE%E2%80%9D%E6%98%AF%E5%A6%82%E4%BD%95%E7%BB%83%E6%88%90%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)
 - [小孩哥小孩姐惊艳十五运会 - 2025-11-14](AI_Reports/ti-yu-yu-sai-shi/xiao-hai-ge-xiao-hai-jie-liang-yan-shi-wu-yun-hui-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%B0%8F%E5%AD%A6%E5%A7%90%E6%83%8A%E8%89%B3%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [比孙杨、潘展乐还快！他是谁 - 2025-11-12](AI_Reports/ti-yu-yu-sai-shi/bi-sun-yang-pan-zhan-le-huan-kuai-ta-shi-shui-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%94%E5%AD%99%E6%9D%A8%E3%80%81%E6%BD%98%E5%B1%95%E4%B9%90%E8%BF%98%E5%BF%AB%EF%BC%81%E4%BB%96%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
 - [跟着全运会吉祥物打卡世界级湾区 - 2025-11-12](AI_Reports/ti-yu-yu-sai-shi/gen-zhao-quan-yun-hui-ji-xiang-wu-da-qia-shi-jie-ji-wan-qu-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E6%89%93%E5%8D%A1%E4%B8%96%E7%95%8C%E7%BA%A7%E6%B9%BE%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)
@@ -122,6 +123,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [航天员带回近100斤太空特产 - 2025-11-15](AI_Reports/ke-xue-yu-tai-kong/hang-tian-yuan-dai-hui-jin-100jin-tai-kong-te-chan-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%88%AA%E5%A4%A9%E5%91%98%E5%B8%A6%E5%9B%9E%E8%BF%91100%E6%96%A4%E5%A4%AA%E7%A9%BA%E7%89%B9%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [今年是罕见的“九月早立冬” - 2025-11-07](AI_Reports/ke-xue-yu-tai-kong/jin-nian-shi-han-jian-de-jiu-yue-zao-li-dong-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E6%98%AF%E7%BD%95%E8%A7%81%E7%9A%84%E2%80%9C%E4%B9%9D%E6%9C%88%E6%97%A9%E7%AB%8B%E5%86%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中国航天器首次观测到星际天体 - 2025-11-06](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-hang-tian-qi-shou-ci-guan-ce-dao-xing-ji-tian-ti-2025-11-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%99%A8%E9%A6%96%E6%AC%A1%E8%A7%82%E6%B5%8B%E5%88%B0%E6%98%9F%E9%99%85%E5%A4%A9%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)
 - [迎接神二十回家 东风着陆场准备就绪 - 2025-11-03](AI_Reports/ke-xue-yu-tai-kong/ying-jie-shen-er-shi-hui-jia-dong-feng-zhao-lu-chang-zhun-bei-jiu-xu-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%8E%E6%8E%A5%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9E%E5%AE%B6+%E4%B8%9C%E9%A3%8E%E7%9D%80%E9%99%86%E5%9C%BA%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA&sa=fyb_news&rsv_dl=fyb_news)
