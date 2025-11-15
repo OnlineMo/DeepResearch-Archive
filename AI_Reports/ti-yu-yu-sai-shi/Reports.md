@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：14
+报告总数：15
 
 ---
 
@@ -45,3 +45,7 @@
 ## Y
 
 - [一群世界冠军争一个全国冠军](yi-qun-shi-jie-guan-jun-zheng-yi-ge-quan-guo-guan-jun-2025-11-09--v1.md) - 2025-11-09 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%A4%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%BA%89%E4%B8%80%E4%B8%AA%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
+
+## “
+
+- [“水上芭蕾”是如何练成的](shui-shang-ba-lei-shi-ru-he-lian-cheng-de-2025-11-15--v1.md) - 2025-11-15 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E4%B8%8A%E8%8A%AD%E8%95%BE%E2%80%9D%E6%98%AF%E5%A6%82%E4%BD%95%E7%BB%83%E6%88%90%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)
