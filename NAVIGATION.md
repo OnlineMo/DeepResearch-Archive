@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [高市之祸：撕裂中日关系的天崩开局 - 2025-11-16](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-zhi-huo-si-lie-zhong-ri-guan-xi-de-tian-beng-kai-ju-2025-11-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E4%B9%8B%E7%A5%B8%EF%BC%9A%E6%92%95%E8%A3%82%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%9A%84%E5%A4%A9%E5%B4%A9%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
+- [日本民众围堵首相官邸要求高市下台 - 2025-11-16](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-min-zhong-wei-du-shou-xiang-guan-di-yao-qiu-gao-shi-xia-tai-2025-11-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%9B%B4%E5%A0%B5%E9%A6%96%E7%9B%B8%E5%AE%98%E9%82%B7%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E4%B8%8B%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平：因地制宜发展新质生产力 - 2025-11-16](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-yin-di-zhi-yi-fa-zhan-xin-zhi-sheng-chan-li-2025-11-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%E5%8F%91%E5%B1%95%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [日本人士：高市涉台言论违背国际法 - 2025-11-15](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-ren-shi-gao-shi-she-tai-yan-lun-wei-bei-guo-ji-fa-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A3%AB%EF%BC%9A%E9%AB%98%E5%B8%82%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%E8%BF%9D%E8%83%8C%E5%9B%BD%E9%99%85%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)
 - [日本若碰红线新账旧账一起清算 - 2025-11-15](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-ruo-peng-hong-xian-xin-zhang-jiu-zhang-yi-qi-qing-suan-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E7%A2%B0%E7%BA%A2%E7%BA%B2%E6%96%B0%E8%B4%A6%E6%97%A7%E8%B4%A6%E4%B8%80%E8%B5%B7%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见泰国国王哇集拉隆功 - 2025-11-15](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-tai-guo-guo-wang-wa-ji-la-long-gong-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%9B%BD%E5%9B%BD%E7%8E%8B%E5%93%87%E9%9B%86%E6%8B%89%E9%9A%9D%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [首个、首座、首次！中国硬核实力再刷屏 - 2025-11-07](AI_Reports/shi-zheng-yu-guo-ji/shou-ge-shou-zuo-shou-ci-zhong-guo-ying-he-shi-li-zai-shua-ping-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E3%80%81%E9%A6%96%E5%BA%A7%E3%80%81%E9%A6%96%E6%AC%A1%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%E5%86%8D%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [俄罗斯接连亮出“大杀器” - 2025-11-06](AI_Reports/shi-zheng-yu-guo-ji/e-luo-si-jie-lian-liang-chu-da-sha-qi-2025-11-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%8E%A5%E8%BF%9E%E4%BA%AE%E5%87%BA%E2%80%9C%E5%A4%A7%E6%9D%80%E5%99%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [今年APEC会议有哪些成果 - 2025-11-05](AI_Reports/shi-zheng-yu-guo-ji/jin-nian-apechui-yi-you-na-xie-cheng-guo-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4APEC%E4%BC%9A%E8%AE%AE%E6%9C%89%E5%93%AA%E4%BA%9B%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)
-- [美国一飞机坠毁 附近大楼被撞 - 2025-11-05](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-yi-fei-ji-zhui-hui-fu-jin-da-lou-bei-zhuang-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81+%E9%99%84%E8%BF%91%E5%A4%A7%E6%A5%BC%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)
-- [金永南逝世朝鲜举行国葬 金正恩吊唁 - 2025-11-04](AI_Reports/shi-zheng-yu-guo-ji/jin-yong-nan-shi-shi-zhao-xian-ju-xing-guo-zang-jin-zheng-en-diao-yan-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E6%B0%B8%E5%8D%97%E9%80%9D%E4%B8%96%E6%9C%9D%E9%B2%9D%E4%B8%BE%E8%A1%8C%E5%9B%BD%E8%91%AC+%E9%87%91%E6%AD%A3%E6%81%A9%E5%90%8A%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)
-- [习主席的韩国APEC时间 - 2025-11-04](AI_Reports/shi-zheng-yu-guo-ji/xi-zhu-xi-de-han-guo-apecshi-jian-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E9%9F%A9%E5%9B%BDAPEC%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -72,6 +72,7 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [全运绿能 “黑科技”都有啥 - 2025-11-16](AI_Reports/ti-yu-yu-sai-shi/quan-yun-lu-neng-hei-ke-ji-du-you-sha-2025-11-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E7%BB%BF%E8%83%BD+%E2%80%9C%E9%BB%91%E7%A7%91%E6%8A%80%E2%80%9D%E9%83%BD%E6%9C%89%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [“水上芭蕾”是如何练成的 - 2025-11-15](AI_Reports/ti-yu-yu-sai-shi/shui-shang-ba-lei-shi-ru-he-lian-cheng-de-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E4%B8%8A%E8%8A%AD%E8%95%BE%E2%80%9D%E6%98%AF%E5%A6%82%E4%BD%95%E7%BB%83%E6%88%90%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)
 - [小孩哥小孩姐惊艳十五运会 - 2025-11-14](AI_Reports/ti-yu-yu-sai-shi/xiao-hai-ge-xiao-hai-jie-liang-yan-shi-wu-yun-hui-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%B0%8F%E5%AD%A6%E5%A7%90%E6%83%8A%E8%89%B3%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [比孙杨、潘展乐还快！他是谁 - 2025-11-12](AI_Reports/ti-yu-yu-sai-shi/bi-sun-yang-pan-zhan-le-huan-kuai-ta-shi-shui-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%94%E5%AD%99%E6%9D%A8%E3%80%81%E6%BD%98%E5%B1%95%E4%B9%90%E8%BF%98%E5%BF%AB%EF%BC%81%E4%BB%96%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
@@ -216,6 +217,7 @@
 ## 旅游与出行
 [点击查看旅游与出行完整报告索引 →](AI_Reports/lu-you-yu-chu-xing/Reports.md)
 
+- [多名网友晒赴日机票退票成功记录 - 2025-11-16](AI_Reports/lu-you-yu-chu-xing/duo-ming-wang-you-shai-fu-ri-ji-piao-tui-piao-cheng-gong-ji-lu-2025-11-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E7%BD%91%E5%8F%8B%E6%99%92%E8%B5%B4%E6%97%A5%E6%9C%BA%E7%A5%A8%E9%80%80%E7%A5%A8%E6%88%90%E5%8A%9F%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)
 - [张家界荒野求生选手抓野猪吃到流油 - 2025-11-09](AI_Reports/lu-you-yu-chu-xing/zhang-jia-jie-huang-ye-qiu-sheng-xuan-shou-zhua-ye-zhu-chi-dao-liu-you-2025-11-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BC%A0%E5%AE%B6%E7%95%8C%E8%8D%A3%E9%87%8E%E6%B1%82%E7%94%9F%E9%80%89%E6%89%8B%E6%8A%93%E9%87%8E%E7%8C%AA%E5%90%83%E5%88%B0%E6%B5%81%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [北京飞悉尼惊现-43元票价 客服回应 - 2025-11-08](AI_Reports/lu-you-yu-chu-xing/bei-jing-fei-xi-ni-liang-xian-43yuan-piao-jie-ke-fu-hui-ying-2025-11-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A3%9E%E6%82%89%E5%B0%BC%E6%83%8A%E7%B0%BE-43%E5%85%83%E7%A5%A8%E4%BB%B7+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [“鸟巢”有多忙？档期已排到2027年 - 2025-10-23](AI_Reports/lu-you-yu-chu-xing/niao-chao-you-duo-mang-dang-qi-yi-pai-dao-2027nian-2025-10-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E9%B8%9F%E5%B7%A2%E2%80%9D%E6%9C%89%E5%A4%9A%E5%BF%99%EF%BC%9F%E6%A1%A3%E6%9C%9F%E5%B7%B2%E6%8E%92%E5%88%B02027%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
