@@ -1,7 +1,7 @@
 # 旅游与出行 报告索引
 
 本页包含 **旅游与出行** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：13
+报告总数：14
 
 ---
 
@@ -13,6 +13,7 @@
 ## D
 
 - [打卡照虽美 但这些出片方式不可取](da-qia-zhao-sui-mei-dan-zhe-xie-chu-pian-fang-shi-bu-ke-qu-2025-10-03--v1.md) - 2025-10-03 (v1) [来源](https://www.baidu.com/s?wd=%E6%89%B9%E5%8D%A1%E7%85%A7%E8%99%BD%E7%BE%8E+%E4%BD%86%E8%BF%99%E4%BA%9B%E5%87%BA%E7%89%87%E6%96%B9%E5%BC%8F%E4%B8%8D%E5%8F%AF%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)
+- [多名网友晒赴日机票退票成功记录](duo-ming-wang-you-shai-fu-ri-ji-piao-tui-piao-cheng-gong-ji-lu-2025-11-16--v1.md) - 2025-11-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E7%BD%91%E5%8F%8B%E6%99%92%E8%B5%B4%E6%97%A5%E6%9C%BA%E7%A5%A8%E9%80%80%E7%A5%A8%E6%88%90%E5%8A%9F%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)
 
 ## H
 
