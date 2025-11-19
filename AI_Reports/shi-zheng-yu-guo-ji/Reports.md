@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：203
+报告总数：207
 
 ---
 
@@ -68,6 +68,7 @@
 
 - [高标准建设海南自由贸易港](gao-biao-zhun-jian-she-hai-nan-zi-you-mao-yi-gang-2025-11-07--v1.md) - 2025-11-07 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%87%E5%87%86%E5%BB%BA%E8%AE%BE%E6%B5%B7%E5%8D%97%E8%87%AA%E7%94%B1%E8%B4%B8%E6%98%93%E6%B8%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [高市早苗被喊话向中国道歉](gao-shi-zao-miao-bei-han-hua-xiang-zhong-guo-dao-qian-2025-11-17--v1.md) - 2025-11-17 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
+- [高市早苗毒化中日关系必将自食恶果](gao-shi-zao-miao-du-hua-zhong-ri-guan-xi-bi-jiang-zi-shi-e-guo-2025-11-19--v1.md) - 2025-11-19 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%AF%92%E5%8C%96%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E5%BF%85%E5%B0%86%E8%87%AA%E9%A3%9F%E6%81%B6%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [高市之祸：撕裂中日关系的天崩开局](gao-shi-zhi-huo-si-lie-zhong-ri-guan-xi-de-tian-beng-kai-ju-2025-11-16--v1.md) - 2025-11-16 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E4%B9%8B%E7%A5%B8%EF%BC%9A%E6%92%95%E8%A3%82%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%9A%84%E5%A4%A9%E5%B4%A9%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [跟着总书记一起厚植文化底蕴](gen-zhao-zong-shu-ji-yi-qi-hou-zhi-wen-hua-di-yun-2025-10-07--v1.md) - 2025-10-07 (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%8E%9A%E6%A4%8D%E6%96%87%E5%8C%96%E5%BA%95%E8%95%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [耿爽点名美国：那我也就不再含蓄了](geng-shuang-dian-ming-mei-guo-na-wo-ye-jiu-bu-zai-han-xu-liao-2025-11-07--v1.md) - 2025-11-07 (v1) [来源](https://www.baidu.com/s?wd=%E8%80%BF%E7%88%BD%E7%82%B3%E5%90%8D%E7%BE%8E%E5%9B%BD%EF%BC%9A%E9%82%A3%E6%88%91%E4%B9%9F%E5%B0%B1%E4%B8%8D%E5%86%8D%E5%90%AB%E8%93%84%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -251,11 +252,13 @@
 - [这些受阅武器装备震撼亮相](zhe-xie-shou-yue-wu-qi-zhuang-bei-zhen-han-liang-xiang-2025-09-05--v1.md) - 2025-09-05 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%8F%97%E9%98%85%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87%E9%9C%87%E6%92%AE%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [这一精神何以成为上合“发展密码”](zhe-yi-jing-shen-he-yi-cheng-wei-shang-he-fa-zhan-mi-ma-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E7%B2%BE%E7%A5%9E%E4%BD%95%E4%B8%A5%E6%88%90%E4%B8%BA%E4%B8%8A%E5%90%88%E2%80%9C%E5%8F%91%E5%B1%95%E5%AF%86%E7%A0%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [政治盟友遭枪击身亡 特朗普：降半旗](zheng-zhi-meng-you-zao-qiang-ji-shen-wang-te-lang-pu-jiang-ban-qi-2025-09-11--v1.md) - 2025-09-11 (v1)
+- [指引法治中国建设 总书记这样阐述](zhi-yin-fa-zhi-zhong-guo-jian-she-zong-shu-ji-zhe-yang-chan-shu-2025-11-19--v1.md) - 2025-11-19 (v1) [来源](https://www.baidu.com/s?wd=%E6%8C%87%E5%BC%95%E6%B3%95%E6%B2%BB%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE+%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E6%A0%B7%E9%98%89%E8%BF%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [致敬伟大胜利](zhi-jing-wei-da-sheng-li-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [致敬英烈！运-20舱内视角看歼-20护航](zhi-jing-ying-lie-yun-20cang-nei-shi-jiao-kan-jian-20hu-hang-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E8%8B%B1%E7%83%88%EF%BC%81%E8%BF%90-20%E8%88%B1%E5%86%85%E8%A7%86%E8%A7%92%E7%9C%8B%E6%AD%BC-20%E6%8A%A4%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [中方回应特朗普让中国停买俄石油](zhong-fang-hui-ying-te-lang-pu-rang-zhong-guo-ting-mai-e-shi-you-2025-10-17--v1.md) - 2025-10-17 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%81%9C%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [中方一个个点名多个国家劣迹](zhong-fang-yi-ge-ge-dian-ming-duo-ge-guo-jia-lie-ji-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%80%E4%B8%AA%E4%B8%AA%E7%82%B9%E5%90%8D%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8A%A3%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [中方：某常任理事国一意孤行令人失望](zhong-fang-mou-chang-ren-li-shi-guo-yi-yi-gu-xing-ling-ren-shi-wang-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%9F%90%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9B%BD%E4%B8%80%E6%84%8F%E5%AD%A4%E8%A1%8C%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)
+- [中方：日本没资格当安理会常任理事国](zhong-fang-ri-ben-mei-zi-ge-dang-an-li-hui-chang-ren-li-shi-guo-2025-11-19--v1.md) - 2025-11-19 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E5%BD%93%E5%AE%89%E7%90%86%E4%BC%9A%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议](zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-08-30--v1.md) - 2025-08-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国订单至今为零 美国豆农感受痛苦](zhong-guo-ding-dan-zhi-jin-wei-ling-mei-guo-dou-nong-gan-shou-tong-ku-2025-09-23--v1.md) - 2025-09-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%AE%A2%E5%8D%95%E8%87%B3%E4%BB%8A%E4%B8%BA%E9%9B%B6+%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%86%9C%E6%84%9F%E5%8F%97%E7%97%9B%E8%8B%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [中国航天 生日快乐](zhong-guo-hang-tian-sheng-ri-kuai-le-2025-10-09--v1.md) - 2025-10-09 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9+%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)
@@ -264,6 +267,7 @@
 - [中国人口发展出现新特征](zhong-guo-ren-kou-fa-zhan-chu-xian-xin-te-zheng-2025-11-18--v1.md) - 2025-11-18 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E5%8F%91%E5%B1%95%E5%87%BA%E7%8E%B0%E6%96%B0%E7%89%B9%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)
 - [中国正式成为安第斯共同体观察员国](zhong-guo-zheng-shi-cheng-wei-an-di-si-gong-tong-ti-guan-cha-yuan-guo-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E6%88%90%E4%B8%BA%E5%AE%89%E7%AC%AC%E6%96%AF%E5%85%B1%E5%90%8C%E4%BD%93%E8%A7%82%E5%AF%9F%E5%91%98%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [中美完全可以相互成就、共同繁荣](zhong-mei-wan-quan-ke-yi-xiang-hu-cheng-jiu-gong-tong-fan-rong-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%B2%E6%88%90%E5%B0%B1%E3%80%81%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)
+- [中日最新交锋 没有握手](zhong-ri-zui-xin-jiao-feng-mei-you-wo-shou-2025-11-19--v1.md) - 2025-11-19 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%97%A5%E6%9C%80%E6%96%B0%E4%BA%A4%E9%94%8B+%E6%B2%A1%E6%9C%89%E6%8F%A1%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [抓住时间窗口 赢得战略主动](zhua-zhu-shi-jian-chuang-kou-ying-de-zhan-lue-zhu-dong-2025-10-27--v1.md) - 2025-10-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%93%E4%BD%8F%E6%97%B6%E9%97%A8%E7%AA%97%E5%8F%A3+%E8%B5%A2%E5%BE%97%E6%88%98%E7%95%A5%E4%B8%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记擘画中国式现代化新篇章](zong-shu-ji-bo-hua-zhong-guo-shi-xian-dai-hua-xin-pian-zhang-2025-10-20--v1.md) - 2025-10-20 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%93%B7%E7%94%BB%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记部署全国统一大市场建设](zong-shu-ji-bu-shu-quan-guo-tong-yi-da-shi-chang-jian-she-2025-09-17--v1.md) - 2025-09-17 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%83%A8%E7%BD%B2%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
