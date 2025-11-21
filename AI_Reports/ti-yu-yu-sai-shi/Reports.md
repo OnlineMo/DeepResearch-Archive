@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：18
+报告总数：20
 
 ---
 
@@ -27,8 +27,10 @@
 
 - [球还没开踢 友谊的小船已经翻了](qiu-huan-mei-kai-ti-you-yi-de-xiao-chuan-yi-jing-fan-liao-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%98%E6%B2%A1%E5%BC%80%E8%B8%A2+%E5%8F%8B%E8%B0%8A%E7%9A%84%E5%B0%8F%E8%88%B9%E5%B7%B2%E7%BB%8F%E7%BF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [全运会百米冠军首次属于“00后”](quan-yun-hui-bai-mi-guan-jun-shou-ci-shu-yu-00hou-2025-11-19--v1.md) - 2025-11-19 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E4%BC%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B%E9%A6%96%E6%AC%A1%E5%B1%9E%E4%BA%8E%E2%80%9C00%E5%90%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [全运会见证湾区“大联通”](quan-yun-hui-jian-zheng-wan-qu-da-lian-tong-2025-11-20--v1.md) - 2025-11-20 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E4%BC%9A%E8%A7%81%E8%AF%81%E6%B9%BE%E5%8C%BA%E2%80%9C%E5%A4%A7%E8%81%94%E9%80%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [全运绿能 “黑科技”都有啥](quan-yun-lu-neng-hei-ke-ji-du-you-sha-2025-11-16--v1.md) - 2025-11-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E7%BB%BF%E8%83%BD+%E2%80%9C%E9%BB%91%E7%A7%91%E6%8A%80%E2%80%9D%E9%83%BD%E6%9C%89%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [全运热潮席卷粤港澳三地](quan-yun-re-chao-xi-juan-yue-gang-ao-san-di-2025-11-09--v1.md) - 2025-11-09 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E7%83%AD%E6%BD%AE%E5%B8%AD%E5%8D%B7%E5%8D%8E%E6%B8%AF%E6%BE%B3%E4%B8%89%E5%B0%B1&sa=fyb_news&rsv_dl=fyb_news)
+- [全运赛场 “新”潮澎湃](quan-yun-sai-chang-xin-chao-peng-pai-2025-11-21--v1.md) - 2025-11-21 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E8%B5%9B%E5%9C%BA+%E2%80%9C%E6%96%B0%E6%BD%AE%E6%BE%8E%E6%B9%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## R
 
