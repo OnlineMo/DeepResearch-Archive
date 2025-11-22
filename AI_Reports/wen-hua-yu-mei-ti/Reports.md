@@ -1,7 +1,7 @@
 # 文化与媒体 报告索引
 
 本页包含 **文化与媒体** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：17
+报告总数：18
 
 ---
 
@@ -37,6 +37,7 @@
 
 ## S
 
+- [山西发现一座距今4300年“宫城”](shan-xi-fa-xian-yi-zuo-ju-jin-4300nian-gong-cheng-2025-11-22--v1.md) - 2025-11-22 (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%8E%B0%E4%B8%80%E5%BA%A7%E8%B7%9D%E4%BB%8A4300%E5%B9%B4%E2%80%9C%E5%AE%AB%E5%9F%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [上合诗篇](shang-he-shi-pian-2025-08-31--v1.md) - 2025-08-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
