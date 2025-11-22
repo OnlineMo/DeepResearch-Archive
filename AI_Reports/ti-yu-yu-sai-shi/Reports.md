@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：20
+报告总数：21
 
 ---
 
@@ -22,6 +22,10 @@
 ## M
 
 - [每天都吃很饱的荒野求生选手退赛](mei-tian-du-chi-hen-bao-de-huang-ye-qiu-sheng-xuan-shou-tui-sai-2025-11-10--v1.md) - 2025-11-10 (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%90%83%E5%BE%88%E9%A5%B1%E7%9A%84%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E9%80%89%E6%89%8B%E9%80%80%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
+
+## P
+
+- [盘点十五运会值得铭记的“再见”](pan-dian-shi-wu-yun-hui-zhi-de-ming-ji-de-zai-jian-2025-11-22--v1.md) - 2025-11-22 (v1) [来源](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E5%80%BC%E5%BE%97%E9%93%AD%E8%AE%B0%E7%9A%84%E2%80%9C%E5%86%8D%E8%A7%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Q
 
