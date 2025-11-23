@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：217
+报告总数：220
 
 ---
 
@@ -48,6 +48,7 @@
 - [当年汶川男孩如今受阅军官](dang-nian-wen-chuan-nan-hai-ru-jin-shou-yue-jun-guan-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%BD%93%E5%B9%B3%E6%B1%B6%E5%B7%9D%E7%94%B7%E5%AD%A9%E5%A6%82%E4%BB%8A%E5%8F%97%E9%98%85%E5%86%9B%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)
 - [党的二十届四中全会擘画发展蓝图](dang-de-er-shi-jie-si-zhong-quan-hui-bo-hua-fa-zhan-lan-tu-2025-10-25--v1.md) - 2025-10-25 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E6%93%98%E7%94%BB%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [党的二十届四中全会在北京举行](dang-de-er-shi-jie-si-zhong-quan-hui-zai-bei-jing-ju-xing-2025-10-21--v1.md) - 2025-10-21 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
+- [顶住美国压力 G20峰会通过联合宣言](ding-zhu-mei-guo-ya-li-g20feng-hui-tong-guo-lian-he-xuan-yan-2025-11-23--v1.md) - 2025-11-23 (v1) [来源](https://www.baidu.com/s?wd=%E9%A1%B6%E4%BD%8F%E7%BE%8E%E5%9B%BD%E5%8E%8B%E5%8A%9B+G20%E5%B3%B0%E4%BC%9A%E9%80%9A%E8%BF%87%E8%81%94%E5%90%88%E5%AE%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)
 
 ## E
 
@@ -68,9 +69,11 @@
 ## G
 
 - [高标准建设海南自由贸易港](gao-biao-zhun-jian-she-hai-nan-zi-you-mao-yi-gang-2025-11-07--v1.md) - 2025-11-07 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%87%E5%87%86%E5%BB%BA%E8%AE%BE%E6%B5%B7%E5%8D%97%E8%87%AA%E7%94%B1%E8%B4%B8%E6%98%93%E6%B8%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [高市幻想“软着陆”？中方明确表态](gao-shi-huan-xiang-ruan-zhao-lu-zhong-fang-ming-que-biao-tai-2025-11-23--v1.md) - 2025-11-23 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%B9%BB%E6%83%B3%E2%80%9C%E8%BD%AF%E7%9D%80%E9%99%86%E2%80%9D%EF%BC%9F%E4%B8%AD%E6%96%B9%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)
 - [高市早苗被喊话向中国道歉](gao-shi-zao-miao-bei-han-hua-xiang-zhong-guo-dao-qian-2025-11-17--v1.md) - 2025-11-17 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
 - [高市早苗毒化中日关系必将自食恶果](gao-shi-zao-miao-du-hua-zhong-ri-guan-xi-bi-jiang-zi-shi-e-guo-2025-11-19--v1.md) - 2025-11-19 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%AF%92%E5%8C%96%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E5%BF%85%E5%B0%86%E8%87%AA%E9%A3%9F%E6%81%B6%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [高市之祸：撕裂中日关系的天崩开局](gao-shi-zhi-huo-si-lie-zhong-ri-guan-xi-de-tian-beng-kai-ju-2025-11-16--v1.md) - 2025-11-16 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E4%B9%8B%E7%A5%B8%EF%BC%9A%E6%92%95%E8%A3%82%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%9A%84%E5%A4%A9%E5%B4%A9%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
+- [各国共同发展才是真发展](ge-guo-gong-tong-fa-zhan-cai-shi-zhen-fa-zhan-2025-11-23--v1.md) - 2025-11-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%90%84%E5%9B%BD%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E6%89%8D%E6%98%AF%E7%9C%9F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
 - [跟着总书记一起厚植文化底蕴](gen-zhao-zong-shu-ji-yi-qi-hou-zhi-wen-hua-di-yun-2025-10-07--v1.md) - 2025-10-07 (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%8E%9A%E6%A4%8D%E6%96%87%E5%8C%96%E5%BA%95%E8%95%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [耿爽点名美国：那我也就不再含蓄了](geng-shuang-dian-ming-mei-guo-na-wo-ye-jiu-bu-zai-han-xu-liao-2025-11-07--v1.md) - 2025-11-07 (v1) [来源](https://www.baidu.com/s?wd=%E8%80%BF%E7%88%BD%E7%82%B3%E5%90%8D%E7%BE%8E%E5%9B%BD%EF%BC%9A%E9%82%A3%E6%88%91%E4%B9%9F%E5%B0%B1%E4%B8%8D%E5%86%8D%E5%90%AB%E8%93%84%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [更好的中国 造福亚太和世界](geng-hao-de-zhong-guo-zao-fu-ya-tai-he-shi-jie-2025-11-03--v1.md) - 2025-11-03 (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%B8%AD%E5%9B%BD+%E9%80%A0%E7%A6%8F%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
