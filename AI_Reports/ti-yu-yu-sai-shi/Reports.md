@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：21
+报告总数：22
 
 ---
 
@@ -18,6 +18,10 @@
 
 - [跟着全运会吉祥物打卡世界级湾区](gen-zhao-quan-yun-hui-ji-xiang-wu-da-qia-shi-jie-ji-wan-qu-2025-11-12--v1.md) - 2025-11-12 (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E6%89%93%E5%8D%A1%E4%B8%96%E7%95%8C%E7%BA%A7%E6%B9%BE%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [观众为全红婵下起“娃娃雨”](guan-zhong-wei-quan-hong-chan-xia-qi-wa-wa-yu-2025-11-03--v1.md) - 2025-11-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E4%B8%BA%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8B%E8%B5%B7%E2%80%9C%E5%A8%83%E5%A8%83%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## H
+
+- [回顾十五运会中的“湾区时刻”](hui-gu-shi-wu-yun-hui-zhong-de-wan-qu-shi-ke-2025-11-23--v1.md) - 2025-11-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%B0%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B9%BE%E5%8C%BA%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## M
 
