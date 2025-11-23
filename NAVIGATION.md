@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [顶住美国压力 G20峰会通过联合宣言 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/ding-zhu-mei-guo-ya-li-g20feng-hui-tong-guo-lian-he-xuan-yan-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A1%B6%E4%BD%8F%E7%BE%8E%E5%9B%BD%E5%8E%8B%E5%8A%9B+G20%E5%B3%B0%E4%BC%9A%E9%80%9A%E8%BF%87%E8%81%94%E5%90%88%E5%AE%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)
+- [高市幻想“软着陆”？中方明确表态 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-huan-xiang-ruan-zhao-lu-zhong-fang-ming-que-biao-tai-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%B9%BB%E6%83%B3%E2%80%9C%E8%BD%AF%E7%9D%80%E9%99%86%E2%80%9D%EF%BC%9F%E4%B8%AD%E6%96%B9%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)
+- [各国共同发展才是真发展 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/ge-guo-gong-tong-fa-zhan-cai-shi-zhen-fa-zhan-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%84%E5%9B%BD%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E6%89%8D%E6%98%AF%E7%9C%9F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
 - [日本再次面临抉择 - 2025-11-22](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-zai-ci-mian-lin-jue-ze-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%8D%E6%AC%A1%E9%9D%A2%E4%B8%B4%E6%8A%A9%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [这是总书记勉励体育健儿的高频词 - 2025-11-22](AI_Reports/shi-zheng-yu-guo-ji/zhe-shi-zong-shu-ji-mian-li-ti-yu-jian-er-de-gao-pin-ci-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%8B%89%E5%8A%B1%E4%BD%93%E8%82%B2%E5%81%A5%E5%84%BF%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [中方就高市错误言行致函古特雷斯 - 2025-11-22](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-jiu-gao-shi-cuo-wu-yan-xing-zhi-han-gu-te-lei-si-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%AB%98%E5%B8%82%E9%94%99%E8%AF%AF%E8%A8%80%E8%A1%8C%E8%87%B4%E5%87%BD%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [菲律宾持续爆发超大规模游行 - 2025-11-18](AI_Reports/shi-zheng-yu-guo-ji/fei-lu-bin-chi-xu-bao-fa-chao-da-gui-mo-you-xing-2025-11-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8C%81%E7%BB%AD%E7%88%86%E5%8F%91%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B8%88%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [日方竟向中方提抗议 - 2025-11-18](AI_Reports/shi-zheng-yu-guo-ji/ri-fang-jing-xiang-zhong-fang-ti-kang-yi-2025-11-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E7%AB%9F%E5%90%91%E4%B8%AD%E6%96%B9%E6%8F%90%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [十四五时期我国发展取得重大成就 - 2025-11-18](AI_Reports/shi-zheng-yu-guo-ji/shi-si-wu-shi-qi-wo-guo-fa-zhan-qu-de-zhong-da-cheng-jiu-2025-11-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E4%BA%94%E6%97%B6%E6%9C%9F%E6%88%91%E5%9B%BD%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E6%88%90%E5%B0%B1&sa=fyb_news&rsv_dl=fyb_news)
-- [中国人口发展出现新特征 - 2025-11-18](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-ren-kou-fa-zhan-chu-xian-xin-te-zheng-2025-11-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E5%8F%91%E5%B1%95%E5%87%BA%E7%8E%B0%E6%96%B0%E7%89%B9%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记引领法治中国建设阔步前行 - 2025-11-18](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-yin-ling-fa-zhi-zhong-guo-jian-she-kuo-bu-qian-xing-2025-11-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E9%A2%86%E6%B3%95%E6%B2%BB%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E9%98%94%E6%AD%A5%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
-- [高市早苗被喊话向中国道歉 - 2025-11-17](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-zao-miao-bei-han-hua-xiang-zhong-guo-dao-qian-2025-11-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -72,6 +72,7 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [回顾十五运会中的“湾区时刻” - 2025-11-23](AI_Reports/ti-yu-yu-sai-shi/hui-gu-shi-wu-yun-hui-zhong-de-wan-qu-shi-ke-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%B0%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B9%BE%E5%8C%BA%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [盘点十五运会值得铭记的“再见” - 2025-11-22](AI_Reports/ti-yu-yu-sai-shi/pan-dian-shi-wu-yun-hui-zhi-de-ming-ji-de-zai-jian-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E5%80%BC%E5%BE%97%E9%93%AD%E8%AE%B0%E7%9A%84%E2%80%9C%E5%86%8D%E8%A7%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [全运赛场 “新”潮澎湃 - 2025-11-21](AI_Reports/ti-yu-yu-sai-shi/quan-yun-sai-chang-xin-chao-peng-pai-2025-11-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E8%B5%9B%E5%9C%BA+%E2%80%9C%E6%96%B0%E6%BD%AE%E6%BE%8E%E6%B9%83&sa=fyb_news&rsv_dl=fyb_news)
 - [全运会见证湾区“大联通” - 2025-11-20](AI_Reports/ti-yu-yu-sai-shi/quan-yun-hui-jian-zheng-wan-qu-da-lian-tong-2025-11-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E4%BC%9A%E8%A7%81%E8%AF%81%E6%B9%BE%E5%8C%BA%E2%80%9C%E5%A4%A7%E8%81%94%E9%80%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -91,7 +92,6 @@
 - [观众为全红婵下起“娃娃雨” - 2025-11-03](AI_Reports/ti-yu-yu-sai-shi/guan-zhong-wei-quan-hong-chan-xia-qi-wa-wa-yu-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E4%B8%BA%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8B%E8%B5%B7%E2%80%9C%E5%A8%83%E5%A8%83%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [让二追三！国乒男团3-2日本晋级决赛 - 2025-10-15](AI_Reports/ti-yu-yu-sai-shi/rang-er-zhui-san-guo-ping-nan-tuan-3-2ri-ben-jin-ji-jue-sai-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%EF%BC%81%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23-2%E6%97%A5%E6%9C%AC%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [日本队被中国逆转后集体“凝固” - 2025-10-15](AI_Reports/ti-yu-yu-sai-shi/ri-ben-dui-bei-zhong-guo-ni-zhuan-hou-ji-ti-ning-gu-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%80%86%E8%BD%AC%E5%90%8E%E9%9B%86%E4%BD%93%E2%80%9C%E5%87%9D%E5%9B%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [苏翊鸣完成世界上第一个背靠背1980 - 2025-10-10](AI_Reports/ti-yu-yu-sai-shi/su-yi-ming-wan-cheng-shi-jie-shang-di-yi-ge-bei-kao-bei-1980-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%AE%8C%E6%88%90%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%83%8C%E9%9D%A0%E8%83%8C1980&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
@@ -240,6 +240,7 @@
 ## 健康与医疗
 [点击查看健康与医疗完整报告索引 →](AI_Reports/jian-kang-yu-yi-liao/Reports.md)
 
+- [奥司他韦近7天销量上涨率达237% - 2025-11-23](AI_Reports/jian-kang-yu-yi-liao/ao-si-ta-wei-jin-7tian-xiao-liang-shang-zhang-lu-da-237-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E8%BF%917%E5%A4%A9%E9%94%80%E9%87%8F%E4%B8%8A%E6%B6%A8%E7%8E%87%E8%BE%BE237%25&sa=fyb_news&rsv_dl=fyb_news)
 - [荒野求生5名选手血钾超标 - 2025-11-12](AI_Reports/jian-kang-yu-yi-liao/huang-ye-qiu-sheng-5ming-xuan-shou-xie-jia-chao-biao-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F5%E5%90%8D%E9%80%89%E6%89%8B%E8%A1%80%E9%92%BE%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)
 - [熬夜到什么程度？医生划出4条红线 - 2025-11-06](AI_Reports/jian-kang-yu-yi-liao/ao-ye-dao-shi-yao-cheng-du-yi-sheng-hua-chu-4tiao-hong-xian-2025-11-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%86%AC%E5%A4%9C%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%EF%BC%9F%E5%8C%BB%E7%94%9F%E5%88%92%E5%87%BA4%E6%9D%A1%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [女子参加荒野求生14天后瘦成闪电 - 2025-10-26](AI_Reports/jian-kang-yu-yi-liao/nu-zi-can-jia-huang-ye-qiu-sheng-14tian-hou-shou-cheng-shan-dian-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%97%E5%8F%82%E5%8A%A0%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F14%E5%A4%A9%E5%90%8E%E7%98%A6%E6%88%90%E9%97%AA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
