@@ -1,13 +1,14 @@
 # 健康与医疗 报告索引
 
 本页包含 **健康与医疗** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：7
+报告总数：8
 
 ---
 
 ## A
 
 - [熬夜到什么程度？医生划出4条红线](ao-ye-dao-shi-yao-cheng-du-yi-sheng-hua-chu-4tiao-hong-xian-2025-11-06--v1.md) - 2025-11-06 (v1) [来源](https://www.baidu.com/s?wd=%E7%86%AC%E5%A4%9C%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%EF%BC%9F%E5%8C%BB%E7%94%9F%E5%88%92%E5%87%BA4%E6%9D%A1%E7%BA%A2%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
+- [奥司他韦近7天销量上涨率达237%](ao-si-ta-wei-jin-7tian-xiao-liang-shang-zhang-lu-da-237-2025-11-23--v1.md) - 2025-11-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E8%BF%917%E5%A4%A9%E9%94%80%E9%87%8F%E4%B8%8A%E6%B6%A8%E7%8E%87%E8%BE%BE237%25&sa=fyb_news&rsv_dl=fyb_news)
 
 ## H
 
