@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [高市既想对华倒打一耙 又急于翻篇 - 2025-11-24](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-ji-xiang-dui-hua-dao-da-yi-pa-you-ji-yu-fan-pian-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A2%E6%83%B3%E5%AF%B9%E5%8D%8E%E5%80%92%E6%89%93%E4%B8%80%E8%80%99+%E5%8F%88%E6%80%A5%E4%BA%8E%E7%BF%BB%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)
+- [美乌发布联合声明 - 2025-11-24](AI_Reports/shi-zheng-yu-guo-ji/mei-wu-fa-bu-lian-he-sheng-ming-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B9%8C%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [顶住美国压力 G20峰会通过联合宣言 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/ding-zhu-mei-guo-ya-li-g20feng-hui-tong-guo-lian-he-xuan-yan-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A1%B6%E4%BD%8F%E7%BE%8E%E5%9B%BD%E5%8E%8B%E5%8A%9B+G20%E5%B3%B0%E4%BC%9A%E9%80%9A%E8%BF%87%E8%81%94%E5%90%88%E5%AE%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)
 - [高市幻想“软着陆”？中方明确表态 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-huan-xiang-ruan-zhao-lu-zhong-fang-ming-que-biao-tai-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%B9%BB%E6%83%B3%E2%80%9C%E8%BD%AF%E7%9D%80%E9%99%86%E2%80%9D%EF%BC%9F%E4%B8%AD%E6%96%B9%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)
 - [各国共同发展才是真发展 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/ge-guo-gong-tong-fa-zhan-cai-shi-zhen-fa-zhan-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%84%E5%9B%BD%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E6%89%8D%E6%98%AF%E7%9C%9F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,8 +23,6 @@
 - [中方：日本没资格当安理会常任理事国 - 2025-11-19](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-ri-ben-mei-zi-ge-dang-an-li-hui-chang-ren-li-shi-guo-2025-11-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E5%BD%93%E5%AE%89%E7%90%86%E4%BC%9A%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [中日最新交锋 没有握手 - 2025-11-19](AI_Reports/shi-zheng-yu-guo-ji/zhong-ri-zui-xin-jiao-feng-mei-you-wo-shou-2025-11-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%97%A5%E6%9C%80%E6%96%B0%E4%BA%A4%E9%94%8B+%E6%B2%A1%E6%9C%89%E6%8F%A1%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [菲律宾持续爆发超大规模游行 - 2025-11-18](AI_Reports/shi-zheng-yu-guo-ji/fei-lu-bin-chi-xu-bao-fa-chao-da-gui-mo-you-xing-2025-11-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8C%81%E7%BB%AD%E7%88%86%E5%8F%91%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B8%88%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
-- [日方竟向中方提抗议 - 2025-11-18](AI_Reports/shi-zheng-yu-guo-ji/ri-fang-jing-xiang-zhong-fang-ti-kang-yi-2025-11-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E7%AB%9F%E5%90%91%E4%B8%AD%E6%96%B9%E6%8F%90%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
-- [十四五时期我国发展取得重大成就 - 2025-11-18](AI_Reports/shi-zheng-yu-guo-ji/shi-si-wu-shi-qi-wo-guo-fa-zhan-qu-de-zhong-da-cheng-jiu-2025-11-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E4%BA%94%E6%97%B6%E6%9C%9F%E6%88%91%E5%9B%BD%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E6%88%90%E5%B0%B1&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -72,6 +72,7 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [闪耀全运会的青少年 - 2025-11-24](AI_Reports/ti-yu-yu-sai-shi/shan-yao-quan-yun-hui-de-qing-shao-nian-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%97%AA%E8%80%80%E5%85%A8%E8%BF%90%E4%BC%9A%E7%9A%84%E9%9D%92%E5%B0%91%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [回顾十五运会中的“湾区时刻” - 2025-11-23](AI_Reports/ti-yu-yu-sai-shi/hui-gu-shi-wu-yun-hui-zhong-de-wan-qu-shi-ke-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%B0%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B9%BE%E5%8C%BA%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [盘点十五运会值得铭记的“再见” - 2025-11-22](AI_Reports/ti-yu-yu-sai-shi/pan-dian-shi-wu-yun-hui-zhi-de-ming-ji-de-zai-jian-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E5%80%BC%E5%BE%97%E9%93%AD%E8%AE%B0%E7%9A%84%E2%80%9C%E5%86%8D%E8%A7%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [全运赛场 “新”潮澎湃 - 2025-11-21](AI_Reports/ti-yu-yu-sai-shi/quan-yun-sai-chang-xin-chao-peng-pai-2025-11-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E8%B5%9B%E5%9C%BA+%E2%80%9C%E6%96%B0%E6%BD%AE%E6%BE%8E%E6%B9%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -91,7 +92,6 @@
 - [别错过！十五运会金牌赛程来了 - 2025-11-06](AI_Reports/ti-yu-yu-sai-shi/bie-cuo-guo-shi-wu-yun-hui-jin-pai-sai-cheng-lai-liao-2025-11-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%AB%E9%94%99%E8%BF%87%EF%BC%81%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%E8%B5%9B%E7%A8%8B%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [观众为全红婵下起“娃娃雨” - 2025-11-03](AI_Reports/ti-yu-yu-sai-shi/guan-zhong-wei-quan-hong-chan-xia-qi-wa-wa-yu-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E4%B8%BA%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8B%E8%B5%B7%E2%80%9C%E5%A8%83%E5%A8%83%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [让二追三！国乒男团3-2日本晋级决赛 - 2025-10-15](AI_Reports/ti-yu-yu-sai-shi/rang-er-zhui-san-guo-ping-nan-tuan-3-2ri-ben-jin-ji-jue-sai-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%EF%BC%81%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23-2%E6%97%A5%E6%9C%AC%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
-- [日本队被中国逆转后集体“凝固” - 2025-10-15](AI_Reports/ti-yu-yu-sai-shi/ri-ben-dui-bei-zhong-guo-ni-zhuan-hou-ji-ti-ning-gu-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%80%86%E8%BD%AC%E5%90%8E%E9%9B%86%E4%BD%93%E2%80%9C%E5%87%9D%E5%9B%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
@@ -190,6 +190,7 @@
 ## 行业与公司
 [点击查看行业与公司完整报告索引 →](AI_Reports/xing-ye-yu-gong-si/Reports.md)
 
+- [小鹏脚夹门事件员工被顶格处理 - 2025-11-24](AI_Reports/xing-ye-yu-gong-si/xiao-peng-jiao-jia-men-shi-jian-yuan-gong-bei-ding-ge-chu-li-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%84%9A%E5%B9%B9%E9%97%A8%E4%BA%8B%E4%BB%B6%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)
 - [1444.49吨！中国探明首个千吨级金矿 - 2025-11-14](AI_Reports/xing-ye-yu-gong-si/1444-49dun-zhong-guo-tan-ming-shou-ge-qian-dun-ji-jin-kuang-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=1444.49%E5%90%A8%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%8E%A2%E6%98%8E%E9%A6%96%E4%B8%AA%E5%8D%83%E5%90%A8%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [这场重磅发布会干货满满 - 2025-10-25](AI_Reports/xing-ye-yu-gong-si/zhe-chang-zhong-bang-fa-bu-hui-gan-huo-man-man-2025-10-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%E4%BC%9A%E5%B9%B2%E8%B4%A7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [毫厘之间铸造“中国精度” - 2025-10-19](AI_Reports/xing-ye-yu-gong-si/hao-li-zhi-jian-zhu-zao-zhong-guo-jing-du-2025-10-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%AB%E5%8E%98%E4%B9%8B%E9%93%B8%E9%80%A0%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%B2%BE%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -288,6 +289,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [脚要踩在大地上 - 2025-11-24](AI_Reports/wei-fen-lei/jiao-yao-cai-zai-da-di-shang-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%84%9A%E8%A6%81%E8%B8%A3%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [Project Euler - 2025-11-13](AI_Reports/wei-fen-lei/project-euler-2025-11-13--v1.md) (v1) [来源](https://projecteuler.net)
 - [以开放汇合作之力 - 2025-11-05](AI_Reports/wei-fen-lei/yi-kai-fang-hui-he-zuo-zhi-li-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BC%80%E6%94%BE%E6%B1%87%E5%90%88%E4%BD%9C%E4%B9%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [绝密地址！青海省西宁市500号信箱 - 2025-11-02](AI_Reports/wei-fen-lei/jue-mi-di-zhi-qing-hai-sheng-xi-zhu-shi-500hao-xin-xiang-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%9D%E5%AF%86%E5%9C%B0%E5%9D%80%EF%BC%81%E9%9D%92%E6%B5%B7%E7%9C%81%E8%A5%BF%E5%AE%81%E5%B8%82500%E5%8F%B7%E4%BF%A1%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)
