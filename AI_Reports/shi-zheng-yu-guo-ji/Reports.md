@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：220
+报告总数：222
 
 ---
 
@@ -70,6 +70,7 @@
 
 - [高标准建设海南自由贸易港](gao-biao-zhun-jian-she-hai-nan-zi-you-mao-yi-gang-2025-11-07--v1.md) - 2025-11-07 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%87%E5%87%86%E5%BB%BA%E8%AE%BE%E6%B5%B7%E5%8D%97%E8%87%AA%E7%94%B1%E8%B4%B8%E6%98%93%E6%B8%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [高市幻想“软着陆”？中方明确表态](gao-shi-huan-xiang-ruan-zhao-lu-zhong-fang-ming-que-biao-tai-2025-11-23--v1.md) - 2025-11-23 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%B9%BB%E6%83%B3%E2%80%9C%E8%BD%AF%E7%9D%80%E9%99%86%E2%80%9D%EF%BC%9F%E4%B8%AD%E6%96%B9%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)
+- [高市既想对华倒打一耙 又急于翻篇](gao-shi-ji-xiang-dui-hua-dao-da-yi-pa-you-ji-yu-fan-pian-2025-11-24--v1.md) - 2025-11-24 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A2%E6%83%B3%E5%AF%B9%E5%8D%8E%E5%80%92%E6%89%93%E4%B8%80%E8%80%99+%E5%8F%88%E6%80%A5%E4%BA%8E%E7%BF%BB%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)
 - [高市早苗被喊话向中国道歉](gao-shi-zao-miao-bei-han-hua-xiang-zhong-guo-dao-qian-2025-11-17--v1.md) - 2025-11-17 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
 - [高市早苗毒化中日关系必将自食恶果](gao-shi-zao-miao-du-hua-zhong-ri-guan-xi-bi-jiang-zi-shi-e-guo-2025-11-19--v1.md) - 2025-11-19 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%AF%92%E5%8C%96%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E5%BF%85%E5%B0%86%E8%87%AA%E9%A3%9F%E6%81%B6%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [高市之祸：撕裂中日关系的天崩开局](gao-shi-zhi-huo-si-lie-zhong-ri-guan-xi-de-tian-beng-kai-ju-2025-11-16--v1.md) - 2025-11-16 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E4%B9%8B%E7%A5%B8%EF%BC%9A%E6%92%95%E8%A3%82%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%9A%84%E5%A4%A9%E5%B4%A9%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
@@ -131,6 +132,7 @@
 - [美国拘捕约300名韩国人](mei-guo-ju-bu-yue-300ming-han-guo-ren-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95%E7%BA%A6300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [美国为何要疯狂攻击“北京时间”](mei-guo-wei-he-yao-feng-kuang-gong-ji-bei-jing-shi-jian-2025-10-31--v1.md) - 2025-10-31 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E7%96%AF%E7%8B%82%E6%94%BB%E5%87%BB%E2%80%9C%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [美国一飞机坠毁 附近大楼被撞](mei-guo-yi-fei-ji-zhui-hui-fu-jin-da-lou-bei-zhuang-2025-11-05--v1.md) - 2025-11-05 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81+%E9%99%84%E8%BF%91%E5%A4%A7%E6%A5%BC%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)
+- [美乌发布联合声明](mei-wu-fa-bu-lian-he-sheng-ming-2025-11-24--v1.md) - 2025-11-24 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B9%8C%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [美用42款特种武器网攻“北京时间”](mei-yong-42kuan-te-chong-wu-qi-wang-gong-bei-jing-shi-jian-2025-10-19--v1.md) - 2025-10-19 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%A842%E6%AC%BE%E7%89%B9%E7%A7%8D%E6%AD%A6%E5%99%A8%E7%BD%91%E6%94%BB%E2%80%9C%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [缅甸军方突袭KK园区](mian-dian-jun-fang-tu-xi-kkyuan-qu-2025-10-24--v1.md) - 2025-10-24 (v1) [来源](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%86%9B%E6%96%B9%E7%AA%81%E8%A2%ADKK%E5%9B%AD%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [缅军方引爆KK园区 上千人跳河出逃](mian-jun-fang-yin-bao-kkyuan-qu-shang-qian-ren-tiao-he-chu-tao-2025-10-27--v1.md) - 2025-10-27 (v1) [来源](https://www.baidu.com/s?wd=%E7%BC%85%E5%86%9B%E6%96%B9%E5%BC%95%E7%88%86KK%E5%9B%AD%E5%8C%BA+%E4%B8%8A%E5%8D%83%E4%BA%BA%E8%B7%B3%E6%B2%B3%E5%87%BA%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)
