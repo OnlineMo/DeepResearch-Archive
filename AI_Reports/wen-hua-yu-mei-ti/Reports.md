@@ -1,7 +1,7 @@
 # 文化与媒体 报告索引
 
 本页包含 **文化与媒体** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：18
+报告总数：20
 
 ---
 
@@ -43,6 +43,7 @@
 ## Y
 
 - [杨靖宇之孙拿出一块“传家宝”](yang-jing-yu-zhi-sun-na-chu-yi-kuai-chuan-jia-bao-2025-09-17--v1.md) - 2025-09-17 (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%A8%E9%9D%96%E5%AE%87%E4%B9%8B%E5%AD%99%E6%8B%BF%E5%87%BA%E4%B8%80%E5%9D%97%E2%80%9C%E4%BC%A0%E5%AE%B6%E5%AE%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [一个博物馆就是一所大学校](yi-ge-bo-wu-guan-jiu-shi-yi-suo-da-xue-xiao-2025-11-25--v1.md) - 2025-11-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B0%B1%E6%98%AF%E4%B8%80%E6%89%80%E5%A4%A7%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
@@ -55,3 +56,4 @@
 ## “
 
 - [“大海”的底气](da-hai-de-di-qi-2025-11-06--v1.md) - 2025-11-06 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B5%B7%E2%80%9D%E7%9A%84%E5%BA%95%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)
+- [“数”说非遗绽放夺目新光彩](shu-shuo-fei-yi-zhan-fang-duo-mu-xin-guang-cai-2025-11-25--v1.md) - 2025-11-25 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%B4%E9%9D%9E%E9%81%97%E7%BB%BD%E6%94%BE%E5%A7%AA%E7%9B%AE%E6%96%B0%E5%85%89%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
