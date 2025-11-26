@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [高市越位 美国越顶 - 2025-11-26](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-yue-wei-mei-guo-yue-ding-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E8%B6%8A%E4%BD%8D+%E7%BE%8E%E5%9B%BD%E8%B6%8A%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平会见汤加国王图普六世 - 2025-11-26](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-hui-jian-tang-jia-guo-wang-tu-pu-liu-shi-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%B1%A4%E5%8A%A0%E5%9B%BD%E7%8E%8B%E5%9B%BE%E6%99%AE%E5%85%AD%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普：将于明年4月访华 - 2025-11-25](AI_Reports/shi-zheng-yu-guo-ji/te-lang-pu-jiang-yu-ming-nian-4yue-fang-hua-2025-11-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B44%E6%9C%88%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普要求与高市早苗通话 - 2025-11-25](AI_Reports/shi-zheng-yu-guo-ji/te-lang-pu-yao-qiu-yu-gao-shi-zao-miao-tong-hua-2025-11-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%89%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同特朗普通电话 - 2025-11-25](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-te-lang-pu-tong-dian-hua-2025-11-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,12 +23,12 @@
 - [战败后日方首次对中国发出武力威胁 - 2025-11-20](AI_Reports/shi-zheng-yu-guo-ji/zhan-bai-hou-ri-fang-shou-ci-dui-zhong-guo-fa-chu-wu-li-wei-xie-2025-11-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%88%98%E8%B4%A5%E5%90%8E%E6%97%A5%E6%96%B9%E9%A6%96%E6%AC%A1%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%87%BA%E6%AD%A6%E5%8A%9B%E5%A8%81%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记为全面依法治国指明前进方向 - 2025-11-20](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-wei-quan-mian-yi-fa-zhi-guo-zhi-ming-qian-jin-fang-xiang-2025-11-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E5%85%A8%E9%9D%A2%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD%E6%8C%87%E6%98%8E%E5%89%8D%E8%BF%9B%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [最后2只旅日大熊猫即将回国 - 2025-11-20](AI_Reports/shi-zheng-yu-guo-ji/zui-hou-2zhi-lu-ri-da-xiong-mao-ji-jiang-hui-guo-2025-11-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E5%90%8E2%E5%8F%AA%E6%97%85%E6%97%A5%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8D%B3%E5%B0%86%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
-- [高市早苗毒化中日关系必将自食恶果 - 2025-11-19](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-zao-miao-du-hua-zhong-ri-guan-xi-bi-jiang-zi-shi-e-guo-2025-11-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%AF%92%E5%8C%96%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E5%BF%85%E5%B0%86%E8%87%AA%E9%A3%9F%E6%81%B6%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)
-- [指引法治中国建设 总书记这样阐述 - 2025-11-19](AI_Reports/shi-zheng-yu-guo-ji/zhi-yin-fa-zhi-zhong-guo-jian-she-zong-shu-ji-zhe-yang-chan-shu-2025-11-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8C%87%E5%BC%95%E6%B3%95%E6%B2%BB%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE+%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E6%A0%B7%E9%98%89%E8%BF%B0&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [婚前同居认定属于家庭成员 - 2025-11-26](AI_Reports/she-hui-yu-fa-zhi/hun-qian-tong-ju-ren-ding-shu-yu-jia-ting-cheng-yuan-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%E8%AE%A4%E5%AE%9A%E5%B1%9E%E4%BA%8E%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)
+- [小心！你收藏的邮票可能是“软刀子” - 2025-11-26](AI_Reports/she-hui-yu-fa-zhi/xiao-xin-ni-shou-cang-de-you-piao-ke-neng-shi-ruan-dao-zi-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BF%83%EF%BC%81%E4%BD%A0%E6%94%B6%E8%97%8F%E7%9A%84%E9%82%AE%E7%A5%A8%E5%8F%AF%E8%83%BD%E6%98%AF%E2%80%9C%E8%BD%AF%E5%88%80%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [8人穿“警服”为婚礼开路？后续来了 - 2025-11-12](AI_Reports/she-hui-yu-fa-zhi/8ren-chuan-jing-fu-wei-hun-li-kai-lu-hou-xu-lai-liao-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=8%E4%BA%BA%E7%A9%BF%E2%80%9C%E8%AD%A6%E6%9C%8D%E2%80%9D%E4%B8%BA%E5%A9%9A%E7%A4%BC%E5%BC%80%E8%B7%AF%EF%BC%9F%E5%90%8E%E7%BB%AD%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [云南通报赤裸小孩事件 - 2025-11-11](AI_Reports/she-hui-yu-fa-zhi/yun-nan-tong-bao-chi-luo-xiao-hai-shi-jian-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E8%B5%A4%E8%A3%B8%E5%B0%8F%E5%AD%A9%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光：医保卡被薅羊毛 - 2025-11-10](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-guang-yi-bao-qia-bei-hao-yang-mao-2025-11-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A%E5%8C%BB%E4%BF%9D%E5%8D%A1%E8%A2%AB%E8%96%8B%E7%BE%8A%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)
@@ -45,8 +47,6 @@
 - [学校每人收240元电话费 收费超百万 - 2025-10-25](AI_Reports/she-hui-yu-fa-zhi/xue-xiao-mei-ren-shou-240yuan-dian-hua-fei-shou-fei-chao-bai-mo-2025-10-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%AF%8F%E4%BA%BA%E6%94%B6240%E5%85%83%E7%94%B5%E8%AF%9D%E8%B4%B9+%E6%94%B6%E8%B4%B9%E8%B6%85%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
 - [谁在利用1068号段发送诈骗短信 - 2025-10-20](AI_Reports/she-hui-yu-fa-zhi/shui-zai-li-yong-1068hao-duan-fa-song-zha-pian-duan-xin-2025-10-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E5%88%A9%E7%94%A81068%E5%8F%B7%E6%AE%B5%E5%8F%91%E9%80%81%E8%AF%88%E9%AA%97%E7%9F%AD%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [沪上阿姨推出子宫形玩偶引争议 - 2025-10-18](AI_Reports/she-hui-yu-fa-zhi/hu-shang-a-yi-tui-chu-zi-gong-xing-wan-ou-yin-zheng-yi-2025-10-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%B8%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%8E%A8%E5%87%BA%E5%AD%90%E5%AE%AB%E5%BD%A2%E7%8E%A9%E5%81%B6%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
-- [央视曝多地共享单车骑行中自动锁车 - 2025-10-16](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-duo-di-gong-xiang-dan-che-qi-xing-zhong-zi-dong-suo-che-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%A4%9A%E5%9C%B0%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E9%AA%91%E8%A1%8C%E4%B8%AD%E8%87%AA%E5%8A%A8%E9%94%81%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
-- [业主私挖300平地下室致32户开裂 - 2025-10-14](AI_Reports/she-hui-yu-fa-zhi/ye-zhu-si-wa-300ping-di-xia-shi-zhi-32hu-kai-lie-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%87%B432%E6%88%B7%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -128,6 +128,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [神舟二十二号与空间站完成对接 - 2025-11-26](AI_Reports/ke-xue-yu-tai-kong/shen-zhou-er-shi-er-hao-yu-kong-jian-zhan-wan-cheng-dui-jie-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%AB%99%E5%AE%8C%E6%88%90%E5%AF%B9%E6%8E%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [航天员带回近100斤太空特产 - 2025-11-15](AI_Reports/ke-xue-yu-tai-kong/hang-tian-yuan-dai-hui-jin-100jin-tai-kong-te-chan-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%88%AA%E5%A4%A9%E5%91%98%E5%B8%A6%E5%9B%9E%E8%BF%91100%E6%96%A4%E5%A4%AA%E7%A9%BA%E7%89%B9%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [今年是罕见的“九月早立冬” - 2025-11-07](AI_Reports/ke-xue-yu-tai-kong/jin-nian-shi-han-jian-de-jiu-yue-zao-li-dong-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E6%98%AF%E7%BD%95%E8%A7%81%E7%9A%84%E2%80%9C%E4%B9%9D%E6%9C%88%E6%97%A9%E7%AB%8B%E5%86%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中国航天器首次观测到星际天体 - 2025-11-06](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-hang-tian-qi-shou-ci-guan-ce-dao-xing-ji-tian-ti-2025-11-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%99%A8%E9%A6%96%E6%AC%A1%E8%A7%82%E6%B5%8B%E5%88%B0%E6%98%9F%E9%99%85%E5%A4%A9%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)
