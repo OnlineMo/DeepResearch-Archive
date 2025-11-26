@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：63
+报告总数：65
 
 ---
 
@@ -48,6 +48,7 @@
 - [很重要的是看老年人幸福不幸福](hen-zhong-yao-de-shi-kan-lao-nian-ren-xing-fu-bu-xing-fu-2025-10-05--v1.md) - 2025-10-05 (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%88%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E7%9C%8B%E8%80%81%E5%B9%B4%E4%BA%BA%E5%B9%B8%E7%A6%8F%E4%B8%8D%E5%B9%B8%E4%B8%8D%E5%B9%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [虎跳峡出现不明生物？当地回应](hu-tiao-xia-chu-xian-bu-ming-sheng-wu-dang-di-hui-ying-2025-09-12--v1.md) - 2025-09-12 (v1) [来源](https://www.baidu.com/s?wd=%E8%99%8E%E8%B7%B3%E5%B3%A1%E5%87%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%89%A9%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [沪上阿姨推出子宫形玩偶引争议](hu-shang-a-yi-tui-chu-zi-gong-xing-wan-ou-yin-zheng-yi-2025-10-18--v1.md) - 2025-10-18 (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%B8%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%8E%A8%E5%87%BA%E5%AD%90%E5%AE%AB%E5%BD%A2%E7%8E%A9%E5%81%B6%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
+- [婚前同居认定属于家庭成员](hun-qian-tong-ju-ren-ding-shu-yu-jia-ting-cheng-yuan-2025-11-26--v1.md) - 2025-11-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%E8%AE%A4%E5%AE%9A%E5%B1%9E%E4%BA%8E%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)
 
 ## J
 
@@ -95,6 +96,7 @@
 
 - [香港发现战时炸弹 6000人紧急疏散](xiang-gang-fa-xian-zhan-shi-zha-dan-6000ren-jin-ji-shu-san-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%8F%91%E7%8E%B0%E6%88%98%E6%97%B6%E7%82%B8%E5%BC%B9+6000%E4%BA%BA%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)
 - [香港黄金盗窃案已拘捕12男1女](xiang-gang-huang-jin-dao-qie-an-yi-ju-bu-12nan-1nu-2025-09-19--v1.md) - 2025-09-19 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E7%9B%97%E7%AA%83%E6%A1%88%E5%B7%B2%E6%8B%A3%E6%8D%9512%E7%94%B71%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)
+- [小心！你收藏的邮票可能是“软刀子”](xiao-xin-ni-shou-cang-de-you-piao-ke-neng-shi-ruan-dao-zi-2025-11-26--v1.md) - 2025-11-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BF%83%EF%BC%81%E4%BD%A0%E6%94%B6%E8%97%8F%E7%9A%84%E9%82%AE%E7%A5%A8%E5%8F%AF%E8%83%BD%E6%98%AF%E2%80%9C%E8%BD%AF%E5%88%80%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [学校每人收240元电话费 收费超百万](xue-xiao-mei-ren-shou-240yuan-dian-hua-fei-shou-fei-chao-bai-mo-2025-10-25--v1.md) - 2025-10-25 (v1) [来源](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%AF%8F%E4%BA%BA%E6%94%B6240%E5%85%83%E7%94%B5%E8%AF%9D%E8%B4%B9+%E6%94%B6%E8%B4%B9%E8%B6%85%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
