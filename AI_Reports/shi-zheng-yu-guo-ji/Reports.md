@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：227
+报告总数：230
 
 ---
 
@@ -154,6 +154,7 @@
 ## Q
 
 - [钱学森遭美方拘禁后失声暴瘦](qian-xue-sen-zao-mei-fang-ju-jin-hou-shi-sheng-bao-shou-2025-10-08--v1.md) - 2025-10-08 (v1) [来源](https://www.baidu.com/s?wd=%E9%92%B1%E5%AD%A6%E6%A3%AE%E9%81%AD%E7%BE%8E%E6%96%B9%E6%8B%98%E7%A6%81%E5%90%8E%E5%A4%B1%E5%A3%B0%E6%9A%B4%E7%98%A6&sa=fyb_news&rsv_dl=fyb_news)
+- [全国入冬进程图来了](quan-guo-ru-dong-jin-cheng-tu-lai-liao-2025-11-27--v1.md) - 2025-11-27 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%85%A5%E5%86%AC%E8%BF%9B%E7%A8%8B%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [全球首例！中国航母福建舰创纪录](quan-qiu-shou-li-zhong-guo-hang-mu-fu-jian-jian-chuang-ji-lu-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E7%A6%8F%E5%BB%BA%E8%88%B9%E5%88%9B%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)
 - [全球最强台风明日登陆广东](quan-qiu-zui-qiang-tai-feng-ming-ri-deng-lu-yan-dong-2025-09-23--v1.md) - 2025-09-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%B7%E5%8F%B0%E9%A3%8E%E6%98%8E%E6%97%A5%E7%99%B2%E9%99%86%E5%B9%BF%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -231,6 +232,7 @@
 - [习近平同特朗普通电话](xi-jin-ping-tong-te-lang-pu-tong-dian-hua-2025-11-25--v1.md) - 2025-11-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同新加坡总统互致贺电](xi-jin-ping-tong-xin-jia-po-zong-tong-hu-zhi-he-dian-2025-10-04--v1.md) - 2025-10-04 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平鲜明宣示这8个字](xi-jin-ping-xian-ming-xuan-shi-zhe-8ge-zi-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%B2%9C%E6%98%8E%E5%AE%A3%E7%A4%BA%E8%BF%998%E4%B8%AA%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平向香港火灾遇难人员表示哀悼](xi-jin-ping-xiang-xiang-gang-huo-zai-yu-nan-ren-yuan-biao-shi-ai-dao-2025-11-27--v1.md) - 2025-11-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E4%BA%BA%E5%91%98%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平在全球妇女峰会提出四点建议](xi-jin-ping-zai-quan-qiu-fu-nu-feng-hui-ti-chu-si-dian-jian-yi-2025-10-14--v1.md) - 2025-10-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E6%8F%90%E5%87%BA%E5%9B%9B%E7%82%B9%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平重点强调这些历史启迪](xi-jin-ping-zhong-dian-qiang-diao-zhe-xie-li-shi-qi-di-2025-09-05--v1.md) - 2025-09-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E7%82%B9%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E5%8E%86%E5%8F%B2%E5%90%AF%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平祝贺中国致公党成立100周年](xi-jin-ping-zhu-he-zhong-guo-zhi-gong-dang-cheng-li-100zhou-nian-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E8%87%B4%E5%85%AC%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
@@ -284,6 +286,7 @@
 - [中国人口发展出现新特征](zhong-guo-ren-kou-fa-zhan-chu-xian-xin-te-zheng-2025-11-18--v1.md) - 2025-11-18 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E5%8F%91%E5%B1%95%E5%87%BA%E7%8E%B0%E6%96%B0%E7%89%B9%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)
 - [中国正式成为安第斯共同体观察员国](zhong-guo-zheng-shi-cheng-wei-an-di-si-gong-tong-ti-guan-cha-yuan-guo-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E6%88%90%E4%B8%BA%E5%AE%89%E7%AC%AC%E6%96%AF%E5%85%B1%E5%90%8C%E4%BD%93%E8%A7%82%E5%AF%9F%E5%91%98%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [中美完全可以相互成就、共同繁荣](zhong-mei-wan-quan-ke-yi-xiang-hu-cheng-jiu-gong-tong-fan-rong-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%B2%E6%88%90%E5%B0%B1%E3%80%81%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)
+- [中美元首近十年来首提军国主义](zhong-mei-yuan-shou-jin-shi-nian-lai-shou-ti-jun-guo-zhu-yi-2025-11-27--v1.md) - 2025-11-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%BF%91%E5%8D%81%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%8F%90%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89&sa=fyb_news&rsv_dl=fyb_news)
 - [中日最新交锋 没有握手](zhong-ri-zui-xin-jiao-feng-mei-you-wo-shou-2025-11-19--v1.md) - 2025-11-19 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%97%A5%E6%9C%80%E6%96%B0%E4%BA%A4%E9%94%8B+%E6%B2%A1%E6%9C%89%E6%8F%A1%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [重兵云集！日本加强西南诸岛军力部署](zhong-bing-yun-ji-ri-ben-jia-qiang-xi-nan-zhu-dao-jun-li-bu-shu-2025-11-21--v1.md) - 2025-11-21 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E5%85%B5%E4%BA%91%E9%83%A8%E4%BA%91%E9%9B%86%EF%BC%81%E6%97%A5%E6%9C%AC%E5%8A%A0%E5%BC%BA%E8%A5%BF%E5%8D%97%E8%AF%B8%E5%B2%9B%E5%86%9B%E5%8A%9B%E9%83%A8%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [抓住时间窗口 赢得战略主动](zhua-zhu-shi-jian-chuang-kou-ying-de-zhan-lue-zhu-dong-2025-10-27--v1.md) - 2025-10-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%93%E4%BD%8F%E6%97%B6%E9%97%A8%E7%AA%97%E5%8F%A3+%E8%B5%A2%E5%BE%97%E6%88%98%E7%95%A5%E4%B8%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
