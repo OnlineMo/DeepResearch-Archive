@@ -1,7 +1,7 @@
 # 文化与媒体 报告索引
 
 本页包含 **文化与媒体** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：20
+报告总数：21
 
 ---
 
@@ -44,6 +44,7 @@
 
 - [杨靖宇之孙拿出一块“传家宝”](yang-jing-yu-zhi-sun-na-chu-yi-kuai-chuan-jia-bao-2025-09-17--v1.md) - 2025-09-17 (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%A8%E9%9D%96%E5%AE%87%E4%B9%8B%E5%AD%99%E6%8B%BF%E5%87%BA%E4%B8%80%E5%9D%97%E2%80%9C%E4%BC%A0%E5%AE%B6%E5%AE%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [一个博物馆就是一所大学校](yi-ge-bo-wu-guan-jiu-shi-yi-suo-da-xue-xiao-2025-11-25--v1.md) - 2025-11-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B0%B1%E6%98%AF%E4%B8%80%E6%89%80%E5%A4%A7%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)
+- [一起来看冬日里的中式美学](yi-qi-lai-kan-dong-ri-li-de-zhong-shi-mei-xue-2025-11-28--v1.md) - 2025-11-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E5%86%AC%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
