@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：67
+报告总数：70
 
 ---
 
@@ -78,6 +78,7 @@
 
 ## S
 
+- [山东威海地震 有人梦中被晃醒](shan-dong-wei-hai-di-zhen-you-ren-meng-zhong-bei-huang-xing-2025-11-28--v1.md) - 2025-11-28 (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A8%81%E6%B5%B7%E5%9C%B0%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%A2%A6%E4%B8%AD%E8%A2%AB%E6%99%83%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)
 - [深圳机场深夜致歉 郑智化回应](shen-zhen-ji-chang-shen-ye-zhi-qian-zheng-zhi-hua-hui-ying-2025-10-26--v1.md) - 2025-10-26 (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E6%B7%B1%E5%A4%9C%E8%87%B4%E6%AD%89+%E9%83%91%E6%99%BA%E5%8C%96%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [深圳消防车队已在莲塘口岸集结](shen-zhen-xiao-fang-che-dui-yi-zai-lian-tang-kou-an-ji-jie-2025-11-27--v1.md) - 2025-11-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93&sa=fyb_news&rsv_dl=fyb_news)
 - [始祖鸟烟花秀引争议 日喀则通报](shi-zu-niao-yan-hua-xiu-yin-zheng-yi-ri-ke-ze-tong-bao-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E5%A7%8B%E7%A5%96%E9%B8%9F%E7%83%9F%E8%8A%B1%E7%A7%91%E5%BC%95%E4%BA%89%E8%AE%AE+%E6%97%A5%E5%96%80%E5%88%99%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
@@ -98,11 +99,13 @@
 - [香港发现战时炸弹 6000人紧急疏散](xiang-gang-fa-xian-zhan-shi-zha-dan-6000ren-jin-ji-shu-san-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%8F%91%E7%8E%B0%E6%88%98%E6%97%B6%E7%82%B8%E5%BC%B9+6000%E4%BA%BA%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)
 - [香港黄金盗窃案已拘捕12男1女](xiang-gang-huang-jin-dao-qie-an-yi-ju-bu-12nan-1nu-2025-09-19--v1.md) - 2025-09-19 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E7%9B%97%E7%AA%83%E6%A1%88%E5%B7%B2%E6%8B%A3%E6%8D%9512%E7%94%B71%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [香港火灾44人遇难 3人涉误杀被捕](xiang-gang-huo-zai-44ren-yu-nan-3ren-she-wu-sha-bei-bu-2025-11-27--v1.md) - 2025-11-27 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE44%E4%BA%BA%E9%81%87%E9%9A%BE+3%E4%BA%BA%E6%B6%89%E8%AF%AF%E6%9D%80%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)
+- [香港火灾已造成94人遇难](xiang-gang-huo-zai-yi-zao-cheng-94ren-yu-nan-2025-11-28--v1.md) - 2025-11-28 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%9094%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [小心！你收藏的邮票可能是“软刀子”](xiao-xin-ni-shou-cang-de-you-piao-ke-neng-shi-ruan-dao-zi-2025-11-26--v1.md) - 2025-11-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BF%83%EF%BC%81%E4%BD%A0%E6%94%B6%E8%97%8F%E7%9A%84%E9%82%AE%E7%A5%A8%E5%8F%AF%E8%83%BD%E6%98%AF%E2%80%9C%E8%BD%AF%E5%88%80%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [学校每人收240元电话费 收费超百万](xue-xiao-mei-ren-shou-240yuan-dian-hua-fei-shou-fei-chao-bai-mo-2025-10-25--v1.md) - 2025-10-25 (v1) [来源](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%AF%8F%E4%BA%BA%E6%94%B6240%E5%85%83%E7%94%B5%E8%AF%9D%E8%B4%B9+%E6%94%B6%E8%B4%B9%E8%B6%85%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
+- [央视曝光小诊所用医保卡换豆油和面](yang-shi-pu-guang-xiao-zhen-suo-yong-yi-bao-qia-huan-dou-you-he-mian-2025-11-28--v1.md) - 2025-11-28 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%B0%8F%E8%AF%8A%E6%89%80%E7%94%A8%E5%8C%BB%E4%BF%9D%E5%8D%A1%E6%8D%A2%E8%B1%86%E6%B2%B9%E5%92%8C%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光直播间“高端四件套”猫腻](yang-shi-pu-guang-zhi-bo-jian-gao-duan-si-jian-tao-mao-ni-2025-09-22--v1.md) - 2025-09-22 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9B%B4%E6%92%AD%E9%97%B4%E2%80%9C%E9%AB%98%E7%AB%AF%E5%9B%9B%E4%BB%B6%E5%A5%97%E2%80%9D%E7%8C%AB%E8%85%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光：医保卡被薅羊毛](yang-shi-pu-guang-yi-bao-qia-bei-hao-yang-mao-2025-11-10--v1.md) - 2025-11-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A%E5%8C%BB%E4%BF%9D%E5%8D%A1%E8%A2%AB%E8%96%8B%E7%BE%8A%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝多地共享单车骑行中自动锁车](yang-shi-pu-duo-di-gong-xiang-dan-che-qi-xing-zhong-zi-dong-suo-che-2025-10-16--v1.md) - 2025-10-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%A4%9A%E5%9C%B0%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E9%AA%91%E8%A1%8C%E4%B8%AD%E8%87%AA%E5%8A%A8%E9%94%81%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
