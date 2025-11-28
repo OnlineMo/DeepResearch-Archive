@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [建设人民城市 致广大而尽精微 - 2025-11-28](AI_Reports/shi-zheng-yu-guo-ji/jian-she-ren-min-cheng-shi-zhi-yan-da-er-jin-jing-wei-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82+%E8%87%B4%E5%B9%BF%E5%A4%A7%E8%80%8C%E5%B0%BD%E7%B2%BE%E5%BE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [全国入冬进程图来了 - 2025-11-27](AI_Reports/shi-zheng-yu-guo-ji/quan-guo-ru-dong-jin-cheng-tu-lai-liao-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%85%A5%E5%86%AC%E8%BF%9B%E7%A8%8B%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平向香港火灾遇难人员表示哀悼 - 2025-11-27](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-xiang-xiang-gang-huo-zai-yu-nan-ren-yuan-biao-shi-ai-dao-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E4%BA%BA%E5%91%98%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)
 - [中美元首近十年来首提军国主义 - 2025-11-27](AI_Reports/shi-zheng-yu-guo-ji/zhong-mei-yuan-shou-jin-shi-nian-lai-shou-ti-jun-guo-zhu-yi-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%BF%91%E5%8D%81%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%8F%90%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,11 +23,13 @@
 - [俄罗斯痛批高市早苗：厚颜无耻 - 2025-11-21](AI_Reports/shi-zheng-yu-guo-ji/e-luo-si-tong-pi-gao-shi-zao-miao-hou-yan-wu-chi-2025-11-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%EF%BC%9A%E5%8E%9A%E9%A2%9C%E6%97%A0%E8%80%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [国安机关披露某公司拍摄大量敏感信息 - 2025-11-21](AI_Reports/shi-zheng-yu-guo-ji/guo-an-ji-guan-pi-lu-mou-gong-si-pai-she-da-liang-min-gan-xin-xi-2025-11-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E6%9C%BA%E5%85%B3%E6%8A%AB%E9%9C%B2%E6%9F%90%E5%85%AC%E5%8F%B8%E6%8B%8D%E6%91%84%E5%A4%A7%E9%87%8F%E6%95%8F%E6%84%9F%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [重兵云集！日本加强西南诸岛军力部署 - 2025-11-21](AI_Reports/shi-zheng-yu-guo-ji/zhong-bing-yun-ji-ri-ben-jia-qiang-xi-nan-zhu-dao-jun-li-bu-shu-2025-11-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E5%85%B5%E4%BA%91%E9%83%A8%E4%BA%91%E9%9B%86%EF%BC%81%E6%97%A5%E6%9C%AC%E5%8A%A0%E5%BC%BA%E8%A5%BF%E5%8D%97%E8%AF%B8%E5%B2%9B%E5%86%9B%E5%8A%9B%E9%83%A8%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)
-- [危险信号！日本首次出口爱国者导弹 - 2025-11-20](AI_Reports/shi-zheng-yu-guo-ji/wei-xian-xin-hao-ri-ben-shou-ci-chu-kou-ai-guo-zhe-dao-dan-2025-11-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B1%E9%99%A9%E4%BF%A1%E5%8F%B7%EF%BC%81%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%87%BA%E5%8F%A3%E7%88%B1%E5%9B%BD%E8%80%85%E5%AF%BC%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [山东威海地震 有人梦中被晃醒 - 2025-11-28](AI_Reports/she-hui-yu-fa-zhi/shan-dong-wei-hai-di-zhen-you-ren-meng-zhong-bei-huang-xing-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A8%81%E6%B5%B7%E5%9C%B0%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%A2%A6%E4%B8%AD%E8%A2%AB%E6%99%83%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)
+- [香港火灾已造成94人遇难 - 2025-11-28](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-huo-zai-yi-zao-cheng-94ren-yu-nan-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%9094%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)
+- [央视曝光小诊所用医保卡换豆油和面 - 2025-11-28](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-guang-xiao-zhen-suo-yong-yi-bao-qia-huan-dou-you-he-mian-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%B0%8F%E8%AF%8A%E6%89%80%E7%94%A8%E5%8C%BB%E4%BF%9D%E5%8D%A1%E6%8D%A2%E8%B1%86%E6%B2%B9%E5%92%8C%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [深圳消防车队已在莲塘口岸集结 - 2025-11-27](AI_Reports/she-hui-yu-fa-zhi/shen-zhen-xiao-fang-che-dui-yi-zai-lian-tang-kou-an-ji-jie-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93&sa=fyb_news&rsv_dl=fyb_news)
 - [香港火灾44人遇难 3人涉误杀被捕 - 2025-11-27](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-huo-zai-44ren-yu-nan-3ren-she-wu-sha-bei-bu-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE44%E4%BA%BA%E9%81%87%E9%9A%BE+3%E4%BA%BA%E6%B6%89%E8%AF%AF%E6%9D%80%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)
 - [婚前同居认定属于家庭成员 - 2025-11-26](AI_Reports/she-hui-yu-fa-zhi/hun-qian-tong-ju-ren-ding-shu-yu-jia-ting-cheng-yuan-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%E8%AE%A4%E5%AE%9A%E5%B1%9E%E4%BA%8E%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)
@@ -44,9 +47,6 @@
 - [这个培训班一半以上的警官不能露面 - 2025-10-29](AI_Reports/she-hui-yu-fa-zhi/zhe-ge-pei-xun-ban-yi-ban-yi-shang-de-jing-guan-bu-neng-lu-mian-2025-10-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%9F%B9%E8%AE%AD%E7%8F%AD%E4%B8%80%E5%8D%8A%E4%BB%A5%E4%B8%8A%E7%9A%84%E8%AD%A6%E5%AE%98%E4%B8%8D%E8%83%BD%E9%9C%B2%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [00后用家用打印机造250多万假币 - 2025-10-28](AI_Reports/she-hui-yu-fa-zhi/00hou-yong-jia-yong-da-yin-ji-zao-250duo-mo-jia-bi-2025-10-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E7%94%A8%E5%AE%B6%E7%94%A8%E6%89%93%E5%8D%B0%E6%9C%BA%E9%80%A0250%E5%A4%9A%E4%B8%87%E5%81%87%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)
 - [肉联公司门口堆满死猪 7人被控制 - 2025-10-28](AI_Reports/she-hui-yu-fa-zhi/rou-lian-gong-si-men-kou-dui-man-si-zhu-7ren-bei-kong-zhi-2025-10-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%82%89%E8%81%94%E5%85%AC%E5%8F%B8%E9%97%A8%E5%8F%A3%E5%A0%86%E6%BB%A1%E6%AD%BB%E7%8C%AA+7%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)
-- [按摩店初中文凭小伙娶美国女博士 - 2025-10-27](AI_Reports/she-hui-yu-fa-zhi/an-mo-dian-chu-zhong-wen-ping-xiao-huo-qu-mei-guo-nu-bo-shi-2025-10-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8C%89%E6%91%A9%E5%BA%97%E5%88%9D%E4%B8%AD%E6%96%87%E5%87%AD%E5%B0%8F%E4%BC%99%E5%A8%B6%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)
-- [深圳机场深夜致歉 郑智化回应 - 2025-10-26](AI_Reports/she-hui-yu-fa-zhi/shen-zhen-ji-chang-shen-ye-zhi-qian-zheng-zhi-hua-hui-ying-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E6%B7%B1%E5%A4%9C%E8%87%B4%E6%AD%89+%E9%83%91%E6%99%BA%E5%8C%96%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
-- [学校每人收240元电话费 收费超百万 - 2025-10-25](AI_Reports/she-hui-yu-fa-zhi/xue-xiao-mei-ren-shou-240yuan-dian-hua-fei-shou-fei-chao-bai-mo-2025-10-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%AF%8F%E4%BA%BA%E6%94%B6240%E5%85%83%E7%94%B5%E8%AF%9D%E8%B4%B9+%E6%94%B6%E8%B4%B9%E8%B6%85%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -268,6 +268,7 @@
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
+- [一起来看冬日里的中式美学 - 2025-11-28](AI_Reports/wen-hua-yu-mei-ti/yi-qi-lai-kan-dong-ri-li-de-zhong-shi-mei-xue-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E5%86%AC%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [“数”说非遗绽放夺目新光彩 - 2025-11-25](AI_Reports/wen-hua-yu-mei-ti/shu-shuo-fei-yi-zhan-fang-duo-mu-xin-guang-cai-2025-11-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%B4%E9%9D%9E%E9%81%97%E7%BB%BD%E6%94%BE%E5%A7%AA%E7%9B%AE%E6%96%B0%E5%85%89%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [一个博物馆就是一所大学校 - 2025-11-25](AI_Reports/wen-hua-yu-mei-ti/yi-ge-bo-wu-guan-jiu-shi-yi-suo-da-xue-xiao-2025-11-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B0%B1%E6%98%AF%E4%B8%80%E6%89%80%E5%A4%A7%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [山西发现一座距今4300年“宫城” - 2025-11-22](AI_Reports/wen-hua-yu-mei-ti/shan-xi-fa-xian-yi-zuo-ju-jin-4300nian-gong-cheng-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%8E%B0%E4%B8%80%E5%BA%A7%E8%B7%9D%E4%BB%8A4300%E5%B9%B4%E2%80%9C%E5%AE%AB%E5%9F%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -287,7 +288,6 @@
 - [金秋里 听历史的声息拂过耳畔 - 2025-09-19](AI_Reports/wen-hua-yu-mei-ti/jin-qiu-li-ting-li-shi-de-sheng-xi-fu-guo-er-pan-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E7%A7%8B%E9%87%8C+%E5%90%AC%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A3%B0%E6%81%AF%E6%8B%82%E8%BF%87%E8%80%B3%E7%95%94&sa=fyb_news&rsv_dl=fyb_news)
 - [杨靖宇之孙拿出一块“传家宝” - 2025-09-17](AI_Reports/wen-hua-yu-mei-ti/yang-jing-yu-zhi-sun-na-chu-yi-kuai-chuan-jia-bao-2025-09-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%A8%E9%9D%96%E5%AE%87%E4%B9%8B%E5%AD%99%E6%8B%BF%E5%87%BA%E4%B8%80%E5%9D%97%E2%80%9C%E4%BC%A0%E5%AE%B6%E5%AE%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [这一封封家书来自那些最可爱的人 - 2025-09-12](AI_Reports/wen-hua-yu-mei-ti/zhe-yi-feng-feng-jia-shu-lai-zi-na-xie-zui-ke-ai-de-ren-2025-09-12--v1.md) (v1) [来源]([https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%B0%81%E5%B0%81%E5%AE%B6%E4%B9%A6%E6%9D%A5%E8%87%AA%E9%82%A3%E4%BA%9B%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%B0%81%E5%B0%8F%E5%AE%B6%E4%B9%A6%E6%9D%A5%E8%87%AA%E9%82%A3%E4%BA%9B%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news))
-- [上合诗篇 - 2025-08-31](AI_Reports/wen-hua-yu-mei-ti/shang-he-shi-pian-2025-08-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E8%AF%97%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
