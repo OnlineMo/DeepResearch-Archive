@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：230
+报告总数：231
 
 ---
 
@@ -96,6 +96,7 @@
 - [纪念“九一八”事变94周年](ji-nian-jiu-yi-ba-shi-bian-94zhou-nian-2025-09-18--v1.md) - 2025-09-18 (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E2%80%9C%E4%B9%9D%E4%B8%80%E5%85%AB%E2%80%9D%E4%BA%8B%E5%8F%9894%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [歼-35与歼-35A机库首度公开](jian-35yu-jian-35aji-ku-shou-du-gong-kai-2025-10-05--v1.md) - 2025-10-05 (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%BC-35%E4%B8%8E%E6%AD%BC-35A%E6%9C%BA%E5%BA%93%E9%A6%96%E5%BA%93%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
 - [坚守党校初心 服务工作大局](jian-shou-dang-xiao-chu-xin-fu-wu-gong-zuo-da-ju-2025-09-29--v1.md) - 2025-09-29 (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%88%E5%85%9A%E6%A0%A1%E5%88%9D%E5%BF%83+%E6%9C%8D%E5%8A%A1%E5%B7%A5%E4%BD%9C%E5%A4%A7%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
+- [建设人民城市 致广大而尽精微](jian-she-ren-min-cheng-shi-zhi-yan-da-er-jin-jing-wei-2025-11-28--v1.md) - 2025-11-28 (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82+%E8%87%B4%E5%B9%BF%E5%A4%A7%E8%80%8C%E5%B0%BD%E7%B2%BE%E5%BE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [江苏、江西省委书记等带头捐款](jiang-su-jiang-xi-sheng-wei-shu-ji-deng-dai-tou-juan-kuan-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E3%80%81%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%AD%89%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [解放军正告澳方立即停止侵权挑衅](jie-fang-jun-zheng-gao-ao-fang-li-ji-ting-zhi-qin-quan-tiao-xin-2025-10-21--v1.md) - 2025-10-21 (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%AD%A3%E5%91%8A%E6%BE%B3%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85&sa=fyb_news&rsv_dl=fyb_news)
 - [今年APEC会议有哪些成果](jin-nian-apechui-yi-you-na-xie-cheng-guo-2025-11-05--v1.md) - 2025-11-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4APEC%E4%BC%9A%E8%AE%AE%E6%9C%89%E5%93%AA%E4%BA%9B%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)
