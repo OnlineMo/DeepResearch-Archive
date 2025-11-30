@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：23
+报告总数：24
 
 ---
 
@@ -59,6 +59,10 @@
 ## Y
 
 - [一群世界冠军争一个全国冠军](yi-qun-shi-jie-guan-jun-zheng-yi-ge-quan-guo-guan-jun-2025-11-09--v1.md) - 2025-11-09 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%A4%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%BA%89%E4%B8%80%E4%B8%AA%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
+
+## Z
+
+- [中国女足0比8惨败英格兰女足](zhong-guo-nu-zu-0bi-8can-bai-ying-ge-lan-nu-zu-2025-11-30--v1.md) - 2025-11-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E6%83%A8%E8%B4%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%A5%B3%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)
 
 ## “
 
