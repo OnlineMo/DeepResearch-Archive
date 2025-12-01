@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：74
+报告总数：75
 
 ---
 
@@ -52,6 +52,7 @@
 
 ## J
 
+- [今起这些电动自行车全面禁售](jin-qi-zhe-xie-dian-dong-zi-xing-che-quan-mian-jin-shou-2025-12-01--v1.md) - 2025-12-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E8%B5%B7%E8%BF%99%E4%BA%9B%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%85%A8%E9%9D%A2%E7%A6%A3%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [景德镇城管已为鸡排哥成立工作专班](jing-de-zhen-cheng-guan-yi-wei-ji-pai-ge-cheng-li-gong-zuo-zhuan-ban-2025-09-27--v1.md) - 2025-09-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AF%E5%BE%B7%E9%95%87%E5%9F%8E%E7%AE%A1%E5%B7%B2%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [景区游客从40米高空坠落：水里有血迹](jing-qu-you-ke-cong-40mi-gao-kong-zhui-luo-shui-li-you-xie-ji-2025-08-27--v1.md) - 2025-08-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E4%BB%8E40%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD%EF%BC%9A%E6%B0%B4%E9%87%8C%E6%9C%89%E8%A1%80%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)
 
