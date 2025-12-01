@@ -1,7 +1,7 @@
 # 教育与考试 报告索引
 
 本页包含 **教育与考试** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：12
+报告总数：13
 
 ---
 
@@ -17,6 +17,7 @@
 
 - [大一新生家长提前“空巢”了](da-yi-xin-sheng-jia-chang-ti-qian-kong-chao-liao-2025-10-19--v1.md) - 2025-10-19 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E6%8F%90%E5%89%8D%E2%80%9C%E7%A9%BA%E5%B7%A2%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [顶尖华裔数学家被迫在美筹款](ding-jian-hua-yi-shu-xue-jia-bei-po-zai-mei-chou-kuan-2025-09-09--v1.md) - 2025-09-09 (v1)
+- [duo-di-guan-xuan-xue-jia-wang-you-shi-ming-zhi-xian-mu](duo-di-guan-xuan-xue-jia-wang-you-shi-ming-zhi-xian-mu-2025-12-01--v1.md) - 2025-12-01 (v1)
 
 ## K
 
