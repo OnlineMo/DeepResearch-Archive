@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [《求是》发表习近平总书记重要文章 - 2025-12-01](AI_Reports/shi-zheng-yu-guo-ji/qiu-shi-fa-biao-xi-jin-ping-zong-shu-ji-zhong-yao-wen-zhang-2025-12-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8B%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [高市开始“甩锅” 日媒都看不下去了 - 2025-11-30](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-kai-shi-shuai-guo-ri-mei-du-kan-bu-xia-qu-liao-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%BC%80%E5%A7%8B%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D+%E6%97%A5%E5%AA%92%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国最长的跨市地铁要来了 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-zui-chang-de-kua-shi-di-tie-yao-lai-liao-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%9A%84%E8%B7%A8%E5%B8%82%E5%9C%B0%E9%93%81%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,11 +23,11 @@
 - [各国共同发展才是真发展 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/ge-guo-gong-tong-fa-zhan-cai-shi-zhen-fa-zhan-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%84%E5%9B%BD%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E6%89%8D%E6%98%AF%E7%9C%9F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
 - [日本再次面临抉择 - 2025-11-22](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-zai-ci-mian-lin-jue-ze-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%8D%E6%AC%A1%E9%9D%A2%E4%B8%B4%E6%8A%A9%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [这是总书记勉励体育健儿的高频词 - 2025-11-22](AI_Reports/shi-zheng-yu-guo-ji/zhe-shi-zong-shu-ji-mian-li-ti-yu-jian-er-de-gao-pin-ci-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%8B%89%E5%8A%B1%E4%BD%93%E8%82%B2%E5%81%A5%E5%84%BF%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)
-- [中方就高市错误言行致函古特雷斯 - 2025-11-22](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-jiu-gao-shi-cuo-wu-yan-xing-zhi-han-gu-te-lei-si-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%AB%98%E5%B8%82%E9%94%99%E8%AF%AF%E8%A8%80%E8%A1%8C%E8%87%B4%E5%87%BD%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [今起这些电动自行车全面禁售 - 2025-12-01](AI_Reports/she-hui-yu-fa-zhi/jin-qi-zhe-xie-dian-dong-zi-xing-che-quan-mian-jin-shou-2025-12-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E8%B5%B7%E8%BF%99%E4%BA%9B%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%85%A8%E9%9D%A2%E7%A6%A3%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [奶精加淀粉做成假奶粉销往全国 - 2025-11-30](AI_Reports/she-hui-yu-fa-zhi/nai-jing-jia-dian-fen-zuo-cheng-jia-nai-fen-xiao-wang-quan-guo-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B6%E7%B2%BE%E5%8A%A0%E6%B7%80%E7%B2%89%E5%81%9A%E6%88%90%E5%81%87%E5%A5%B6%E7%B2%89%E9%94%80%E5%BE%80%E5%85%A8%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [“点几下”里的幸福感 - 2025-11-29](AI_Reports/she-hui-yu-fa-zhi/dian-ji-xia-li-de-xing-fu-gan-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%82%B9%E5%87%A0%E4%B8%8B%E2%80%9D%E9%87%8C%E7%9A%84%E5%B9%B8%E7%A6%8F%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [同居算家庭成员 分手会被分家产吗 - 2025-11-29](AI_Reports/she-hui-yu-fa-zhi/tong-ju-suan-jia-ting-cheng-yuan-fen-shou-hui-bei-fen-jia-chan-ma-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%8C%E5%B1%85%E7%AE%97%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98+%E5%88%86%E6%89%8B%E4%BC%9A%E8%A2%AB%E5%88%86%E5%AE%B6%E4%BA%A7%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [儿时的公益广告照进现实 - 2025-11-04](AI_Reports/she-hui-yu-fa-zhi/er-shi-de-gong-yi-yan-gao-zhao-jin-xian-shi-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%84%BF%E6%97%B6%E7%9A%84%E5%85%AC%E7%9B%8A%E5%B9%BF%E5%91%8A%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [央视起底兼职骗局黑色产业链 - 2025-11-03](AI_Reports/she-hui-yu-fa-zhi/yang-shi-qi-di-jian-zhi-pian-ju-hei-se-chan-ye-lian-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [90后民警油罐车内救被困司机牺牲 - 2025-11-02](AI_Reports/she-hui-yu-fa-zhi/90hou-min-jing-you-guan-che-nei-jiu-bei-kun-si-ji-xi-sheng-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=90%E5%90%8E%E6%B0%91%E8%AD%A6%E6%B2%B9%E7%BD%90%E8%BD%A6%E5%86%85%E6%95%91%E8%A2%AB%E5%9B%B0%E5%8F%B8%E6%9C%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)
-- [动物园狮子因腿短走红 被叫“柯基” - 2025-11-01](AI_Reports/she-hui-yu-fa-zhi/dong-wu-yuan-shi-zi-yin-tui-duan-zou-hong-bei-jiao-ke-ji-2025-11-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%8B%AE%E5%AD%90%E5%9B%A0%E8%85%BF%E7%9F%AD%E8%B5%B0%E7%BA%A2+%E8%A2%AB%E5%8F%AB%E2%80%9C%E6%9F%AF%E5%9F%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -128,6 +128,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [神20返回舱玻璃裂纹是个三角形 - 2025-12-01](AI_Reports/ke-xue-yu-tai-kong/shen-20fan-hui-cang-bo-li-lie-wen-shi-ge-san-jiao-xing-2025-12-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E20%E8%BF%94%E5%9B%9E%E8%88%B1%E7%8E%BB%E7%92%B2%E8%A3%82%E7%BA%B9%E6%98%AF%E4%B8%AA%E4%B8%89%E8%A7%92%E5%BD%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [神舟二十二号与空间站完成对接 - 2025-11-26](AI_Reports/ke-xue-yu-tai-kong/shen-zhou-er-shi-er-hao-yu-kong-jian-zhan-wan-cheng-dui-jie-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%AB%99%E5%AE%8C%E6%88%90%E5%AF%B9%E6%8E%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [航天员带回近100斤太空特产 - 2025-11-15](AI_Reports/ke-xue-yu-tai-kong/hang-tian-yuan-dai-hui-jin-100jin-tai-kong-te-chan-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%88%AA%E5%A4%A9%E5%91%98%E5%B8%A6%E5%9B%9E%E8%BF%91100%E6%96%A4%E5%A4%AA%E7%A9%BA%E7%89%B9%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [今年是罕见的“九月早立冬” - 2025-11-07](AI_Reports/ke-xue-yu-tai-kong/jin-nian-shi-han-jian-de-jiu-yue-zao-li-dong-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E6%98%AF%E7%BD%95%E8%A7%81%E7%9A%84%E2%80%9C%E4%B9%9D%E6%9C%88%E6%97%A9%E7%AB%8B%E5%86%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -155,6 +156,7 @@
 ## 能源与气候
 [点击查看能源与气候完整报告索引 →](AI_Reports/neng-yuan-yu-qi-hou/Reports.md)
 
+- [中国能源自主之路再添硬核底气 - 2025-12-01](AI_Reports/neng-yuan-yu-qi-hou/zhong-guo-neng-yuan-zi-zhu-zhi-lu-zai-tian-ying-he-di-qi-2025-12-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%83%BD%E6%BA%90%E8%87%AA%E4%B8%BB%E4%B9%8B%E8%B7%AF%E5%86%8D%E6%B7%BB%E7%A1%AC%E6%A0%B8%E5%BA%95%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)
 - [暴雨大暴雨特大暴雨要来了 - 2025-09-07](AI_Reports/neng-yuan-yu-qi-hou/bao-yu-da-bao-yu-te-da-bao-yu-yao-lai-liao-2025-09-07--v1.md) (v1)
 
 ## 经济与市场
@@ -208,6 +210,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [duo-di-guan-xuan-xue-jia-wang-you-shi-ming-zhi-xian-mu - 2025-12-01](AI_Reports/jiao-yu-yu-kao-shi/duo-di-guan-xuan-xue-jia-wang-you-shi-ming-zhi-xian-mu-2025-12-01--v1.md) (v1)
 - [中小学春秋假来了 各地怎么放 - 2025-10-24](AI_Reports/jiao-yu-yu-kao-shi/zhong-xiao-xue-chun-qiu-jia-lai-liao-ge-di-zen-yao-fang-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87%E6%9D%A5%E4%BA%86+%E5%90%84%E5%9C%B0%E6%80%8E%E4%B9%88%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [大一新生家长提前“空巢”了 - 2025-10-19](AI_Reports/jiao-yu-yu-kao-shi/da-yi-xin-sheng-jia-chang-ti-qian-kong-chao-liao-2025-10-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E6%8F%90%E5%89%8D%E2%80%9C%E7%A9%BA%E5%B7%A2%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [考公年龄放宽至38岁 考生发声 - 2025-10-15](AI_Reports/jiao-yu-yu-kao-shi/kao-gong-nian-ling-fang-kuan-zhi-38sui-kao-sheng-fa-sheng-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%80%83%E5%85%AC%E5%B9%B4%E9%BE%84%E6%94%BE%E5%AE%BD%E8%87%B338%E5%B2%81+%E8%80%83%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)
