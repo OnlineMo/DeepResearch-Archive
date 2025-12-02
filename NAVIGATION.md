@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [日本国宝级歌手要求高市撤回言论 - 2025-12-02](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-guo-bao-ji-ge-shou-yao-qiu-gao-shi-che-hui-yan-lun-2025-12-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%9D%E7%BA%A7%E6%AD%8C%E6%89%8B%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%92%A4%E5%9B%9E%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [中方驱离日非法进入钓鱼岛领海船只 - 2025-12-02](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-qu-chi-ri-fei-fa-jin-ru-diao-yu-dao-ling-hai-chuan-zhi-2025-12-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB%E6%97%A5%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7%E8%88%B9%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记关心的这件事 和你我息息相关 - 2025-12-02](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-guan-xin-de-zhe-jian-shi-he-ni-wo-xi-xi-xiang-guan-2025-12-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E5%BF%83%E7%9A%84%E8%BF%99%E4%BB%B6%E4%BA%8B+%E5%92%8C%E4%BD%A0%E6%88%91%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [《求是》发表习近平总书记重要文章 - 2025-12-01](AI_Reports/shi-zheng-yu-guo-ji/qiu-shi-fa-biao-xi-jin-ping-zong-shu-ji-zhong-yao-wen-zhang-2025-12-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8B%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [高市开始“甩锅” 日媒都看不下去了 - 2025-11-30](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-kai-shi-shuai-guo-ri-mei-du-kan-bu-xia-qu-liao-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%BC%80%E5%A7%8B%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D+%E6%97%A5%E5%AA%92%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,9 +23,6 @@
 - [美乌发布联合声明 - 2025-11-24](AI_Reports/shi-zheng-yu-guo-ji/mei-wu-fa-bu-lian-he-sheng-ming-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B9%8C%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [顶住美国压力 G20峰会通过联合宣言 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/ding-zhu-mei-guo-ya-li-g20feng-hui-tong-guo-lian-he-xuan-yan-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A1%B6%E4%BD%8F%E7%BE%8E%E5%9B%BD%E5%8E%8B%E5%8A%9B+G20%E5%B3%B0%E4%BC%9A%E9%80%9A%E8%BF%87%E8%81%94%E5%90%88%E5%AE%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)
 - [高市幻想“软着陆”？中方明确表态 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-huan-xiang-ruan-zhao-lu-zhong-fang-ming-que-biao-tai-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%B9%BB%E6%83%B3%E2%80%9C%E8%BD%AF%E7%9D%80%E9%99%86%E2%80%9D%EF%BC%9F%E4%B8%AD%E6%96%B9%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)
-- [各国共同发展才是真发展 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/ge-guo-gong-tong-fa-zhan-cai-shi-zhen-fa-zhan-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%84%E5%9B%BD%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E6%89%8D%E6%98%AF%E7%9C%9F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
-- [日本再次面临抉择 - 2025-11-22](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-zai-ci-mian-lin-jue-ze-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%8D%E6%AC%A1%E9%9D%A2%E4%B8%B4%E6%8A%A9%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)
-- [这是总书记勉励体育健儿的高频词 - 2025-11-22](AI_Reports/shi-zheng-yu-guo-ji/zhe-shi-zong-shu-ji-mian-li-ti-yu-jian-er-de-gao-pin-ci-2025-11-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%8B%89%E5%8A%B1%E4%BD%93%E8%82%B2%E5%81%A5%E5%84%BF%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -227,6 +227,7 @@
 ## 旅游与出行
 [点击查看旅游与出行完整报告索引 →](AI_Reports/lu-you-yu-chu-xing/Reports.md)
 
+- [创新消费场景 冰雪旅游快速升温 - 2025-12-02](AI_Reports/lu-you-yu-chu-xing/chuang-xin-xiao-fei-chang-jing-bing-xue-lu-you-kuai-su-sheng-wen-2025-12-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%9B%E6%96%B0%E6%B6%88%E8%B4%B9%E5%9C%BA%E6%99%AF+%E5%86%B0%E9%9B%AA%E6%97%85%E6%B8%B8%E5%BF%AB%E9%80%9F%E5%8D%87%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [多名网友晒赴日机票退票成功记录 - 2025-11-16](AI_Reports/lu-you-yu-chu-xing/duo-ming-wang-you-shai-fu-ri-ji-piao-tui-piao-cheng-gong-ji-lu-2025-11-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E7%BD%91%E5%8F%8B%E6%99%92%E8%B5%B4%E6%97%A5%E6%9C%BA%E7%A5%A8%E9%80%80%E7%A5%A8%E6%88%90%E5%8A%9F%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)
 - [张家界荒野求生选手抓野猪吃到流油 - 2025-11-09](AI_Reports/lu-you-yu-chu-xing/zhang-jia-jie-huang-ye-qiu-sheng-xuan-shou-zhua-ye-zhu-chi-dao-liu-you-2025-11-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BC%A0%E5%AE%B6%E7%95%8C%E8%8D%A3%E9%87%8E%E6%B1%82%E7%94%9F%E9%80%89%E6%89%8B%E6%8A%93%E9%87%8E%E7%8C%AA%E5%90%83%E5%88%B0%E6%B5%81%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [北京飞悉尼惊现-43元票价 客服回应 - 2025-11-08](AI_Reports/lu-you-yu-chu-xing/bei-jing-fei-xi-ni-liang-xian-43yuan-piao-jie-ke-fu-hui-ying-2025-11-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A3%9E%E6%82%89%E5%B0%BC%E6%83%8A%E7%B0%BE-43%E5%85%83%E7%A5%A8%E4%BB%B7+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
@@ -258,6 +259,7 @@
 ## 财经与商业
 [点击查看财经与商业完整报告索引 →](AI_Reports/cai-jing-yu-shang-ye/Reports.md)
 
+- [“排骨羽绒服”成冬季爆款 - 2025-12-02](AI_Reports/cai-jing-yu-shang-ye/pai-gu-yu-rong-fu-cheng-dong-ji-bao-kuan-2025-12-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8E%92%E9%AA%A8%E7%BE%BD%E7%BB%92%E6%9C%8D%E2%80%9D%E6%88%90%E5%86%AC%E5%AD%A3%E7%88%86%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [双十一商品到手价全凭运气 - 2025-11-11](AI_Reports/cai-jing-yu-shang-ye/shuang-shi-yi-shang-pin-dao-shou-jie-quan-ping-yun-qi-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%95%86%E5%93%81%E5%88%B0%E6%89%8B%E4%BB%B7%E5%85%A8%E5%87%AD%E8%BF%90%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)
 - [教授每年强制自己定投100克黄金 - 2025-10-22](AI_Reports/cai-jing-yu-shang-ye/jiao-shou-mei-nian-qiang-zhi-zi-ji-ding-tou-100ke-huang-jin-2025-10-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E6%AF%8F%E5%B9%B4%E5%BC%BA%E5%88%B6%E8%87%AA%E5%B7%B1%E5%AE%9A%E6%8A%95100%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)
 - [胖东来高端研学每人收费100万 - 2025-10-22](AI_Reports/cai-jing-yu-shang-ye/pang-dong-lai-gao-duan-yan-xue-mei-ren-shou-fei-100mo-2025-10-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%AB%98%E7%AB%AF%E7%A0%94%E5%AD%A6%E6%AF%8F%E4%BA%BA%E6%94%B6%E8%B4%B9100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
