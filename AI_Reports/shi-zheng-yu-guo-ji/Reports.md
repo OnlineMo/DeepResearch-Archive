@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：238
+报告总数：239
 
 ---
 
@@ -276,6 +276,7 @@
 - [指引法治中国建设 总书记这样阐述](zhi-yin-fa-zhi-zhong-guo-jian-she-zong-shu-ji-zhe-yang-chan-shu-2025-11-19--v1.md) - 2025-11-19 (v1) [来源](https://www.baidu.com/s?wd=%E6%8C%87%E5%BC%95%E6%B3%95%E6%B2%BB%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE+%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E6%A0%B7%E9%98%89%E8%BF%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [致敬伟大胜利](zhi-jing-wei-da-sheng-li-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [致敬英烈！运-20舱内视角看歼-20护航](zhi-jing-ying-lie-yun-20cang-nei-shi-jiao-kan-jian-20hu-hang-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E8%8B%B1%E7%83%88%EF%BC%81%E8%BF%90-20%E8%88%B1%E5%86%85%E8%A7%86%E8%A7%92%E7%9C%8B%E6%AD%BC-20%E6%8A%A4%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)
+- [中俄就涉日本问题达成高度共识](zhong-e-jiu-she-ri-ben-wen-ti-da-cheng-gao-du-gong-shi-2025-12-03--v1.md) - 2025-12-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E5%B0%B1%E6%B6%B5%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E8%BE%BE%E6%88%90%E9%AB%98%E5%BA%A6%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中方回应特朗普让中国停买俄石油](zhong-fang-hui-ying-te-lang-pu-rang-zhong-guo-ting-mai-e-shi-you-2025-10-17--v1.md) - 2025-10-17 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%81%9C%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [中方就高市错误言行致函古特雷斯](zhong-fang-jiu-gao-shi-cuo-wu-yan-xing-zhi-han-gu-te-lei-si-2025-11-22--v1.md) - 2025-11-22 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%AB%98%E5%B8%82%E9%94%99%E8%AF%AF%E8%A8%80%E8%A1%8C%E8%87%B4%E5%87%BD%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [中方驱离日非法进入钓鱼岛领海船只](zhong-fang-qu-chi-ri-fei-fa-jin-ru-diao-yu-dao-ling-hai-chuan-zhi-2025-12-02--v1.md) - 2025-12-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB%E6%97%A5%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7%E8%88%B9%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)
