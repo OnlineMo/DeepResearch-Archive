@@ -1,7 +1,7 @@
 # 行业与公司 报告索引
 
 本页包含 **行业与公司** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：13
+报告总数：14
 
 ---
 
@@ -43,4 +43,5 @@
 ## Z
 
 - [这场重磅发布会干货满满](zhe-chang-zhong-bang-fa-bu-hui-gan-huo-man-man-2025-10-25--v1.md) - 2025-10-25 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%E4%BC%9A%E5%B9%B2%E8%B4%A7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)
+- [这个“500万”里有创新中国的未来](zhe-ge-500mo-li-you-chuang-xin-zhong-guo-de-wei-lai-2025-12-03--v1.md) - 2025-12-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E2%80%9C500%E4%B8%87%E2%80%9D%E9%87%8C%E6%9C%89%E5%88%9B%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [中国专业技术人才超过8000万人](zhong-guo-zhuan-ye-ji-zhu-ren-cai-chao-guo-8000mo-ren-2025-09-27--v1.md) - 2025-09-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E4%BA%BA%E6%89%8D%E8%B6%85%E8%BF%878000%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
