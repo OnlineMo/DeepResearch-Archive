@@ -1,7 +1,7 @@
 # 旅游与出行 报告索引
 
 本页包含 **旅游与出行** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：15
+报告总数：16
 
 ---
 
@@ -26,6 +26,10 @@
 ## L
 
 - [老外成青甘大环线“显眼包”](lao-wai-cheng-qing-gan-da-huan-xian-xian-yan-bao-2025-10-09--v1.md) - 2025-10-09 (v1) [来源](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E6%88%90%E9%9D%92%E7%94%98%E5%A4%A7%E7%8E%AF%E7%BA%BF%E2%80%9C%E6%98%BE%E7%9C%BC%E5%8C%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## N
+
+- [男子拍到老君山“灵气护罩”奇观](nan-zi-pai-dao-lao-jun-shan-ling-qi-hu-zhao-qi-guan-2025-12-03--v1.md) - 2025-12-03 (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%8D%E5%88%B0%E8%80%81%E5%90%9B%E5%B1%B1%E2%80%9C%E7%81%B5%E6%B0%94%E6%8A%A4%E7%BD%A9%E2%80%9D%E5%A5%87%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Q
 
