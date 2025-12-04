@@ -3,6 +3,9 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [高市早苗盯上中亚5国 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-zao-miao-cheng-shang-zhong-ya-5guo-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9B%AF%E4%B8%8A%E4%B8%AD%E4%BA%9A5%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
+- [马克龙抵京后发文 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/ma-ke-long-di-jing-hou-fa-wen-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%B5%E4%BA%AC%E5%90%8E%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记关爱残疾人的暖心故事 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-guan-ai-can-ji-ren-de-nuan-xin-gu-shi-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E7%88%B1%E6%AE%8B%E7%96%BE%E4%BA%BA%E7%9A%84%E6%9A%96%E5%BF%83%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [中俄就涉日本问题达成高度共识 - 2025-12-03](AI_Reports/shi-zheng-yu-guo-ji/zhong-e-jiu-she-ri-ben-wen-ti-da-cheng-gao-du-gong-shi-2025-12-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E5%B0%B1%E6%B6%B5%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E8%BE%BE%E6%88%90%E9%AB%98%E5%BA%A6%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 - [日本国宝级歌手要求高市撤回言论 - 2025-12-02](AI_Reports/shi-zheng-yu-guo-ji/ri-ben-guo-bao-ji-ge-shou-yao-qiu-gao-shi-che-hui-yan-lun-2025-12-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%9D%E7%BA%A7%E6%AD%8C%E6%89%8B%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%92%A4%E5%9B%9E%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [中方驱离日非法进入钓鱼岛领海船只 - 2025-12-02](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-qu-chi-ri-fei-fa-jin-ru-diao-yu-dao-ling-hai-chuan-zhi-2025-12-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB%E6%97%A5%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7%E8%88%B9%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,13 +23,11 @@
 - [特朗普：将于明年4月访华 - 2025-11-25](AI_Reports/shi-zheng-yu-guo-ji/te-lang-pu-jiang-yu-ming-nian-4yue-fang-hua-2025-11-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B44%E6%9C%88%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普要求与高市早苗通话 - 2025-11-25](AI_Reports/shi-zheng-yu-guo-ji/te-lang-pu-yao-qiu-yu-gao-shi-zao-miao-tong-hua-2025-11-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%89%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同特朗普通电话 - 2025-11-25](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-te-lang-pu-tong-dian-hua-2025-11-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [高市既想对华倒打一耙 又急于翻篇 - 2025-11-24](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-ji-xiang-dui-hua-dao-da-yi-pa-you-ji-yu-fan-pian-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A2%E6%83%B3%E5%AF%B9%E5%8D%8E%E5%80%92%E6%89%93%E4%B8%80%E8%80%99+%E5%8F%88%E6%80%A5%E4%BA%8E%E7%BF%BB%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)
-- [美乌发布联合声明 - 2025-11-24](AI_Reports/shi-zheng-yu-guo-ji/mei-wu-fa-bu-lian-he-sheng-ming-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B9%8C%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)
-- [顶住美国压力 G20峰会通过联合宣言 - 2025-11-23](AI_Reports/shi-zheng-yu-guo-ji/ding-zhu-mei-guo-ya-li-g20feng-hui-tong-guo-lian-he-xuan-yan-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A1%B6%E4%BD%8F%E7%BE%8E%E5%9B%BD%E5%8E%8B%E5%8A%9B+G20%E5%B3%B0%E4%BC%9A%E9%80%9A%E8%BF%87%E8%81%94%E5%90%88%E5%AE%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [江苏爸妈生出混血娃娃 - 2025-12-04](AI_Reports/she-hui-yu-fa-zhi/jiang-su-ba-ma-sheng-chu-hun-xie-wa-wa-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%88%B8%E5%A6%88%E7%94%9F%E5%87%BA%E6%B7%B7%E8%A1%80%E5%A8%83%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)
 - [汶川地震被救女孩与施救军人结婚 - 2025-12-03](AI_Reports/she-hui-yu-fa-zhi/wen-chuan-di-zhen-bei-jiu-nu-hai-yu-shi-jiu-jun-ren-jie-hun-2025-12-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%A9%E4%B8%8E%E6%96%BD%E6%95%91%E5%86%9B%E4%BA%BA%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [今起这些电动自行车全面禁售 - 2025-12-01](AI_Reports/she-hui-yu-fa-zhi/jin-qi-zhe-xie-dian-dong-zi-xing-che-quan-mian-jin-shou-2025-12-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E8%B5%B7%E8%BF%99%E4%BA%9B%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%85%A8%E9%9D%A2%E7%A6%A3%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [奶精加淀粉做成假奶粉销往全国 - 2025-11-30](AI_Reports/she-hui-yu-fa-zhi/nai-jing-jia-dian-fen-zuo-cheng-jia-nai-fen-xiao-wang-quan-guo-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B6%E7%B2%BE%E5%8A%A0%E6%B7%80%E7%B2%89%E5%81%9A%E6%88%90%E5%81%87%E5%A5%B6%E7%B2%89%E9%94%80%E5%BE%80%E5%85%A8%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [被欠物业费1200万 物业退出不干了 - 2025-11-08](AI_Reports/she-hui-yu-fa-zhi/bei-qian-wu-ye-fei-1200mo-wu-ye-tui-chu-bu-gan-liao-2025-11-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A2%AB%E6%AC%A0%E7%89%A9%E4%B8%9A%E8%B4%B91200%E4%B8%87+%E7%89%A9%E4%B8%9A%E9%80%80%E5%87%BA%E4%B8%8D%E5%B9%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [网友买高铁靠窗座位却遇“面壁座” - 2025-11-05](AI_Reports/she-hui-yu-fa-zhi/wang-you-mai-gao-tie-kao-chuang-zuo-wei-que-yu-mian-bi-zuo-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E9%AB%98%E9%93%81%E9%9D%A0%E7%AA%97%E5%BA%A7%E4%BD%8D%E5%8D%B4%E9%81%87%E2%80%9C%E9%9D%A2%E5%A3%81%E5%BA%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [儿时的公益广告照进现实 - 2025-11-04](AI_Reports/she-hui-yu-fa-zhi/er-shi-de-gong-yi-yan-gao-zhao-jin-xian-shi-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%84%BF%E6%97%B6%E7%9A%84%E5%85%AC%E7%9B%8A%E5%B9%BF%E5%91%8A%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)
-- [央视起底兼职骗局黑色产业链 - 2025-11-03](AI_Reports/she-hui-yu-fa-zhi/yang-shi-qi-di-jian-zhi-pian-ju-hei-se-chan-ye-lian-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -162,6 +162,7 @@
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
 
+- [中国大市场韧性强活力足 - 2025-12-04](AI_Reports/jing-ji-yu-shi-chang/zhong-guo-da-shi-chang-ren-xing-qiang-huo-li-zu-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%B8%82%E5%9C%BA%E9%9F%A7%E6%80%A7%E5%BC%BA%E6%B4%BB%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [The last-ever penny will be minted today in Philadelphia - 2025-11-13](AI_Reports/jing-ji-yu-shi-chang/the-last-ever-penny-will-be-minted-today-in-philadelphia-2025-11-13--v1.md) (v1) [来源](https://www.cnn.com/2025/11/12/business/last-penny-minted)
 - [进博会上的“全勤生” - 2025-11-08](AI_Reports/jing-ji-yu-shi-chang/jin-bo-hui-shang-de-quan-qin-sheng-2025-11-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E2%80%9C%E5%85%A8%E5%8B%A4%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [9组数字速览第八届进博会 - 2025-11-04](AI_Reports/jing-ji-yu-shi-chang/9zu-shu-zi-su-lan-di-ba-jie-jin-bo-hui-2025-11-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=9%E7%BB%84%E6%95%B0%E5%AD%97%E9%80%9F%E8%A7%88%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
