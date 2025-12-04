@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：239
+报告总数：242
 
 ---
 
@@ -74,6 +74,7 @@
 - [高市开始“甩锅” 日媒都看不下去了](gao-shi-kai-shi-shuai-guo-ri-mei-du-kan-bu-xia-qu-liao-2025-11-30--v1.md) - 2025-11-30 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%BC%80%E5%A7%8B%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D+%E6%97%A5%E5%AA%92%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [高市越位 美国越顶](gao-shi-yue-wei-mei-guo-yue-ding-2025-11-26--v1.md) - 2025-11-26 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E8%B6%8A%E4%BD%8D+%E7%BE%8E%E5%9B%BD%E8%B6%8A%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [高市早苗被喊话向中国道歉](gao-shi-zao-miao-bei-han-hua-xiang-zhong-guo-dao-qian-2025-11-17--v1.md) - 2025-11-17 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
+- [高市早苗盯上中亚5国](gao-shi-zao-miao-cheng-shang-zhong-ya-5guo-2025-12-04--v1.md) - 2025-12-04 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9B%AF%E4%B8%8A%E4%B8%AD%E4%BA%9A5%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [高市早苗毒化中日关系必将自食恶果](gao-shi-zao-miao-du-hua-zhong-ri-guan-xi-bi-jiang-zi-shi-e-guo-2025-11-19--v1.md) - 2025-11-19 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%AF%92%E5%8C%96%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E5%BF%85%E5%B0%86%E8%87%AA%E9%A3%9F%E6%81%B6%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [高市之祸：撕裂中日关系的天崩开局](gao-shi-zhi-huo-si-lie-zhong-ri-guan-xi-de-tian-beng-kai-ju-2025-11-16--v1.md) - 2025-11-16 (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E4%B9%8B%E7%A5%B8%EF%BC%9A%E6%92%95%E8%A3%82%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%9A%84%E5%A4%A9%E5%B4%A9%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [各国共同发展才是真发展](ge-guo-gong-tong-fa-zhan-cai-shi-zhen-fa-zhan-2025-11-23--v1.md) - 2025-11-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%90%84%E5%9B%BD%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E6%89%8D%E6%98%AF%E7%9C%9F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
@@ -129,6 +130,7 @@
 
 ## M
 
+- [马克龙抵京后发文](ma-ke-long-di-jing-hou-fa-wen-2025-12-04--v1.md) - 2025-12-04 (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%B5%E4%BA%AC%E5%90%8E%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
 - [马斯克星链成缅甸电诈帮凶？美方调查](ma-si-ke-xing-lian-cheng-mian-dian-dian-zha-bang-xiong-mei-fang-diao-cha-2025-10-16--v1.md) - 2025-10-16 (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%98%9F%E9%93%BE%E6%88%90%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%B8%AE%E5%87%B6%EF%BC%9F%E7%BE%8E%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [美参议院通过终止特朗普关税决议](mei-can-yi-yuan-tong-guo-zhong-zhi-te-lang-pu-guan-shui-jue-yi-2025-10-31--v1.md) - 2025-10-31 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%BB%88%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%86%B3%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [美国白宫正式宣布政府即将“关门”](mei-guo-bai-gong-zheng-shi-xuan-bu-zheng-fu-ji-jiang-guan-men-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E6%94%BF%E5%BA%9C%E5%8D%B3%E5%B0%86%E2%80%9C%E5%85%B3%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -301,6 +303,7 @@
 - [总书记部署全国统一大市场建设](zong-shu-ji-bu-shu-quan-guo-tong-yi-da-shi-chang-jian-she-2025-09-17--v1.md) - 2025-09-17 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%83%A8%E7%BD%B2%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的人民情怀](zong-shu-ji-de-ren-min-qing-huai-2025-09-08--v1.md) - 2025-09-08 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的这六天](zong-shu-ji-de-zhe-liu-tian-2025-09-09--v1.md) - 2025-09-09 (v1) [来源]([百度搜索](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%BF%99%E5%85%AD%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news))
+- [总书记关爱残疾人的暖心故事](zong-shu-ji-guan-ai-can-ji-ren-de-nuan-xin-gu-shi-2025-12-04--v1.md) - 2025-12-04 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E7%88%B1%E6%AE%8B%E7%96%BE%E4%BA%BA%E7%9A%84%E6%9A%96%E5%BF%83%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记关心的这件事 和你我息息相关](zong-shu-ji-guan-xin-de-zhe-jian-shi-he-ni-wo-xi-xi-xiang-guan-2025-12-02--v1.md) - 2025-12-02 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E5%BF%83%E7%9A%84%E8%BF%99%E4%BB%B6%E4%BA%8B+%E5%92%8C%E4%BD%A0%E6%88%91%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记牵挂的桃花源开出致富花](zong-shu-ji-qian-gua-de-tao-hua-yuan-kai-chu-zhi-fu-hua-2025-09-15--v1.md) - 2025-09-15 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%89%B5%E6%8C%82%E7%9A%84%E6%A1%83%E8%8A%B1%E6%BA%90%E5%BC%80%E5%87%BA%E8%87%B4%E5%AF%8C%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记为全面依法治国指明前进方向](zong-shu-ji-wei-quan-mian-yi-fa-zhi-guo-zhi-ming-qian-jin-fang-xiang-2025-11-20--v1.md) - 2025-11-20 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E5%85%A8%E9%9D%A2%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD%E6%8C%87%E6%98%8E%E5%89%8D%E8%BF%9B%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
