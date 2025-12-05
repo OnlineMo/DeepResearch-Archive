@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：77
+报告总数：78
 
 ---
 
@@ -82,6 +82,7 @@
 ## S
 
 - [山东威海地震 有人梦中被晃醒](shan-dong-wei-hai-di-zhen-you-ren-meng-zhong-bei-huang-xing-2025-11-28--v1.md) - 2025-11-28 (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A8%81%E6%B5%B7%E5%9C%B0%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%A2%A6%E4%B8%AD%E8%A2%AB%E6%99%83%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)
+- [商家把库存电动车上好牌当二手车卖](shang-jia-ba-ku-cun-dian-dong-che-shang-hao-pai-dang-er-shou-che-mai-2025-12-05--v1.md) - 2025-12-05 (v1)
 - [深圳机场深夜致歉 郑智化回应](shen-zhen-ji-chang-shen-ye-zhi-qian-zheng-zhi-hua-hui-ying-2025-10-26--v1.md) - 2025-10-26 (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E6%B7%B1%E5%A4%9C%E8%87%B4%E6%AD%89+%E9%83%91%E6%99%BA%E5%8C%96%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [深圳消防车队已在莲塘口岸集结](shen-zhen-xiao-fang-che-dui-yi-zai-lian-tang-kou-an-ji-jie-2025-11-27--v1.md) - 2025-11-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93&sa=fyb_news&rsv_dl=fyb_news)
 - [始祖鸟烟花秀引争议 日喀则通报](shi-zu-niao-yan-hua-xiu-yin-zheng-yi-ri-ke-ze-tong-bao-2025-09-21--v1.md) - 2025-09-21 (v1) [来源](https://www.baidu.com/s?wd=%E5%A7%8B%E7%A5%96%E9%B8%9F%E7%83%9F%E8%8A%B1%E7%A7%91%E5%BC%95%E4%BA%89%E8%AE%AE+%E6%97%A5%E5%96%80%E5%88%99%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)
