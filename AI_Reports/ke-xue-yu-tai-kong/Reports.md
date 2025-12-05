@@ -1,7 +1,7 @@
 # 科学与太空 报告索引
 
 本页包含 **科学与太空** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：18
+报告总数：19
 
 ---
 
@@ -46,6 +46,7 @@
 ## Z
 
 - [中国航天器首次观测到星际天体](zhong-guo-hang-tian-qi-shou-ci-guan-ce-dao-xing-ji-tian-ti-2025-11-06--v1.md) - 2025-11-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%99%A8%E9%A6%96%E6%AC%A1%E8%A7%82%E6%B5%8B%E5%88%B0%E6%98%9F%E9%99%85%E5%A4%A9%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)
+- [中国人在太空的存粮多得超乎想象](zhong-guo-ren-zai-tai-kong-de-cun-liang-duo-de-chao-hu-xiang-xiang-2025-12-05--v1.md) - 2025-12-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%9A%84%E5%AD%98%E7%B2%AE%E5%A4%9A%E5%BE%97%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [中国正规划对1颗小行星实施高速撞击](zhong-guo-zheng-gui-hua-dui-1ke-xiao-xing-xing-shi-shi-gao-su-zhuang-ji-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%A7%84%E5%88%92%E5%AF%B91%E9%A2%97%E5%B0%8F%E8%A1%8C%E6%98%9F%E5%AE%9E%E6%96%BD%E9%AB%98%E9%80%9F%E6%92%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)
 
 ## “
