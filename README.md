@@ -19,9 +19,9 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [中国大市场韧性强活力足 - 2025-12-04](AI_Reports/jing-ji-yu-shi-chang/zhong-guo-da-shi-chang-ren-xing-qiang-huo-li-zu-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%B8%82%E5%9C%BA%E9%9F%A7%E6%80%A7%E5%BC%BA%E6%B4%BB%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)
-- [江苏爸妈生出混血娃娃 - 2025-12-04](AI_Reports/she-hui-yu-fa-zhi/jiang-su-ba-ma-sheng-chu-hun-xie-wa-wa-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%88%B8%E5%A6%88%E7%94%9F%E5%87%BA%E6%B7%B7%E8%A1%80%E5%A8%83%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)
-- [高市早苗盯上中亚5国 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-zao-miao-cheng-shang-zhong-ya-5guo-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9B%AF%E4%B8%8A%E4%B8%AD%E4%BA%9A5%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
-- [马克龙抵京后发文 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/ma-ke-long-di-jing-hou-fa-wen-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%B5%E4%BA%AC%E5%90%8E%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记关爱残疾人的暖心故事 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-guan-ai-can-ji-ren-de-nuan-xin-gu-shi-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E7%88%B1%E6%AE%8B%E7%96%BE%E4%BA%BA%E7%9A%84%E6%9A%96%E5%BF%83%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
+- [流感季做好十条防护措施 - 2025-12-05](AI_Reports/jian-kang-yu-yi-liao/liu-gan-ji-zuo-hao-shi-tiao-fang-hu-cuo-shi-2025-12-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E5%AD%A3%E5%81%9A%E5%A5%BD%E5%8D%81%E6%9D%A1%E9%98%B2%E6%8A%A4%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)
+- [中国人在太空的存粮多得超乎想象 - 2025-12-05](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-ren-zai-tai-kong-de-cun-liang-duo-de-chao-hu-xiang-xiang-2025-12-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%9A%84%E5%AD%98%E7%B2%AE%E5%A4%9A%E5%BE%97%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)
+- [商家把库存电动车上好牌当二手车卖 - 2025-12-05](AI_Reports/she-hui-yu-fa-zhi/shang-jia-ba-ku-cun-dian-dong-che-shang-hao-pai-dang-er-shou-che-mai-2025-12-05--v1.md) (v1)
+- [习近平同法国总统马克龙举行会谈 - 2025-12-05](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-fa-guo-zong-tong-ma-ke-long-ju-xing-hui-tan-2025-12-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
+- [知名车评人陈震被多平台禁言 - 2025-12-05](AI_Reports/xing-ye-yu-gong-si/zhi-ming-che-ping-ren-chen-zhen-bei-duo-ping-tai-jin-yan-2025-12-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E8%BD%A6%E8%AF%84%E4%BA%BA%E9%99%88%E9%9C%87%E8%A2%AB%E5%A4%9A%E5%B9%B3%E5%8F%B0%E7%A6%81%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
