@@ -1,7 +1,7 @@
 # 健康与医疗 报告索引
 
 本页包含 **健康与医疗** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：10
+报告总数：11
 
 ---
 
@@ -23,6 +23,7 @@
 - [李连杰公布病情：生日时发现颈部肿块](li-lian-jie-gong-bu-bing-qing-sheng-ri-shi-fa-xian-jing-bu-zhong-kuai-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E5%85%AC%E5%B8%83%E7%97%85%E6%83%85%EF%BC%9A%E7%94%9F%E6%97%A5%E6%97%B6%E5%8F%91%E7%8E%B0%E9%A2%88%E9%83%A8%E8%82%BF%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)
 - [流感季防护 这些误区要避开](liu-gan-ji-fang-hu-zhe-xie-wu-qu-yao-bi-kai-2025-11-30--v1.md) - 2025-11-30 (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E5%AD%A3%E9%98%B2%E6%8A%A4+%E8%BF%99%E4%BA%9B%E8%AF%AF%E5%8C%BA%E8%A6%81%E9%81%BF%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)
 - [流感季做好十条防护措施](liu-gan-ji-zuo-hao-shi-tiao-fang-hu-cuo-shi-2025-12-05--v1.md) - 2025-12-05 (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E5%AD%A3%E5%81%9A%E5%A5%BD%E5%8D%81%E6%9D%A1%E9%98%B2%E6%8A%A4%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)
+- [流感“排毒期”有多长？专家回应](liu-gan-pai-du-qi-you-duo-chang-zhuan-jia-hui-ying-2025-12-06--v1.md) - 2025-12-06 (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E2%80%9C%E6%8E%92%E6%AF%92%E6%9C%9F%E2%80%9D%E6%9C%89%E5%A4%9A%E9%95%BF%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 
 ## N
 
