@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：78
+报告总数：79
 
 ---
 
@@ -60,6 +60,10 @@
 ## K
 
 - [柯克案枪手落网：遭父亲“举报”](ke-ke-an-qiang-shou-luo-wang-zao-fu-qin-ju-bao-2025-09-13--v1.md) - 2025-09-13 (v1) [来源](https://www.baidu.com/s?wd=%E6%9F%AF%E5%85%8B%E6%A1%88%E6%9E%AA%E6%89%8B%E8%90%BD%E7%BD%91%EF%BC%9A%E9%81%AD%E7%88%B6%E4%BA%B2%E2%80%9C%E4%B8%BE%E6%8A%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+
+## M
+
+- [漠河室内外温差已达60℃](mo-he-shi-nei-wai-wen-chai-yi-da-60degc-2025-12-06--v1.md) - 2025-12-06 (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%A0%E6%B2%B3%E5%AE%A4%E5%86%85%E5%A4%96%E6%B8%A9%E5%B7%AE%E5%B7%B2%E8%BE%BE60%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## N
 
