@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：243
+报告总数：245
 
 ---
 
@@ -131,6 +131,7 @@
 ## M
 
 - [马克龙抵京后发文](ma-ke-long-di-jing-hou-fa-wen-2025-12-04--v1.md) - 2025-12-04 (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%B5%E4%BA%AC%E5%90%8E%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
+- [马克龙：此行只有一个遗憾](ma-ke-long-ci-xing-zhi-you-yi-ge-yi-han-2025-12-06--v1.md) - 2025-12-06 (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%AD%A4%E8%A1%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [马斯克星链成缅甸电诈帮凶？美方调查](ma-si-ke-xing-lian-cheng-mian-dian-dian-zha-bang-xiong-mei-fang-diao-cha-2025-10-16--v1.md) - 2025-10-16 (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%98%9F%E9%93%BE%E6%88%90%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%B8%AE%E5%87%B6%EF%BC%9F%E7%BE%8E%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [美参议院通过终止特朗普关税决议](mei-can-yi-yuan-tong-guo-zhong-zhi-te-lang-pu-guan-shui-jue-yi-2025-10-31--v1.md) - 2025-10-31 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%BB%88%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%86%B3%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [美国白宫正式宣布政府即将“关门”](mei-guo-bai-gong-zheng-shi-xuan-bu-zheng-fu-ji-jiang-guan-men-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E6%94%BF%E5%BA%9C%E5%8D%B3%E5%B0%86%E2%80%9C%E5%85%B3%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -268,6 +269,7 @@
 
 ## Z
 
+- [在都江堰感受中国“治”慧](zai-du-jiang-yan-gan-shou-zhong-guo-zhi-hui-2025-12-06--v1.md) - 2025-12-06 (v1) [来源](https://www.baidu.com/s?wd=%E5%9C%A8%E9%83%BD%E6%B1%9F%E5%A0%B0%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%B2%BB%E2%80%9D%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [泽连斯基穿上正装 特朗普：我很喜欢](ze-lian-si-ji-chuan-shang-zheng-zhuang-te-lang-pu-wo-hen-xi-huan-2025-10-18--v1.md) - 2025-10-18 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [战败后日方首次对中国发出武力威胁](zhan-bai-hou-ri-fang-shou-ci-dui-zhong-guo-fa-chu-wu-li-wei-xie-2025-11-20--v1.md) - 2025-11-20 (v1) [来源](https://www.baidu.com/s?wd=%E6%88%98%E8%B4%A5%E5%90%8E%E6%97%A5%E6%96%B9%E9%A6%96%E6%AC%A1%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%87%BA%E6%AD%A6%E5%8A%9B%E5%A8%81%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
 - [这是你没见过的阅兵训练画面](zhe-shi-ni-mei-jian-guo-de-yue-bing-xun-lian-hua-mian-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%BD%A0%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E9%98%85%E5%85%B5%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
