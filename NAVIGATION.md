@@ -125,6 +125,11 @@
 
 - [第一批iPhone17贴膜受害者出现了 - 2025-09-20](AI_Reports/xiao-fei-dian-zi-he-ying-jian/di-yi-pi-iphone17tie-mo-shou-hai-zhe-chu-xian-liao-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9iPhone17%E8%B4%B4%E8%86%9C%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
+## 游戏与互动
+[点击查看游戏与互动完整报告索引 →](AI_Reports/you-xi-yu-hu-dong/Reports.md)
+
+- [习近平同马克龙交流互动的经典瞬间 - 2025-12-07](AI_Reports/you-xi-yu-hu-dong/xi-jin-ping-tong-ma-ke-long-jiao-liu-hu-dong-de-jing-dian-shun-jian-2025-12-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%A9%AC%E5%85%8B%E9%BE%99%E4%BA%A4%E6%B5%81%E4%BA%92%E5%8A%A8%E7%9A%84%E7%BB%8F%E5%85%B8%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
+
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
