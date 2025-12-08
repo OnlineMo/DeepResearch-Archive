@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [习近平同马克龙交流互动的经典瞬间 - 2025-12-07](AI_Reports/you-xi-yu-hu-dong/xi-jin-ping-tong-ma-ke-long-jiao-liu-hu-dong-de-jing-dian-shun-jian-2025-12-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%A9%AC%E5%85%8B%E9%BE%99%E4%BA%A4%E6%B5%81%E4%BA%92%E5%8A%A8%E7%9A%84%E7%BB%8F%E5%85%B8%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
+- [对日斗争突发新情况 - 2025-12-08](AI_Reports/wei-fen-lei/dui-ri-dou-zheng-tu-fa-xin-qing-kuang-2025-12-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E6%97%A5%E6%96%97%E4%BA%89%E7%AA%81%E5%8F%91%E6%96%B0%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)
+- [中法元首相会都江堰 - 2025-12-08](AI_Reports/wei-fen-lei/zhong-fa-yuan-shou-xiang-hui-du-jiang-yan-2025-12-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B3%95%E5%85%83%E9%A6%96%E7%9B%B8%E4%BC%9A%E9%83%BD%E6%B1%9F%E5%A0%B0&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
