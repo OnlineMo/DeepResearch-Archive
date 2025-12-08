@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：18
+报告总数：20
 
 ---
 
@@ -12,6 +12,10 @@
 ## B
 
 - [北方秋雨持续几天](bei-fang-qiu-yu-chi-xu-ji-tian-2025-10-10--v1.md) - 2025-10-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E7%A7%8B%E9%9B%A8%E6%8C%81%E7%BB%AD%E5%87%A0%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
+
+## D
+
+- [对日斗争突发新情况](dui-ri-dou-zheng-tu-fa-xin-qing-kuang-2025-12-08--v1.md) - 2025-12-08 (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E6%97%A5%E6%96%97%E4%BA%89%E7%AA%81%E5%8F%91%E6%96%B0%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## G
 
@@ -56,6 +60,7 @@
 ## Z
 
 - [这一握 情深意重](zhe-yi-wo-qing-shen-yi-zhong-2025-09-07--v1.md) - 2025-09-07 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%8F%A1+%E6%83%85%E6%B7%B1%E6%84%8F%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)
+- [中法元首相会都江堰](zhong-fa-yuan-shou-xiang-hui-du-jiang-yan-2025-12-08--v1.md) - 2025-12-08 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B3%95%E5%85%83%E9%A6%96%E7%9B%B8%E4%BC%9A%E9%83%BD%E6%B1%9F%E5%A0%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [注意！是“10086”不是“l0086”](zhu-yi-shi-10086-bu-shi-l0086-2025-10-31--v1.md) - 2025-10-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%98%AF%E2%80%9C10086%E2%80%9D%E4%B8%8D%E6%98%AF%E2%80%9Cl0086%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## “
