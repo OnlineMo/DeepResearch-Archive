@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [对日斗争突发新情况 - 2025-12-08](AI_Reports/wei-fen-lei/dui-ri-dou-zheng-tu-fa-xin-qing-kuang-2025-12-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E6%97%A5%E6%96%97%E4%BA%89%E7%AA%81%E5%8F%91%E6%96%B0%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)
-- [中法元首相会都江堰 - 2025-12-08](AI_Reports/wei-fen-lei/zhong-fa-yuan-shou-xiang-hui-du-jiang-yan-2025-12-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B3%95%E5%85%83%E9%A6%96%E7%9B%B8%E4%BC%9A%E9%83%BD%E6%B1%9F%E5%A0%B0&sa=fyb_news&rsv_dl=fyb_news)
+- [中共中央召开党外人士座谈会 - 2025-12-09](AI_Reports/wei-fen-lei/zhong-gong-zhong-yang-zhao-kai-dang-wai-ren-shi-zuo-tan-hui-2025-12-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8F%AC%E5%BC%80%E5%85%9A%E5%A4%96%E4%BA%BA%E5%A3%AB%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
