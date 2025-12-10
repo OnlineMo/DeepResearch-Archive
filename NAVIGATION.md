@@ -311,6 +311,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [韩国硬刚高市早苗 - 2025-12-10](AI_Reports/wei-fen-lei/han-guo-ying-gang-gao-shi-zao-miao-2025-12-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%93%E5%9B%BD%E7%A1%AC%E5%88%9A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央召开党外人士座谈会 - 2025-12-09](AI_Reports/wei-fen-lei/zhong-gong-zhong-yang-zhao-kai-dang-wai-ren-shi-zuo-tan-hui-2025-12-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8F%AC%E5%BC%80%E5%85%9A%E5%A4%96%E4%BA%BA%E5%A3%AB%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [对日斗争突发新情况 - 2025-12-08](AI_Reports/wei-fen-lei/dui-ri-dou-zheng-tu-fa-xin-qing-kuang-2025-12-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E6%97%A5%E6%96%97%E4%BA%89%E7%AA%81%E5%8F%91%E6%96%B0%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [中法元首相会都江堰 - 2025-12-08](AI_Reports/wei-fen-lei/zhong-fa-yuan-shou-xiang-hui-du-jiang-yan-2025-12-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B3%95%E5%85%83%E9%A6%96%E7%9B%B8%E4%BC%9A%E9%83%BD%E6%B1%9F%E5%A0%B0&sa=fyb_news&rsv_dl=fyb_news)
@@ -330,4 +331,3 @@
 - [女生接退伍男友 男友眼睛瞬间亮了 - 2025-09-07](AI_Reports/wei-fen-lei/nu-sheng-jie-tui-wu-nan-you-nan-you-yan-jing-shun-jian-liang-liao-2025-09-07--v1.md) (v1)
 - [日本首相石破茂决定辞职 - 2025-09-07](AI_Reports/wei-fen-lei/ri-ben-shou-xiang-shi-po-mao-jue-ding-ci-zhi-2025-09-07--v1.md) (v1)
 - [这一握 情深意重 - 2025-09-07](AI_Reports/wei-fen-lei/zhe-yi-wo-qing-shen-yi-zhong-2025-09-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%8F%A1+%E6%83%85%E6%B7%B1%E6%84%8F%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)
-- [目之所及皆是自豪模样 - 2025-09-06](AI_Reports/wei-fen-lei/mu-zhi-suo-ji-jie-shi-zi-hao-mo-yang-2025-09-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9B%AE%E4%B9%8B%E6%89%80%E5%8F%8A%E7%9A%86%E6%98%AF%E8%87%AA%E8%B1%AA%E6%A8%A1%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)
