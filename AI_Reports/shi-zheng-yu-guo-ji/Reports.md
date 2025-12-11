@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：245
+报告总数：246
 
 ---
 
@@ -284,6 +284,7 @@
 - [中俄就涉日本问题达成高度共识](zhong-e-jiu-she-ri-ben-wen-ti-da-cheng-gao-du-gong-shi-2025-12-03--v1.md) - 2025-12-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E5%B0%B1%E6%B6%B5%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E8%BE%BE%E6%88%90%E9%AB%98%E5%BA%A6%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中方回应特朗普让中国停买俄石油](zhong-fang-hui-ying-te-lang-pu-rang-zhong-guo-ting-mai-e-shi-you-2025-10-17--v1.md) - 2025-10-17 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%81%9C%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [中方就高市错误言行致函古特雷斯](zhong-fang-jiu-gao-shi-cuo-wu-yan-xing-zhi-han-gu-te-lei-si-2025-11-22--v1.md) - 2025-11-22 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%B1%E9%AB%98%E5%B8%82%E9%94%99%E8%AF%AF%E8%A8%80%E8%A1%8C%E8%87%B4%E5%87%BD%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [中方录音一出 日本有人看不下去了](zhong-fang-lu-yin-yi-chu-ri-ben-you-ren-kan-bu-xia-qu-liao-2025-12-11--v1.md) - 2025-12-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BD%95%E9%9F%B3%E4%B8%80%E5%87%BA+%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中方驱离日非法进入钓鱼岛领海船只](zhong-fang-qu-chi-ri-fei-fa-jin-ru-diao-yu-dao-ling-hai-chuan-zhi-2025-12-02--v1.md) - 2025-12-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB%E6%97%A5%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7%E8%88%B9%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [中方一个个点名多个国家劣迹](zhong-fang-yi-ge-ge-dian-ming-duo-ge-guo-jia-lie-ji-2025-10-11--v1.md) - 2025-10-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%80%E4%B8%AA%E4%B8%AA%E7%82%B9%E5%90%8D%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8A%A3%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [中方：某常任理事国一意孤行令人失望](zhong-fang-mou-chang-ren-li-shi-guo-yi-yi-gu-xing-ling-ren-shi-wang-2025-08-29--v1.md) - 2025-08-29 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%9F%90%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9B%BD%E4%B8%80%E6%84%8F%E5%AD%A4%E8%A1%8C%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)
