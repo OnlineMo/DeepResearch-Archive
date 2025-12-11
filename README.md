@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [韩国硬刚高市早苗 - 2025-12-10](AI_Reports/wei-fen-lei/han-guo-ying-gang-gao-shi-zao-miao-2025-12-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%93%E5%9B%BD%E7%A1%AC%E5%88%9A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)
+- [中国经济向世界提供“机遇清单” - 2025-12-11](AI_Reports/jing-ji-yu-shi-chang/zhong-guo-jing-ji-xiang-shi-jie-ti-gong-ji-yu-qing-dan-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%B7%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E2%80%9C%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [中方录音一出 日本有人看不下去了 - 2025-12-11](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-lu-yin-yi-chu-ri-ben-you-ren-kan-bu-xia-qu-liao-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BD%95%E9%9F%B3%E4%B8%80%E5%87%BA+%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
