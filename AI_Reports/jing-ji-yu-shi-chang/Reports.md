@@ -1,7 +1,7 @@
 # 经济与市场 报告索引
 
 本页包含 **经济与市场** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：12
+报告总数：13
 
 ---
 
@@ -41,5 +41,6 @@
 ## Z
 
 - [中国大市场韧性强活力足](zhong-guo-da-shi-chang-ren-xing-qiang-huo-li-zu-2025-12-04--v1.md) - 2025-12-04 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%B8%82%E5%9C%BA%E9%9F%A7%E6%80%A7%E5%BC%BA%E6%B4%BB%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)
+- [中国经济向世界提供“机遇清单”](zhong-guo-jing-ji-xiang-shi-jie-ti-gong-ji-yu-qing-dan-2025-12-11--v1.md) - 2025-12-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%B7%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E2%80%9C%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中央定调 未来五年房地产方向明确](zhong-yang-ding-diao-wei-lai-wu-nian-fang-di-chan-fang-xiang-ming-que-2025-10-30--v1.md) - 2025-10-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%AE%9A%E8%B0%83+%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B9%E5%90%91%E6%98%8E%E7%A1%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [纵深推进全国统一大市场建设](zong-shen-tui-jin-quan-guo-tong-yi-da-shi-chang-jian-she-2025-09-16--v1.md) - 2025-09-16 (v1) [来源](https://www.baidu.com/s?wd=%E7%BA%B5%E6%B7%B1%E6%8E%A8%E8%BF%9B%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
