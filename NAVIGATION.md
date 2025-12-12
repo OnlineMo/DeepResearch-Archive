@@ -168,6 +168,7 @@
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
 
+- [中央经济工作会议在北京举行 - 2025-12-12](AI_Reports/jing-ji-yu-shi-chang/zhong-yang-jing-ji-gong-zuo-hui-yi-zai-bei-jing-ju-xing-2025-12-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [中国经济向世界提供“机遇清单” - 2025-12-11](AI_Reports/jing-ji-yu-shi-chang/zhong-guo-jing-ji-xiang-shi-jie-ti-gong-ji-yu-qing-dan-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%B7%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E2%80%9C%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [3万亿元 “中部第一城”目标定了 - 2025-12-06](AI_Reports/jing-ji-yu-shi-chang/3mo-yi-yuan-zhong-bu-di-yi-cheng-mu-biao-ding-liao-2025-12-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=3%E4%B8%87%E4%BA%BF%E5%85%83+%E2%80%9C%E4%B8%AD%E9%83%A8%E7%AC%AC%E4%B8%80%E5%9F%8E%E2%80%9D%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中国大市场韧性强活力足 - 2025-12-04](AI_Reports/jing-ji-yu-shi-chang/zhong-guo-da-shi-chang-ren-xing-qiang-huo-li-zu-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%B8%82%E5%9C%BA%E9%9F%A7%E6%80%A7%E5%BC%BA%E6%B4%BB%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)
