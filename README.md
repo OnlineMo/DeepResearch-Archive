@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [中国经济向世界提供“机遇清单” - 2025-12-11](AI_Reports/jing-ji-yu-shi-chang/zhong-guo-jing-ji-xiang-shi-jie-ti-gong-ji-yu-qing-dan-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%B7%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E2%80%9C%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [中方录音一出 日本有人看不下去了 - 2025-12-11](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-lu-yin-yi-chu-ri-ben-you-ren-kan-bu-xia-qu-liao-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BD%95%E9%9F%B3%E4%B8%80%E5%87%BA+%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [中央经济工作会议在北京举行 - 2025-12-12](AI_Reports/jing-ji-yu-shi-chang/zhong-yang-jing-ji-gong-zuo-hui-yi-zai-bei-jing-ju-xing-2025-12-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
