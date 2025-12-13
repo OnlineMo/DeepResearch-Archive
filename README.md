@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [中央经济工作会议在北京举行 - 2025-12-12](AI_Reports/jing-ji-yu-shi-chang/zhong-yang-jing-ji-gong-zuo-hui-yi-zai-bei-jing-ju-xing-2025-12-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
+- [读懂中国经济高质量发展的确定性 - 2025-12-13](AI_Reports/jing-ji-yu-shi-chang/du-dong-zhong-guo-jing-ji-gao-zhi-liang-fa-zhan-de-que-ding-xing-2025-12-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)
+- [南京大屠杀唯一存世动态影像 - 2025-12-13](AI_Reports/wei-fen-lei/nan-jing-da-tu-sha-wei-yi-cun-shi-dong-tai-ying-xiang-2025-12-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%94%AF%E4%B8%80%E5%AD%98%E4%B8%96%E5%8A%A8%E6%80%81%E5%BD%B1%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
