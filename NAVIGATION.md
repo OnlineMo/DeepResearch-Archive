@@ -168,6 +168,7 @@
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
 
+- [读懂中国经济高质量发展的确定性 - 2025-12-13](AI_Reports/jing-ji-yu-shi-chang/du-dong-zhong-guo-jing-ji-gao-zhi-liang-fa-zhan-de-que-ding-xing-2025-12-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [中央经济工作会议在北京举行 - 2025-12-12](AI_Reports/jing-ji-yu-shi-chang/zhong-yang-jing-ji-gong-zuo-hui-yi-zai-bei-jing-ju-xing-2025-12-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [中国经济向世界提供“机遇清单” - 2025-12-11](AI_Reports/jing-ji-yu-shi-chang/zhong-guo-jing-ji-xiang-shi-jie-ti-gong-ji-yu-qing-dan-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%B7%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E2%80%9C%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [3万亿元 “中部第一城”目标定了 - 2025-12-06](AI_Reports/jing-ji-yu-shi-chang/3mo-yi-yuan-zhong-bu-di-yi-cheng-mu-biao-ding-liao-2025-12-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=3%E4%B8%87%E4%BA%BF%E5%85%83+%E2%80%9C%E4%B8%AD%E9%83%A8%E7%AC%AC%E4%B8%80%E5%9F%8E%E2%80%9D%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -313,6 +314,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [南京大屠杀唯一存世动态影像 - 2025-12-13](AI_Reports/wei-fen-lei/nan-jing-da-tu-sha-wei-yi-cun-shi-dong-tai-ying-xiang-2025-12-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%94%AF%E4%B8%80%E5%AD%98%E4%B8%96%E5%8A%A8%E6%80%81%E5%BD%B1%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [韩国硬刚高市早苗 - 2025-12-10](AI_Reports/wei-fen-lei/han-guo-ying-gang-gao-shi-zao-miao-2025-12-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%93%E5%9B%BD%E7%A1%AC%E5%88%9A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央召开党外人士座谈会 - 2025-12-09](AI_Reports/wei-fen-lei/zhong-gong-zhong-yang-zhao-kai-dang-wai-ren-shi-zuo-tan-hui-2025-12-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8F%AC%E5%BC%80%E5%85%9A%E5%A4%96%E4%BA%BA%E5%A3%AB%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [对日斗争突发新情况 - 2025-12-08](AI_Reports/wei-fen-lei/dui-ri-dou-zheng-tu-fa-xin-qing-kuang-2025-12-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E6%97%A5%E6%96%97%E4%BA%89%E7%AA%81%E5%8F%91%E6%96%B0%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)
@@ -332,4 +334,3 @@
 - [今日起 常温纯牛奶中禁止添加复原乳 - 2025-09-16](AI_Reports/wei-fen-lei/jin-ri-qi-chang-wen-chun-niu-nai-zhong-jin-zhi-tian-jia-fu-yuan-ru-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E8%B5%B7+%E5%B8%B8%E6%B8%A9%E7%BA%AF%E7%89%9B%E5%A5%B6%E4%B8%AD%E7%A6%81%E6%AD%A2%E6%B7%BB%E5%8A%A0%E5%A4%8D%E5%8E%9F%E4%B9%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [女生接退伍男友 男友眼睛瞬间亮了 - 2025-09-07](AI_Reports/wei-fen-lei/nu-sheng-jie-tui-wu-nan-you-nan-you-yan-jing-shun-jian-liang-liao-2025-09-07--v1.md) (v1)
 - [日本首相石破茂决定辞职 - 2025-09-07](AI_Reports/wei-fen-lei/ri-ben-shou-xiang-shi-po-mao-jue-ding-ci-zhi-2025-09-07--v1.md) (v1)
-- [这一握 情深意重 - 2025-09-07](AI_Reports/wei-fen-lei/zhe-yi-wo-qing-shen-yi-zhong-2025-09-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%8F%A1+%E6%83%85%E6%B7%B1%E6%84%8F%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)
