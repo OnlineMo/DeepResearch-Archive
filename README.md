@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [读懂中国经济高质量发展的确定性 - 2025-12-13](AI_Reports/jing-ji-yu-shi-chang/du-dong-zhong-guo-jing-ji-gao-zhi-liang-fa-zhan-de-que-ding-xing-2025-12-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)
-- [南京大屠杀唯一存世动态影像 - 2025-12-13](AI_Reports/wei-fen-lei/nan-jing-da-tu-sha-wei-yi-cun-shi-dong-tai-ying-xiang-2025-12-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%94%AF%E4%B8%80%E5%AD%98%E4%B8%96%E5%8A%A8%E6%80%81%E5%BD%B1%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [央视曝光取消自动扣费骗局 - 2025-12-14](AI_Reports/wei-fen-lei/yang-shi-pu-guang-qu-xiao-zi-dong-kou-fei-pian-ju-2025-12-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8F%96%E6%B6%88%E8%87%AA%E5%8A%9B%E5%8F%A3%E8%B4%B9%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
