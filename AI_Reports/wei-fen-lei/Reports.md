@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：23
+报告总数：24
 
 ---
 
@@ -56,6 +56,7 @@
 
 ## Y
 
+- [央视曝光取消自动扣费骗局](yang-shi-pu-guang-qu-xiao-zi-dong-kou-fei-pian-ju-2025-12-14--v1.md) - 2025-12-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8F%96%E6%B6%88%E8%87%AA%E5%8A%9B%E5%8F%A3%E8%B4%B9%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [一颗纽扣 两个朋友](yi-ke-niu-kou-liang-ge-peng-you-2025-09-01--v1.md) - 2025-09-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%A2%97%E7%BA%BD%E6%89%A3+%E4%B8%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [以开放汇合作之力](yi-kai-fang-hui-he-zuo-zhi-li-2025-11-05--v1.md) - 2025-11-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BC%80%E6%94%BE%E6%B1%87%E5%90%88%E4%BD%9C%E4%B9%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 
