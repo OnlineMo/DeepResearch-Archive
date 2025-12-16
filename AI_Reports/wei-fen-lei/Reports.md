@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：26
+报告总数：27
 
 ---
 
@@ -72,3 +72,7 @@
 ## “
 
 - [“横竖”都是世界第一](heng-shu-du-shi-shi-jie-di-yi-2025-09-29--v1.md) - 2025-09-29 (v1)
+
+## 《
+
+- [《求是》发表习近平总书记重要文章](qiu-shi-fa-biao-xi-jin-ping-zong-shu-ji-zhong-yao-wen-zhang-2025-12-16--v1.md) - 2025-12-16 (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8A%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
