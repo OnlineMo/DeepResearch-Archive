@@ -27,6 +27,7 @@
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [《怦然心动》导演家中死亡 其子已被捕 - 2025-12-16](AI_Reports/she-hui-yu-fa-zhi/peng-ran-xin-dong-dao-yan-jia-zhong-si-wang-qi-zi-yi-bei-bu-2025-12-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E3%80%8B%E5%AF%BC%E6%BC%94%E5%AE%B6%E4%B8%AD%E6%AD%BB%E4%BA%A1+%E5%85%B6%E5%AD%90%E5%B7%B2%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)
 - [漠河室内外温差已达60℃ - 2025-12-06](AI_Reports/she-hui-yu-fa-zhi/mo-he-shi-nei-wai-wen-chai-yi-da-60degc-2025-12-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%A0%E6%B2%B3%E5%AE%A4%E5%86%85%E5%A4%96%E6%B8%A9%E5%B7%AE%E5%B7%B2%E8%BE%BE60%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)
 - [商家把库存电动车上好牌当二手车卖 - 2025-12-05](AI_Reports/she-hui-yu-fa-zhi/shang-jia-ba-ku-cun-dian-dong-che-shang-hao-pai-dang-er-shou-che-mai-2025-12-05--v1.md) (v1)
 - [江苏爸妈生出混血娃娃 - 2025-12-04](AI_Reports/she-hui-yu-fa-zhi/jiang-su-ba-ma-sheng-chu-hun-xie-wa-wa-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%88%B8%E5%A6%88%E7%94%9F%E5%87%BA%E6%B7%B7%E8%A1%80%E5%A8%83%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [8人穿“警服”为婚礼开路？后续来了 - 2025-11-12](AI_Reports/she-hui-yu-fa-zhi/8ren-chuan-jing-fu-wei-hun-li-kai-lu-hou-xu-lai-liao-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=8%E4%BA%BA%E7%A9%BF%E2%80%9C%E8%AD%A6%E6%9C%8D%E2%80%9D%E4%B8%BA%E5%A9%9A%E7%A4%BC%E5%BC%80%E8%B7%AF%EF%BC%9F%E5%90%8E%E7%BB%AD%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [云南通报赤裸小孩事件 - 2025-11-11](AI_Reports/she-hui-yu-fa-zhi/yun-nan-tong-bao-chi-luo-xiao-hai-shi-jian-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E8%B5%A4%E8%A3%B8%E5%B0%8F%E5%AD%A9%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光：医保卡被薅羊毛 - 2025-11-10](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-guang-yi-bao-qia-bei-hao-yang-mao-2025-11-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A%E5%8C%BB%E4%BF%9D%E5%8D%A1%E8%A2%AB%E8%96%8B%E7%BE%8A%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)
-- [被欠物业费1200万 物业退出不干了 - 2025-11-08](AI_Reports/she-hui-yu-fa-zhi/bei-qian-wu-ye-fei-1200mo-wu-ye-tui-chu-bu-gan-liao-2025-11-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A2%AB%E6%AC%A0%E7%89%A9%E4%B8%9A%E8%B4%B91200%E4%B8%87+%E7%89%A9%E4%B8%9A%E9%80%80%E5%87%BA%E4%B8%8D%E5%B9%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -314,6 +314,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [《求是》发表习近平总书记重要文章 - 2025-12-16](AI_Reports/wei-fen-lei/qiu-shi-fa-biao-xi-jin-ping-zong-shu-ji-zhong-yao-wen-zhang-2025-12-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8A%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光20倍暴利假陈皮 - 2025-12-15](AI_Reports/wei-fen-lei/yang-shi-pu-guang-20bei-bao-li-jia-chen-pi-2025-12-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%8920%E5%80%8D%E6%9A%B4%E5%88%A9%E5%81%87%E9%99%88%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [追求实实在在 没有水分的增长 - 2025-12-15](AI_Reports/wei-fen-lei/zhui-qiu-shi-shi-zai-zai-mei-you-shui-fen-de-zeng-chang-2025-12-15--v1.md) (v1) [来源]([https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8+%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8+%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news))
 - [央视曝光取消自动扣费骗局 - 2025-12-14](AI_Reports/wei-fen-lei/yang-shi-pu-guang-qu-xiao-zi-dong-kou-fei-pian-ju-2025-12-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8F%96%E6%B6%88%E8%87%AA%E5%8A%9B%E5%8F%A3%E8%B4%B9%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
@@ -333,4 +334,3 @@
 - [“横竖”都是世界第一 - 2025-09-29](AI_Reports/wei-fen-lei/heng-shu-du-shi-shi-jie-di-yi-2025-09-29--v1.md) (v1)
 - [献给新疆维吾尔自治区成立70周年 - 2025-09-28](AI_Reports/wei-fen-lei/xian-gei-xin-jiang-wei-wu-er-zi-zhi-qu-cheng-li-70zhou-nian-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8C%AE%E7%BB%99%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [广州塔“定塔神器”出现明显摆动 - 2025-09-25](AI_Reports/wei-fen-lei/yan-zhou-ta-ding-ta-shen-qi-chu-xian-ming-xian-bai-dong-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%A1%94%E2%80%9C%E5%AE%9A%E5%A1%94%E7%A5%9E%E5%99%A8%E2%80%9D%E5%87%BA%E7%8E%B0%E6%98%8E%E6%98%BE%E6%91%86%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
-- [桦加沙风眼内部曝光 拍摄部门：震撼 - 2025-09-24](AI_Reports/wei-fen-lei/hua-jia-sha-feng-yan-nei-bu-pu-guang-pai-she-bu-men-zhen-han-2025-09-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A1%A6%E5%8A%A0%E6%B2%99%E9%A3%8E%E7%9C%BC%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89+%E6%8B%8D%E6%91%84%E9%83%A8%E9%97%A8%EF%BC%9A%E9%9C%87%E6%92%BC&sa=fyb_news&rsv_dl=fyb_news)
