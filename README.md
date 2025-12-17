@@ -19,6 +19,7 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [《怦然心动》导演家中死亡 其子已被捕 - 2025-12-16](AI_Reports/she-hui-yu-fa-zhi/peng-ran-xin-dong-dao-yan-jia-zhong-si-wang-qi-zi-yi-bei-bu-2025-12-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E3%80%8B%E5%AF%BC%E6%BC%94%E5%AE%B6%E4%B8%AD%E6%AD%BB%E4%BA%A1+%E5%85%B6%E5%AD%90%E5%B7%B2%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)
-- [《求是》发表习近平总书记重要文章 - 2025-12-16](AI_Reports/wei-fen-lei/qiu-shi-fa-biao-xi-jin-ping-zong-shu-ji-zhong-yao-wen-zhang-2025-12-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8A%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
+- [接棒金银大涨 又一贵金属涨幅翻倍 - 2025-12-17](AI_Reports/wei-fen-lei/jie-bang-jin-yin-da-zhang-you-yi-gui-jin-shu-zhang-fu-fan-bei-2025-12-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A5%E6%A3%92%E9%87%91%E9%93%B6%E5%A4%A7%E6%B6%A8+%E5%8F%88%E4%B8%80%E8%B4%B5%E9%87%91%E5%B1%9E%E6%B6%A8%E5%B9%8D&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平听取岑浩辉述职报告 - 2025-12-17](AI_Reports/wei-fen-lei/xi-jin-ping-ting-qu-cen-hao-hui-shu-zhi-bao-gao-2025-12-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%AC%E5%8F%96%E5%B2%91%E6%B5%A9%E8%BE%89%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
+- [4400万粉丝网红直播泳池派对被处理 - 2025-12-17](AI_Reports/yu-le-yu-ming-xing/4400mo-fen-si-wang-hong-zhi-bo-yong-chi-pai-dui-bei-chu-li-2025-12-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=4400%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E6%B3%B3%E6%B1%A0%E6%B4%BE%E5%AF%B9%E8%A2%AB%E5%A4%84%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
