@@ -1,9 +1,13 @@
 # 娱乐与明星 报告索引
 
 本页包含 **娱乐与明星** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：5
+报告总数：6
 
 ---
+
+## 0-9
+
+- [4400万粉丝网红直播泳池派对被处理](4400mo-fen-si-wang-hong-zhi-bo-yong-chi-pai-dui-bei-chu-li-2025-12-17--v1.md) - 2025-12-17 (v1) [来源](https://www.baidu.com/s?wd=4400%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E6%B3%B3%E6%B1%A0%E6%B4%BE%E5%AF%B9%E8%A2%AB%E5%A4%84%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## B
 
