@@ -51,6 +51,7 @@
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
 
+- [4400万粉丝网红直播泳池派对被处理 - 2025-12-17](AI_Reports/yu-le-yu-ming-xing/4400mo-fen-si-wang-hong-zhi-bo-yong-chi-pai-dui-bei-chu-li-2025-12-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=4400%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E6%B3%B3%E6%B1%A0%E6%B4%BE%E5%AF%B9%E8%A2%AB%E5%A4%84%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)
 - [刘思涵你的校服在非洲火了 - 2025-11-05](AI_Reports/yu-le-yu-ming-xing/liu-si-han-ni-de-xiao-fu-zai-fei-zhou-huo-liao-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%98%E6%80%9D%E6%B6%B5%E4%BD%A0%E7%9A%84%E6%A0%A1%E6%9C%8D%E5%9C%A8%E9%9D%9E%E6%B4%B2%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [不张扬 自闪耀 她们自成星辰 - 2025-10-15](AI_Reports/yu-le-yu-ming-xing/bu-zhang-yang-zi-shan-yao-ta-men-zi-cheng-xing-chen-2025-10-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8D%E5%BC%A0%E6%89%AC+%E8%87%AA%E9%97%AA%E8%80%80+%E5%A5%B9%E4%BB%AC%E8%87%AA%E6%88%90%E6%98%9F%E8%BE%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [女厕一推门就看到男明星“咧嘴笑” - 2025-09-08](AI_Reports/yu-le-yu-ming-xing/nu-ce-yi-tui-men-jiu-kan-dao-nan-ming-xing-lie-zui-xiao-2025-09-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8E%95%E4%B8%80%E6%8E%A8%E9%97%A8%E5%B0%B1%E7%9C%8B%E5%88%B0%E7%94%B7%E6%98%8E%E6%98%9F%E2%80%9C%E5%92%A7%E5%98%B4%E7%AC%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -314,6 +315,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [接棒金银大涨 又一贵金属涨幅翻倍 - 2025-12-17](AI_Reports/wei-fen-lei/jie-bang-jin-yin-da-zhang-you-yi-gui-jin-shu-zhang-fu-fan-bei-2025-12-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A5%E6%A3%92%E9%87%91%E9%93%B6%E5%A4%A7%E6%B6%A8+%E5%8F%88%E4%B8%80%E8%B4%B5%E9%87%91%E5%B1%9E%E6%B6%A8%E5%B9%8D&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平听取岑浩辉述职报告 - 2025-12-17](AI_Reports/wei-fen-lei/xi-jin-ping-ting-qu-cen-hao-hui-shu-zhi-bao-gao-2025-12-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%AC%E5%8F%96%E5%B2%91%E6%B5%A9%E8%BE%89%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [《求是》发表习近平总书记重要文章 - 2025-12-16](AI_Reports/wei-fen-lei/qiu-shi-fa-biao-xi-jin-ping-zong-shu-ji-zhong-yao-wen-zhang-2025-12-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8A%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光20倍暴利假陈皮 - 2025-12-15](AI_Reports/wei-fen-lei/yang-shi-pu-guang-20bei-bao-li-jia-chen-pi-2025-12-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%8920%E5%80%8D%E6%9A%B4%E5%88%A9%E5%81%87%E9%99%88%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [追求实实在在 没有水分的增长 - 2025-12-15](AI_Reports/wei-fen-lei/zhui-qiu-shi-shi-zai-zai-mei-you-shui-fen-de-zeng-chang-2025-12-15--v1.md) (v1) [来源]([https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8+%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8+%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news))
@@ -332,5 +335,3 @@
 - [北方秋雨持续几天 - 2025-10-10](AI_Reports/wei-fen-lei/bei-fang-qiu-yu-chi-xu-ji-tian-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E7%A7%8B%E9%9B%A8%E6%8C%81%E7%BB%AD%E5%87%A0%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [古树情缘 - 2025-10-09](AI_Reports/wei-fen-lei/gu-shu-qing-yuan-2025-10-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%A4%E6%A0%91%E6%83%85%E7%BC%98&sa=fyb_news&rsv_dl=fyb_news)
 - [“横竖”都是世界第一 - 2025-09-29](AI_Reports/wei-fen-lei/heng-shu-du-shi-shi-jie-di-yi-2025-09-29--v1.md) (v1)
-- [献给新疆维吾尔自治区成立70周年 - 2025-09-28](AI_Reports/wei-fen-lei/xian-gei-xin-jiang-wei-wu-er-zi-zhi-qu-cheng-li-70zhou-nian-2025-09-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8C%AE%E7%BB%99%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
-- [广州塔“定塔神器”出现明显摆动 - 2025-09-25](AI_Reports/wei-fen-lei/yan-zhou-ta-ding-ta-shen-qi-chu-xian-ming-xian-bai-dong-2025-09-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%A1%94%E2%80%9C%E5%AE%9A%E5%A1%94%E7%A5%9E%E5%99%A8%E2%80%9D%E5%87%BA%E7%8E%B0%E6%98%8E%E6%98%BE%E6%91%86%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
