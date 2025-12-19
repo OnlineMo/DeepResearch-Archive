@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [绘就共同富裕新画卷 - 2025-12-18](AI_Reports/wei-fen-lei/hui-jiu-gong-tong-fu-yu-xin-hua-juan-2025-12-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
-- [央视曝光套路贷：借13万要还1300万 - 2025-12-18](AI_Reports/wei-fen-lei/yang-shi-pu-guang-tao-lu-dai-jie-13mo-yao-huan-1300mo-2025-12-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A5%97%E8%B7%AF%E8%B4%B7%EF%BC%9A%E5%80%9F13%E4%B8%87%E8%A6%81%E8%BF%981300%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
+- [火箭军一等功营宿舍没有“豆腐块” - 2025-12-19](AI_Reports/ke-xue-yu-tai-kong/huo-jian-jun-yi-deng-gong-ying-su-she-mei-you-dou-fu-kuai-2025-12-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%81%AB%E7%AE%AD%E5%86%9B%E4%B8%80%E7%AD%89%E5%8A%9F%E8%90%A5%E5%AE%BF%E8%88%8D%E6%B2%A1%E6%9C%89%E2%80%9C%E8%B1%86%E8%85%90%E5%9D%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [潮涌海之南 开放风正劲 - 2025-12-19](AI_Reports/wei-fen-lei/chao-yong-hai-zhi-nan-kai-fang-feng-zheng-jing-2025-12-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BD%AE%E6%B6%8C%E6%B5%B7%E4%B9%8B%E5%8D%97+%E5%BC%80%E6%94%BE%E9%A3%8E%E6%AD%A3%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
