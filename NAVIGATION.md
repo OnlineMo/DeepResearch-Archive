@@ -134,6 +134,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [火箭军一等功营宿舍没有“豆腐块” - 2025-12-19](AI_Reports/ke-xue-yu-tai-kong/huo-jian-jun-yi-deng-gong-ying-su-she-mei-you-dou-fu-kuai-2025-12-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%81%AB%E7%AE%AD%E5%86%9B%E4%B8%80%E7%AD%89%E5%8A%9F%E8%90%A5%E5%AE%BF%E8%88%8D%E6%B2%A1%E6%9C%89%E2%80%9C%E8%B1%86%E8%85%90%E5%9D%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中国人在太空的存粮多得超乎想象 - 2025-12-05](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-ren-zai-tai-kong-de-cun-liang-duo-de-chao-hu-xiang-xiang-2025-12-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%9A%84%E5%AD%98%E7%B2%AE%E5%A4%9A%E5%BE%97%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [神20返回舱玻璃裂纹是个三角形 - 2025-12-01](AI_Reports/ke-xue-yu-tai-kong/shen-20fan-hui-cang-bo-li-lie-wen-shi-ge-san-jiao-xing-2025-12-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E20%E8%BF%94%E5%9B%9E%E8%88%B1%E7%8E%BB%E7%92%B2%E8%A3%82%E7%BA%B9%E6%98%AF%E4%B8%AA%E4%B8%89%E8%A7%92%E5%BD%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [神舟二十二号与空间站完成对接 - 2025-11-26](AI_Reports/ke-xue-yu-tai-kong/shen-zhou-er-shi-er-hao-yu-kong-jian-zhan-wan-cheng-dui-jie-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%AB%99%E5%AE%8C%E6%88%90%E5%AF%B9%E6%8E%A5&sa=fyb_news&rsv_dl=fyb_news)
@@ -315,6 +316,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [潮涌海之南 开放风正劲 - 2025-12-19](AI_Reports/wei-fen-lei/chao-yong-hai-zhi-nan-kai-fang-feng-zheng-jing-2025-12-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BD%AE%E6%B6%8C%E6%B5%B7%E4%B9%8B%E5%8D%97+%E5%BC%80%E6%94%BE%E9%A3%8E%E6%AD%A3%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [绘就共同富裕新画卷 - 2025-12-18](AI_Reports/wei-fen-lei/hui-jiu-gong-tong-fu-yu-xin-hua-juan-2025-12-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光套路贷：借13万要还1300万 - 2025-12-18](AI_Reports/wei-fen-lei/yang-shi-pu-guang-tao-lu-dai-jie-13mo-yao-huan-1300mo-2025-12-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A5%97%E8%B7%AF%E8%B4%B7%EF%BC%9A%E5%80%9F13%E4%B8%87%E8%A6%81%E8%BF%981300%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
 - [接棒金银大涨 又一贵金属涨幅翻倍 - 2025-12-17](AI_Reports/wei-fen-lei/jie-bang-jin-yin-da-zhang-you-yi-gui-jin-shu-zhang-fu-fan-bei-2025-12-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A5%E6%A3%92%E9%87%91%E9%93%B6%E5%A4%A7%E6%B6%A8+%E5%8F%88%E4%B8%80%E8%B4%B5%E9%87%91%E5%B1%9E%E6%B6%A8%E5%B9%8D&sa=fyb_news&rsv_dl=fyb_news)
@@ -334,4 +336,3 @@
 - [绝密地址！青海省西宁市500号信箱 - 2025-11-02](AI_Reports/wei-fen-lei/jue-mi-di-zhi-qing-hai-sheng-xi-zhu-shi-500hao-xin-xiang-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%9D%E5%AF%86%E5%9C%B0%E5%9D%80%EF%BC%81%E9%9D%92%E6%B5%B7%E7%9C%81%E8%A5%BF%E5%AE%81%E5%B8%82500%E5%8F%B7%E4%BF%A1%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [注意！是“10086”不是“l0086” - 2025-10-31](AI_Reports/wei-fen-lei/zhu-yi-shi-10086-bu-shi-l0086-2025-10-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%98%AF%E2%80%9C10086%E2%80%9D%E4%B8%8D%E6%98%AF%E2%80%9Cl0086%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [2000多年前的人脸认证 - 2025-10-26](AI_Reports/wei-fen-lei/2000duo-nian-qian-de-ren-lian-ren-zheng-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AE%A4%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)
-- [北方秋雨持续几天 - 2025-10-10](AI_Reports/wei-fen-lei/bei-fang-qiu-yu-chi-xu-ji-tian-2025-10-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E7%A7%8B%E9%9B%A8%E6%8C%81%E7%BB%AD%E5%87%A0%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
