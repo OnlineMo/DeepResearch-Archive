@@ -170,6 +170,7 @@
 ## 经济与市场
 [点击查看经济与市场完整报告索引 →](AI_Reports/jing-ji-yu-shi-chang/Reports.md)
 
+- [2025年中国经济如何“顶压前行” - 2025-12-20](AI_Reports/jing-ji-yu-shi-chang/2025nian-zhong-guo-jing-ji-ru-he-ding-ya-qian-xing-2025-12-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%81%E5%A6%82%E4%BD%95%E2%80%9C%E9%A1%B6%E5%8E%8B%E5%89%8D%E8%A1%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [读懂中国经济高质量发展的确定性 - 2025-12-13](AI_Reports/jing-ji-yu-shi-chang/du-dong-zhong-guo-jing-ji-gao-zhi-liang-fa-zhan-de-que-ding-xing-2025-12-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [中央经济工作会议在北京举行 - 2025-12-12](AI_Reports/jing-ji-yu-shi-chang/zhong-yang-jing-ji-gong-zuo-hui-yi-zai-bei-jing-ju-xing-2025-12-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [中国经济向世界提供“机遇清单” - 2025-12-11](AI_Reports/jing-ji-yu-shi-chang/zhong-guo-jing-ji-xiang-shi-jie-ti-gong-ji-yu-qing-dan-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%B7%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E2%80%9C%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
