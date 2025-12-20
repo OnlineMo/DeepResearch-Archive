@@ -1,12 +1,13 @@
 # 经济与市场 报告索引
 
 本页包含 **经济与市场** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：15
+报告总数：16
 
 ---
 
 ## 0-9
 
+- [2025年中国经济如何“顶压前行”](2025nian-zhong-guo-jing-ji-ru-he-ding-ya-qian-xing-2025-12-20--v1.md) - 2025-12-20 (v1) [来源](https://www.baidu.com/s?wd=2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%81%E5%A6%82%E4%BD%95%E2%80%9C%E9%A1%B6%E5%8E%8B%E5%89%8D%E8%A1%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [3万亿元 “中部第一城”目标定了](3mo-yi-yuan-zhong-bu-di-yi-cheng-mu-biao-ding-liao-2025-12-06--v1.md) - 2025-12-06 (v1) [来源](https://www.baidu.com/s?wd=3%E4%B8%87%E4%BA%BF%E5%85%83+%E2%80%9C%E4%B8%AD%E9%83%A8%E7%AC%AC%E4%B8%80%E5%9F%8E%E2%80%9D%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [9组数字速览第八届进博会](9zu-shu-zi-su-lan-di-ba-jie-jin-bo-hui-2025-11-04--v1.md) - 2025-11-04 (v1) [来源](https://www.baidu.com/s?wd=9%E7%BB%84%E6%95%B0%E5%AD%97%E9%80%9F%E8%A7%88%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 
