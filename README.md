@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [2025年中国经济如何“顶压前行” - 2025-12-20](AI_Reports/jing-ji-yu-shi-chang/2025nian-zhong-guo-jing-ji-ru-he-ding-ya-qian-xing-2025-12-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%81%E5%A6%82%E4%BD%95%E2%80%9C%E9%A1%B6%E5%8E%8B%E5%89%8D%E8%A1%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [他不是演员 却“演”了一辈子商人 - 2025-12-21](AI_Reports/wei-fen-lei/ta-bu-shi-yan-yuan-que-yan-liao-yi-bei-zi-shang-ren-2025-12-21--v1.md) (v1)
+- [习近平情系祖国的“掌上明珠” - 2025-12-21](AI_Reports/wei-fen-lei/xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
