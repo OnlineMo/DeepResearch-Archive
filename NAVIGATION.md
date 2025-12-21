@@ -317,6 +317,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [他不是演员 却“演”了一辈子商人 - 2025-12-21](AI_Reports/wei-fen-lei/ta-bu-shi-yan-yuan-que-yan-liao-yi-bei-zi-shang-ren-2025-12-21--v1.md) (v1)
+- [习近平情系祖国的“掌上明珠” - 2025-12-21](AI_Reports/wei-fen-lei/xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [潮涌海之南 开放风正劲 - 2025-12-19](AI_Reports/wei-fen-lei/chao-yong-hai-zhi-nan-kai-fang-feng-zheng-jing-2025-12-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BD%AE%E6%B6%8C%E6%B5%B7%E4%B9%8B%E5%8D%97+%E5%BC%80%E6%94%BE%E9%A3%8E%E6%AD%A3%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [绘就共同富裕新画卷 - 2025-12-18](AI_Reports/wei-fen-lei/hui-jiu-gong-tong-fu-yu-xin-hua-juan-2025-12-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光套路贷：借13万要还1300万 - 2025-12-18](AI_Reports/wei-fen-lei/yang-shi-pu-guang-tao-lu-dai-jie-13mo-yao-huan-1300mo-2025-12-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A5%97%E8%B7%AF%E8%B4%B7%EF%BC%9A%E5%80%9F13%E4%B8%87%E8%A6%81%E8%BF%981300%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
@@ -335,5 +337,3 @@
 - [Project Euler - 2025-11-13](AI_Reports/wei-fen-lei/project-euler-2025-11-13--v1.md) (v1) [来源](https://projecteuler.net)
 - [以开放汇合作之力 - 2025-11-05](AI_Reports/wei-fen-lei/yi-kai-fang-hui-he-zuo-zhi-li-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BC%80%E6%94%BE%E6%B1%87%E5%90%88%E4%BD%9C%E4%B9%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [绝密地址！青海省西宁市500号信箱 - 2025-11-02](AI_Reports/wei-fen-lei/jue-mi-di-zhi-qing-hai-sheng-xi-zhu-shi-500hao-xin-xiang-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%9D%E5%AF%86%E5%9C%B0%E5%9D%80%EF%BC%81%E9%9D%92%E6%B5%B7%E7%9C%81%E8%A5%BF%E5%AE%81%E5%B8%82500%E5%8F%B7%E4%BF%A1%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)
-- [注意！是“10086”不是“l0086” - 2025-10-31](AI_Reports/wei-fen-lei/zhu-yi-shi-10086-bu-shi-l0086-2025-10-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%98%AF%E2%80%9C10086%E2%80%9D%E4%B8%8D%E6%98%AF%E2%80%9Cl0086%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [2000多年前的人脸认证 - 2025-10-26](AI_Reports/wei-fen-lei/2000duo-nian-qian-de-ren-lian-ren-zheng-2025-10-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AE%A4%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)
