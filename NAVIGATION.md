@@ -97,6 +97,8 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [大湾区打造全球科技创新高地 - 2025-12-22](AI_Reports/ke-ji-yu-hu-lian-wang/da-wan-qu-da-zao-quan-qiu-ke-ji-chuang-xin-gao-di-2025-12-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E6%89%93%E9%80%A0%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E9%AB%98%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)
+- [央视曝光网红“玫瑰盐”真相 - 2025-12-22](AI_Reports/ke-ji-yu-hu-lian-wang/yang-shi-pu-guang-wang-hong-mei-gui-yan-zhen-xiang-2025-12-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E2%80%9C%E7%8E%AB%E7%91%B0%E7%9B%90%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [Google将允许用户未经验证侧载Android应用 - 2025-11-13](AI_Reports/ke-ji-yu-hu-lian-wang/google-will-allow-users-to-sideload-android-apps-without-verification-2025-11-13--v1.md) (v1) [来源](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 - [17个项目获互联网大会领先科技奖 - 2025-11-07](AI_Reports/ke-ji-yu-hu-lian-wang/17ge-xiang-mu-huo-hu-lian-wang-da-hui-ling-xian-ke-ji-jiang-2025-11-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=17%E4%B8%AA%E9%A1%B9%E7%9B%AE%E8%8E%B7%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E9%A2%86%E5%85%88%E7%A7%91%E6%8A%80%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)
 - [马斯克称5年后不再有手机和App - 2025-11-02](AI_Reports/ke-ji-yu-hu-lian-wang/ma-si-ke-cheng-5nian-hou-bu-zai-you-shou-ji-he-app-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%8B%E6%89%8B%E6%9C%BA%E5%92%8CApp&sa=fyb_news&rsv_dl=fyb_news)
