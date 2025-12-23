@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [大湾区打造全球科技创新高地 - 2025-12-22](AI_Reports/ke-ji-yu-hu-lian-wang/da-wan-qu-da-zao-quan-qiu-ke-ji-chuang-xin-gao-di-2025-12-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E6%89%93%E9%80%A0%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E9%AB%98%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)
-- [央视曝光网红“玫瑰盐”真相 - 2025-12-22](AI_Reports/ke-ji-yu-hu-lian-wang/yang-shi-pu-guang-wang-hong-mei-gui-yan-zhen-xiang-2025-12-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E2%80%9C%E7%8E%AB%E7%91%B0%E7%9B%90%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)
+- [涉案200亿！浙商大佬俞发祥被控制 - 2025-12-23](AI_Reports/wei-fen-lei/she-an-200yi-zhe-shang-da-lao-yu-fa-xiang-bei-kong-zhi-2025-12-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B6%89%E6%A1%88200%E4%BA%BF%EF%BC%81%E6%B5%99%E5%95%86%E5%A4%A7%E4%BD%AC%E4%BF%9E%E5%8F%91%E7%A5%A5%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)
+- [中央军委举行晋升上将军衔仪式 - 2025-12-23](AI_Reports/wei-fen-lei/zhong-yang-jun-wei-ju-xing-jin-sheng-shang-jiang-jun-xian-yi-shi-2025-12-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%A3%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
