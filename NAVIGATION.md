@@ -319,6 +319,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [涉案200亿！浙商大佬俞发祥被控制 - 2025-12-23](AI_Reports/wei-fen-lei/she-an-200yi-zhe-shang-da-lao-yu-fa-xiang-bei-kong-zhi-2025-12-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B6%89%E6%A1%88200%E4%BA%BF%EF%BC%81%E6%B5%99%E5%95%86%E5%A4%A7%E4%BD%AC%E4%BF%9E%E5%8F%91%E7%A5%A5%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)
+- [中央军委举行晋升上将军衔仪式 - 2025-12-23](AI_Reports/wei-fen-lei/zhong-yang-jun-wei-ju-xing-jin-sheng-shang-jiang-jun-xian-yi-shi-2025-12-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%A3%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [他不是演员 却“演”了一辈子商人 - 2025-12-21](AI_Reports/wei-fen-lei/ta-bu-shi-yan-yuan-que-yan-liao-yi-bei-zi-shang-ren-2025-12-21--v1.md) (v1)
 - [习近平情系祖国的“掌上明珠” - 2025-12-21](AI_Reports/wei-fen-lei/xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [潮涌海之南 开放风正劲 - 2025-12-19](AI_Reports/wei-fen-lei/chao-yong-hai-zhi-nan-kai-fang-feng-zheng-jing-2025-12-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BD%AE%E6%B6%8C%E6%B5%B7%E4%B9%8B%E5%8D%97+%E5%BC%80%E6%94%BE%E9%A3%8E%E6%AD%A3%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)
@@ -337,5 +339,3 @@
 - [中法元首相会都江堰 - 2025-12-08](AI_Reports/wei-fen-lei/zhong-fa-yuan-shou-xiang-hui-du-jiang-yan-2025-12-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B3%95%E5%85%83%E9%A6%96%E7%9B%B8%E4%BC%9A%E9%83%BD%E6%B1%9F%E5%A0%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [脚要踩在大地上 - 2025-11-24](AI_Reports/wei-fen-lei/jiao-yao-cai-zai-da-di-shang-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%84%9A%E8%A6%81%E8%B8%A3%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [Project Euler - 2025-11-13](AI_Reports/wei-fen-lei/project-euler-2025-11-13--v1.md) (v1) [来源](https://projecteuler.net)
-- [以开放汇合作之力 - 2025-11-05](AI_Reports/wei-fen-lei/yi-kai-fang-hui-he-zuo-zhi-li-2025-11-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BC%80%E6%94%BE%E6%B1%87%E5%90%88%E4%BD%9C%E4%B9%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
-- [绝密地址！青海省西宁市500号信箱 - 2025-11-02](AI_Reports/wei-fen-lei/jue-mi-di-zhi-qing-hai-sheng-xi-zhu-shi-500hao-xin-xiang-2025-11-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%9D%E5%AF%86%E5%9C%B0%E5%9D%80%EF%BC%81%E9%9D%92%E6%B5%B7%E7%9C%81%E8%A5%BF%E5%AE%81%E5%B8%82500%E5%8F%B7%E4%BF%A1%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)
