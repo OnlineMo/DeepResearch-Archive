@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [巴黎仓库被盗损失3亿？京东深夜回应 - 2025-12-24](AI_Reports/shi-zheng-yu-guo-ji/ba-li-cang-ku-bei-dao-sun-shi-3yi-jing-dong-shen-ye-hui-ying-2025-12-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E4%BB%93%E5%BA%93%E8%A2%AB%E7%9B%97%E6%8D%9F%E5%A4%B13%E4%BF%84%EF%BC%9F%E4%BA%AC%E4%B8%9C%E6%B7%B1%E5%A4%9C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
-- [绿水青山入画来 - 2025-12-24](AI_Reports/wei-fen-lei/lu-shui-qing-shan-ru-hua-lai-2025-12-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%91%E6%B0%B4%E9%9D%92%E5%B1%B1%E5%85%A5%E7%94%BB%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
+- [沃野的答卷 - 2025-12-25](AI_Reports/wei-fen-lei/wo-ye-de-da-juan-2025-12-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E7%9A%84%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
