@@ -319,6 +319,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [沃野的答卷 - 2025-12-25](AI_Reports/wei-fen-lei/wo-ye-de-da-juan-2025-12-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E7%9A%84%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [绿水青山入画来 - 2025-12-24](AI_Reports/wei-fen-lei/lu-shui-qing-shan-ru-hua-lai-2025-12-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%91%E6%B0%B4%E9%9D%92%E5%B1%B1%E5%85%A5%E7%94%BB%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [涉案200亿！浙商大佬俞发祥被控制 - 2025-12-23](AI_Reports/wei-fen-lei/she-an-200yi-zhe-shang-da-lao-yu-fa-xiang-bei-kong-zhi-2025-12-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B6%89%E6%A1%88200%E4%BA%BF%EF%BC%81%E6%B5%99%E5%95%86%E5%A4%A7%E4%BD%AC%E4%BF%9E%E5%8F%91%E7%A5%A5%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [中央军委举行晋升上将军衔仪式 - 2025-12-23](AI_Reports/wei-fen-lei/zhong-yang-jun-wei-ju-xing-jin-sheng-shang-jiang-jun-xian-yi-shi-2025-12-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%A3%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
@@ -338,4 +339,3 @@
 - [中共中央召开党外人士座谈会 - 2025-12-09](AI_Reports/wei-fen-lei/zhong-gong-zhong-yang-zhao-kai-dang-wai-ren-shi-zuo-tan-hui-2025-12-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8F%AC%E5%BC%80%E5%85%9A%E5%A4%96%E4%BA%BA%E5%A3%AB%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [对日斗争突发新情况 - 2025-12-08](AI_Reports/wei-fen-lei/dui-ri-dou-zheng-tu-fa-xin-qing-kuang-2025-12-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E6%97%A5%E6%96%97%E4%BA%89%E7%AA%81%E5%8F%91%E6%96%B0%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [中法元首相会都江堰 - 2025-12-08](AI_Reports/wei-fen-lei/zhong-fa-yuan-shou-xiang-hui-du-jiang-yan-2025-12-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B3%95%E5%85%83%E9%A6%96%E7%9B%B8%E4%BC%9A%E9%83%BD%E6%B1%9F%E5%A0%B0&sa=fyb_news&rsv_dl=fyb_news)
-- [脚要踩在大地上 - 2025-11-24](AI_Reports/wei-fen-lei/jiao-yao-cai-zai-da-di-shang-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%84%9A%E8%A6%81%E8%B8%A3%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
