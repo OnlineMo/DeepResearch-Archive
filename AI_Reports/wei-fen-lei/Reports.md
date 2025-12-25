@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：37
+报告总数：38
 
 ---
 
@@ -67,6 +67,10 @@
 ## T
 
 - [他不是演员 却“演”了一辈子商人](ta-bu-shi-yan-yuan-que-yan-liao-yi-bei-zi-shang-ren-2025-12-21--v1.md) - 2025-12-21 (v1)
+
+## W
+
+- [沃野的答卷](wo-ye-de-da-juan-2025-12-25--v1.md) - 2025-12-25 (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E7%9A%84%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 
 ## X
 
