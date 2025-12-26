@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：38
+报告总数：40
 
 ---
 
@@ -19,7 +19,9 @@
 
 ## D
 
+- [大道笃行](da-dao-du-xing-2025-12-26--v1.md) - 2025-12-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%81%93%E7%AC%83%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [对日斗争突发新情况](dui-ri-dou-zheng-tu-fa-xin-qing-kuang-2025-12-08--v1.md) - 2025-12-08 (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E6%97%A5%E6%96%97%E4%BA%89%E7%AA%81%E5%8F%91%E6%96%B0%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)
+- [多放假少调休 让国人从容过春节](duo-fang-jia-shao-diao-xiu-rang-guo-ren-cong-rong-guo-chun-jie-2025-12-26--v1.md) - 2025-12-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E6%94%BE%E5%81%87%E5%B0%91%E8%B0%83%E4%BC%91+%E8%AE%A9%E5%9B%BD%E4%BB%AC%E4%BB%8E%E5%AE%B9%E8%BF%87%E6%98%A5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)
 
 ## G
 
