@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [沃野的答卷 - 2025-12-25](AI_Reports/wei-fen-lei/wo-ye-de-da-juan-2025-12-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E7%9A%84%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
+- [大道笃行 - 2025-12-26](AI_Reports/wei-fen-lei/da-dao-du-xing-2025-12-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%81%93%E7%AC%83%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
+- [多放假少调休 让国人从容过春节 - 2025-12-26](AI_Reports/wei-fen-lei/duo-fang-jia-shao-diao-xiu-rang-guo-ren-cong-rong-guo-chun-jie-2025-12-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E6%94%BE%E5%81%87%E5%B0%91%E8%B0%83%E4%BC%91+%E8%AE%A9%E5%9B%BD%E4%BB%AC%E4%BB%8E%E5%AE%B9%E8%BF%87%E6%98%A5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
