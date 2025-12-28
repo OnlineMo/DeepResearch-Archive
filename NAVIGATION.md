@@ -116,6 +116,7 @@
 ## 软件开发与工程
 [点击查看软件开发与工程完整报告索引 →](AI_Reports/ruan-jian-kai-fa-yu-gong-cheng/Reports.md)
 
+- [机器人测试时突然踹工程师一脚 - 2025-12-28](AI_Reports/ruan-jian-kai-fa-yu-gong-cheng/ji-qi-ren-ce-shi-shi-tu-ran-chuai-gong-cheng-shi-yi-jiao-2025-12-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B5%8B%E8%AF%95%E6%97%B6%E7%AA%81%E7%84%B6%E8%B8%B9%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%80%E8%84%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [Yt-dlp: External JavaScript runtime now required for full YouTube support - 2025-11-13](AI_Reports/ruan-jian-kai-fa-yu-gong-cheng/yt-dlp-external-javascript-runtime-now-required-for-full-youtube-support-2025-11-13--v1.md) (v1) [来源](https://github.com/yt-dlp/yt-dlp/issues/15012)
 
 ## 网络安全
@@ -319,6 +320,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [退伍军人常发军装照被境外人员盯上 - 2025-12-28](AI_Reports/wei-fen-lei/tui-wu-jun-ren-chang-fa-jun-zhuang-zhao-bei-jing-wai-ren-yuan-cheng-shang-2025-12-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E5%B8%B8%E5%8F%91%E5%86%9B%E8%A3%85%E7%85%A7%E8%A2%AB%E5%A2%83%E5%A4%96%E4%BA%BA%E5%91%8B%E%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平这样要求共产党人 - 2025-12-28](AI_Reports/wei-fen-lei/xi-jin-ping-zhe-yang-yao-qiu-gong-chan-dang-ren-2025-12-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E8%A6%81%E6%B1%82%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [台湾网友听到台湾终于被点激动哭了 - 2025-12-27](AI_Reports/wei-fen-lei/tai-wan-wang-you-ting-dao-tai-wan-zhong-yu-bei-dian-ji-dong-ku-liao-2025-12-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E5%90%AC%E5%88%B0%E5%8F%B0%E6%B9%BE%E7%BB%88%E4%BA%8E%E8%A2%AB%E7%82%B9%E6%BF%80%E5%8A%A8%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开民主生活会 - 2025-12-27](AI_Reports/wei-fen-lei/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-min-zhu-sheng-huo-hui-2025-12-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E6%B0%91%E4%B8%BB%E7%94%9F%E6%B4%BB%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [大道笃行 - 2025-12-26](AI_Reports/wei-fen-lei/da-dao-du-xing-2025-12-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%81%93%E7%AC%83%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
@@ -337,5 +340,3 @@
 - [《求是》发表习近平总书记重要文章 - 2025-12-16](AI_Reports/wei-fen-lei/qiu-shi-fa-biao-xi-jin-ping-zong-shu-ji-zhong-yao-wen-zhang-2025-12-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8A%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光20倍暴利假陈皮 - 2025-12-15](AI_Reports/wei-fen-lei/yang-shi-pu-guang-20bei-bao-li-jia-chen-pi-2025-12-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%8920%E5%80%8D%E6%9A%B4%E5%88%A9%E5%81%87%E9%99%88%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [追求实实在在 没有水分的增长 - 2025-12-15](AI_Reports/wei-fen-lei/zhui-qiu-shi-shi-zai-zai-mei-you-shui-fen-de-zeng-chang-2025-12-15--v1.md) (v1) [来源]([https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8+%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8+%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news))
-- [央视曝光取消自动扣费骗局 - 2025-12-14](AI_Reports/wei-fen-lei/yang-shi-pu-guang-qu-xiao-zi-dong-kou-fei-pian-ju-2025-12-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8F%96%E6%B6%88%E8%87%AA%E5%8A%9B%E5%8F%A3%E8%B4%B9%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
-- [南京大屠杀唯一存世动态影像 - 2025-12-13](AI_Reports/wei-fen-lei/nan-jing-da-tu-sha-wei-yi-cun-shi-dong-tai-ying-xiang-2025-12-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%94%AF%E4%B8%80%E5%AD%98%E4%B8%96%E5%8A%A8%E6%80%81%E5%BD%B1%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)
