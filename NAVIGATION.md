@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [贵金属“跳水”！国际金银大幅收跌 - 2025-12-30](AI_Reports/shi-zheng-yu-guo-ji/gui-jin-shu-tiao-shui-guo-ji-jin-yin-da-fu-shou-die-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B4%B5%E9%87%91%E5%B1%9E%E2%88%9C%E8%B7%B3%E6%B0%B4%E2%88%9D%EF%BC%81%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E5%A4%A7%E5%B9%85%E6%94%B6%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [巴黎仓库被盗损失3亿？京东深夜回应 - 2025-12-24](AI_Reports/shi-zheng-yu-guo-ji/ba-li-cang-ku-bei-dao-sun-shi-3yi-jing-dong-shen-ye-hui-ying-2025-12-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E4%BB%93%E5%BA%93%E8%A2%AB%E7%9B%97%E6%8D%9F%E5%A4%B13%E4%BF%84%EF%BC%9F%E4%BA%AC%E4%B8%9C%E6%B7%B1%E5%A4%9C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [中方录音一出 日本有人看不下去了 - 2025-12-11](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-lu-yin-yi-chu-ri-ben-you-ren-kan-bu-xia-qu-liao-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BD%95%E9%9F%B3%E4%B8%80%E5%87%BA+%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [马克龙：此行只有一个遗憾 - 2025-12-06](AI_Reports/shi-zheng-yu-guo-ji/ma-ke-long-ci-xing-zhi-you-yi-ge-yi-han-2025-12-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%AD%A4%E8%A1%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [建设人民城市 致广大而尽精微 - 2025-11-28](AI_Reports/shi-zheng-yu-guo-ji/jian-she-ren-min-cheng-shi-zhi-yan-da-er-jin-jing-wei-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82+%E8%87%B4%E5%B9%BF%E5%A4%A7%E8%80%8C%E5%B0%BD%E7%B2%BE%E5%BE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [全国入冬进程图来了 - 2025-11-27](AI_Reports/shi-zheng-yu-guo-ji/quan-guo-ru-dong-jin-cheng-tu-lai-liao-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%85%A5%E5%86%AC%E8%BF%9B%E7%A8%8B%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平向香港火灾遇难人员表示哀悼 - 2025-11-27](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-xiang-xiang-gang-huo-zai-yu-nan-ren-yuan-biao-shi-ai-dao-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E4%BA%BA%E5%91%98%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)
-- [中美元首近十年来首提军国主义 - 2025-11-27](AI_Reports/shi-zheng-yu-guo-ji/zhong-mei-yuan-shou-jin-shi-nian-lai-shou-ti-jun-guo-zhu-yi-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%BF%91%E5%8D%81%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%8F%90%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -320,6 +320,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [演习第二天：东部战区组织实弹射击 - 2025-12-30](AI_Reports/wei-fen-lei/yan-xi-di-er-tian-dong-bu-zhan-qu-zu-zhi-shi-dan-she-ji-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%94%E4%B9%A0%E7%AC%AC%E4%BA%8C%E5%A4%A9%EF%BC%9A%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E7%BB%84%E7%BB%87%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记始终不变的牵挂 - 2025-12-30](AI_Reports/wei-fen-lei/zong-shu-ji-shi-zhong-bu-bian-de-qian-gua-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E4%B8%8D%E5%8F%98%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)
 - [“反腐败没有选择 必须知难而进” - 2025-12-29](AI_Reports/wei-fen-lei/fan-fu-bai-mei-you-xuan-ze-bi-xu-zhi-nan-er-jin-2025-12-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8D%E8%85%90%E8%B4%A5%E6%B2%A1%E6%9C%89%E9%80%89%E6%8B%A9+%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%9A%BE%E8%80%8C%E8%BF%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [退伍军人常发军装照被境外人员盯上 - 2025-12-28](AI_Reports/wei-fen-lei/tui-wu-jun-ren-chang-fa-jun-zhuang-zhao-bei-jing-wai-ren-yuan-cheng-shang-2025-12-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E5%B8%B8%E5%8F%91%E5%86%9B%E8%A3%85%E7%85%A7%E8%A2%AB%E5%A2%83%E5%A4%96%E4%BA%BA%E5%91%8B%E%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平这样要求共产党人 - 2025-12-28](AI_Reports/wei-fen-lei/xi-jin-ping-zhe-yang-yao-qiu-gong-chan-dang-ren-2025-12-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E8%A6%81%E6%B1%82%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
@@ -338,5 +340,3 @@
 - [央视曝光套路贷：借13万要还1300万 - 2025-12-18](AI_Reports/wei-fen-lei/yang-shi-pu-guang-tao-lu-dai-jie-13mo-yao-huan-1300mo-2025-12-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A5%97%E8%B7%AF%E8%B4%B7%EF%BC%9A%E5%80%9F13%E4%B8%87%E8%A6%81%E8%BF%981300%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
 - [接棒金银大涨 又一贵金属涨幅翻倍 - 2025-12-17](AI_Reports/wei-fen-lei/jie-bang-jin-yin-da-zhang-you-yi-gui-jin-shu-zhang-fu-fan-bei-2025-12-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A5%E6%A3%92%E9%87%91%E9%93%B6%E5%A4%A7%E6%B6%A8+%E5%8F%88%E4%B8%80%E8%B4%B5%E9%87%91%E5%B1%9E%E6%B6%A8%E5%B9%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平听取岑浩辉述职报告 - 2025-12-17](AI_Reports/wei-fen-lei/xi-jin-ping-ting-qu-cen-hao-hui-shu-zhi-bao-gao-2025-12-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%AC%E5%8F%96%E5%B2%91%E6%B5%A9%E8%BE%89%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
-- [《求是》发表习近平总书记重要文章 - 2025-12-16](AI_Reports/wei-fen-lei/qiu-shi-fa-biao-xi-jin-ping-zong-shu-ji-zhong-yao-wen-zhang-2025-12-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8A%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
-- [央视曝光20倍暴利假陈皮 - 2025-12-15](AI_Reports/wei-fen-lei/yang-shi-pu-guang-20bei-bao-li-jia-chen-pi-2025-12-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%8920%E5%80%8D%E6%9A%B4%E5%88%A9%E5%81%87%E9%99%88%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)
