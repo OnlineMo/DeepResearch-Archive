@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：45
+报告总数：47
 
 ---
 
@@ -85,6 +85,7 @@
 
 ## Y
 
+- [演习第二天：东部战区组织实弹射击](yan-xi-di-er-tian-dong-bu-zhan-qu-zu-zhi-shi-dan-she-ji-2025-12-30--v1.md) - 2025-12-30 (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%94%E4%B9%A0%E7%AC%AC%E4%BA%8C%E5%A4%A9%EF%BC%9A%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E7%BB%84%E7%BB%87%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光20倍暴利假陈皮](yang-shi-pu-guang-20bei-bao-li-jia-chen-pi-2025-12-15--v1.md) - 2025-12-15 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%8920%E5%80%8D%E6%9A%B4%E5%88%A9%E5%81%87%E9%99%88%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光取消自动扣费骗局](yang-shi-pu-guang-qu-xiao-zi-dong-kou-fei-pian-ju-2025-12-14--v1.md) - 2025-12-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8F%96%E6%B6%88%E8%87%AA%E5%8A%9B%E5%8F%A3%E8%B4%B9%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光套路贷：借13万要还1300万](yang-shi-pu-guang-tao-lu-dai-jie-13mo-yao-huan-1300mo-2025-12-18--v1.md) - 2025-12-18 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A5%97%E8%B7%AF%E8%B4%B7%EF%BC%9A%E5%80%9F13%E4%B8%87%E8%A6%81%E8%BF%981300%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
@@ -100,6 +101,7 @@
 - [中央军委举行晋升上将军衔仪式](zhong-yang-jun-wei-ju-xing-jin-sheng-shang-jiang-jun-xian-yi-shi-2025-12-23--v1.md) - 2025-12-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%A3%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [注意！是“10086”不是“l0086”](zhu-yi-shi-10086-bu-shi-l0086-2025-10-31--v1.md) - 2025-10-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%98%AF%E2%80%9C10086%E2%80%9D%E4%B8%8D%E6%98%AF%E2%80%9Cl0086%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [追求实实在在 没有水分的增长](zhui-qiu-shi-shi-zai-zai-mei-you-shui-fen-de-zeng-chang-2025-12-15--v1.md) - 2025-12-15 (v1) [来源]([https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8+%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8+%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news))
+- [总书记始终不变的牵挂](zong-shu-ji-shi-zhong-bu-bian-de-qian-gua-2025-12-30--v1.md) - 2025-12-30 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E4%B8%8D%E5%8F%98%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)
 
 ## “
 
