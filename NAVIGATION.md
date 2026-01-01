@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [天安门广场新年升旗仪式 - 2026-01-01](AI_Reports/shi-zheng-yu-guo-ji/tian-an-men-yan-chang-xin-nian-sheng-qi-yi-shi-2026-01-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%96%B0%E5%B9%B4%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [贵金属“跳水”！国际金银大幅收跌 - 2025-12-30](AI_Reports/shi-zheng-yu-guo-ji/gui-jin-shu-tiao-shui-guo-ji-jin-yin-da-fu-shou-die-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B4%B5%E9%87%91%E5%B1%9E%E2%88%9C%E8%B7%B3%E6%B0%B4%E2%88%9D%EF%BC%81%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E5%A4%A7%E5%B9%85%E6%94%B6%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [巴黎仓库被盗损失3亿？京东深夜回应 - 2025-12-24](AI_Reports/shi-zheng-yu-guo-ji/ba-li-cang-ku-bei-dao-sun-shi-3yi-jing-dong-shen-ye-hui-ying-2025-12-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E4%BB%93%E5%BA%93%E8%A2%AB%E7%9B%97%E6%8D%9F%E5%A4%B13%E4%BF%84%EF%BC%9F%E4%BA%AC%E4%B8%9C%E6%B7%B1%E5%A4%9C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [中方录音一出 日本有人看不下去了 - 2025-12-11](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-lu-yin-yi-chu-ri-ben-you-ren-kan-bu-xia-qu-liao-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BD%95%E9%9F%B3%E4%B8%80%E5%87%BA+%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [中国最长的跨市地铁要来了 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-zui-chang-de-kua-shi-di-tie-yao-lai-liao-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%9A%84%E8%B7%A8%E5%B8%82%E5%9C%B0%E9%93%81%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [建设人民城市 致广大而尽精微 - 2025-11-28](AI_Reports/shi-zheng-yu-guo-ji/jian-she-ren-min-cheng-shi-zhi-yan-da-er-jin-jing-wei-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82+%E8%87%B4%E5%B9%BF%E5%A4%A7%E8%80%8C%E5%B0%BD%E7%B2%BE%E5%BE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [全国入冬进程图来了 - 2025-11-27](AI_Reports/shi-zheng-yu-guo-ji/quan-guo-ru-dong-jin-cheng-tu-lai-liao-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%85%A5%E5%86%AC%E8%BF%9B%E7%A8%8B%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平向香港火灾遇难人员表示哀悼 - 2025-11-27](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-xiang-xiang-gang-huo-zai-yu-nan-ren-yuan-biao-shi-ai-dao-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E4%BA%BA%E5%91%98%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -320,6 +320,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [习近平新年贺词里这些话很暖心 - 2026-01-01](AI_Reports/wei-fen-lei/xi-jin-ping-xin-nian-he-ci-li-zhe-xie-hua-hen-nuan-xin-2026-01-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E8%BF%99%E4%BA%9B%E8%AF%9D%E5%BE%88%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [明年起年龄将不再是免罪金牌 - 2025-12-31](AI_Reports/wei-fen-lei/ming-nian-qi-nian-ling-jiang-bu-zai-shi-mian-zui-jin-pai-2025-12-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%B9%B4%E9%BE%84%E5%B0%86%E4%B8%8D%E5%86%8D%E6%98%AF%E5%85%8D%E7%BD%AA%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [重温习近平主席12年新年贺词 超暖心 - 2025-12-31](AI_Reports/wei-fen-lei/zhong-wen-xi-jin-ping-zhu-xi-12nian-xin-nian-he-ci-chao-nuan-xin-2025-12-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%A9%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD12%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D+%E8%B6%85%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [演习第二天：东部战区组织实弹射击 - 2025-12-30](AI_Reports/wei-fen-lei/yan-xi-di-er-tian-dong-bu-zhan-qu-zu-zhi-shi-dan-she-ji-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%94%E4%B9%A0%E7%AC%AC%E4%BA%8C%E5%A4%A9%EF%BC%9A%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E7%BB%84%E7%BB%87%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)
@@ -339,4 +340,3 @@
 - [习近平情系祖国的“掌上明珠” - 2025-12-21](AI_Reports/wei-fen-lei/xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [潮涌海之南 开放风正劲 - 2025-12-19](AI_Reports/wei-fen-lei/chao-yong-hai-zhi-nan-kai-fang-feng-zheng-jing-2025-12-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BD%AE%E6%B6%8C%E6%B5%B7%E4%B9%8B%E5%8D%97+%E5%BC%80%E6%94%BE%E9%A3%8E%E6%AD%A3%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [绘就共同富裕新画卷 - 2025-12-18](AI_Reports/wei-fen-lei/hui-jiu-gong-tong-fu-yu-xin-hua-juan-2025-12-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
-- [央视曝光套路贷：借13万要还1300万 - 2025-12-18](AI_Reports/wei-fen-lei/yang-shi-pu-guang-tao-lu-dai-jie-13mo-yao-huan-1300mo-2025-12-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A5%97%E8%B7%AF%E8%B4%B7%EF%BC%9A%E5%80%9F13%E4%B8%87%E8%A6%81%E8%BF%981300%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
