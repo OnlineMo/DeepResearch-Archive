@@ -320,6 +320,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [坚定信心 接续奋斗 - 2026-01-02](AI_Reports/wei-fen-lei/jian-ding-xin-xin-jie-xu-fen-dou-2026-01-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E4%BF%A1%E5%BF%83+%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平新年贺词里这些话很暖心 - 2026-01-01](AI_Reports/wei-fen-lei/xi-jin-ping-xin-nian-he-ci-li-zhe-xie-hua-hen-nuan-xin-2026-01-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E8%BF%99%E4%BA%9B%E8%AF%9D%E5%BE%88%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [明年起年龄将不再是免罪金牌 - 2025-12-31](AI_Reports/wei-fen-lei/ming-nian-qi-nian-ling-jiang-bu-zai-shi-mian-zui-jin-pai-2025-12-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%B9%B4%E9%BE%84%E5%B0%86%E4%B8%8D%E5%86%8D%E6%98%AF%E5%85%8D%E7%BD%AA%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [重温习近平主席12年新年贺词 超暖心 - 2025-12-31](AI_Reports/wei-fen-lei/zhong-wen-xi-jin-ping-zhu-xi-12nian-xin-nian-he-ci-chao-nuan-xin-2025-12-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%A9%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD12%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D+%E8%B6%85%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -339,4 +340,3 @@
 - [他不是演员 却“演”了一辈子商人 - 2025-12-21](AI_Reports/wei-fen-lei/ta-bu-shi-yan-yuan-que-yan-liao-yi-bei-zi-shang-ren-2025-12-21--v1.md) (v1)
 - [习近平情系祖国的“掌上明珠” - 2025-12-21](AI_Reports/wei-fen-lei/xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [潮涌海之南 开放风正劲 - 2025-12-19](AI_Reports/wei-fen-lei/chao-yong-hai-zhi-nan-kai-fang-feng-zheng-jing-2025-12-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BD%AE%E6%B6%8C%E6%B5%B7%E4%B9%8B%E5%8D%97+%E5%BC%80%E6%94%BE%E9%A3%8E%E6%AD%A3%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)
-- [绘就共同富裕新画卷 - 2025-12-18](AI_Reports/wei-fen-lei/hui-jiu-gong-tong-fu-yu-xin-hua-juan-2025-12-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
