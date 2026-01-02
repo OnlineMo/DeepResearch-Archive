@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [天安门广场新年升旗仪式 - 2026-01-01](AI_Reports/shi-zheng-yu-guo-ji/tian-an-men-yan-chang-xin-nian-sheng-qi-yi-shi-2026-01-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%96%B0%E5%B9%B4%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平新年贺词里这些话很暖心 - 2026-01-01](AI_Reports/wei-fen-lei/xi-jin-ping-xin-nian-he-ci-li-zhe-xie-hua-hen-nuan-xin-2026-01-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E8%BF%99%E4%BA%9B%E8%AF%9D%E5%BE%88%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
+- [坚定信心 接续奋斗 - 2026-01-02](AI_Reports/wei-fen-lei/jian-ding-xin-xin-jie-xu-fen-dou-2026-01-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E4%BF%A1%E5%BF%83+%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
