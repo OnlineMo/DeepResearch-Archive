@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：50
+报告总数：51
 
 ---
 
@@ -40,6 +40,7 @@
 
 ## J
 
+- [坚定信心 接续奋斗](jian-ding-xin-xin-jie-xu-fen-dou-2026-01-02--v1.md) - 2026-01-02 (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E4%BF%A1%E5%BF%83+%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 - [脚要踩在大地上](jiao-yao-cai-zai-da-di-shang-2025-11-24--v1.md) - 2025-11-24 (v1) [来源](https://www.baidu.com/s?wd=%E8%84%9A%E8%A6%81%E8%B8%A3%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [接棒金银大涨 又一贵金属涨幅翻倍](jie-bang-jin-yin-da-zhang-you-yi-gui-jin-shu-zhang-fu-fan-bei-2025-12-17--v1.md) - 2025-12-17 (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A5%E6%A3%92%E9%87%91%E9%93%B6%E5%A4%A7%E6%B6%A8+%E5%8F%88%E4%B8%80%E8%B4%B5%E9%87%91%E5%B1%9E%E6%B6%A8%E5%B9%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [今日起 常温纯牛奶中禁止添加复原乳](jin-ri-qi-chang-wen-chun-niu-nai-zhong-jin-zhi-tian-jia-fu-yuan-ru-2025-09-16--v1.md) - 2025-09-16 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E8%B5%B7+%E5%B8%B8%E6%B8%A9%E7%BA%AF%E7%89%9B%E5%A5%B6%E4%B8%AD%E7%A6%81%E6%AD%A2%E6%B7%BB%E5%8A%A0%E5%A4%8D%E5%8E%9F%E4%B9%B3&sa=fyb_news&rsv_dl=fyb_news)
