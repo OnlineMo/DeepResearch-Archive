@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [坚定信心 接续奋斗 - 2026-01-02](AI_Reports/wei-fen-lei/jian-ding-xin-xin-jie-xu-fen-dou-2026-01-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E4%BF%A1%E5%BF%83+%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
+- [“小家”热气腾腾 “大家”蒸蒸日上 - 2026-01-03](AI_Reports/wei-fen-lei/xiao-jia-re-qi-teng-teng-da-jia-zheng-zheng-ri-shang-2026-01-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%AE%B6%E2%80%9D%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE+%E2%80%9C%E5%A4%A7%E5%AE%B6%E2%80%9D%E8%92%B8%E8%92%B8%E6%97%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
