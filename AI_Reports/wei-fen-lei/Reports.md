@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：51
+报告总数：52
 
 ---
 
@@ -114,6 +114,7 @@
 
 - [“反腐败没有选择 必须知难而进”](fan-fu-bai-mei-you-xuan-ze-bi-xu-zhi-nan-er-jin-2025-12-29--v1.md) - 2025-12-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8D%E8%85%90%E8%B4%A5%E6%B2%A1%E6%9C%89%E9%80%89%E6%8B%A9+%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%9A%BE%E8%80%8C%E8%BF%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“横竖”都是世界第一](heng-shu-du-shi-shi-jie-di-yi-2025-09-29--v1.md) - 2025-09-29 (v1)
+- [“小家”热气腾腾 “大家”蒸蒸日上](xiao-jia-re-qi-teng-teng-da-jia-zheng-zheng-ri-shang-2026-01-03--v1.md) - 2026-01-03 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%AE%B6%E2%80%9D%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE+%E2%80%9C%E5%A4%A7%E5%AE%B6%E2%80%9D%E8%92%B8%E8%92%B8%E6%97%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 《
 
