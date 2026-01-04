@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：52
+报告总数：54
 
 ---
 
@@ -89,6 +89,7 @@
 - [习近平新年贺词里这些话很暖心](xi-jin-ping-xin-nian-he-ci-li-zhe-xie-hua-hen-nuan-xin-2026-01-01--v1.md) - 2026-01-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E8%BF%99%E4%BA%9B%E8%AF%9D%E5%BE%88%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平这样要求共产党人](xi-jin-ping-zhe-yang-yao-qiu-gong-chan-dang-ren-2025-12-28--v1.md) - 2025-12-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E8%A6%81%E6%B1%82%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [献给新疆维吾尔自治区成立70周年](xian-gei-xin-jiang-wei-wu-er-zi-zhi-qu-cheng-li-70zhou-nian-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E7%8C%AE%E7%BB%99%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
+- [新年贺词里的中国信心](xin-nian-he-ci-li-de-zhong-guo-xin-xin-2026-01-04--v1.md) - 2026-01-04 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
@@ -101,6 +102,7 @@
 
 ## Z
 
+- [这样的电器费电又危险 快看你家有吗](zhe-yang-de-dian-qi-fei-dian-you-wei-xian-kuai-kan-ni-jia-you-ma-2026-01-04--v1.md) - 2026-01-04 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%A0%B7%E7%9A%84%E7%94%B5%E5%99%A8%E8%B4%B9%E7%94%B5%E5%8F%88%E5%8D%B1%E9%99%A9+%E5%BF%AB%E7%9C%8B%E4%BD%A0%E5%AE%B6%E6%9C%89%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
 - [这一握 情深意重](zhe-yi-wo-qing-shen-yi-zhong-2025-09-07--v1.md) - 2025-09-07 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%8F%A1+%E6%83%85%E6%B7%B1%E6%84%8F%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [中法元首相会都江堰](zhong-fa-yuan-shou-xiang-hui-du-jiang-yan-2025-12-08--v1.md) - 2025-12-08 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B3%95%E5%85%83%E9%A6%96%E7%9B%B8%E4%BC%9A%E9%83%BD%E6%B1%9F%E5%A0%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央召开党外人士座谈会](zhong-gong-zhong-yang-zhao-kai-dang-wai-ren-shi-zuo-tan-hui-2025-12-09--v1.md) - 2025-12-09 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8F%AC%E5%BC%80%E5%85%9A%E5%A4%96%E4%BA%BA%E5%A3%AB%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
