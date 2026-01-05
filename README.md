@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [新年贺词里的中国信心 - 2026-01-04](AI_Reports/wei-fen-lei/xin-nian-he-ci-li-de-zhong-guo-xin-xin-2026-01-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
-- [这样的电器费电又危险 快看你家有吗 - 2026-01-04](AI_Reports/wei-fen-lei/zhe-yang-de-dian-qi-fei-dian-you-wei-xian-kuai-kan-ni-jia-you-ma-2026-01-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%A0%B7%E7%9A%84%E7%94%B5%E5%99%A8%E8%B4%B9%E7%94%B5%E5%8F%88%E5%8D%B1%E9%99%A9+%E5%BF%AB%E7%9C%8B%E4%BD%A0%E5%AE%B6%E6%9C%89%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记带领我们决胜“十四五” - 2026-01-05](AI_Reports/wei-fen-lei/zong-shu-ji-dai-ling-wo-men-jue-sheng-shi-si-wu-2026-01-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%B8%A6%E9%A2%86%E6%88%91%E4%BB%AC%E5%86%B3%E8%83%9C%E2%80%9C%E5%8D%81%E5%9B%9B%E4%BA%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
