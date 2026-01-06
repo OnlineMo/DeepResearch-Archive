@@ -1,0 +1,186 @@
+版次: 头版（v1）
+日期: 2026-01-06
+主题: 注意！手机这个功能不用时要关闭
+
+来源: https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%89%8B%E6%9C%BA%E8%BF%99%E4%B8%AA%E5%8A%9F%E8%83%BD%E4%B8%8D%E7%94%A8%E6%97%B6%E8%A6%81%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news
+
+# 注意！手机这个功能不用时要关闭
+
+## 摘要
+- 为延长手机续航，建议关闭不必要的后台应用刷新、应用自启动权限、NFC功能，并优化屏幕设置和充电习惯。
+- 为保护个人隐私，应精细化管理应用定位权限、关闭系统级行踪记录、限制广告个性化，并警惕AI应用可能带来的隐私风险。
+- 为确保数据安全，需关闭NFC以防隔空盗刷，强化应用权限管理，并谨慎对待AI手机助手对系统权限的广泛调用。
+- 随着AI技术发展，AI手机助手虽提供便利，但其屏幕读取和系统权限调用可能带来隐私泄露和数据滥用风险，建议在非必要时限制或关闭其高级权限。
+- 用户应定期审查应用权限，并根据实际需求和使用场景调整设置，以平衡便利性、隐私与安全。
+
+## 背景
+随着智能手机功能的日益强大和人工智能（AI）技术的深度融合，手机已成为我们日常生活中不可或缺的工具。然而，这种便利性也伴随着对手机续航、个人隐私和数据安全的挑战。许多手机功能在后台持续运行，不仅消耗电量，还可能在用户不知情的情况下收集和传输个人数据，甚至带来潜在的安全风险。
+
+本报告旨在探讨在当前（2026年1月）的iOS（如iOS 26）和Android（如Android 14）操作系统环境下，用户应如何主动管理和关闭手机上的特定功能。我们将围绕延长手机续航、保护个人隐私和确保数据安全这三大核心议题，深入分析各项功能的利弊，并提供不同使用场景下的最佳实践，以帮助用户在享受智能手机便利的同时，有效维护自身权益。特别地，报告将关注新兴的AI手机助手等功能，评估其对用户利益的潜在影响，并给出相应的管理建议。
+
+## 深度分析
+
+### 一、延长续航：关闭不必要的耗电功能
+
+手机续航是用户普遍关注的问题。通过关闭或限制以下功能，可以有效减少电量消耗：
+
+1.  **屏幕亮度与自动锁定时间**：屏幕是手机最主要的耗电部件。手动降低屏幕亮度并设置较短的自动锁定时间（例如30秒），能显著减少屏幕耗电。虽然有自动亮度模式，但手动微调通常更节能 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+2.  **高耗电应用管理与后台应用刷新**：
+    *   识别并限制在后台持续活动或频繁发送通知的应用。Google计划从2026年起引入“过度部分唤醒锁定”指标，以识别并惩罚那些在后台过度耗电的应用 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+    *   关闭后台应用刷新可以显著减少电量和数据消耗，并降低手机发热。虽然没有精确的量化数据，但其影响主要体现在避免不必要的后台活动，从而节省电量和延长待机时间。对于社交软件等需要实时更新的应用，关闭后台刷新可能会错过即时消息，但对于游戏、购物软件等，关闭则能有效节省资源 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtPUVD13wT6UPZHaNWw4IuE6tl6Aw0GHHC_j_r59GEOfVYPY-I9BBEfG1lqlwfbpBrktVtR2AkpKmpllCgrGTCksta3hCHzerxuESgTO3om324gt_F_bc16UEsdpphT44F5C5P_jsdlemQMbUNoQ==)。
+3.  **低功耗模式**：在非必要高性能使用时，开启低功耗模式可以牺牲部分性能来显著延长电池续航 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+4.  **关闭高级图形功能**：停用视差背景、动态壁纸和应用切换过渡等“美化”功能，可以节省额外电量并可能提升手机性能 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+5.  **弱信号下的无线连接**：当Wi-Fi或蜂窝网络信号弱或不存在时，应将其关闭。手机在信号不佳时会消耗更多电量来搜索和维持连接 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+6.  **NFC功能**：在日常非使用状态下关闭NFC功能。除了节省电量（尽管NFC在不使用时功耗极低，影响微乎其微），这也能防范利用NFC进行的隔空盗刷和信息泄露等新型诈骗 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。在Android系统中，NFC通常可以在“设置”>“已连接设备”>“连接偏好设置”>“NFC”中找到并开启或关闭 [medium](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHfECS87Gb4_DEMLX1Omv7fkXN4v4_TTv9K5l5qRW4tfXSoyU0J_-1aNztncyUR4l2njAbSIl-PO0ydZ3IrrkhAP_ZElHdRLGxuKogIJRIueMl-py2VnTFPEPqhjmNHmV5Bp9RNdiRss9WNlwmLLDfhmEIUT0yUQNx2mgDGVwnYN2jirsSxd3mRhpk-A==)。而iOS系统（如iPhone 17/iOS 17/26）的NFC标签扫描功能是始终启用的，没有独立的开关 [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsQmOaAGng_Ab0Hu-ndJmgfFb0k_GMgHpb4x4QcD5EAJf4lmcFGhyVeHuWmnpt-50cGdc9v37Bbtzw9zReBpWdnijR9elx66D-U7M3yWjT3FVsFwcjQpWZ3CpE4x-Lw3OPxLdx)。
+7.  **应用自启动权限**：在应用管理中，关闭不需要的应用自启动权限，只保留常用应用的自启动，以减少后台运行应用数量，降低电池消耗 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+8.  **优化充电习惯**：避免将手机长时间充电至100%，建议将电量维持在80%-90%的区间，这有助于延长锂离子电池的整体使用寿命 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+9.  **飞行模式或关机**：在不需要使用手机的特定时间段，开启飞行模式或直接关机是最直接的省电方式 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7) [line](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA0Gg53QEIsWExBXqy7JQP9bxf5NgQQJMAPjfgCr0zIRydFn7OLHEXxkDX2qx8ehC5e_WWF-otvTf3Y-pT8h0VhADrII2xCsgFnu_ybPogKXJViH5npo2Bs2RIBlXlVPko-75_jDQ=)。
+
+### 二、保护隐私：精细化管理数据流向
+
+个人隐私保护日益受到重视。通过以下措施，用户可以更好地控制个人信息：
+
+1.  **应用跟踪透明度与权限管理**：
+    *   iOS 26将通过更醒目的弹窗提示和详细记录应用跟踪请求行为，增强用户对数据流向的控制权，并会警示频繁不合理请求跟踪的应用 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+    *   仔细管理应用的权限，特别是定位服务。对于非地图或外卖类应用，建议将定位权限从“始终允许”更改为“仅在使用期间允许”或直接“拒绝” [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。在iOS 17中，用户可以为每个应用选择“永不”、“下次询问”、“使用应用期间”等定位访问权限，并可选择开启或关闭“精确位置” [sportskeeda](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2obF5wM_R6pQPf5NSspdsww6TszpOdibmuLQGZNSMnP9nZW6I6MKbjpDD7_xCr39hn_n1_J-4uEz-hjHI2YZ_wBv7uMGgeyhap5DmZoBFqHxxRoidMDN9ofpnYI3UYRquTE7-unTfz7IF6J1meEfbL6957rTwcc26EsKLPNNAwjUnXyPJqbk) [forbes](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqqa5UbKcVRcw62gOPPL2VBRdJ4pneRpLveQ7BADDqi2yg1qcpCkVd2tb-bqubz-OOkNoUC_ayBazLzHuUJrwHNBhztohrAewGFtMYvU2ArQmCi3UseIdu3JICfmSnBfzHN-oMOHRO2b7fVH-Wo4C8zwFih6lbXn4cOvssGrYIhV9iY2JHD9uLtXkErSLMjQCVYOjyFNZS_W2k68e2HeVmT296lBjTUC_Fjfbx99IdDQkQ2baUuAHluvhv51z2yA==)。Android 14也提供了“仅在使用应用时允许”、“每次询问”或“不允许”等选项，并允许应用请求“大致位置”或“精确位置”权限 [macrumors](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu7OkHQeo6OClo7D6jo95cGJ5835wZ95ovbxqOlJiGuzf2l5o4qTF1_Lmn2CPoqStGZKINxzinfI4zAlXtFHyyU7dfGzG94tnxKvdYzFQFgOHr_35F-NFVEbTAp24xvQr1eHCuXovhPMmNAN675qnrm_umTIFN8_eF3rTzFAh0-T8=)。
+2.  **关闭系统级行踪记录**：在系统设置中关闭“常去地点”或“重要地点”功能，以防止手机记录您的精确位置信息。在Android设备上，还应检查并关闭“Google位置记录”和“广告服务”中的广告个性化设置 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+3.  **清理照片EXIF数据**：分享照片时，尽量避免发送“原图”，或使用微信等应用提供的“发送原图时不带位置信息”功能，以防止照片中包含的GPS坐标等敏感信息泄露 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+4.  **限制广告个性化**：关闭广告个性化或限制广告跟踪功能，可以直接减少广告商对用户行为数据的收集和分析，从而降低因广告目的导致的隐私泄露风险。平台在提供个性化商业广告时，会收集和处理用户的设备信息、应用使用信息、账号信息、广告互动信息等。关闭个性化推送，即限制了这些数据的收集和处理 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtPUVD13wT6UPZHaNWw4IuE6tl6Aw0GHHC_j_r59GEOfVYPY-I9BBEfG1lqlwfbpBrktVtR2AkpKmpllCgrGTCksta3hCHzerxuESgTO3om324gt_F_bc16UEsdpphT44F5C5P_jsdlemQMbUNoQ==)。
+5.  **警惕AI应用隐私风险**：随着AI智能体（如“豆包手机助手”）的普及，其屏幕读取能力和系统权限调用可能带来隐私泄露和数据滥用风险，用户需谨慎管理相关权限 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。AI助手需要大量收集和分析用户数据、浏览习惯甚至生物特征数据以实现智能化，关闭可减少个人信息被收集和处理的范围 [wallstreetcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjX18qH3Cba2uDHA1_HSfAIeTFi2TaAc29vihKEram4I9GkRTTckJyauNmlhsarRFMT_hJHyldocHSJQVURDN0woo2rIgdgNJWIWiwQJntNEEbp2nLPPp4uGGjHmF7elgFLGqw)。
+6.  **用户体验改进计划**：许多手机默认开启此功能，它会自动上传用户在使用手机过程中遇到的问题和使用数据到后台。关闭此功能可以有效防止个人隐私数据在用户不知情的情况下被上传和泄露 [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbPBQHKd_PQsiJnxouGBCIpY23cAb8XTgT2PDG7IKrB29fgTVkisaRjFqleezJuGpqdn3Jl5R5vz3SdPuvMd8aCkHfPOrt92LV1o_7CG62bAbs3czRD_vUjOnHwCxg07p_0Rkt8tqEK4cse_B_kutr8qAHo_RW4tzcE6q34R4=)。
+
+### 三、数据安全：防范潜在威胁
+
+数据安全是隐私保护的延伸，涉及防止未经授权的访问、使用、泄露、破坏或修改。
+
+1.  **安装防病毒应用**：使用可靠的防病毒应用程序检查手机是否存在恶意软件，恶意程序会显著消耗电池并可能威胁数据安全 [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsoYdtlprnvnq0hlP_plgnv_8C07CDsAPtJdAMQ7xfwbWONeZV7Ah8CiZT42yipur3jQJGzhy2iyYL8Fnm1f-daFVikHfmSKIGwjDcWmkRYbY4nhr8BYgtkpTt21M9-Ud-KaPyo9MW5Jq4wQWFZsowTQ5r38qHAs9z_A==)。
+2.  **NFC功能**：关闭NFC功能可有效防止诈骗分子利用该技术隔空盗刷银行卡资金，并避免个人信息与支付信息结合，形成完整的个人画像 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。
+3.  **强化应用权限管理**：除了隐私保护，严格管理应用权限也是数据安全的重要一环，可防止应用未经授权访问敏感数据 [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)。Android 14引入了“部分照片和视频共享”功能，用户可以选择仅授予应用访问特定照片和视频的权限，而不是整个媒体库 [gomibo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUBcZjeCXgUQGExMcL9d5Xa8fGkGtGA9q6rPzYkZvOYu2Q6HbYt5EmldfmotxPXhAEcFjIggqNzXGhz5jkNioLuu8wBXXcYHT8zZI2fGy0TbsbFpMsygksdkso4WELP_uvq1B5Y47wgEQLO30DgipRP8TZjz8t0tKWFtcELKVrEufeoMyTYfwN)。
+4.  **关注操作系统安全特性**：小米澎湃OS 3强调全面保护用户数据隐私与安全，包括全新的安全访问控件、量子加密增强高级数据保护以及全链路AI数据安全（使用端云隐私计算） [mi](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtdzFjw1bsVrFs3Yt9Ao5YWhMFz_6xelbtS7kpT7NRYeCzgGOBazhV7_5xjYt-KmC0C2HbuOSlirCqk0qQU7H5io9k29NANXqRTPnSW1R91WbA)。三星在CES 2026上展示的AI生态圈将由Samsung Knox和Knox Matrix进行防护，并通过红队分析持续验证AI模型的安全性 [smzdm](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnvStfSpzuI40e6sDq0-2pAZxROydq8rWAN4K2b5aLcxL4D9SPvyBEKlhgbI8KslvepnHJgHPWW20vQKJZDapLAYktf8B83p09X2GwYe_XRemSSyuh-TjhH4zr-acHLA==)。
+5.  **警惕AI手机助手带来的安全风险**：AI手机助手，特别是那些利用“无障碍功能”的，可能获得对手机的广泛控制权，相当于拥有“上帝之手”，能够绕过应用的安全识别进行操作。关闭或限制其权限可降低恶意软件利用此权限造成未经授权操作（包括金融交易）的风险 [wallstreetcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjX18qH3Cba2uDHA1_HSfAIeTFi2TaAc29vihKEram4I9GkRTTckJyauNmlhsarRFMT_hJHyldocHSJQVURDN0woo2rIgdgNJWIWiwQJntNEEbp2nLPPp4uGGjHmF7elgFLGqw)。许多AI功能依赖云端大模型，这意味着用户敏感数据（包括屏幕内容）可能持续上传至云端，引发数据主权和安全风险 [wallstreetcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjX18qH3Cba2uDHA1_HSfAIeTFi2TaAc29vihKEram4I9GkRTTckJyauNmlhsarRFMT_hJHyldocHSJQVURDN0woo2rIgdgNJWIWiwQJntNEEbp2nLPPp4uGGjHmF7elgFLGqw)。
+
+### 四、新兴AI功能与设置的利弊权衡
+
+2026年前后，人工智能（AI）技术的深度融合，尤其是在AI助手和隐私保护方面，带来了新的用户利益保护考量。
+
+1.  **AI Agent/AI手机助手**：
+    *   **功能描述**：AI手机助手能够跨多个应用程序执行复杂任务，理解用户意图并自主操作，例如自动点咖啡、比较商品价格、管理日程等 [wallstreetcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjX18qH3Cba2uDHA1_HSfAIeTFi2TaAc29vihKEram4I9GkRTTckJyauNmlhsarRFMT_hJHyldocHSJQVURDN0woo2rIgdgNJWIWiwQJntNEEbp2nLPPp4uGGjHmF7elgFLGqw)。部分AI助手还利用“无障碍功能”来读取屏幕内容并模拟点击 [wallstreetcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjX18qH3Cba2uDHA1_HSfAIeTFi2TaAc29vihKEram4I9GkRTTckJyauNmlhsarRFMT_hJHyldocHSJQVURDN0woo2rIgdgNJWIWiwQJntNEEbp2nLPPp4uGGjHmF7elgFLGqw)。
+    *   **关闭以保护用户利益**：关闭或限制AI手机助手可以显著增强用户隐私和数据安全。由于其广泛的数据收集和系统控制能力，关闭可减少个人信息被收集和处理的范围，并降低恶意软件利用其权限进行未经授权操作的风险 [wallstreetcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjX18qH3Cba2uDHA1_HSfAIeTFi2TaAc29vihKEram4I9GkRTTckJyauNmlhsarRFMT_hJHyldocHSJQVURDN0woo2rIgdgNJWIWiwQJntNEEbp2nLPPp4uGGjHmF7elgFLGqw)。
+    *   **弊端**：用户将失去AI助手带来的巨大便利性，需要手动完成原本可以由AI自动执行的复杂任务，降低操作效率 [wallstreetcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjX18qH3Cba2uDHA1_HSfAIeTFi2TaAc29vihKEram4I9GkRTTckJyauNmlhsarRFMT_hJHyldocHSJQVURDN0woo2rIgdgNJWIWiwQJntNEEbp2nLPPp4uGGjHmF7elgFLGqw)。
+    *   **建议**：在非必要时或对隐私安全有较高要求时，建议限制或关闭AI手机助手的高级权限。
+2.  **隐私显示/AI防窥保护功能**：
+    *   **功能描述**：三星Galaxy S26系列手机曝光的“隐私显示”功能，以及华为鸿蒙6的“AI防窥保护”，旨在通过降低屏幕侧面可视性来防止他人偷窥用户屏幕内容 [nfnews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElNiuZcVlDPpWzC0adm1i-VlMyiKBZxVf0Uob24rP4GiyZ6dWZVmByI7m8WtrHYbFpN50w7WNev0QGKrR7MqJWGqUF496O6kfyOFPYoGaP2DuU2RsN5vveCgxY2H1BbxJseuUF8vOiJe0=)。
+    *   **建议**：这类功能本身是为了保护用户隐私而设计，通常建议开启而非关闭。在公共场合应保持开启，但在私人环境中可以关闭以节省电量或避免屏幕亮度/色彩失真（如果存在此类副作用） [stcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0tKYKw-fqaP4VAGYJKYV0H2QjCiz3H0kT_Sg9_hgTIpvK_EAw9JTMMjGJwXNTrlQ7R0MPf0xdzZxHZ0s9qBa-rgJMyoU9DlL_zHKg1S6w12lc9fPVwxSD29ghs6c7iQA5u1wjcAxBBsfIA==)。
+3.  **杂志锁屏**：
+    *   **功能描述**：自动下载并更换锁屏壁纸 [stcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0tKYKw-fqaP4VAGYJKYV0H2QjCiz3H0kT_Sg9_hgTIpvK_EAw9JTMMjGJwXNTrlQ7R0MPf0xdzZxHZ0s9qBa-rgJMyoU9DlL_zHKg1S6w12lc9fPVwxSD29ghs6c7iQA5u1wjcAxBBsfIA==)。
+    *   **关闭以保护用户利益**：关闭此功能可以避免手机自动下载不必要的图片，节省存储空间和流量，并防止可能出现的不当内容 [stcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0tKYKw-fqaP4VAGYJKYV0H2QjCiz3H0kT_Sg9_hgTIpvK_EAw9JTMMjGJwXNTrlQ7R0MPf0xdzZxHZ0s9qBa-rgJMyoU9DlL_zHKg1S6w12lc9fPVwxSD29ghs6c7iQA5u1wjcAxBBsfIA==)。
+
+### 五、不同使用场景下的最佳实践
+
+1.  **日常使用场景**：对大多数应用采用“使用应用期间”的位置访问权限，并关闭不必要的后台应用刷新。对于敏感权限（如麦克风、摄像头），启用“下次询问”或仅在需要时授予。这种设置能在保护隐私的同时，确保常用应用正常运行，并维持良好的电池续航。
+2.  **旅行场景**：导航应用应开启“使用应用期间”的精确位置。对于旅行规划、翻译等应用，可根据需要临时授予位置、照片等权限。在不熟悉的环境中，可能需要更频繁地使用NFC进行支付 [indiatimes](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXqYc6Rj9J-KY3D5UIWP4q9s7olKUd3fWce1xHjHxJs37yGzRvhVkvxro1zjQ_WAuTQOKmC2sKU9h6k7ZzUIb0p-438wW30kqZIcLXKo8ZQ1XTyQcXlATqQ2rlTUuceTyrKr6iAC9vR1Bo-_ORzCuL1Lv38zpW4dIjheURwk0H6L4aWnDsdAlRLpBTK4Z7Nw-wb3-YlYAlAlrjr4DFAenpspxR74TRtRpzH787Q0_3wRJafIr9TGKVTMGJouhYBaAuXSRGnpoJzpaZ_U5Y2EzkpVIBRLXjAmm0DOF1N_QkZ6D4IiKn_w==)。
+3.  **敏感数据处理场景**：对于涉及个人身份信息、银行账户等敏感数据的应用，应严格限制其权限，尤其是对通讯录、照片、文件存储的访问。利用Android 14的“部分照片和视频共享”功能。最大限度地保护数据安全和个人隐私。
+4.  **游戏/高性能使用场景**：游戏应用通常需要较高的系统资源，可能导致高耗电。确保游戏应用获得必要的存储和网络权限。可以考虑在游戏时开启“游戏模式”（如果系统提供），并关闭其他不必要的后台应用。
+
+## 结论与建议
+
+在2026年，为了更好地管理手机续航、保护个人隐私和确保数据安全，用户应主动、精细化地管理手机功能。
+
+**可执行的结论与建议：**
+
+1.  **定期审查并关闭不必要的后台活动**：包括后台应用刷新、应用自启动权限、不常用的NFC功能和弱信号下的无线连接。
+2.  **精细化管理应用权限**：特别是定位服务（设置为“仅在使用期间允许”或“拒绝”）、照片和麦克风等敏感权限。利用操作系统提供的精细化权限控制（如iOS的“限定访问”照片权限，Android 14的“部分照片和视频共享”）。
+3.  **限制数据收集与共享**：关闭系统级行踪记录（如“常去地点”、“Google位置记录”）、广告个性化设置和用户体验改进计划。分享照片时注意清理EXIF数据。
+4.  **谨慎对待AI手机助手**：虽然AI助手提供便利，但其广泛的系统权限和数据收集能力带来显著的隐私和安全风险。在非必要时，建议限制或关闭其高级权限，特别是涉及屏幕读取和模拟操作的功能。
+5.  **优化屏幕与充电习惯**：降低屏幕亮度，缩短自动锁定时间，并采用智能充电习惯以延长电池寿命。
+6.  **关注操作系统更新与安全特性**：及时更新手机操作系统，利用其提供的最新隐私和安全保护功能（如iOS 26的应用跟踪透明度、小米澎湃OS 3的安全特性）。
+
+**限制条件与待后续验证的问题：**
+
+*   **量化数据有限**：目前关于关闭特定功能对电量消耗和隐私泄露风险降低的精确量化数据（如百分比）仍然有限。未来的研究需要更多实证数据来支撑。
+*   **用户体验与安全平衡**：过度关闭功能可能影响部分应用的正常使用和用户体验。用户需要在便利性、隐私和安全之间找到个人最佳平衡点。
+*   **AI技术演进**：AI手机助手等新兴功能仍在快速发展中，其隐私和安全风险将随着技术迭代而变化。监管机构（如中国国家互联网信息办公室）正在积极制定相关法规，但其长期影响和有效性仍需持续观察和验证。
+*   **责任边界模糊**：AI手机生态系统涉及多方，数据安全责任的划分仍需进一步明确。
+
+## 数据与引用
+- [kaspersky](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQT0liD_zfd23bOnxpgJZp3sd4DSfYtRPZvw76zcMIy_C5I1Jjoj5rnX-XnFvMbu3Db895lxYgWzwoxhbgWoaWQ6CfoYY69TebtYKoj9rS52ls_8VWLK5c1HAO_nZxajMgFa41o3GQPNaQn-axvpHoz-gCTbvPevsrtYiDV-XQLSVHge2zf8ppHh9ZWud7)
+- [line](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA0Gg53QEIsWExBXqy7JQP9bxf5NgQQJMAPjfgCr0zIRydFn7OLHEXxkDX2qx8ehC5e_WWF-otvTf3Y-pT8h0VhADrII2xCsgFnu_ybPogKXJViH5npo2Bs2RIBlXlVPko-75_jDQ=)
+- [mydrivers](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRkzurPXEt6jiMv9n0Ax8Kuj3clN3rZmoPwong3H_0RnxI02_kYfiVaUqZzhOSm2xXKIBHe_iVE_Y0LDRXrgWWfzezgTaNx9jWIi5E8Er82IVSZV0TEJxF_oDb)
+- [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsoYdtlprnvnq0hlP_plgnv_8C07CDsAPtJdAMQ7xfwbWONeZV7Ah8CiZT42yipur3jQJGzhy2iyYL8Fnm1f-daFVikHfmSKIGwjDcWmkRYbY4nhr8BYgtkpTt21M9-Ud-KaPyo9MW5Jq4wQWFZsowTQ5r38qHAs9z_A==)
+- [pconline](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgcOfUcWo-01MSk2ugvJHojWPqHURT6w1M9dCRVIB8rcFJ78QvsxjOaRx4wHq7gbVFETtv7FywJ4dgHVrb8kUKXXPLoo69Rx-0u0-cIzLp2CJVHXR6u6A5OjkuHWpkFEOL5IqsOJVpEjQ=)
+- [smzdm](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnvStfSpzuI40e6sDq0-2pAZxROydq8rWAN4K2b5aLcxL4D9SPvyBEKlhgbI8KslvepnHJgHPWW20vQKJZDapLAYktf8B83p09X2GwYe_XRemSSyuh-TjhH4zr-acHLA==)
+- [donews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPOoICW7kMu4YjTFHtUL0yCsoB_J3ZWn8Pd8F7f8fz5cX6vZKCPQ5cMAAeyf0-hEGJK46xGYUvsUSThI3Scb55d2n_A6QxeGhn5dOZjbEXgGEJDMbaJhc609443LvBjsH-liE_Y5P5V7GipUE=)
+- [udn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhLgAbf3aIoj2p_7pkWgBxBe-DFokhAwmzYEusBZYNZnBZy6kcLsZRSkf6FhaJjaCo2RkJAyQyoaHulT8qPrb1QcbIxJfX8JGvVMIDlIoLHb930nvVCFY-jWI_cbBsZ5VfL3RzhTfmhlk=)
+- [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMCBOCaVN4iuXSUSj6pyLNzgcV5ORCMXCOlgi165SFALln1aI-7J75T-AsLA6p6oo6NLZ6lGFXljw3lmyNMo6yVa4llkgBzbLVOyaM8_3SngYuLeSf-DVZGCNgEmCyXkHXBpDTjR0E_dDrbZ0ULNE=)
+- [21jingji](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlG7r7UXSkVz_M8k3ryhrzlobSdx4Zh79anKcZ5iViWt7rv5t4hbHH5uAShCJiFmsnweGJnX3PFC_q5bSbWi0X6w2xz6ftce5FIcHRYEE2Tgx3_6BlNWkTwGOk5gQT7aJCIrfutf6L1teJ-99kajk-QY7ignaLiOjtsJB9rfWAppFM07lkmU3nHpzb-PaAhDDf)
+- [shobserver](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDhTSU70Prp0JaAEZstrBtHujf0_pBnqQ5MgjhVu3CsoWsDt7onYljILQ9xsFlewr-hvOSqqAO9IUC-HWMDsnqW_uweUVd9vC-AkOA1tyGIGzr9mrtvMV5VHnt8rD9eCrVNy-PBDQ1GUme9-lm_tTZsi8n14DKa0lmKVdA6S0AzzDj6SjJMnHuq07ed3s=)
+- [people](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEssDtp464ux_gvUIkBCs2wHzQ2jIBOwi0S8Q16FPMx_SlwRUuAYb_xGJdOZLz9zqPUDCRoLaru44r2TFzynNIPZJXM35K2s6T0mO_Kep-IMPZk0Oy-r4fBFS8tmV85vd4y7qK78QOy8C4x23fnr3MNx7jz8OhkZnI=)
+- [mi](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtdzFjw1bsVrFs3Yt9Ao5YWhMFz_6xelbtS7kpT7NRYeCzgGOBazhV7_5xjYt-KmC0C2HbuOSlirCqk0qQU7H5io9k29NANXqRTPnSW1R91WbA)
+- [dahe](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT0mGpyGng6WAuvXwYWx3pQees-_iHSmtbmlJrV705ZsUtlxCrxICw_COihSgphyzzfN9GTzM5EDE8R8XRfqOpsk-nQ5aeqgF6_3HgG8mV1o31V_v-gHcYM3LNYeAVSCmnFAytCD4A)
+- [cac](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoTYTnQpsRYtSsDDZ15-eknzkdxAXsg_W1CG6KD3_o_dDXV-_Ghjb80498ulDw-uTd2upwDuVIS_jb-g8j1RsC54cUtLN_qguIFulX-qO2taF4cQG4CIZMu-4uR0u3z2ffBLZj6RZa38BPtIdNGEa90avu)
+- [techbang](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiBfG7z3CdzSosLWpz9WmjI1RksjQYm9IeTxw4_scxpWMoka-M0gx3OxvAzRrwsGKiCyShRjTTP7Ql77wMSVcFGdvvNlfyhqGYeR2bZ-xukdyuR8ET6ibP1D8jYx72c74S48tpiitqx-y5ZZG2hqXxN23mDZmQxEA1bahBSoZ_tWu3MTavqnBpQuj_1zUW)
+- [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtPUVD13wT6UPZHaNWw4IuE6tl6Aw0GHHC_j_r59GEOfVYPY-I9BBEfG1lqlwfbpBrktVtR2AkpKmpllCgrGTCksta3hCHzerxuESgTO3om324gt_F_bc16UEsdpphT44F5C5P_jsdlemQMbUNoQ==)
+- [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzhadJpq-H0ruO0JRGw5gi-QdOfHmEI4CSAU7-AAz3h0p6TPq2A90mCVNtTIzrxAl8q2TPV08vfy0SOgCISwzz9c_M8RdUXM-0vnBC3Kw1DFWi6y1shoETHdEikka0kK8XIIK5RfZy9VL)
+- [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxowiftRjkPRPyOaRYLUrdYNH3WZuUdFLx48Q8SHKVR0mdi2qjrkQlmBj4i2nA8E4OWuRKjXCr-SO6I64Stynwvoq1EqsRy3xHY6K5ULZ5UO0FgIUZkBmJy_75IHNXaSOn1sZzNH9qt3reuBD0Zh81j99U--Jnkj5CHSDIO5GVxUK24Vk=)
+- [zol](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhoZy5UjrjFhCBl75uDhkAmVQ6iEN5AViiSiJvZyia4Vor_8wEhlRr9nOZUHwCLTbNcFML7wSoixBq02txVD4YwN1gpuVMQSe33J97h8CjJdfaTyErxJqvsyOy5yY_SSQTZBEcb80=)
+- [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY6dcOsURcuqp5cKVhljxgHlu9HeNOjx-bmkGvjYMEM1Xzk4KtGD-uRU2_XQwX0HH7Olo5qpHOwXTD6uTVRIvXazhsesDzAmInGymdgvkDKztJ3Lf5uj9dgEMY9SdOiJYEYIg1xh_tLiRrdt2YNQ==)
+- [ruijie](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPp-tKMXweA29VLxjhBIVJ4PnuKPKzMOr9pW8WsrR37E2jJ31FoSkAl7dqgEnRKyVJvBJeEzDrhf3m6tLtdSEQ_ChRjJU6tefzDoIHiIoY3BL_hr7IpqffFUjeRgXrT_0=)
+- [jingtian](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAZK6373qq-FZHiLYGn572EZ4YYjbU32b_3mcHxMqzNj3k3LyOXKskzBwx5_l_I0RrhKBGEN5uR7CS0DK6xhSTqeoFjNWGbKQ2aHncZPPc0U6RfgmdyFXQbzUjAAVpYRutVdMVcHX6PgqNDHHWbj3p8ubMBSw=)
+- [36kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJpBymV38qCvC-f4f83PVjcmavu93OOw5Y18yhClo2cye3JNUNfkaESNWcunBxwoHmgfqQmpeJ01vziAcI3A6qxaSD5RUdSqZ64zAj400TWeEgzZb2unnnRhyxo8ULng==)
+- [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUX-cbI1G2lJCzPuj5XIbn3Ts16DgjzkpI64jxQpIoFPdaZNrlNUs2ub96hxQZw8QvOAoY50gOSJjO1Svdl9LWK0KjVz7D2zvjhIfMOjVFhmQEjlXWCxjN44mM6mpxMrTU6XEv5TyQRVLvdhHrOGyPpYZ28Db94n4c)
+- [androidauthority](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiob9maDhQtI4R2I8LEV4iCY47YQUpT1F1W_KEzhbNVHfQ9YoeMPg3lz42nKaz5dQDq2ml9bhJ5ZEc7gt5XM0kOq7EoKnhgNPC5R5FIoBkq1sQ1r12T653gSQi4q4lfF29SNbBFhZ8MynLjQvnUCTE-nYV99Q6Pg==)
+- [wikipedia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEixu7z7K_F2f9e7vjkZHwuSWedJ-E3pxM_waUkgbgcGViHZxXgy7es_WhNBseviGgoAULxzEVodgMxFWaQDoyzOnJ-HtCr32yeMnpZHRX3yEGIKdvYg0K8y1lu9jtAn8-cg==)
+- [sportskeeda](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2obF5wM_R6pQPf5NSspdsww6TszpOdibmuLQGZNSMnP9nZW6I6MKbjpDD7_xCr39hn_n1_J-4uEz-hjHI2YZ_wBv7uMGgeyhap5DmZoBFqHxxRoidMDN9ofpnYI3UYRquTE7-unTfz7IF6J1meEfbL6957rTwcc26EsKLPNNAwjUnXyPJqbk)
+- [forbes](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqqa5UbKcVRcw62gOPPL2VBRdJ4pneRpLveQ7BADDqi2yg1qcpCkVd2tb-bqubz-OOkNoUC_ayBazLzHuUJrwHNBhztohrAewGFtMYvU2ArQmCi3UseIdu3JICfmSnBfzHN-oMOHRO2b7fVH-Wo4C8zwFih6lbXn4cOvssGrYIhV9iY2JHD9uLtXkErSLMjQCVYOjyFNZS_W2k68e2HeVmT296lBjTUC_Fjfbx99IdDQkQ2baUuAHluvhv51z2yA==)
+- [indiatimes](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXqYc6Rj9J-KY3D5UIWP4q9s7olKUd3fWce1xHjHxJs37yGzRvhVkvxro1zjQ_WAuTQOKmC2sKU9h6k7ZzUIb0p-438wW30kqZIcLXKo8ZQ1XTyQcXlATqQ2rlTUuceTyrKr6iAC9vR1Bo-_ORzCuL1Lv38zpW4dIjheURwk0H6L4aWnDsdAlRLpBTK4Z7Nw-wb3-YlYAlAlrjr4DFAenpspxR74TRtRpzH787Q0_3wRJafIr9TGKVTMGJouhYBaAuXSRGnpoJzpaZ_U5Y2EzkpVIBRLXjAmm0DOF1N_QkZ6D4IiKn_w==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoSLSAc9miYQf3PrSJoW25d3PvjulgQqTeU-FaPFW62OpAnpiSzxs_2m1OLG2kqqv2nXQIFIn4-tTDTLiF10ALn9iywxiKoAMGAWmBOnTEURY8KSyHz_ovIAxP9p0CtM6ZDSs2Aw==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZxnyPPFqIfLOenIsMqTpN874w-UctTDHY1U6IP1YFj0FIi2iffPBmovTAXoblEcFQDI0YThML8IFSLJo7W24MKeu_dvN9Q_MNtrmoeJKAhLQO25px5puUk-WA9FR_BU22miLANA==)
+- [gomibo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUBcZjeCXgUQGExMcL9d5Xa8fGkGtGA9q6rPzYkZvOYu2Q6HbYt5EmldfmotxPXhAEcFjIggqNzXGhz5jkNioLuu8wBXXcYHT8zZI2fGy0TbsbFpMsygksdkso4WELP_uvq1B5Y47wgEQLO30DgipRP8TZjz8t0tKWFtcELKVrEufeoMyTYfwN)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeoF5oFqPSfnmLE-qVKnyWAnAlgwgS6ylaL_2j-sHvR0Vg2uWMCEJXtPGFHQJngnNo2xhUnWT4ceGRHS1CDs3xqjbkX21_n7Dhu7OjV-0DL-weNZx05RG0u0XEtbe0aPW2VCKZoA==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQYTIcbgKGIVOR98pkOZMEJTJxcq1We9pXdsZ68-0EjT_pGR-QPvBDRH_ajTYj3cBfcq98pRNaHPemF0LwA0z-c410tkXSOHrHzkwRRSoyPae-2FAayHowcSPiPz1C-a3D4KNVFg==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT2miIe9tc8sMSGJMwrKacHL-cPno2wvPdKrDvhCuvYGdWvrbG0Quls4z4HURoz7YX_txe9X2wCy4mEtcxi9QU27Skk18ydyrlBlyE2_zkU95q-x4ErOEXQfW1Erljgef0_O42Ug==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOcSnqYeffzjhHAl2VUV6M-F-3Tzq90a1DOBxY-M1zACNINTbzQehpwGgKzxqgP-GIRF4TCCO5KOLXk9pb72bvbVR8asIEfT-OxNg65ZbbT3DwpoyugfAAiIbXRfQnBCugH9A5fQ==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsQmOaAGng_Ab0Hu-ndJmgfFb0k_GMgHpb4x4QcD5EAJf4lmcFGhyVeHuWmnpt-50cGdc9v37Bbtzw9zReBpWdnijR9elx66D-U7M3yWjT3FVsFwcjQpWZ3CpE4x-Lw3OPxLdx)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-E17zeJN8VCNP_nTJ74fzwSeMe-uGhgcfU-gK3Jed1zKNV8YHWoe4-Q5nWlRxYjQvxmNhGM972Z1Chg4yEsxnKipX-9vZkT37_pYHQ0sMxUGI9L4R25V-26iyWnZtVPHlQCINrA==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnMNsnIik9S_2vzJzHvBvkoKOZBz1fzfN8HQgp2GNxRmdKtWu0oyhmgCXgr7OdVlwOc0AxiAWgN9TZ2EzBUCUA1Y8OiDQq3M4dehw_X960v1SiEK1g7Dpzj5dyofJ10q2riVdIQw==)
+- [macrumors](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu7OkHQeo6OClo7D6jo95cGJ5835wZ95ovbxqOlJiGuzf2l5o4qTF1_Lmn2CPoqStGZKINxzinfI4zAlXtFHyyU7dfGzG94tnxKvdYzFQFgOHr_35F-NFVEbTAp24xvQr1eHCuXovhPMmNAN675qnrm_umTIFN8_eF3rTzFAh0-T8=)
+- [medium](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHfECS87Gb4_DEMLX1Omv7fkXN4v4_TTv9K5l5qRW4tfXSoyU0J_-1aNztncyUR4l2njAbSIl-PO0ydZ3IrrkhAP_ZElHdRLGxuKogIJRIueMl-py2VnTFPEPqhjmNHmV5Bp9RNdiRss9WNlwmLLDfhmEIUT0yUQNx2mgDGVwnYN2jirsSxd3mRhpk-A==)
+- [seritag](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP4MeZBe7-3NruZvKIY1JRcYxa2SnX1QdqSyRhVk7QklbEMgLAi23npGi7g74EIUJQg5wsqJC-yTsDFI917LtbTP6VGZfOoRAjHbfgD2IBNg23d9PceeHYcb-ftAZn4cLzkmO0S4gNsLtDceNGh55gSpGqyGnW)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfgbkbn_VVZC6ejdN0KJkKsoFFIdjlTBzXIPMMcBc14zqMqnfpunPPsh98IIcTc8XgjD6_HZ4U2Y6vWC5ZslselxCTkerySutCMBS-oMIqzxZb_ARBQ34A6DU0ACY9KUgdKV2_Dg==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa6E-8P_wxt-OLxGKHkfENdlQWSc_4fLWrXHccN9oxodNvjwEZpO5iSIkvtXEyZYRCkSnroCA9mI1pc9Cex0dYgpIXK0fNsq2-I8AKXNym-8k2AxBOuv7B875I7HA1ch6bQXzxgQ==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuJW_bC-y9O1fT-isoS3bo9gv9j6H0scczhsFs8RIXX0O2PCy3Pv6BjTXdcSmL5MfBhzNsI0YR5npCTaQ9Y2G2HSM2M9qhvJL0WSNWqDIu4yx2lbEBCfurp7h04c5IsiDLXmmqmg==)
+- [reddit](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMQR3J6wznuDPkNo9MIddY_W3xgStucnKk1Ts0EopkckMKnbfyL3AWNnPbAJ6qz0yxQ3K-Mtxp7KV-N2VOZZ2srU-8riEZ9XqDWpmGG1GnN0UhtcEpmbY88PjAo6JvC6MEvdMqQMV_LXHKu-egYxrdaiW0F66Mi5DOPEHrmQD0SlOHyQ1mrPKrbHdxUV91Ms4IjMHM_IGz6g==)
+- [medium](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENojsMPS--6gonzGLq7CuYmqC5rcWVkbr-RM51JWj-_l_2RvniFnObWt3Gep37pY_0XEqy4iBo5na78vqul1wZwWTj5JRra6zAQ6wFO9-Ksj37iy-HqFVkxHkhmawu1MzpyCCZFnPxvmfda-9nRY0ZhXPTUfbvps2hedGlq37EAINnKVQPnqrT7RlkqepNZS-OwAsdVUZQn_vWpezFdoDhU7j2)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnsnOGPeXiVbie3bfdImtpUFYdKnvJxrt8ZNvJYJaZMfovdcoLSMfGRXZAjr-eFFqIxLenhQA-a9upLJQAiBFGdq1ZE2pDmxB7cG-sfe9HDnc-lGsUwBWDa5q72tmvl96uUZdvVQ==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErQrgEc-tCrf3gqOfUOCWlU2Q0JwXD1wrjAyIKltwD9_EdeSlSgKUM08S8sdN46-7j4CMPOAQD7xQqtE6xjlZ9KG4OOMou91vN_22bXmPyPHYh_aK91lEIU54RbzXxN-8fMwLFGA==)
+- [google](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQVTAHPEsZRtZBdNg73Au7RY4SpCHxqPpSIB_lmlJ8AVnNMvxycpaWl2SOgdyVOrc5QFZSK3dUKeLvCM-FHrUSvti99qcYPbfEz3vazXaXDxbtN7uLCGSrsD4ADIXOhOmR8dxKY1akcpdV7vmWcJ6hOw==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_kKjWRH-sCYLbAs5vjrqImwaI9ke2sx3jwGQKjGpWfS3OpqYcmd8NkyzZTV5zD4z-oYo8xPQi7vx0ACZA_CDJZbyB3Bx39jPnj2ERuM34twdLqhd-vSSkAaws70Ya2qSj389nRg==)
+- [medium](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-DAHbh3hVrzPthGa6HXJjLtkPJDKhw_-anVw4CPxr6i3dUQDCouEvtpehc_0idoFrF8st1XfeTE0W-iee4QrNHx2JGx9jLhmZ6QV63wWD044QJH-eEFLlggb837wj43FgKL9P715WmoUFKM-UTVaSPpzOe3vG42zHN5Hm7SriTfFD6dtWOQWpQMUSYrfOksyxZ54uB83NF5f3eaIE-LkekdXwQzS3DB7k3Thf-AyUC9HyT86w)
+- [reddit](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF85lFgXumXrVVA7fvaBE1h-83bLLjnpQx90CGBWh0FurUl3_wEwmLytKaiB2R3Ow12PLxVv0js2pDrRoSiKcy_13Vrlk7vamGyujtXOtc5kwd5LK2Yit51FBcCdSbI3b3iO0-LNd1p3-t1-xDt968rfvQwBlJv0RypLqofMuy4jxkBdXQIQqN2GJMf_tbV6-H_F0lqquAajL8BdTc3XsrH)
+- [gizchina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF110AuaatGZCK_wLj4KGVH7mwoO3hm6QW25pFnZsCPSFVy30Xq5at5MNKTPuTn7ITnwKTy_QtKrUp80wAW1hJ-lepN3Sk3ZbQYp7fu8LSjunCM0934m6XZ2aSoDeK-I9H_hesH2eTNMRt4oAQt9ZuNMi1fF0ucAfOMsIHOJSA-UgYAvtQTSGhQbEQ=)
+- [tutorials](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEj3mPO0KIR-mwo5S20PiSEgiKzbdo3u77NVAppxQEhsiLdpqzU92IhkWGikSxXnxNBhWBR3123gX1ueafSwAwsW3Hw5a6hxYL9CWbyoaTzYxSlWo-nLwUmmlnIkO6_wjQlifzGEl6FZfwL2aikn4CmGh_Hfk7W2RoILjXoUg6bsvVC88UoFosVG6xn2oJpYxxPH_1Gyf9Fs7nV1Z88II=)
+- [dev](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5EjCzFz1aTQtrRTAKCm52oXm01FU-k0-CvgW5MLvYAHZlPheEj14bhLs8HzFVebPLVRmM-rpaI4_UzrTBY6Mk5sCrlfc8lAac_in02AdXXYFwtxKNB3DKpKw_Wh8j3RYMjzBmoHb8uwCnwsMBIA53PsCxZbLpBk-Qzw2toF2QqEJNPswByzC3QCxOFUNYB1N1-Q==)
+- [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYOiiM6mC4anmY4aIIMYfwhV92Wckt1NdWrMTZoLZgMSH9R33Lg0p1qEHw9RuTLust0zHHtrJH9DWvV_Wvd5zDvnBFCRW3PTw0D6AbxeHKPhUEFpbLxYnf3aY-qu5pdB-B5JMbwA==)
+- [laptopmag](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-2YSTAMvSkwaDfTE8aOQlTl6BF4_TDRN288XoP-ewV-7VhLASE5wXEnRTQidjFmd35EIW1-oLN5_O90XyxL4ADIF1BHBNhJgB3fXLS1xOItvaCeqHA6GITpv1gcZ8iQsIqKv0N08DU0jIwTqIgIkGayrHP8xDfQRU0sqyZ8Mwc0dXFjIErdn0xC-PTlNQVY7XB0W8sEe6EjFYxcFu4adsgl4=)
+- [android](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWVobEQjwMOT8X5f0iEXcPS13KXBr4pXsyWzYo2U9k9_ASU94yJuiM7E0ppJik--JCh7EgKHg1poFBlr0PCcWUl0ZUPCakYKs2vTYkmKfXsmAYRqmmIz7Lr1MSNkRaISZRua6MTV_n-5c3TkCsaZNmzw==)
+- [efani](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl0GDaMgCteGgCkbfx_3HQbUiXC9pxUwyQSa9ytiFn4SKczq-PxSnWcKZHjITFMI64LGG0sP3_NFM9ODPIrMDr9Lo-cqmCkHkUGoYRQBK1UGnxzpx9yL_2DTQC1-E_gyZJ6o_dttgmfixtVsiizM4=)
+- [phonearena](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcCycFSHK3N8QkhVIbbhpkKKlZxNDj7gCSPLbRxAhUJXUxnukf7CsQqgcWNmOfCSEyJgMu0H1RTo9r-tdPQ4WfaUvutBMNT8fI8g74mkjKYj7FewfM3Vn7b4fQsO2tyI85SJJOI35LhtROuTGQ6CJprzVesV0hpExh1UilgA_a9RH-iXTAXihttw==)
+- [techradar](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5lQyY0Mz9kJkyCvzEbGciSagvpTcISvbU0yxeCcuQuCAI4fjsks1jX84EtW8p427gmMFijsnjfqEuCUbpNFZpTimjA4pf7HJPBafDgyygbj2DIz3Wj9nn2Ql8gx-H2I3L4T0=)
+- [reddit](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqxAewtnMNbH48Bpbb0fJuAJpqEgVPl0TcRjT-Xq8bVIejXzDaA8tyUIDDCcGeIlCZBhaP2VqjHiDM7fh0NZPj8tADPxxR8dh4TNBtphGn6TxYjixPkdmPgkHn66iQk3TVtDYwtSmelEOkJATMhE_aC1v01LhBuAcK_TMT1X7bSz6BkUqkspELn3jH07IWiQFRTJATykLvHWFBN1x3)
+- [wallstreetcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjX18qH3Cba2uDHA1_HSfAIeTFi2TaAc29vihKEram4I9GkRTTckJyauNmlhsarRFMT_hJHyldocHSJQVURDN0woo2rIgdgNJWIWiwQJntNEEbp2nLPPp4uGGjHmF7elgFLGqw)
+- [stcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0tKYKw-fqaP4VAGYJKYV0H2QjCiz3H0kT_Sg9_hgTIpvK_EAw9JTMMjGJwXNTrlQ7R0MPf0xdzZxHZ0s9qBa-rgJMyoU9DlL_zHKg1S6w12lc9fPVwxSD29ghs6c7iQA5u1wjcAxBBsfIA==)
+- [nfnews](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElNiuZcVlDPpWzC0adm1i-VlMyiKBZxVf0Uob24rP4GiyZ6dWZVmByI7m8WtrHYbFpN50w7WNev0QGKrR7MqJWGqUF496O6kfyOFPYoGaP2DuU2RsN5vveCgxY2H1BbxJseuUF8vOiJe0=)
+- [stdaily](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1oPfnI4nkBSq7RX49phoIyBJCtg96QuEE-hg0a0IrzZpxUS4pop-Rh_W5vSXBQ1LFm2crKCvVDEoIjanH1sbjsPqdY7i6_AzTiqWt3FZy352GVaTun0y6QgGGMJa73v6NAbfYVrQ80sGC8c6Eod2FpzA0-CbTL8cmBA==)
+- [21jingji](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHca6_5za9wfQP7Gi77jWxQpeLa6JcXoYvadyxINLWXyLemHP1Pf56a2H7K3Zm7c-TneTR8uXeH2w2RaKrE0m5zra9F_8uo7MgmWXn1AVaUIwsh4P3OmOx5KQ6K689fMEl3vwYY1g0n1qSCwQBG0Jl6WbCDDSNfNnWWaSmTQ6rMdTaciXIyaVWSpO1RhM57HUEp)
+- [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbPBQHKd_PQsiJnxouGBCIpY23cAb8XTgT2PDG7IKrB29fgTVkisaRjFqleezJuGpqdn3Jl5R5vz3SdPuvMd8aCkHfPOrt92LV1o_7CG62bAbs3czRD_vUjOnHwCxg07p_0Rkt8tqEK4cse_B_kutr8qAHo_RW4tzcE6q34R4=)
+- [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9mkDNVMkUI_4kqUzcusRCl0GvqY8Och1tPEe0sFN_tIjPKqQkymyZ_dF8qcRdLvlaPGrEtxdcuSN0bHJDBX4NgB9lmIttXEvUwBYaKZa7w7P3T67nyOU5RsbUhJ2DSRNy-MLe7kCdAyiM6x3hdcIaOngdTmB2eJqB_FCHH9t_DAX6VQ==)
+- [stcn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjF94NqvAXaeHhJsYpKR81RkWztvh_k7vCXT0Be3kqdV5uSeFG_UXfVN6Pxrlp1wiF23ArAukNAX0ibYYQXFLO1Yvo0fdl3FX6q5yAR3kuldB_obXEBzzdK7VEF-jDZxHk4WReW5xGP1YcKg==)
+- [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZlFOOSsM4bdSL4J5pR7LZXgLoUdH0fb8o0hblnMnmR1N1uAdoY7CQ2UrgT6sJ2VCRFFWs2ehH0OXmpzfCHpWd1GrK4zBHCS3X2yRqOUNhoewCSrJWhQI0pSHi_6qYBXRuPJp8RFjFq3YVQgR94z_heZsXabOIGgoaCU-CjkuAVH6_rgeysJO0lw==)
+- [eprice](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9d5SECrwdSaCQagnQCxHFUL96cn0CJwPIDd4hXbFfSmZaQwmNusG33Pzo1kQi2cvrtDaU70KJiZ4_7Ctxp4i59ETHVASx95nerPCNQ5xeFHVUjhN83XU0owXYH0ONcb-zpuVlOiVJIqSmVybH)
+- [cctime](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoiOQ_W-XVGBxXObAwn5nOQqR_1iuGkmGcn4pj40YqaT8KKy1UOfMXfcsdtJoKKfriWe30WmCrHoQrL7Y5xUvk_qcdgpEwQioBypfqasfS-h_JsisL81-kDg9NqgTf)
+- [thepaper](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKgd5qEzq6L--QtSPPz2ixrmC_7XNQMb-XWBfJwSARxS681zVl8AB0mPDyAYjJfF0vlVlcV55Gh_PzwVV6q2Gz6XrvBfIQYDSN_MlVBMm4Skf_Nyrucr5vI-DbcPKmysvuwZaG8P_9VyV7Chruqw==)
+- [cac](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV3Cz40NBJ7Q87qO7VDUUmi_WDOIIDoN0Hlf2_31i3f9PfgqiSCkzS4DswEJJtY82FzyEwzJoXX479lHymAyIgJihb1qVRWjzbaCXmc624MSzYX20ehGOvVYVfyM5DXttehRFTXVz7QszqX_MaKQZTNXp0)
+- [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfj6bRrXARB9pxHBJYhi0w-Yx-3N7-61l1ac5cWSB44y5idJQ7jgg1PysndYVkvDqapj8-X5ebjWN9VeLjRqHbqu7cy15_hhh9kb_JCPK3-H0s0I4mU_SnOO6-2oSzYGSm3EasivA7pXj7wJgWCC2iLqF8TkEm3ZzfiKOqHdtvhwHv4g==)
+- [cac](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEFsSE5fiyXIhym-yxRXPATbKqIARQiXo4KfiZDDSeqJsAIAnCtXS_1e1_PbCu7b0pT8FXXk4V6qNu-Exax3mvbedWGegomJMOmntLd7G4rzYzjpN2bT1pplA5ibxw6wPxCHcxOVks7uWdC4jNgdm5Rh6Y)
+- [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnDtRKZwnjmAeCY4mxozLbSbzqqnlrfP37apvzh0ryrvOYJnkCnILAHnVUIVkzmxf3TSEDue-_G4T6SypXHn2kY9Kf8RI8YmKx-I_6wELi9VHMddjIR6O9HsoH6Wz9Mqr6p7Vy2WhKr1yIDFnorhdxaJIvnVAu4suSrync-ep4CQ==)
+- [cac](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKamA_7hslti676DsROhZj5oZnlYlCOFEDrDz2uwFCrYgg7JL2_oH9mZsMcwyfaGgrHEWm27_MolarzQzIvIyyBBDaltb4ZFDfo7BAYIt7eySr5Ju-Ru9WiW4ve4jaxTnzuMvzeg51Zm7-csf_BjzV8bLA)
