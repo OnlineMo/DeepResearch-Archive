@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [总书记带领我们决胜“十四五” - 2026-01-05](AI_Reports/wei-fen-lei/zong-shu-ji-dai-ling-wo-men-jue-sheng-shi-si-wu-2026-01-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%B8%A6%E9%A2%86%E6%88%91%E4%BB%AC%E5%86%B3%E8%83%9C%E2%80%9C%E5%8D%81%E5%9B%9B%E4%BA%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平同韩国总统李在明会谈 - 2026-01-06](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2026-01-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%93%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
+- [注意！手机这个功能不用时要关闭 - 2026-01-06](AI_Reports/xiao-fei-dian-zi-he-ying-jian/zhu-yi-shou-ji-zhe-ge-gong-neng-bu-yong-shi-yao-guan-bi-2026-01-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%89%8B%E6%9C%BA%E8%BF%99%E4%B8%AA%E5%8A%9F%E8%83%BD%E4%B8%8D%E7%94%A8%E6%97%B6%E8%A6%81%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
