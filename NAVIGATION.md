@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [习近平同韩国总统李在明会谈 - 2026-01-06](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2026-01-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%93%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 - [天安门广场新年升旗仪式 - 2026-01-01](AI_Reports/shi-zheng-yu-guo-ji/tian-an-men-yan-chang-xin-nian-sheng-qi-yi-shi-2026-01-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%96%B0%E5%B9%B4%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [贵金属“跳水”！国际金银大幅收跌 - 2025-12-30](AI_Reports/shi-zheng-yu-guo-ji/gui-jin-shu-tiao-shui-guo-ji-jin-yin-da-fu-shou-die-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B4%B5%E9%87%91%E5%B1%9E%E2%88%9C%E8%B7%B3%E6%B0%B4%E2%88%9D%EF%BC%81%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E5%A4%A7%E5%B9%85%E6%94%B6%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [巴黎仓库被盗损失3亿？京东深夜回应 - 2025-12-24](AI_Reports/shi-zheng-yu-guo-ji/ba-li-cang-ku-bei-dao-sun-shi-3yi-jing-dong-shen-ye-hui-ying-2025-12-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E4%BB%93%E5%BA%93%E8%A2%AB%E7%9B%97%E6%8D%9F%E5%A4%B13%E4%BF%84%EF%BC%9F%E4%BA%AC%E4%B8%9C%E6%B7%B1%E5%A4%9C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [中共中央政治局召开会议 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国最长的跨市地铁要来了 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-zui-chang-de-kua-shi-di-tie-yao-lai-liao-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%9A%84%E8%B7%A8%E5%B8%82%E5%9C%B0%E9%93%81%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [建设人民城市 致广大而尽精微 - 2025-11-28](AI_Reports/shi-zheng-yu-guo-ji/jian-she-ren-min-cheng-shi-zhi-yan-da-er-jin-jing-wei-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82+%E8%87%B4%E5%B9%BF%E5%A4%A7%E8%80%8C%E5%B0%BD%E7%B2%BE%E5%BE%AE&sa=fyb_news&rsv_dl=fyb_news)
-- [全国入冬进程图来了 - 2025-11-27](AI_Reports/shi-zheng-yu-guo-ji/quan-guo-ru-dong-jin-cheng-tu-lai-liao-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%85%A5%E5%86%AC%E8%BF%9B%E7%A8%8B%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -127,6 +127,7 @@
 ## 消费电子和硬件
 [点击查看消费电子和硬件完整报告索引 →](AI_Reports/xiao-fei-dian-zi-he-ying-jian/Reports.md)
 
+- [注意！手机这个功能不用时要关闭 - 2026-01-06](AI_Reports/xiao-fei-dian-zi-he-ying-jian/zhu-yi-shou-ji-zhe-ge-gong-neng-bu-yong-shi-yao-guan-bi-2026-01-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%89%8B%E6%9C%BA%E8%BF%99%E4%B8%AA%E5%8A%9F%E8%83%BD%E4%B8%8D%E7%94%A8%E6%97%B6%E8%A6%81%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [第一批iPhone17贴膜受害者出现了 - 2025-09-20](AI_Reports/xiao-fei-dian-zi-he-ying-jian/di-yi-pi-iphone17tie-mo-shou-hai-zhe-chu-xian-liao-2025-09-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9iPhone17%E8%B4%B4%E8%86%9C%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 游戏与互动
