@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [习近平同韩国总统李在明会谈 - 2026-01-06](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2026-01-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%93%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
-- [注意！手机这个功能不用时要关闭 - 2026-01-06](AI_Reports/xiao-fei-dian-zi-he-ying-jian/zhu-yi-shou-ji-zhe-ge-gong-neng-bu-yong-shi-yao-guan-bi-2026-01-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%89%8B%E6%9C%BA%E8%BF%99%E4%B8%AA%E5%8A%9F%E8%83%BD%E4%B8%8D%E7%94%A8%E6%97%B6%E8%A6%81%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)
+- [1盒内存条堪比上海1套房 - 2026-01-07](AI_Reports/wei-fen-lei/1he-nei-cun-tiao-kan-bi-shang-hai-1tao-fang-2026-01-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=1%E7%9B%92%E5%86%85%E5%AD%98%E6%9D%A1%E5%A0%AA%E6%AF%94%E4%B8%8A%E6%B5%B71%%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)
+- [以文化滋养精神家园 - 2026-01-07](AI_Reports/wen-hua-yu-mei-ti/yi-wen-hua-zi-yang-jing-shen-jia-yuan-2026-01-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E6%96%87%E5%8C%96%E6%BB%8B%E5%85%BB%E7%B2%BE%E7%A5%9E%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
