@@ -297,6 +297,7 @@
 ## 文化与媒体
 [点击查看文化与媒体完整报告索引 →](AI_Reports/wen-hua-yu-mei-ti/Reports.md)
 
+- [以文化滋养精神家园 - 2026-01-07](AI_Reports/wen-hua-yu-mei-ti/yi-wen-hua-zi-yang-jing-shen-jia-yuan-2026-01-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E6%96%87%E5%8C%96%E6%BB%8B%E5%85%BB%E7%B2%BE%E7%A5%9E%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [以文化赋能经济社会发展 - 2025-12-03](AI_Reports/wen-hua-yu-mei-ti/yi-wen-hua-fu-neng-jing-ji-she-hui-fa-zhan-2025-12-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E6%96%87%E5%8C%96%E8%B5%8B%E8%83%BD%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
 - [感悟跨越百年的鼓岭情缘 - 2025-11-30](AI_Reports/wen-hua-yu-mei-ti/gan-wu-kua-yue-bai-nian-de-gu-ling-qing-yuan-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%84%9F%E6%84%9F%E8%B7%A8%E8%B6%8A%E7%99%AD%E5%B9%B4%E7%9A%84%E9%BC%93%E5%B2%83%E6%83%85%E7%BC%98&sa=fyb_news&rsv_dl=fyb_news)
 - [一起来看冬日里的中式美学 - 2025-11-28](AI_Reports/wen-hua-yu-mei-ti/yi-qi-lai-kan-dong-ri-li-de-zhong-shi-mei-xue-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E5%86%AC%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)
@@ -316,11 +317,11 @@
 - [最深沉、最持久的情感所系 - 2025-10-03](AI_Reports/wen-hua-yu-mei-ti/zui-shen-chen-zui-chi-jiu-de-qing-gan-suo-xi-2025-10-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E6%B7%B1%E6%B2%B9%E3%80%81%E6%9C%80%E6%8C%81%E4%B9%85%E7%9A%84%E6%83%85%E6%84%9F%E6%89%80%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [这一天致青年 我们如何赓续与传承 - 2025-10-02](AI_Reports/wen-hua-yu-mei-ti/zhe-yi-tian-zhi-qing-nian-wo-men-ru-he-geng-xu-yu-chuan-cheng-2025-10-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%A4%A9%E8%87%B4%E9%9D%92%E5%B9%B4+%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E8%B5%93%E7%BB%AD%E4%B8%8E%E4%BC%A0%E6%89%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [端起历史的望远镜 - 2025-09-19](AI_Reports/wen-hua-yu-mei-ti/duan-qi-li-shi-de-wang-yuan-jing-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%AB%AF%E8%B5%B7%E5%8E%86%E5%8F%B2%E7%9A%84%E6%9C%9B%E8%BF%9C%E9%95%9C&sa=fyb_news&rsv_dl=fyb_news)
-- [金秋里 听历史的声息拂过耳畔 - 2025-09-19](AI_Reports/wen-hua-yu-mei-ti/jin-qiu-li-ting-li-shi-de-sheng-xi-fu-guo-er-pan-2025-09-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%91%E7%A7%8B%E9%87%8C+%E5%90%AC%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A3%B0%E6%81%AF%E6%8B%82%E8%BF%87%E8%80%B3%E7%95%94&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [1盒内存条堪比上海1套房 - 2026-01-07](AI_Reports/wei-fen-lei/1he-nei-cun-tiao-kan-bi-shang-hai-1tao-fang-2026-01-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=1%E7%9B%92%E5%86%85%E5%AD%98%E6%9D%A1%E5%A0%AA%E6%AF%94%E4%B8%8A%E6%B5%B71%%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记带领我们决胜“十四五” - 2026-01-05](AI_Reports/wei-fen-lei/zong-shu-ji-dai-ling-wo-men-jue-sheng-shi-si-wu-2026-01-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%B8%A6%E9%A2%86%E6%88%91%E4%BB%AC%E5%86%B3%E8%83%9C%E2%80%9C%E5%8D%81%E5%9B%9B%E4%BA%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [新年贺词里的中国信心 - 2026-01-04](AI_Reports/wei-fen-lei/xin-nian-he-ci-li-de-zhong-guo-xin-xin-2026-01-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [这样的电器费电又危险 快看你家有吗 - 2026-01-04](AI_Reports/wei-fen-lei/zhe-yang-de-dian-qi-fei-dian-you-wei-xian-kuai-kan-ni-jia-you-ma-2026-01-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%A0%B7%E7%9A%84%E7%94%B5%E5%99%A8%E8%B4%B9%E7%94%B5%E5%8F%88%E5%8D%B1%E9%99%A9+%E5%BF%AB%E7%9C%8B%E4%BD%A0%E5%AE%B6%E6%9C%89%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
@@ -340,4 +341,3 @@
 - [多放假少调休 让国人从容过春节 - 2025-12-26](AI_Reports/wei-fen-lei/duo-fang-jia-shao-diao-xiu-rang-guo-ren-cong-rong-guo-chun-jie-2025-12-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E6%94%BE%E5%81%87%E5%B0%91%E8%B0%83%E4%BC%91+%E8%AE%A9%E5%9B%BD%E4%BB%AC%E4%BB%8E%E5%AE%B9%E8%BF%87%E6%98%A5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)
 - [沃野的答卷 - 2025-12-25](AI_Reports/wei-fen-lei/wo-ye-de-da-juan-2025-12-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E7%9A%84%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [绿水青山入画来 - 2025-12-24](AI_Reports/wei-fen-lei/lu-shui-qing-shan-ru-hua-lai-2025-12-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%91%E6%B0%B4%E9%9D%92%E5%B1%B1%E5%85%A5%E7%94%BB%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
-- [涉案200亿！浙商大佬俞发祥被控制 - 2025-12-23](AI_Reports/wei-fen-lei/she-an-200yi-zhe-shang-da-lao-yu-fa-xiang-bei-kong-zhi-2025-12-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B6%89%E6%A1%88200%E4%BA%BF%EF%BC%81%E6%B5%99%E5%95%86%E5%A4%A7%E4%BD%AC%E4%BF%9E%E5%8F%91%E7%A5%A5%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)
