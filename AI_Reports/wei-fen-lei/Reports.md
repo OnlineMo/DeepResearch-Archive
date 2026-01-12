@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：59
+报告总数：60
 
 ---
 
@@ -73,6 +73,7 @@
 
 ## S
 
+- [杀害刘胡兰真凶曾观看歌剧《刘胡兰》](sha-hai-liu-hu-lan-zhen-xiong-ceng-guan-kan-ge-ju-liu-hu-lan-2026-01-12--v1.md) - 2026-01-12 (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%88%98%E8%83%A1%E5%85%B0%E7%9C%9F%E5%87%B6%E6%9B%BE%E8%A7%82%E7%9C%8B%E6%AD%8C%E5%89%A7%E3%80%8A%E5%88%98%E8%83%A1%E5%85%B0%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [涉案200亿！浙商大佬俞发祥被控制](she-an-200yi-zhe-shang-da-lao-yu-fa-xiang-bei-kong-zhi-2025-12-23--v1.md) - 2025-12-23 (v1) [来源](https://www.baidu.com/s?wd=%E6%B6%89%E6%A1%88200%E4%BA%BF%EF%BC%81%E6%B5%99%E5%95%86%E5%A4%A7%E4%BD%AC%E4%BF%9E%E5%8F%91%E7%A5%A5%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)
 
 ## T
