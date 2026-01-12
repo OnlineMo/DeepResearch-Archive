@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [南大人工智能学科排名全球第一 - 2026-01-11](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/nan-da-ren-gong-zhi-neng-xue-ke-pai-ming-quan-qiu-di-yi-2026-01-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%97%E5%A4%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E7%A7%91%E6%8E%92%E5%90%8D%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)
-- [重温总书记对人民警察的殷殷嘱托 - 2026-01-11](AI_Reports/she-hui-yu-fa-zhi/zhong-wen-zong-shu-ji-dui-ren-min-jing-cha-de-yin-yin-zhu-tuo-2026-01-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%B4%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%E7%9A%84%E6%AE%B7%E6%AE%B7%E5%98%B1%E6%89%98&sa=fyb_news&rsv_dl=fyb_news)
+- [杀害刘胡兰真凶曾观看歌剧《刘胡兰》 - 2026-01-12](AI_Reports/wei-fen-lei/sha-hai-liu-hu-lan-zhen-xiong-ceng-guan-kan-ge-ju-liu-hu-lan-2026-01-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%88%98%E8%83%A1%E5%85%B0%E7%9C%9F%E5%87%B6%E6%9B%BE%E8%A7%82%E7%9C%8B%E6%AD%8C%E5%89%A7%E3%80%8A%E5%88%98%E8%83%A1%E5%85%B0%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
