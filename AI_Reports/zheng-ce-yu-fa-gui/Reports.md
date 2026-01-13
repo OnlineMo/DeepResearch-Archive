@@ -1,7 +1,7 @@
 # 政策与法规 报告索引
 
 本页包含 **政策与法规** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：13
+报告总数：14
 
 ---
 
@@ -23,6 +23,7 @@
 ## Y
 
 - [一揽子增量政策实施效果如何](yi-lan-zi-zeng-liang-zheng-ce-shi-shi-xiao-guo-ru-he-2025-10-28--v1.md) - 2025-10-28 (v1)
+- [以更高标准更实举措推进从严治党](yi-geng-gao-biao-zhun-geng-shi-ju-cuo-tui-jin-cong-yan-zhi-dang-2026-01-13--v1.md) - 2026-01-13 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E6%9B%B4%E9%AB%98%E6%A0%87%E5%87%86%E6%9B%B4%E5%AE%9E%E4%B8%BE%E6%8E%A8%E8%BF%9B%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
