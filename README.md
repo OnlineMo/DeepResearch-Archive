@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [开局之年如何推进全面从严治党 - 2026-01-14](AI_Reports/wei-fen-lei/kai-ju-zhi-nian-ru-he-tui-jin-quan-mian-cong-yan-zhi-dang-2026-01-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E5%A6%25E4%BD%95%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)
+- [二十届中央纪委五次全会公报发布 - 2026-01-15](AI_Reports/wei-fen-lei/er-shi-jie-zhong-yang-ji-wei-wu-ci-quan-hui-gong-bao-fa-bu-2026-01-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E4%BA%94%E6%AC%A1%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
+- [棋圣聂卫平病逝 - 2026-01-15](AI_Reports/wei-fen-lei/qi-sheng-nie-wei-ping-bing-shi-2026-01-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A3%8B%E5%9C%A3%E8%81%82%E5%8D%AB%E5%B9%B3%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
