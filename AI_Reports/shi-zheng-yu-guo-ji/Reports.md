@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：250
+报告总数：251
 
 ---
 
@@ -266,6 +266,7 @@
 
 ## Y
 
+- [央视披露解放军实战演练斩首行动](yang-shi-pi-lu-jie-fang-jun-shi-zhan-yan-lian-zhan-shou-xing-dong-2026-01-16--v1.md) - 2026-01-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E8%A7%A3%E6%94%BE%E5%86%9B%E5%AE%9E%E6%88%98%E6%BC%94%E7%BB%83%E6%96%A9%E9%A6%96%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [一镜到底航拍阅兵方队](yi-jing-dao-di-hang-pai-yue-bing-fang-dui-2025-09-03--v1.md) - 2025-09-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E8%88%AA%E6%8B%8D%E9%98%85%E5%85%B5%E6%96%B9%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [一个“实”字解码新时代发展之道](yi-ge-shi-zi-jie-ma-xin-shi-dai-fa-zhan-zhi-dao-2025-10-23--v1.md) - 2025-10-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E2%80%9C%E5%AE%9E%E2%80%9D%E5%AD%97%E8%A7%A3%E7%A0%81%E6%96%B0%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B1%95%E4%B9%8B%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)
 - [以色列与西班牙爆发激烈外交冲突](yi-se-lie-yu-xi-ban-ya-bao-fa-ji-lie-wai-jiao-chong-tu-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%8F%91%E6%BF%80%E7%83%88%E5%A4%96%E4%BA%A4%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)
