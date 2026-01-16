@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [央视披露解放军实战演练斩首行动 - 2026-01-16](AI_Reports/shi-zheng-yu-guo-ji/yang-shi-pi-lu-jie-fang-jun-shi-zhan-yan-lian-zhan-shou-xing-dong-2026-01-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E8%A7%A3%E6%94%BE%E5%86%9B%E5%AE%9E%E6%88%98%E6%BC%94%E7%BB%83%E6%96%A9%E9%A6%96%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同韩国总统李在明会谈 - 2026-01-06](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2026-01-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%93%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 - [天安门广场新年升旗仪式 - 2026-01-01](AI_Reports/shi-zheng-yu-guo-ji/tian-an-men-yan-chang-xin-nian-sheng-qi-yi-shi-2026-01-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%96%B0%E5%B9%B4%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [贵金属“跳水”！国际金银大幅收跌 - 2025-12-30](AI_Reports/shi-zheng-yu-guo-ji/gui-jin-shu-tiao-shui-guo-ji-jin-yin-da-fu-shou-die-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B4%B5%E9%87%91%E5%B1%9E%E2%88%9C%E8%B7%B3%E6%B0%B4%E2%88%9D%EF%BC%81%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E5%A4%A7%E5%B9%85%E6%94%B6%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [高市开始“甩锅” 日媒都看不下去了 - 2025-11-30](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-kai-shi-shuai-guo-ri-mei-du-kan-bu-xia-qu-liao-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%BC%80%E5%A7%8B%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D+%E6%97%A5%E5%AA%92%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中国最长的跨市地铁要来了 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-zui-chang-de-kua-shi-di-tie-yao-lai-liao-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%9A%84%E8%B7%A8%E5%B8%82%E5%9C%B0%E9%93%81%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [建设人民城市 致广大而尽精微 - 2025-11-28](AI_Reports/shi-zheng-yu-guo-ji/jian-she-ren-min-cheng-shi-zhi-yan-da-er-jin-jing-wei-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82+%E8%87%B4%E5%B9%BF%E5%A4%A7%E8%80%8C%E5%B0%BD%E7%B2%BE%E5%BE%AE&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -323,6 +323,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [“第三代水果”出来了 - 2026-01-16](AI_Reports/wei-fen-lei/di-san-dai-shui-guo-chu-lai-liao-2026-01-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AC%AC%E4%B8%89%E4%BB%A3%E6%B0%B4%E6%9E%9C%E2%80%9D%E5%87%BA%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平的“治权”之喻发人深省 - 2026-01-16](AI_Reports/wei-fen-lei/xi-jin-ping-de-zhi-quan-zhi-yu-fa-ren-shen-sheng-2026-01-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E2%80%9C%E6%B2%BB%E6%9D%83%E2%80%9D%E4%B9%8B%E5%96%BB%E5%8F%91%E4%BA%BA%E6%B7%B1%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)
 - [二十届中央纪委五次全会公报发布 - 2026-01-15](AI_Reports/wei-fen-lei/er-shi-jie-zhong-yang-ji-wei-wu-ci-quan-hui-gong-bao-fa-bu-2026-01-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E4%BA%94%E6%AC%A1%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
 - [棋圣聂卫平病逝 - 2026-01-15](AI_Reports/wei-fen-lei/qi-sheng-nie-wei-ping-bing-shi-2026-01-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A3%8B%E5%9C%A3%E8%81%82%E5%8D%AB%E5%B9%B3%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [开局之年如何推进全面从严治党 - 2026-01-14](AI_Reports/wei-fen-lei/kai-ju-zhi-nian-ru-he-tui-jin-quan-mian-cong-yan-zhi-dang-2026-01-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E5%A6%25E4%BD%95%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)
@@ -341,5 +343,3 @@
 - [重温习近平主席12年新年贺词 超暖心 - 2025-12-31](AI_Reports/wei-fen-lei/zhong-wen-xi-jin-ping-zhu-xi-12nian-xin-nian-he-ci-chao-nuan-xin-2025-12-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%A9%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD12%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D+%E8%B6%85%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [演习第二天：东部战区组织实弹射击 - 2025-12-30](AI_Reports/wei-fen-lei/yan-xi-di-er-tian-dong-bu-zhan-qu-zu-zhi-shi-dan-she-ji-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%94%E4%B9%A0%E7%AC%AC%E4%BA%8C%E5%A4%A9%EF%BC%9A%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E7%BB%84%E7%BB%87%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记始终不变的牵挂 - 2025-12-30](AI_Reports/wei-fen-lei/zong-shu-ji-shi-zhong-bu-bian-de-qian-gua-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E4%B8%8D%E5%8F%98%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)
-- [“反腐败没有选择 必须知难而进” - 2025-12-29](AI_Reports/wei-fen-lei/fan-fu-bai-mei-you-xuan-ze-bi-xu-zhi-nan-er-jin-2025-12-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8D%E8%85%90%E8%B4%A5%E6%B2%A1%E6%9C%89%E9%80%89%E6%8B%A9+%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%9A%BE%E8%80%8C%E8%BF%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [退伍军人常发军装照被境外人员盯上 - 2025-12-28](AI_Reports/wei-fen-lei/tui-wu-jun-ren-chang-fa-jun-zhuang-zhao-bei-jing-wai-ren-yuan-cheng-shang-2025-12-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E5%B8%B8%E5%8F%91%E5%86%9B%E8%A3%85%E7%85%A7%E8%A2%AB%E5%A2%83%E5%A4%96%E4%BA%BA%E5%91%8B%E%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
