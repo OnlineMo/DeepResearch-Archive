@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：63
+报告总数：65
 
 ---
 
@@ -100,6 +100,7 @@
 
 ## X
 
+- [习近平的“治权”之喻发人深省](xi-jin-ping-de-zhi-quan-zhi-yu-fa-ren-shen-sheng-2026-01-16--v1.md) - 2026-01-16 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E2%80%9C%E6%B2%BB%E6%9D%83%E2%80%9D%E4%B9%8B%E5%96%BB%E5%8F%91%E4%BA%BA%E6%B7%B1%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平情系祖国的“掌上明珠”](xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) - 2025-12-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平听取岑浩辉述职报告](xi-jin-ping-ting-qu-cen-hao-hui-shu-zhi-bao-gao-2025-12-17--v1.md) - 2025-12-17 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%AC%E5%8F%96%E5%B2%91%E6%B5%A9%E8%BE%89%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平新年贺词里这些话很暖心](xi-jin-ping-xin-nian-he-ci-li-zhe-xie-hua-hen-nuan-xin-2026-01-01--v1.md) - 2026-01-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E8%BF%99%E4%BA%9B%E8%AF%9D%E5%BE%88%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -132,6 +133,7 @@
 
 ## “
 
+- [“第三代水果”出来了](di-san-dai-shui-guo-chu-lai-liao-2026-01-16--v1.md) - 2026-01-16 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AC%AC%E4%B8%89%E4%BB%A3%E6%B0%B4%E6%9E%9C%E2%80%9D%E5%87%BA%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [“反腐败没有选择 必须知难而进”](fan-fu-bai-mei-you-xuan-ze-bi-xu-zhi-nan-er-jin-2025-12-29--v1.md) - 2025-12-29 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8D%E8%85%90%E8%B4%A5%E6%B2%A1%E6%9C%89%E9%80%89%E6%8B%A9+%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%9A%BE%E8%80%8C%E8%BF%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“横竖”都是世界第一](heng-shu-du-shi-shi-jie-di-yi-2025-09-29--v1.md) - 2025-09-29 (v1)
 - [“小家”热气腾腾 “大家”蒸蒸日上](xiao-jia-re-qi-teng-teng-da-jia-zheng-zheng-ri-shang-2026-01-03--v1.md) - 2026-01-03 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%AE%B6%E2%80%9D%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE+%E2%80%9C%E5%A4%A7%E5%AE%B6%E2%80%9D%E8%92%B8%E8%92%B8%E6%97%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
