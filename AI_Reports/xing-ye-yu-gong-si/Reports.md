@@ -1,7 +1,7 @@
 # 行业与公司 报告索引
 
 本页包含 **行业与公司** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：15
+报告总数：16
 
 ---
 
@@ -39,6 +39,10 @@
 
 - [小鹏脚夹门事件员工被顶格处理](xiao-peng-jiao-jia-men-shi-jian-yuan-gong-bei-ding-ge-chu-li-2025-11-24--v1.md) - 2025-11-24 (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%84%9A%E5%B9%B9%E9%97%A8%E4%BA%8B%E4%BB%B6%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)
 - [新西兰从韩国抢回造船订单塞给中国](xin-xi-lan-cong-han-guo-qiang-hui-zao-chuan-ding-dan-sai-gei-zhong-guo-2025-10-17--v1.md) - 2025-10-17 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E4%BB%8E%E9%9F%A9%E5%9B%BD%E6%8A%A2%E5%9B%9E%E9%80%A0%E8%88%B9%E8%AE%A2%E5%8D%95%E5%A1%9E%E7%BB%99%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
+
+## Y
+
+- [因涨薪20元致歉公司已连续37年涨薪](yin-zhang-xin-20yuan-zhi-qian-gong-si-yi-lian-xu-37nian-zhang-xin-2026-01-18--v1.md) - 2026-01-18 (v1)
 
 ## Z
 
