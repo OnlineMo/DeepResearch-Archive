@@ -213,6 +213,7 @@
 ## 行业与公司
 [点击查看行业与公司完整报告索引 →](AI_Reports/xing-ye-yu-gong-si/Reports.md)
 
+- [因涨薪20元致歉公司已连续37年涨薪 - 2026-01-18](AI_Reports/xing-ye-yu-gong-si/yin-zhang-xin-20yuan-zhi-qian-gong-si-yi-lian-xu-37nian-zhang-xin-2026-01-18--v1.md) (v1)
 - [知名车评人陈震被多平台禁言 - 2025-12-05](AI_Reports/xing-ye-yu-gong-si/zhi-ming-che-ping-ren-chen-zhen-bei-duo-ping-tai-jin-yan-2025-12-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E8%BD%A6%E8%AF%84%E4%BA%BA%E9%99%88%E9%9C%87%E8%A2%AB%E5%A4%9A%E5%B9%B3%E5%8F%B0%E7%A6%81%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)
 - [这个“500万”里有创新中国的未来 - 2025-12-03](AI_Reports/xing-ye-yu-gong-si/zhe-ge-500mo-li-you-chuang-xin-zhong-guo-de-wei-lai-2025-12-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E2%80%9C500%E4%B8%87%E2%80%9D%E9%87%8C%E6%9C%89%E5%88%9B%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [小鹏脚夹门事件员工被顶格处理 - 2025-11-24](AI_Reports/xing-ye-yu-gong-si/xiao-peng-jiao-jia-men-shi-jian-yuan-gong-bei-ding-ge-chu-li-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%84%9A%E5%B9%B9%E9%97%A8%E4%BA%8B%E4%BB%B6%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -323,6 +324,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [习近平为中加关系发展把脉定向 - 2026-01-18](AI_Reports/wei-fen-lei/xi-jin-ping-wei-zhong-jia-guan-xi-fa-zhan-ba-mai-ding-xiang-2026-01-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%B8%AD%E5%8A%A0%E5%85%B3%E7%B3%BB%E5%8F%91%E5%8F%B7%E6%8A%8A%E8%84%89%E5%AE%9A%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [“第三代水果”出来了 - 2026-01-16](AI_Reports/wei-fen-lei/di-san-dai-shui-guo-chu-lai-liao-2026-01-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AC%AC%E4%B8%89%E4%BB%A3%E6%B0%B4%E6%9E%9C%E2%80%9D%E5%87%BA%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平的“治权”之喻发人深省 - 2026-01-16](AI_Reports/wei-fen-lei/xi-jin-ping-de-zhi-quan-zhi-yu-fa-ren-shen-sheng-2026-01-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E2%80%9C%E6%B2%BB%E6%9D%83%E2%80%9D%E4%B9%8B%E5%96%BB%E5%8F%91%E4%BA%BA%E6%B7%B1%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)
 - [二十届中央纪委五次全会公报发布 - 2026-01-15](AI_Reports/wei-fen-lei/er-shi-jie-zhong-yang-ji-wei-wu-ci-quan-hui-gong-bao-fa-bu-2026-01-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E4%BA%94%E6%AC%A1%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -342,4 +344,3 @@
 - [明年起年龄将不再是免罪金牌 - 2025-12-31](AI_Reports/wei-fen-lei/ming-nian-qi-nian-ling-jiang-bu-zai-shi-mian-zui-jin-pai-2025-12-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%B9%B4%E9%BE%84%E5%B0%86%E4%B8%8D%E5%86%8D%E6%98%AF%E5%85%8D%E7%BD%AA%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [重温习近平主席12年新年贺词 超暖心 - 2025-12-31](AI_Reports/wei-fen-lei/zhong-wen-xi-jin-ping-zhu-xi-12nian-xin-nian-he-ci-chao-nuan-xin-2025-12-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%A9%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD12%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D+%E8%B6%85%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [演习第二天：东部战区组织实弹射击 - 2025-12-30](AI_Reports/wei-fen-lei/yan-xi-di-er-tian-dong-bu-zhan-qu-zu-zhi-shi-dan-she-ji-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%94%E4%B9%A0%E7%AC%AC%E4%BA%8C%E5%A4%A9%EF%BC%9A%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E7%BB%84%E7%BB%87%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记始终不变的牵挂 - 2025-12-30](AI_Reports/wei-fen-lei/zong-shu-ji-shi-zhong-bu-bian-de-qian-gua-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E4%B8%8D%E5%8F%98%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)
