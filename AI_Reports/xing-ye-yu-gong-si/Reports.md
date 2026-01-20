@@ -1,7 +1,7 @@
 # 行业与公司 报告索引
 
 本页包含 **行业与公司** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：16
+报告总数：17
 
 ---
 
@@ -42,6 +42,7 @@
 
 ## Y
 
+- [一人公司悄然兴起](yi-ren-gong-si-qiao-ran-xing-qi-2026-01-20--v1.md) - 2026-01-20 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E6%82%84%E7%84%B6%E5%85%B4%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [因涨薪20元致歉公司已连续37年涨薪](yin-zhang-xin-20yuan-zhi-qian-gong-si-yi-lian-xu-37nian-zhang-xin-2026-01-18--v1.md) - 2026-01-18 (v1)
 
 ## Z
