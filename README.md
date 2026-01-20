@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [骂人也违法了 最高可判三年 - 2026-01-19](AI_Reports/wei-fen-lei/ma-ren-ye-wei-fa-liao-zui-gao-ke-pan-san-nian-2026-01-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AA%82%E4%BA%BA%E4%B9%9F%E8%BF%9D%E6%B3%95%E4%BA%86+%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
-- [人民城市为人民 - 2026-01-19](AI_Reports/wei-fen-lei/ren-min-cheng-shi-wei-ren-min-2026-01-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E4%B8%BA%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)
+- [“今天的中国明天的世界”缘何出现 - 2026-01-20](AI_Reports/wei-fen-lei/jin-tian-de-zhong-guo-ming-tian-de-shi-jie-yuan-he-chu-xian-2026-01-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%98%8E%E5%A4%A9%E7%9A%84%E4%B8%96%E7%95%8C%E2%80%9D%E7%BC%98%E4%BD%95%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)
+- [一人公司悄然兴起 - 2026-01-20](AI_Reports/xing-ye-yu-gong-si/yi-ren-gong-si-qiao-ran-xing-qi-2026-01-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E6%82%84%E7%84%B6%E5%85%B4%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
