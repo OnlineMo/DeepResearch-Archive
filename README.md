@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [“今天的中国明天的世界”缘何出现 - 2026-01-20](AI_Reports/wei-fen-lei/jin-tian-de-zhong-guo-ming-tian-de-shi-jie-yuan-he-chu-xian-2026-01-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%98%8E%E5%A4%A9%E7%9A%84%E4%B8%96%E7%95%8C%E2%80%9D%E7%BC%98%E4%BD%95%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)
-- [一人公司悄然兴起 - 2026-01-20](AI_Reports/xing-ye-yu-gong-si/yi-ren-gong-si-qiao-ran-xing-qi-2026-01-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E6%82%84%E7%84%B6%E5%85%B4%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
+- [创造历史！U23国足闯入亚洲杯决赛 - 2026-01-21](AI_Reports/wei-fen-lei/chuang-zao-li-shi-u23guo-zu-chuang-ru-ya-zhou-bei-jue-sai-2026-01-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%EF%BC%81U23%E5%9B%BD%E8%B6%B3%E9%97%AF%E5%85%A5%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
+- [万众一心 接续奋斗 - 2026-01-21](AI_Reports/wei-fen-lei/mo-zhong-yi-xin-jie-xu-fen-dou-2026-01-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%87%E4%BC%97%E4%B8%80%E5%BF%83+%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
