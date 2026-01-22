@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：251
+报告总数：252
 
 ---
 
@@ -143,6 +143,7 @@
 - [美国拘捕约300名韩国人](mei-guo-ju-bu-yue-300ming-han-guo-ren-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95%E7%BA%A6300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [美国为何要疯狂攻击“北京时间”](mei-guo-wei-he-yao-feng-kuang-gong-ji-bei-jing-shi-jian-2025-10-31--v1.md) - 2025-10-31 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E7%96%AF%E7%8B%82%E6%94%BB%E5%87%BB%E2%80%9C%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [美国一飞机坠毁 附近大楼被撞](mei-guo-yi-fei-ji-zhui-hui-fu-jin-da-lou-bei-zhuang-2025-11-05--v1.md) - 2025-11-05 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81+%E9%99%84%E8%BF%91%E5%A4%A7%E6%A5%BC%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)
+- [美国正式退出世卫组织](mei-guo-zheng-shi-tui-chu-shi-wei-zu-zhi-2026-01-22--v1.md) - 2026-01-22 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87&sa=fyb_news&rsv_dl=fyb_news)
 - [美乌发布联合声明](mei-wu-fa-bu-lian-he-sheng-ming-2025-11-24--v1.md) - 2025-11-24 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B9%8C%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [美用42款特种武器网攻“北京时间”](mei-yong-42kuan-te-chong-wu-qi-wang-gong-bei-jing-shi-jian-2025-10-19--v1.md) - 2025-10-19 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%A842%E6%AC%BE%E7%89%B9%E7%A7%8D%E6%AD%A6%E5%99%A8%E7%BD%91%E6%94%BB%E2%80%9C%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [缅甸军方突袭KK园区](mian-dian-jun-fang-tu-xi-kkyuan-qu-2025-10-24--v1.md) - 2025-10-24 (v1) [来源](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%86%9B%E6%96%B9%E7%AA%81%E8%A2%ADKK%E5%9B%AD%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)
