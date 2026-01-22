@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：71
+报告总数：72
 
 ---
 
@@ -138,6 +138,7 @@
 - [追求实实在在 没有水分的增长](zhui-qiu-shi-shi-zai-zai-mei-you-shui-fen-de-zeng-chang-2025-12-15--v1.md) - 2025-12-15 (v1) [来源]([https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8+%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news](https://www.baidu.com/s?wd=%E8%BF%BD%E6%B1%82%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8+%E6%B2%A1%E6%9C%89%E6%B0%B4%E5%88%86%E7%9A%84%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news))
 - [总书记带领我们决胜“十四五”](zong-shu-ji-dai-ling-wo-men-jue-sheng-shi-si-wu-2026-01-05--v1.md) - 2026-01-05 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%B8%A6%E9%A2%86%E6%88%91%E4%BB%AC%E5%86%B3%E8%83%9C%E2%80%9C%E5%8D%81%E5%9B%9B%E4%BA%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记始终不变的牵挂](zong-shu-ji-shi-zhong-bu-bian-de-qian-gua-2025-12-30--v1.md) - 2025-12-30 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E4%B8%8D%E5%8F%98%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记“新年第一课”这样划重点](zong-shu-ji-xin-nian-di-yi-ke-zhe-yang-hua-zhong-dian-2026-01-22--v1.md) - 2026-01-22 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E8%AF%BE%E2%80%9D%E8%BF%99%E6%A0%B7%E5%88%92%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
 
 ## “
 
