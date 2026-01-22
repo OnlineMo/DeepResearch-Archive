@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [创造历史！U23国足闯入亚洲杯决赛 - 2026-01-21](AI_Reports/wei-fen-lei/chuang-zao-li-shi-u23guo-zu-chuang-ru-ya-zhou-bei-jue-sai-2026-01-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%EF%BC%81U23%E5%9B%BD%E8%B6%B3%E9%97%AF%E5%85%A5%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
-- [万众一心 接续奋斗 - 2026-01-21](AI_Reports/wei-fen-lei/mo-zhong-yi-xin-jie-xu-fen-dou-2026-01-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%87%E4%BC%97%E4%B8%80%E5%BF%83+%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
+- [美国正式退出世卫组织 - 2026-01-22](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-zheng-shi-tui-chu-shi-wei-zu-zhi-2026-01-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记“新年第一课”这样划重点 - 2026-01-22](AI_Reports/wei-fen-lei/zong-shu-ji-xin-nian-di-yi-ke-zhe-yang-hua-zhong-dian-2026-01-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E8%AF%BE%E2%80%9D%E8%BF%99%E6%A0%B7%E5%88%92%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
