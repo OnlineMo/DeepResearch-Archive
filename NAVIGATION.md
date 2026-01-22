@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [美国正式退出世卫组织 - 2026-01-22](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-zheng-shi-tui-chu-shi-wei-zu-zhi-2026-01-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87&sa=fyb_news&rsv_dl=fyb_news)
 - [央视披露解放军实战演练斩首行动 - 2026-01-16](AI_Reports/shi-zheng-yu-guo-ji/yang-shi-pi-lu-jie-fang-jun-shi-zhan-yan-lian-zhan-shou-xing-dong-2026-01-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E8%A7%A3%E6%94%BE%E5%86%9B%E5%AE%9E%E6%88%98%E6%BC%94%E7%BB%83%E6%96%A9%E9%A6%96%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同韩国总统李在明会谈 - 2026-01-06](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2026-01-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%93%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 - [天安门广场新年升旗仪式 - 2026-01-01](AI_Reports/shi-zheng-yu-guo-ji/tian-an-men-yan-chang-xin-nian-sheng-qi-yi-shi-2026-01-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%96%B0%E5%B9%B4%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [《求是》发表习近平总书记重要文章 - 2025-12-01](AI_Reports/shi-zheng-yu-guo-ji/qiu-shi-fa-biao-xi-jin-ping-zong-shu-ji-zhong-yao-wen-zhang-2025-12-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8B%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [高市开始“甩锅” 日媒都看不下去了 - 2025-11-30](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-kai-shi-shuai-guo-ri-mei-du-kan-bu-xia-qu-liao-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%BC%80%E5%A7%8B%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D+%E6%97%A5%E5%AA%92%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
-- [中国最长的跨市地铁要来了 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-zui-chang-de-kua-shi-di-tie-yao-lai-liao-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%9A%84%E8%B7%A8%E5%B8%82%E5%9C%B0%E9%93%81%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -325,6 +325,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [总书记“新年第一课”这样划重点 - 2026-01-22](AI_Reports/wei-fen-lei/zong-shu-ji-xin-nian-di-yi-ke-zhe-yang-hua-zhong-dian-2026-01-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E8%AF%BE%E2%80%9D%E8%BF%99%E6%A0%B7%E5%88%92%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [创造历史！U23国足闯入亚洲杯决赛 - 2026-01-21](AI_Reports/wei-fen-lei/chuang-zao-li-shi-u23guo-zu-chuang-ru-ya-zhou-bei-jue-sai-2026-01-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%EF%BC%81U23%E5%9B%BD%E8%B6%B3%E9%97%AF%E5%85%A5%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [万众一心 接续奋斗 - 2026-01-21](AI_Reports/wei-fen-lei/mo-zhong-yi-xin-jie-xu-fen-dou-2026-01-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%87%E4%BC%97%E4%B8%80%E5%BF%83+%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 - [“今天的中国明天的世界”缘何出现 - 2026-01-20](AI_Reports/wei-fen-lei/jin-tian-de-zhong-guo-ming-tian-de-shi-jie-yuan-he-chu-xian-2026-01-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%98%8E%E5%A4%A9%E7%9A%84%E4%B8%96%E7%95%8C%E2%80%9D%E7%BC%98%E4%BD%95%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)
@@ -344,4 +345,3 @@
 - [总书记带领我们决胜“十四五” - 2026-01-05](AI_Reports/wei-fen-lei/zong-shu-ji-dai-ling-wo-men-jue-sheng-shi-si-wu-2026-01-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%B8%A6%E9%A2%86%E6%88%91%E4%BB%AC%E5%86%B3%E8%83%9C%E2%80%9C%E5%8D%81%E5%9B%9B%E4%BA%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [新年贺词里的中国信心 - 2026-01-04](AI_Reports/wei-fen-lei/xin-nian-he-ci-li-de-zhong-guo-xin-xin-2026-01-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [这样的电器费电又危险 快看你家有吗 - 2026-01-04](AI_Reports/wei-fen-lei/zhe-yang-de-dian-qi-fei-dian-you-wei-xian-kuai-kan-ni-jia-you-ma-2026-01-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%A0%B7%E7%9A%84%E7%94%B5%E5%99%A8%E8%B4%B9%E7%94%B5%E5%8F%88%E5%8D%B1%E9%99%A9+%E5%BF%AB%E7%9C%8B%E4%BD%A0%E5%AE%B6%E6%9C%89%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
-- [“小家”热气腾腾 “大家”蒸蒸日上 - 2026-01-03](AI_Reports/wei-fen-lei/xiao-jia-re-qi-teng-teng-da-jia-zheng-zheng-ri-shang-2026-01-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%AE%B6%E2%80%9D%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE+%E2%80%9C%E5%A4%A7%E5%AE%B6%E2%80%9D%E8%92%B8%E8%92%B8%E6%97%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
