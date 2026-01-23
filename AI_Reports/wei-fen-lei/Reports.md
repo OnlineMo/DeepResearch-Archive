@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：72
+报告总数：74
 
 ---
 
@@ -13,6 +13,7 @@
 ## B
 
 - [北方秋雨持续几天](bei-fang-qiu-yu-chi-xu-ji-tian-2025-10-10--v1.md) - 2025-10-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E7%A7%8B%E9%9B%A8%E6%8C%81%E7%BB%AD%E5%87%A0%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
+- [北方“弱省会”拿下增量第一](bei-fang-ruo-sheng-hui-na-xia-zeng-liang-di-yi-2026-01-23--v1.md) - 2026-01-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E2%80%9C%E5%BC%B1%E7%9C%81%E4%BC%9A%E2%80%9D%E6%8B%BF%E4%B8%8B%E5%A2%9E%E9%87%8F%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)
 
 ## C
 
@@ -60,6 +61,7 @@
 ## K
 
 - [开局之年如何推进全面从严治党](kai-ju-zhi-nian-ru-he-tui-jin-quan-mian-cong-yan-zhi-dang-2026-01-14--v1.md) - 2026-01-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E5%A6%25E4%BD%95%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)
+- [开局之年“第一课”](kai-ju-zhi-nian-di-yi-ke-2026-01-23--v1.md) - 2026-01-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E2%80%9C%E7%AC%AC%E4%B8%80%E8%AF%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## L
 
