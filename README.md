@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [美国正式退出世卫组织 - 2026-01-22](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-zheng-shi-tui-chu-shi-wei-zu-zhi-2026-01-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记“新年第一课”这样划重点 - 2026-01-22](AI_Reports/wei-fen-lei/zong-shu-ji-xin-nian-di-yi-ke-zhe-yang-hua-zhong-dian-2026-01-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E8%AF%BE%E2%80%9D%E8%BF%99%E6%A0%B7%E5%88%92%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
+- [北方“弱省会”拿下增量第一 - 2026-01-23](AI_Reports/wei-fen-lei/bei-fang-ruo-sheng-hui-na-xia-zeng-liang-di-yi-2026-01-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E2%80%9C%E5%BC%B1%E7%9C%81%E4%BC%9A%E2%80%9D%E6%8B%BF%E4%B8%8B%E5%A2%9E%E9%87%8F%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)
+- [开局之年“第一课” - 2026-01-23](AI_Reports/wei-fen-lei/kai-ju-zhi-nian-di-yi-ke-2026-01-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E2%80%9C%E7%AC%AC%E4%B8%80%E8%AF%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
