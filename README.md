@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [“不是我撞的 我也可以把她扶起来” - 2026-01-24](AI_Reports/wei-fen-lei/bu-shi-wo-zhuang-de-wo-ye-ke-yi-ba-ta-fu-qi-lai-2026-01-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8D%E6%98%AF%E6%88%91%E6%92%9E%E7%9A%84+%E6%88%91%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%8A%8A%E5%A5%B9%E6%89%B6%E8%B5%B7%E6%9D%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [接到12308来电请立即挂断 - 2026-01-24](AI_Reports/wei-fen-lei/jie-dao-12308lai-dian-qing-li-ji-gua-duan-2026-01-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A5%E5%88%B012308%E6%88%A5%E7%94%B5%E8%AF%B7%E7%AB%8B%E5%8D%B3%E6%8C%82%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)
+- [冰雪春天 点冰成“金” - 2026-01-25](AI_Reports/wei-fen-lei/bing-xue-chun-tian-dian-bing-cheng-jin-2026-01-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E6%98%A5%E5%A4%A9+%E7%82%B9%E5%86%B0%E6%88%90%E2%80%9C%E9%87%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [U23国足不敌日本获得亚军 - 2026-01-25](AI_Reports/wei-fen-lei/u23guo-zu-bu-di-ri-ben-huo-de-ya-jun-2026-01-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E8%8E%B7%E5%BE%97%E4%BA%9A%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
