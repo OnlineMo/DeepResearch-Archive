@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：81
+报告总数：82
 
 ---
 
@@ -127,6 +127,7 @@
 - [央视起底兼职骗局黑色产业链](yang-shi-qi-di-jian-zhi-pian-ju-hei-se-chan-ye-lian-2025-11-03--v1.md) - 2025-11-03 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [业主私挖300平地下室致32户开裂](ye-zhu-si-wa-300ping-di-xia-shi-zhi-32hu-kai-lie-2025-10-14--v1.md) - 2025-10-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A4%E8%87%B432%E6%88%B7%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)
 - [一顿吃200个水饺的16个外甥开学了](yi-dun-chi-200ge-shui-jiao-de-16ge-wai-sheng-kai-xue-liao-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E9%A1%BF%E5%90%83200%E4%B8%AA%E6%B0%B4%E9%A5%BA%E7%9A%8416%E4%B8%AA%E5%A4%96%E7%94%A5%E5%BC%80%E5%AD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [印度疫情死亡率高达40%到75%](yin-du-yi-qing-si-wang-lu-gao-da-40-dao-75-2026-01-26--v1.md) - 2026-01-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85%E6%AD%BB%E4%BA%A1%E7%8E%87%E9%AB%98%E8%BE%BE40%25%E5%88%B075%25&sa=fyb_news&rsv_dl=fyb_news)
 - [应急局回应山东现不明飞行物被击落](ying-ji-ju-hui-ying-shan-dong-xian-bu-ming-fei-xing-wu-bei-ji-luo-2025-09-14--v1.md) - 2025-09-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%BA%94%E6%80%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E8%A2%AB%E5%87%BB%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [游客称在景区遭遇21474836元停车费](you-ke-cheng-zai-jing-qu-zao-yu-21474836yuan-ting-che-fei-2025-09-29--v1.md) - 2025-09-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E6%99%AF%E5%8C%BA%E9%81%AD%E9%81%8721474836%E5%85%83%E5%81%9C%E8%BD%A6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [游客因台风被困三亚：酒店玻璃都弯了](you-ke-yin-tai-feng-bei-kun-san-ya-jiu-dian-bo-li-du-wan-liao-2025-08-26--v1.md) - 2025-08-26 (v1) [来源](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9B%A0%E5%8F%B0%E9%A3%8E%E8%A2%AB%E5%9B%B0%E4%B8%89%E4%BA%9A%EF%BC%9A%E9%85%92%E5%BA%97%E7%8E%BB%E7%92%83%E9%83%BD%E5%BC%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
