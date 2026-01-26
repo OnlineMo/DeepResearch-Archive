@@ -27,6 +27,7 @@
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [印度疫情死亡率高达40%到75% - 2026-01-26](AI_Reports/she-hui-yu-fa-zhi/yin-du-yi-qing-si-wang-lu-gao-da-40-dao-75-2026-01-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85%E6%AD%BB%E4%BA%A1%E7%8E%87%E9%AB%98%E8%BE%BE40%25%E5%88%B075%25&sa=fyb_news&rsv_dl=fyb_news)
 - [重温总书记对人民警察的殷殷嘱托 - 2026-01-11](AI_Reports/she-hui-yu-fa-zhi/zhong-wen-zong-shu-ji-dui-ren-min-jing-cha-de-yin-yin-zhu-tuo-2026-01-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%B4%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%E7%9A%84%E6%AE%B7%E6%AE%B7%E5%98%B1%E6%89%98&sa=fyb_news&rsv_dl=fyb_news)
 - [《怦然心动》导演家中死亡 其子已被捕 - 2025-12-16](AI_Reports/she-hui-yu-fa-zhi/peng-ran-xin-dong-dao-yan-jia-zhong-si-wang-qi-zi-yi-bei-bu-2025-12-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E3%80%8B%E5%AF%BC%E6%BC%94%E5%AE%B6%E4%B8%AD%E6%AD%BB%E4%BA%A1+%E5%85%B6%E5%AD%90%E5%B7%B2%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)
 - [漠河室内外温差已达60℃ - 2025-12-06](AI_Reports/she-hui-yu-fa-zhi/mo-he-shi-nei-wai-wen-chai-yi-da-60degc-2025-12-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%A0%E6%B2%B3%E5%AE%A4%E5%86%85%E5%A4%96%E6%B8%A9%E5%B7%AE%E5%B7%B2%E8%BE%BE60%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [婚前同居认定属于家庭成员 - 2025-11-26](AI_Reports/she-hui-yu-fa-zhi/hun-qian-tong-ju-ren-ding-shu-yu-jia-ting-cheng-yuan-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%E8%AE%A4%E5%AE%9A%E5%B1%9E%E4%BA%8E%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)
 - [小心！你收藏的邮票可能是“软刀子” - 2025-11-26](AI_Reports/she-hui-yu-fa-zhi/xiao-xin-ni-shou-cang-de-you-piao-ke-neng-shi-ruan-dao-zi-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BF%83%EF%BC%81%E4%BD%A0%E6%94%B6%E8%97%8F%E7%9A%84%E9%82%AE%E7%A5%A8%E5%8F%AF%E8%83%BD%E6%98%AF%E2%80%9C%E8%BD%AF%E5%88%80%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [8人穿“警服”为婚礼开路？后续来了 - 2025-11-12](AI_Reports/she-hui-yu-fa-zhi/8ren-chuan-jing-fu-wei-hun-li-kai-lu-hou-xu-lai-liao-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=8%E4%BA%BA%E7%A9%BF%E2%80%9C%E8%AD%A6%E6%9C%8D%E2%80%9D%E4%B8%BA%E5%A9%9A%E7%A4%BC%E5%BC%80%E8%B7%AF%EF%BC%9F%E5%90%8E%E7%BB%AD%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [云南通报赤裸小孩事件 - 2025-11-11](AI_Reports/she-hui-yu-fa-zhi/yun-nan-tong-bao-chi-luo-xiao-hai-shi-jian-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E8%B5%A4%E8%A3%B8%E5%B0%8F%E5%AD%A9%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
