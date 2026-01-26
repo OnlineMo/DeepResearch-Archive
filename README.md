@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [冰雪春天 点冰成“金” - 2026-01-25](AI_Reports/wei-fen-lei/bing-xue-chun-tian-dian-bing-cheng-jin-2026-01-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E6%98%A5%E5%A4%A9+%E7%82%B9%E5%86%B0%E6%88%90%E2%80%9C%E9%87%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [U23国足不敌日本获得亚军 - 2026-01-25](AI_Reports/wei-fen-lei/u23guo-zu-bu-di-ri-ben-huo-de-ya-jun-2026-01-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E8%8E%B7%E5%BE%97%E4%BA%9A%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
+- [印度疫情死亡率高达40%到75% - 2026-01-26](AI_Reports/she-hui-yu-fa-zhi/yin-du-yi-qing-si-wang-lu-gao-da-40-dao-75-2026-01-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85%E6%AD%BB%E4%BA%A1%E7%8E%87%E9%AB%98%E8%BE%BE40%25%E5%88%B075%25&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
