@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [印度疫情死亡率高达40%到75% - 2026-01-26](AI_Reports/she-hui-yu-fa-zhi/yin-du-yi-qing-si-wang-lu-gao-da-40-dao-75-2026-01-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85%E6%AD%BB%E4%BA%A1%E7%8E%87%E9%AB%98%E8%BE%BE40%25%E5%88%B075%25&sa=fyb_news&rsv_dl=fyb_news)
+- [靖国神社前的石狮掠自中国 - 2026-01-27](AI_Reports/wei-fen-lei/jing-guo-shen-she-qian-de-shi-shi-lue-zi-zhong-guo-2026-01-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%89%8D%E7%9A%84%E7%9F%B3%E7%8B%AE%E6%8E%A0%E8%87%AA%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
+- [保持战略定力 增强实干本领 - 2026-01-27](AI_Reports/xing-ye-yu-gong-si/bao-chi-zhan-lue-ding-li-zeng-qiang-shi-gan-ben-ling-2026-01-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%9D%E6%8C%81%E6%88%98%E7%95%A5%E5%AE%9A%E5%8A%9B+%E5%A2%9E%E5%BC%BA%E5%AE%9E%E5%B9%B2%E6%9C%AC%E9%A2%86&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
