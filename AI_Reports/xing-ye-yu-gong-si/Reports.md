@@ -1,7 +1,7 @@
 # 行业与公司 报告索引
 
 本页包含 **行业与公司** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：17
+报告总数：18
 
 ---
 
@@ -13,6 +13,7 @@
 ## B
 
 - [拔节生长 中国制造锻造更强筋骨](ba-jie-sheng-chang-zhong-guo-zhi-zao-duan-zao-geng-qiang-jin-gu-2025-10-18--v1.md) - 2025-10-18 (v1) [来源](https://www.baidu.com/s?wd=%E6%8B%94%E8%8A%82%E7%94%9F%E9%95%BF+%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E9%94%BB%E9%80%A0%E6%9B%B4%E5%BC%BA%E7%AD%8B%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news)
+- [保持战略定力 增强实干本领](bao-chi-zhan-lue-ding-li-zeng-qiang-shi-gan-ben-ling-2026-01-27--v1.md) - 2026-01-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%9D%E6%8C%81%E6%88%98%E7%95%A5%E5%AE%9A%E5%8A%9B+%E5%A2%9E%E5%BC%BA%E5%AE%9E%E5%B9%B2%E6%9C%AC%E9%A2%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## C
 
