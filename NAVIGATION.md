@@ -213,6 +213,7 @@
 ## 行业与公司
 [点击查看行业与公司完整报告索引 →](AI_Reports/xing-ye-yu-gong-si/Reports.md)
 
+- [保持战略定力 增强实干本领 - 2026-01-27](AI_Reports/xing-ye-yu-gong-si/bao-chi-zhan-lue-ding-li-zeng-qiang-shi-gan-ben-ling-2026-01-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BF%9D%E6%8C%81%E6%88%98%E7%95%A5%E5%AE%9A%E5%8A%9B+%E5%A2%9E%E5%BC%BA%E5%AE%9E%E5%B9%B2%E6%9C%AC%E9%A2%86&sa=fyb_news&rsv_dl=fyb_news)
 - [一人公司悄然兴起 - 2026-01-20](AI_Reports/xing-ye-yu-gong-si/yi-ren-gong-si-qiao-ran-xing-qi-2026-01-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E6%82%84%E7%84%B6%E5%85%B4%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [因涨薪20元致歉公司已连续37年涨薪 - 2026-01-18](AI_Reports/xing-ye-yu-gong-si/yin-zhang-xin-20yuan-zhi-qian-gong-si-yi-lian-xu-37nian-zhang-xin-2026-01-18--v1.md) (v1)
 - [知名车评人陈震被多平台禁言 - 2025-12-05](AI_Reports/xing-ye-yu-gong-si/zhi-ming-che-ping-ren-chen-zhen-bei-duo-ping-tai-jin-yan-2025-12-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E8%BD%A6%E8%AF%84%E4%BA%BA%E9%99%88%E9%9C%87%E8%A2%AB%E5%A4%9A%E5%B9%B3%E5%8F%B0%E7%A6%81%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)
@@ -325,6 +326,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [靖国神社前的石狮掠自中国 - 2026-01-27](AI_Reports/wei-fen-lei/jing-guo-shen-she-qian-de-shi-shi-lue-zi-zhong-guo-2026-01-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%89%8D%E7%9A%84%E7%9F%B3%E7%8B%AE%E6%8E%A0%E8%87%AA%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [冰雪春天 点冰成“金” - 2026-01-25](AI_Reports/wei-fen-lei/bing-xue-chun-tian-dian-bing-cheng-jin-2026-01-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E6%98%A5%E5%A4%A9+%E7%82%B9%E5%86%B0%E6%88%90%E2%80%9C%E9%87%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [U23国足不敌日本获得亚军 - 2026-01-25](AI_Reports/wei-fen-lei/u23guo-zu-bu-di-ri-ben-huo-de-ya-jun-2026-01-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E8%8E%B7%E5%BE%97%E4%BA%9A%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [“不是我撞的 我也可以把她扶起来” - 2026-01-24](AI_Reports/wei-fen-lei/bu-shi-wo-zhuang-de-wo-ye-ke-yi-ba-ta-fu-qi-lai-2026-01-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8D%E6%98%AF%E6%88%91%E6%92%9E%E7%9A%84+%E6%88%91%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%8A%8A%E5%A5%B9%E6%89%B6%E8%B5%B7%E6%9D%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -344,4 +346,3 @@
 - [棋圣聂卫平病逝 - 2026-01-15](AI_Reports/wei-fen-lei/qi-sheng-nie-wei-ping-bing-shi-2026-01-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A3%8B%E5%9C%A3%E8%81%82%E5%8D%AB%E5%B9%B3%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [开局之年如何推进全面从严治党 - 2026-01-14](AI_Reports/wei-fen-lei/kai-ju-zhi-nian-ru-he-tui-jin-quan-mian-cong-yan-zhi-dang-2026-01-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E5%A6%25E4%BD%95%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [杀害刘胡兰真凶曾观看歌剧《刘胡兰》 - 2026-01-12](AI_Reports/wei-fen-lei/sha-hai-liu-hu-lan-zhen-xiong-ceng-guan-kan-ge-ju-liu-hu-lan-2026-01-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%88%98%E8%83%A1%E5%85%B0%E7%9C%9F%E5%87%B6%E6%9B%BE%E8%A7%82%E7%9C%8B%E6%AD%8C%E5%89%A7%E3%80%8A%E5%88%98%E8%83%A1%E5%85%B0%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)
-- [新的一年中国继续向“新”而行 - 2026-01-10](AI_Reports/wei-fen-lei/xin-de-yi-nian-zhong-guo-ji-xu-xiang-xin-er-xing-2026-01-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%AD%E7%BB%AD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
