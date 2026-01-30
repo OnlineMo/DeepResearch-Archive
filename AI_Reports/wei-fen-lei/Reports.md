@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：82
+报告总数：83
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [北方秋雨持续几天](bei-fang-qiu-yu-chi-xu-ji-tian-2025-10-10--v1.md) - 2025-10-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E7%A7%8B%E9%9B%A8%E6%8C%81%E7%BB%AD%E5%87%A0%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [北方“弱省会”拿下增量第一](bei-fang-ruo-sheng-hui-na-xia-zeng-liang-di-yi-2026-01-23--v1.md) - 2026-01-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E2%80%9C%E5%BC%B1%E7%9C%81%E4%BC%9A%E2%80%9D%E6%8B%BF%E4%B8%8B%E5%A2%9E%E9%87%8F%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)
+- [冰天雪地也是金山银山](bing-tian-xue-di-ye-shi-jin-shan-yin-shan-2026-01-30--v1.md) - 2026-01-30 (v1) [来源](https://www.baidu.com/s?wd=%E5%86%B0%E5%A4%A9%E9%9B%AA%E5%9C%B0%E4%B9%9F%E6%98%AF%E9%87%91%E5%B1%B1%E9%93%B6%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [冰雪春天 点冰成“金”](bing-xue-chun-tian-dian-bing-cheng-jin-2026-01-25--v1.md) - 2026-01-25 (v1) [来源](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E6%98%A5%E5%A4%A9+%E7%82%B9%E5%86%B0%E6%88%90%E2%80%9C%E9%87%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## C
