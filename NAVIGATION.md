@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [国防部回应日本可能“强登钓鱼岛” - 2026-01-30](AI_Reports/shi-zheng-yu-guo-ji/guo-fang-bu-hui-ying-ri-ben-ke-neng-qiang-deng-diao-yu-dao-2026-01-30--v1.md) (v1)
 - [美国正式退出世卫组织 - 2026-01-22](AI_Reports/shi-zheng-yu-guo-ji/mei-guo-zheng-shi-tui-chu-shi-wei-zu-zhi-2026-01-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87&sa=fyb_news&rsv_dl=fyb_news)
 - [央视披露解放军实战演练斩首行动 - 2026-01-16](AI_Reports/shi-zheng-yu-guo-ji/yang-shi-pi-lu-jie-fang-jun-shi-zhan-yan-lian-zhan-shou-xing-dong-2026-01-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E8%A7%A3%E6%94%BE%E5%86%9B%E5%AE%9E%E6%88%98%E6%BC%94%E7%BB%83%E6%96%A9%E9%A6%96%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同韩国总统李在明会谈 - 2026-01-06](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-han-guo-zong-tong-li-zai-ming-hui-tan-2026-01-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%93%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [总书记关心的这件事 和你我息息相关 - 2025-12-02](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-guan-xin-de-zhe-jian-shi-he-ni-wo-xi-xi-xiang-guan-2025-12-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E5%BF%83%E7%9A%84%E8%BF%99%E4%BB%B6%E4%BA%8B+%E5%92%8C%E4%BD%A0%E6%88%91%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [《求是》发表习近平总书记重要文章 - 2025-12-01](AI_Reports/shi-zheng-yu-guo-ji/qiu-shi-fa-biao-xi-jin-ping-zong-shu-ji-zhong-yao-wen-zhang-2025-12-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8B%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [高市开始“甩锅” 日媒都看不下去了 - 2025-11-30](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-kai-shi-shuai-guo-ri-mei-du-kan-bu-xia-qu-liao-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%BC%80%E5%A7%8B%E2%80%9C%E7%94%A9%E9%94%85%E2%80%9D+%E6%97%A5%E5%AA%92%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [中共中央政治局召开会议 - 2025-11-29](AI_Reports/shi-zheng-yu-guo-ji/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -326,6 +326,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [冰天雪地也是金山银山 - 2026-01-30](AI_Reports/wei-fen-lei/bing-tian-xue-di-ye-shi-jin-shan-yin-shan-2026-01-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%B0%E5%A4%A9%E9%9B%AA%E5%9C%B0%E4%B9%9F%E6%98%AF%E9%87%91%E5%B1%B1%E9%93%B6%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [高质量共建“一带一路” - 2026-01-29](AI_Reports/wei-fen-lei/gao-zhi-liang-gong-jian-yi-dai-yi-lu-2026-01-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%85%B1%E5%BB%BA%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报：让“幽灵外卖”无处遁形 - 2026-01-28](AI_Reports/wei-fen-lei/ren-min-ri-bao-rang-you-ling-wai-mai-wu-chu-dun-xing-2026-01-28--v1.md) (v1)
 - [习近平会见芬兰总理奥尔波 - 2026-01-28](AI_Reports/wei-fen-lei/xi-jin-ping-hui-jian-fen-lan-zong-li-ao-er-bo-2026-01-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%8A%AC%E5%85%B0%E6%80%BB%E7%90%86%E5%A5%A5%E5%B0%94%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)
@@ -345,4 +346,3 @@
 - [习近平为中加关系发展把脉定向 - 2026-01-18](AI_Reports/wei-fen-lei/xi-jin-ping-wei-zhong-jia-guan-xi-fa-zhan-ba-mai-ding-xiang-2026-01-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%B8%AD%E5%8A%A0%E5%85%B3%E7%B3%BB%E5%8F%91%E5%8F%B7%E6%8A%8A%E8%84%89%E5%AE%9A%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [“第三代水果”出来了 - 2026-01-16](AI_Reports/wei-fen-lei/di-san-dai-shui-guo-chu-lai-liao-2026-01-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AC%AC%E4%B8%89%E4%BB%A3%E6%B0%B4%E6%9E%9C%E2%80%9D%E5%87%BA%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平的“治权”之喻发人深省 - 2026-01-16](AI_Reports/wei-fen-lei/xi-jin-ping-de-zhi-quan-zhi-yu-fa-ren-shen-sheng-2026-01-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E2%80%9C%E6%B2%BB%E6%9D%83%E2%80%9D%E4%B9%8B%E5%96%BB%E5%8F%91%E4%BA%BA%E6%B7%B1%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)
-- [二十届中央纪委五次全会公报发布 - 2026-01-15](AI_Reports/wei-fen-lei/er-shi-jie-zhong-yang-ji-wei-wu-ci-quan-hui-gong-bao-fa-bu-2026-01-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E4%BA%94%E6%AC%A1%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
