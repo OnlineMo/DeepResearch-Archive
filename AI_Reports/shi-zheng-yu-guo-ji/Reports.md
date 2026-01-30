@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：252
+报告总数：253
 
 ---
 
@@ -89,6 +89,7 @@
 - [贵金属“跳水”！国际金银大幅收跌](gui-jin-shu-tiao-shui-guo-ji-jin-yin-da-fu-shou-die-2025-12-30--v1.md) - 2025-12-30 (v1) [来源](https://www.baidu.com/s?wd=%E8%B4%B5%E9%87%91%E5%B1%9E%E2%88%9C%E8%B7%B3%E6%B0%B4%E2%88%9D%EF%BC%81%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E5%A4%A7%E5%B9%85%E6%94%B6%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [国安部公布3名台独“水军”身份信息](guo-an-bu-gong-bu-3ming-tai-du-shui-jun-shen-fen-xin-xi-2025-10-10--v1.md) - 2025-10-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E5%85%AC%E5%B8%833%E5%90%8D%E5%8F%B0%E7%8B%AC%E2%80%9C%E6%B0%B4%E5%86%9B%E2%80%9D%E8%BA%AB%E4%BB%BD%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [国安机关披露某公司拍摄大量敏感信息](guo-an-ji-guan-pi-lu-mou-gong-si-pai-she-da-liang-min-gan-xin-xi-2025-11-21--v1.md) - 2025-11-21 (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E6%9C%BA%E5%85%B3%E6%8A%AB%E9%9C%B2%E6%9F%90%E5%85%AC%E5%8F%B8%E6%8B%8D%E6%91%84%E5%A4%A7%E9%87%8F%E6%95%8F%E6%84%9F%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [国防部回应日本可能“强登钓鱼岛”](guo-fang-bu-hui-ying-ri-ben-ke-neng-qiang-deng-diao-yu-dao-2026-01-30--v1.md) - 2026-01-30 (v1)
 - [过水门！最高礼遇迎接志愿军烈士](guo-shui-men-zui-gao-li-yu-ying-jie-zhi-yuan-jun-lie-shi-2025-09-13--v1.md) - 2025-09-13 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%87%E6%B0%B4%E9%97%A8%EF%BC%81%E6%9C%80%E9%AB%98%E7%A4%BC%E9%81%87%E8%BF%8E%E6%8E%A5%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)
 
 ## H
