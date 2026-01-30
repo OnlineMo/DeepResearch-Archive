@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [高质量共建“一带一路” - 2026-01-29](AI_Reports/wei-fen-lei/gao-zhi-liang-gong-jian-yi-dai-yi-lu-2026-01-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%85%B1%E5%BB%BA%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [国防部回应日本可能“强登钓鱼岛” - 2026-01-30](AI_Reports/shi-zheng-yu-guo-ji/guo-fang-bu-hui-ying-ri-ben-ke-neng-qiang-deng-diao-yu-dao-2026-01-30--v1.md) (v1)
+- [冰天雪地也是金山银山 - 2026-01-30](AI_Reports/wei-fen-lei/bing-tian-xue-di-ye-shi-jin-shan-yin-shan-2026-01-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%B0%E5%A4%A9%E9%9B%AA%E5%9C%B0%E4%B9%9F%E6%98%AF%E9%87%91%E5%B1%B1%E9%93%B6%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
