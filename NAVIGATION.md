@@ -326,6 +326,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [习近平在京看望慰问基层干部群众 - 2026-02-11](AI_Reports/wei-fen-lei/xi-jin-ping-zai-jing-kan-wang-wei-wen-ji-ceng-gan-bu-qun-zhong-2026-02-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%AC%E7%9C%8B%E6%9C%9B%E6%85%B0%E9%97%AE%E5%9F%BA%E5%B1%82%E5%B9%B2%E9%83%A8%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)
 - [重磅打虎！易炼红被查 - 2026-02-10](AI_Reports/wei-fen-lei/zhong-bang-da-hu-yi-lian-hong-bei-cha-2026-02-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%E6%89%93%E8%99%8E%EF%BC%81%E6%98%93%E7%82%BC%E7%BA%A2%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的新春“家常话” - 2026-02-10](AI_Reports/wei-fen-lei/zong-shu-ji-de-xin-chun-jia-chang-hua-2026-02-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%96%B0%E6%98%A5%E2%80%9C%E5%AE%B6%E5%B8%B8%E8%AF%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议 - 2026-01-31](AI_Reports/wei-fen-lei/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2026-01-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
@@ -345,4 +346,3 @@
 - [万众一心 接续奋斗 - 2026-01-21](AI_Reports/wei-fen-lei/mo-zhong-yi-xin-jie-xu-fen-dou-2026-01-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%87%E4%BC%97%E4%B8%80%E5%BF%83+%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 - [“今天的中国明天的世界”缘何出现 - 2026-01-20](AI_Reports/wei-fen-lei/jin-tian-de-zhong-guo-ming-tian-de-shi-jie-yuan-he-chu-xian-2026-01-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%98%8E%E5%A4%A9%E7%9A%84%E4%B8%96%E7%95%8C%E2%80%9D%E7%BC%98%E4%BD%95%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [骂人也违法了 最高可判三年 - 2026-01-19](AI_Reports/wei-fen-lei/ma-ren-ye-wei-fa-liao-zui-gao-ke-pan-san-nian-2026-01-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AA%82%E4%BA%BA%E4%B9%9F%E8%BF%9D%E6%B3%95%E4%BA%86+%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
-- [人民城市为人民 - 2026-01-19](AI_Reports/wei-fen-lei/ren-min-cheng-shi-wei-ren-min-2026-01-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E4%B8%BA%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)
