@@ -326,6 +326,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [习近平春节前夕慰问部队 - 2026-02-12](AI_Reports/wei-fen-lei/xi-jin-ping-chun-jie-qian-xi-wei-wen-bu-dui-2026-02-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E6%85%B0%E9%97%AE%E9%83%A8%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平在京看望慰问基层干部群众 - 2026-02-11](AI_Reports/wei-fen-lei/xi-jin-ping-zai-jing-kan-wang-wei-wen-ji-ceng-gan-bu-qun-zhong-2026-02-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%AC%E7%9C%8B%E6%9C%9B%E6%85%B0%E9%97%AE%E5%9F%BA%E5%B1%82%E5%B9%B2%E9%83%A8%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)
 - [重磅打虎！易炼红被查 - 2026-02-10](AI_Reports/wei-fen-lei/zhong-bang-da-hu-yi-lian-hong-bei-cha-2026-02-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%E6%89%93%E8%99%8E%EF%BC%81%E6%98%93%E7%82%BC%E7%BA%A2%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的新春“家常话” - 2026-02-10](AI_Reports/wei-fen-lei/zong-shu-ji-de-xin-chun-jia-chang-hua-2026-02-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%96%B0%E6%98%A5%E2%80%9C%E5%AE%B6%E5%B8%B8%E8%AF%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -345,4 +346,3 @@
 - [创造历史！U23国足闯入亚洲杯决赛 - 2026-01-21](AI_Reports/wei-fen-lei/chuang-zao-li-shi-u23guo-zu-chuang-ru-ya-zhou-bei-jue-sai-2026-01-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%EF%BC%81U23%E5%9B%BD%E8%B6%B3%E9%97%AF%E5%85%A5%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [万众一心 接续奋斗 - 2026-01-21](AI_Reports/wei-fen-lei/mo-zhong-yi-xin-jie-xu-fen-dou-2026-01-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%87%E4%BC%97%E4%B8%80%E5%BF%83+%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 - [“今天的中国明天的世界”缘何出现 - 2026-01-20](AI_Reports/wei-fen-lei/jin-tian-de-zhong-guo-ming-tian-de-shi-jie-yuan-he-chu-xian-2026-01-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%98%8E%E5%A4%A9%E7%9A%84%E4%B8%96%E7%95%8C%E2%80%9D%E7%BC%98%E4%BD%95%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)
-- [骂人也违法了 最高可判三年 - 2026-01-19](AI_Reports/wei-fen-lei/ma-ren-ye-wei-fa-liao-zui-gao-ke-pan-san-nian-2026-01-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AA%82%E4%BA%BA%E4%B9%9F%E8%BF%9D%E6%B3%95%E4%BA%86+%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
