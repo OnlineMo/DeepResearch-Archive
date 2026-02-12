@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [习近平在京看望慰问基层干部群众 - 2026-02-11](AI_Reports/wei-fen-lei/xi-jin-ping-zai-jing-kan-wang-wei-wen-ji-ceng-gan-bu-qun-zhong-2026-02-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%AC%E7%9C%8B%E6%9C%9B%E6%85%B0%E9%97%AE%E5%9F%BA%E5%B1%82%E5%B9%B2%E9%83%A8%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平春节前夕慰问部队 - 2026-02-12](AI_Reports/wei-fen-lei/xi-jin-ping-chun-jie-qian-xi-wei-wen-bu-dui-2026-02-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E6%85%B0%E9%97%AE%E9%83%A8%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
