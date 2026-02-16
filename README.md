@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [王毅警告日本 现场爆发热烈掌声 - 2026-02-15](AI_Reports/wei-fen-lei/wang-yi-jing-gao-ri-ben-xian-chang-bao-fa-re-lie-zhang-sheng-2026-02-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC+%E7%8E%B0%E5%9C%BA%E7%88%86%E5%8F%91%E7%83%AD%E7%83%88%E6%8E%8C%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)
-- [在中国式现代化新征程上策马扬鞭 - 2026-02-15](AI_Reports/wei-fen-lei/zai-zhong-guo-shi-xian-dai-hua-xin-zheng-cheng-shang-ce-ma-yang-bian-2026-02-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E7%AD%96%E9%A9%AC%E6%89%AC%E9%9E%AD&sa=fyb_news&rsv_dl=fyb_news)
+- [升温后有东北人500斤年货无处安放 - 2026-02-16](AI_Reports/wei-fen-lei/sheng-wen-hou-you-dong-bei-ren-500jin-nian-huo-wu-chu-an-fang-2026-02-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%87%E6%B8%A9%E5%90%8E%E6%9C%89%E4%B8%9C%E5%8C%97%E4%BA%BA500%E6%96%A4%E5%B9%B4%E8%B4%A7%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
+- [以马为喻 习近平这样勉励你我他 - 2026-02-16](AI_Reports/wei-fen-lei/yi-ma-wei-yu-xi-jin-ping-zhe-yang-mian-li-ni-wo-ta-2026-02-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E9%A9%AC%E4%B8%BA%E5%96%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E5%8B%89%E5%8A%B1%E4%BD%A0%E6%88%91%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
