@@ -1,0 +1,88 @@
+版次: 头版（v1）
+日期: 2026-02-20
+主题: 10年前被抓拍的河南母女找到了
+
+来源: https://www.baidu.com/s?wd=10%E5%B9%B4%E5%89%8D%E8%A2%AB%E6%8A%93%E6%8B%8D%E7%9A%84%E6%B2%B3%E5%8D%97%E6%AF%8D%E5%A5%B3%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news
+
+# 10年前被抓拍的河南母女找到了
+
+## 摘要
+*   2016年，摄影师“三毛”在河南驻马店泌阳县偶然抓拍到一对母女的真挚笑容，照片因其感染力迅速走红网络，引发广泛关注和寻人愿望 [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_)。
+*   2026年2月17日，摄影师发布寻人视频，并于2月19日成功联系到这对母女的家人吴先生，确认了她们的身份，实现了十年后的重逢 [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_) [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22-59nOoz-1SH4O99P_kl6-ikDA1Sn7x3zLogJtJvh77cySpRckc_j3Iw2C9Gdd1kjLks6JcVTq-EUDEwWoyGKsMQ6pHPe7QCYze2Bqf9GXtCzQeHkC499Wl00loEb4bHOv8UXroqSrHmNM7TtS2bYLriios5qsbi)。
+*   照片中的母亲对重见旧照感到惊喜，女儿（现已临近中考）则觉得童年时的自己很有趣。目前，这对夫妻常年在外工作，女儿与爷爷在老家读书 [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_)。
+*   此事件与近期河南濮阳发生的母女失联事件以及中国大陆多地青少年儿童失踪现象不同，后者引发了社会对公共安全的担忧 [kanzhongguo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu53VHS4qljFOH9shSdT_PbSrQnpzKdwImWVSQyrgnst5Z9XLCR6lsabnkIiiw-ltaqVo6MdQ_Eir0ydG4x5KGeU-jiTmHOeDOTO0NU2qhsWj0QHa9CHMZMDFFXx4KQQ==)。
+*   普通人因照片走红的现象反映了社交媒体带来的机遇与风险，包括个人生活轨迹的改变、商业化可能、隐私泄露以及AI技术滥用等挑战 [huxiu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnxVPD-YGlwNbHIL4-u8dD26XRD5bbp97mbnvSRN8W3U9FbRkA5hwPSqLUTwIGq9ogl0RFRaAaeMe6_gdgyMKMv8MnOOMdOc5YJAJss_3u5qq7ICW_8xSIa-ZfwjLwlF1rOA3g)。
+
+## 背景
+2016年3月27日，摄影师“三毛”在河南驻马店泌阳县老鸹山附近，偶然抓拍到一对母女从香菇大棚返家途中的照片。照片中，当时34岁的母亲和6岁的女儿，脸上洋溢着充满感染力的笑容，展现了劳动人民的乐观与生活气息。这组照片在网络上发布后迅速走红，因其真挚的笑容和生活气息，被赞“这笑容真有感染力”，引发了大量网友的共鸣和对这对母女的关注，许多人表达了希望能够找到她们的愿望 [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_)。
+
+十年后的2026年2月17日，摄影师“三毛”在网上发布寻人视频，希望能再次找到当年抓拍到的这对母女。这一举动迅速得到了社会响应。2月19日，大河报记者成功联系到照片中母女的家人吴先生，确认了她们的身份。吴先生介绍，妻子近日看到这组照片后非常惊喜，笑了半天，女儿（现已临近中考）看到后也笑称“自己小时候咋这样？”，并已与摄影师取得联系并珍藏了这组照片，使得这段跨越十年的缘分得以延续 [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_) [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22-59nOoz-1SH4O99P_kl6-ikDA1Sn7x3zLogJtJvh77cySpRckc_j3Iw2C9Gdd1kjLks6JcVTq-EUDEwWoyGKsMQ6pHPe7QCYze2Bqf9GXtCzQeHkC499Wl00loEb4bHOv8UXroqSrHmNM7TtS2bYLriios5qsbi)。
+
+值得注意的是，近期（约2025年7月）河南南阳曾发生一起15岁素人女孩“七七”因街拍走红的事件，但此为不同事件 [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXmxmo29RejUkkVZoBOVpzRl34CAZ5MktIjsTrtPh_AnwzaAeP1zEV93npY1Zpi4IRRpEJ2W7lPl8kwTpMnm_HaiFFNHk5W0f0O8KIV7PORY_YqjwANDS4DeDUH3o2PmC78sSKblw74MOGmSqkE9aB3Rj4AkY7pqXnJ1ab6FerLsOVAPKo)。此外，2026年2月，河南濮阳县还发生了一起32岁孕妇贾亚丛及其7岁女儿咸政媛离家失联的事件，截至2月19日，尚未有公开后续进展。自2026年初以来，中国大陆多地，包括河南，出现了青少年和儿童密集失踪的现象，引发了民众的担忧和恐慌 [kanzhongguo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu53VHS4qljFOH9shSdT_PbSrQnpzKdwImWVSQyrgnst5Z9XLCR6lsabnkIiiw-ltaqVo6MdQ_Eir0ydG4x5KGeU-jiTmHOeDOTO0NU2qhsWj0QHa9CHMZMDFFXx4KQQ==) [kanzhongguo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNa4jv1PShc_K0ZSm5SXhgLD6F_zSx9CMSnN-e7flC0qm9csokKvgJNSIF9K0nER-LsKKr-pgQuicJaXY4MDYQDtF03m2VK2bncB5YBaILk45PImHBVWSpNa4mLJIOjg==)。本报告主要围绕“10年前被抓拍的河南母女找到了”这一积极事件进行深度分析。
+
+## 深度分析
+
+### 1. 跨越十年的重逢：普通人故事的社会共鸣与情感价值
+这对河南母女的故事，从2016年的偶然抓拍到2026年的成功寻回，展现了普通人生活中的真挚情感如何跨越时间，引发广泛的社会共鸣。十年前，她们的笑容因其纯粹和感染力而走红网络，被视为“苦中作乐”的写照 [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_)。十年后，摄影师的寻人举动和母女的成功被找到，不仅满足了网友们的好奇心，更传递了一种温暖和希望。母亲吴先生的妻子在看到旧照后“非常惊喜，笑了半天”，女儿也笑称“自己小时候咋这样”，这些细节都体现了照片对她们家庭的特殊意义，以及普通人在平凡生活中所蕴含的强大生命力 [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_)。这种重逢不仅是个人的喜悦，也成为社会情感连接的一个缩影，证明了真情实感在数字时代依然具有强大的传播力和影响力。
+
+### 2. 河南农村家庭十年变迁的缩影
+这对母女的家庭背景——驻马店市泌阳县王店镇高楼村，以及当年经营香菇大棚的经历，是近十年来河南省农村家庭经济社会变迁的一个典型缩影 [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_)。
+*   **经济方面：** 过去十年，河南省农村居民人均可支配收入持续增长，城乡差距逐步缩小。2024年，农村居民人均可支配收入达到21330元，同比增长6.4%，城乡居民人均可支配收入比值缩小至1.97 [m12333](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYadisxi7oPcMXUrby7rX1rm_bLGiTNHFNrjG176nO0qTPDe_ptJEHwgt_FUh6g6entkW7EpU4bOZ6jDTveROZ_zSYVWoEUEvWVz0BkKOLfHvD4_sQwebnp_729bg=)。这对夫妻当年经营香菇大棚长达八年，食用菌等特色产业正是河南农业现代化和产业升级的重要组成部分，为农民增收提供了途径 [m12333](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYadisxi7oPcMXUrby7rX1rm_bLGiTNHFNrjG176nO0qTPDe_ptJEHwgt_FUh6g6entkW7EpU4bOZ6jDTveROZ_zSYVWoEUEvWVz0BkKOLfHvD4_sQwebnp_729bg=)。如今，夫妻俩常年在外工作，儿子已参加工作，这反映了河南农村劳动力从“地域转移为主”向“产业转移为主”的转变，以及外出务工仍是许多农村家庭重要的收入来源 [m12333](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbYpenOMk5p0-sj5kLL6lhhwBfoIAu5xwafzKlsNjwZQgd_t9rtGE_U4N2fDYCsLR5x7RV1NZnG2Ghav_1p0NStIBulVhJtGoOyIB5dEvnJt6QQZx-57lFfouLVd8=)。
+*   **社会方面：** 女儿与爷爷在老家读书，即将参加中考，而父母常年在外，这体现了农村地区普遍存在的“留守”现象和家庭结构变化 [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_) [xiangcheng](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5zjhaASgYz9O21AP9kXzEUrt5HJOIXQnXTJ_YugzEwmulB1lSOCaKMnhH0pRIQPmCOY_fEHjfD8---yZsJBVlzW-HR_Wq731Qk6bAsXNFTg5sAaK-fZudXMjePnTWXtu-6Ra7lFUPDjvrcE0BLDiOz2bGnHtox0t95hIS_w3dptbQlI28aDQeBFhpP9s5khD717wDyQeNhVjFAsRsgX5JAJYbqDE=)。尽管如此，河南省在教育和医疗服务方面的持续改善，意味着留守儿童和老人在教育和医疗方面的可及性有所提高 [moe](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWpw2kRqaXJ_b6kP7EQoQA8XXTx64yNcwSzooMqUc2fQNoPRVnHKcoLddcHJzOeNhl90ya6P0dJfDLMyTjPgYfRHZsNQP6mbyQvr4RVJIS6m32b4pwJYRWe5SZXqNfUwtfVm20trSI6Lova09dpMuEKy8n5D2JI6SK2mOr3eULPRmoy0OUtw4d940=)。吴先生回忆起当年劳作的“心里不是滋味”以及作为家中顶梁柱对家人的“愧对”，也反映了农村家庭在追求经济发展过程中，对家庭团聚和情感维系的深层考量 [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_)。
+
+### 3. 普通人走红的机遇与挑战：隐私、商业化与信任危机
+这对母女因照片走红的经历，也折射出中国社会普通人通过社交媒体获得关注所面临的机遇与挑战 [huxiu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnxVPD-YGlwNbHIL4-u8dD26XRD5bbp97mbnvSRN8W3U9FbRkA5hwPSqLUTwIGq9ogl0RFRaAaeMe6_gdgyMKMv8MnOOMdOc5YJAJss_3u5qq7ICW_8xSIa-ZfwjLwlF1rOA3g)。
+*   **机遇：** 社交媒体和短视频平台为普通人提供了展示自我、改变命运的舞台，他们的生活状态和审美需求得以直接进入公众视野，甚至因此获得肯定和尊重 [huxiu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnxVPD-YGlwNbHIL4-u8dD26XRD5bbp97mbnvSRN8W3U9FbRkA5hwPSqLUTwIGq9ogl0RFRaAaeMe6_gdgyMKMv8MnOOMdOc5YJAJss_3u5qq7ICW_8xSIa-ZfwjLwlF1rOA3g)。这对母女的笑容，正是通过这种方式获得了广泛传播。
+*   **挑战：** 走红也伴随着隐私风险和舆情压力。虽然这对母女的重逢是积极的，但并非所有走红的普通人都能避免负面影响。例如，AI视频生成技术（如Seedance2.0）的飞速发展，仅凭一张照片即可还原真人音色并生成电影级视频的能力，引发了社会对肖像权、声音权侵犯的深切担忧 [huxiu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnxVPD-YGlwNbHIL4-u8dD26XRD5bbp97mbnvSRN8W3U9FbRkA5hwPSqLUTwIGq9ogl0RFRaAaeMe6_gdgyMKMv8MnOOMdOc5YJAJss_3u5qq7ICW_8xSIa-ZfwjLwlF1rOA3g)。未经授权的深度合成行为可能导致任何人的面孔和声音被随意复制和传播，甚至引发对真实性的信任危机 [huxiu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnxVPD-YGlwNbHIL4-u8dD26XRD5bbp97mbnvSRN8W3U9FbRkA5hwPSqLUTwIGq9ogl0RFRaAaeMe6_gdgyMKMv8MnOOMdOc5YJAJss_3u5qq7ICW_8xSIa-ZfwjLwlF1rOA3g)。此外，一些走红的普通人可能会被MCN机构签约，走上商业化道路，但这也伴随着产品质量、虚假宣传等争议，可能导致粉丝流失和形象受损 [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGjf_bCJlW086-4cnwqqPlTiyH7KQM2JqSnePiO05004FU_fkH1SbEUitrAEkYDYGb212ff6G_n0g0FjgPoQBmQhVQsLK67ndI70WyK8tDqaUS8JpMz88t4t0cJXzUHIaRUXci2QNXsDIbU8H7LA==)。
+
+### 对比与反例：
+与这对母女的积极重逢形成对比的是，2026年2月河南濮阳发生的母女失联事件，以及自2026年初以来中国大陆多地青少年儿童密集失踪的现象 [kanzhongguo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu53VHS4qljFOH9shSdT_PbSrQnpzKdwImWVSQyrgnst5Z9XLCR6lsabnkIiiw-ltaqVo6MdQ_Eir0ydG4x5KGeU-jiTmHOeDOTO0NU2qhsWj0QHa9CHMZMDFFXx4KQQ==)。这些事件提醒我们，在社会关注普通人故事的同时，也必须正视和解决更深层次的社会安全问题。普通人的走红带来了关注，但这种关注也可能带来不必要的风险，尤其是在缺乏完善的法律和伦理规范来保护个人隐私和肖像权的情况下 [ce](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1RYoOuWdS6br4B1Mu7m1we2KeRtQeATgxQ_FwpxzW5l_66kaP3tRsqCgAOtATvYE893RZaWBP_2H5y76OGACSXgsR4bgiPHcgH7iev7etq051R-6C2bZx56cBCDfbGwPhy-xnAp0_nxu8Y9713ZBVwppWMA==)。
+
+## 结论与建议
+
+### 结论
+1.  **情感共鸣与社会价值：** 10年前河南母女的笑容照片及其十年后的重逢，不仅是一段个人故事的圆满，更体现了社会对真挚情感和普通人生活的持续关注与共鸣，具有积极的社会情感价值。
+2.  **农村发展与家庭挑战：** 该家庭的经历是河南省农村近十年经济社会变迁的缩影，反映了农村收入增长、劳动力转移、农业现代化等积极趋势，但也凸显了“留守家庭”模式下亲情维系和家庭团聚面临的挑战。
+3.  **网络关注的双刃剑：** 普通人因照片走红既带来了改变命运的机遇，也伴随着隐私泄露、商业化风险以及AI技术滥用可能导致的肖像权侵犯和信任危机等挑战。
+
+### 建议
+1.  **加强对普通人肖像权和隐私权的保护：** 鉴于AI技术的发展和网络传播的广泛性，建议完善相关法律法规，明确未经授权使用他人肖像和声音的法律责任，并加强公众对个人信息保护的意识教育，尤其是在照片或视频走红后，应提供明确的法律咨询和保护途径。
+2.  **关注农村留守家庭的心理与情感需求：** 针对像这对母女家庭一样，父母常年外出务工、子女与老人在家的情况，建议政府和社会组织加大对农村留守儿童和老人的心理关怀和情感支持，探索更多元化的家庭团聚模式和亲子沟通方式，例如利用数字化工具促进远程亲情维系。
+3.  **促进负责任的媒体传播与技术应用：** 媒体在报道普通人走红事件时，应平衡新闻价值与个人隐私，避免过度消费当事人。同时，技术开发者应将伦理和安全融入AI技术设计，防止深度伪造等技术被滥用，并建立有效的举报和处理机制，以维护社会对真实信息的信任。
+
+### 限制条件与待后续验证的问题
+*   **个人意愿的持续性：** 尽管目前母女对重见照片感到惊喜，但长期来看，她们是否愿意持续暴露在公众视野中，以及这种关注对其个人生活和家庭关系的影响，仍需持续观察。
+*   **商业化介入的潜在影响：** 随着关注度的提升，若有商业机构介入，如何确保当事人的权益不受侵害，避免过度商业化带来的负面影响，是未来需要关注的问题。
+*   **社会安全问题的解决进展：** 报告中提及的河南濮阳母女失联事件及青少年儿童失踪现象，其后续调查进展和解决方案，将直接影响公众对社会安全的信心，并可能与普通人网络曝光的风险评估产生关联。
+
+## 数据与引用
+*   [myzaker](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf6-0Q2XRRbB1DEKLGHw_tDyzJq38Vvc0YG6DZlRK7A5dlS8D9K7OBbYeZFaBp9DHASnDs71v_LjuodLD29gcF8LEn8OwjbHKeHvb5afPU9QYlN298tT7QmRsm286Q8ZE7kC16lNcyZR9H7hOYAunQm6_)
+*   [sina](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXmxmo29RejUkkVZoBOVpzRl34CAZ5MktIjsTrtPh_AnwzaAeP1zEV93npY1Zpi4IRRpEJ2W7lPl8kwTpMnm_HaiFFNHk5W0f0O8KIV7PORY_YqjwANDS4DeDUH3o2PmC78sSKblw74MOGmSqkE9aB3Rj4AkY7pqXnJ1ab6FerLsOVAPKo)
+*   [china](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22-59nOoz-1SH4O99P_kl6-ikDA1Sn7x3zLogJtJvh77cySpRckc_j3Iw2C9Gdd1kjLks6JcVTq-EUDEwWoyGKsMQ6pHPe7QCYze2Bqf9GXtCzQeHkC499Wl00loEb4bHOv8UXroqSrHmNM7TtS2bYLriios5qsbi)
+*   [kanzhongguo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu53VHS4qljFOH9shSdT_PbSrQnpzKdwImWVSQyrgnst5Z9XLCR6lsabnkIiiw-ltaqVo6MdQ_Eir0ydG4x5KGeU-jiTmHOeDOTO0NU2qhsWj0QHa9CHMZMDFFXx4KQQ==)
+*   [kanzhongguo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNa4jv1PShc_K0ZSm5SXhgLD6F_zSx9CMSnN-e7flC0qm9csokKvgJNSIF9K0nER-LsKKr-pgQuicJaXY4MDYQDtF03m2VK2bncB5YBaILk45PImHBVWSpNa4mLJIOjg==)
+*   [cmoney](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8kiYQpJjL2BftpNVSP7BAvm66w3IhKU6sD6OCzZDbILbQjvy9clPMc5P7UnaFLRfuqYMLmNXtehzR-jvcKlS7xfrSudomnz65bnbYCuREB1i3vMA5A0bH3-BP4dsdmnng6qXwryQt)
+*   [youtube](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn3gUerwxMAoQY6BOrEuHexkruWIu1FxSnbG3EO2WgdMKzAe4j9ISl1lCzlc-WyqZUmFuAiLTYQXgLfyzRorMBw3RUQGCy-95C_iThxZCn1lpfz_1nITSEKEqfWm_ci25MUe-Q)
+*   [huxiu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnxVPD-YGlwNbHIL4-u8dD26XRD5bbp97mbnvSRN8W3U9FbRkA5hwPSqLUTwIGq9ogl0RFRaAaeMe6_gdgyMKMv8MnOOMdOc5YJAJss_3u5qq7ICW_8xSIa-ZfwjLwlF1rOA3g)
+*   [guancha](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNHrsdBZzcTj1cNroZU7KU--fI-2Yt1IQyYNe6afvTUBxCfCTGQn2VKEPsx_owS0uriggpK7A1BE4xiiD9hXyzNRpEgjYuA6BlE5GchCw20d8Rf0MzbcRjank6u-YLEAaNW6HAVIGArNRnxz7tZH7A)
+*   [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGjf_bCJlW086-4cnwqqPlTiyH7KQM2JqSnePiO05004FU_fkH1SbEUitrAEkYDYGb212ff6G_n0g0FjgPoQBmQhVQsLK67ndI70WyK8tDqaUS8JpMz88t4t0cJXzUHIaRUXci2QNXsDIbU8H7LA==)
+*   [ce](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1RYoOuWdS6br4B1Mu7m1we2KeRtQeATgxQ_FwpxzW5l_66kaP3tRsqCgAOtATvYE893RZaWBP_2H5y76OGACSXgsR4bgiPHcgH7iev7etq051R-6C2bZx56cBCDfbGwPhy-xnAp0_nxu8Y9713ZBVwppWMA==)
+*   [163](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgJ3bMwPrPMqXMR6u2S5MllihgPvj9jZP4VwLQTuk-b4M6WxKRCmOVsBH8ssZVvteBaOwe8BqT3zt18iIiKUO4PZAOQphElCF2L_y7uPGbJTCyMrvR3VFvWPvAm6A-XTUm4VaEQTXlWPlYdGor4g==)
+*   [bastillepost](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6ljj9ZZp1NSYaxlT1jggCFcQHenxHwuJ8mixJr_JtyZkku-LKZGS_6ZhQCNS5z3IffbSuMdQQDNVtHLLafti6OE70FeJkySwa5cdqB4Rue6nScWvP04rmEltE7iOY9N_9OiDwLc7Qtn2KUjSk18U7FhDeRx-wFDz0aqsIqVHJcDXWNVtCsnrgFIyMbAdCj9J-9iy4cnr2FtLcyrCAYHdkPUfhJv3Wnk3pSL8h9SAYMWLItmwhDIlpk3pSEGGQ7BCn1w7r42MVdMTgZITqkKkWE7GlT5wZAviDctnMLrzvKOAaU54Cvkw8dq95LOANtJkrof3Kp3fzC_GzT1vpG6_yVLk3VBJ3kCbU_wbRhKsQ0UmDCCFn675XRxAb2p0ra0ToCWqhImmwL_z_SA0Z_FFoB9saFMzCIVw=)
+*   [m12333](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYadisxi7oPcMXUrby7rX1rm_bLGiTNHFNrjG176nO0qTPDe_ptJEHwgt_FUh6g6entkW7EpU4bOZ6jDTveROZ_zSYVWoEUEvWVz0BkKOLfHvD4_sQwebnp_729bg=)
+*   [m12333](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbYpenOMk5p0-sj5kLL6lhhwBfoIAu5xwafzKlsNjwZQgd_t9rtGE_U4N2fDYCsLR5x7RV1NZnG2Ghav_1p0NStIBulVhJtGoOyIB5dEvnJt6QQZx-57lFfouLVd8=)
+*   [xiangcheng](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5zjhaASgYz9O21AP9kXzEUrt5HJOIXQnXTJ_YugzEwmulB1lSOCaKMnhH0pRIQPmCOY_fEHjfD8---yZsJBVlzW-HR_Wq731Qk6bAsXNFTg5sAaK-fZudXMjePnTWXtu-6Ra7lFUPDjvrcE0BLDiOz2bGnHtox0t95hIS_w3dptbQlI28aDQeBFhpP9s5khD717wDyQeNhVjFAsRsgX5JAJYbqDE=)
+*   [pds](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrjvk4Ng1UzpYBjXi8Fn_GbvnID2vEkSNkBtkdPojicuY9wfyDaSPCiPu4EyTwQ7VPxEH3X7cEhklWzqaKX1a902eZfsu6fX5SXDJ6bX9GoHlnB6s2wdoiE3HA2v9I11638yBs5Su0Jq8G_A==)
+*   [news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvqQweRlkD3xM8mdNBV1G2nh-YrCePSUuzU9UAxYEkuKml5fXU_nmDsWb8fPQq4vMecof37mUP8WZEIi9WzAGIfXq_hL9HNtLBDKqIwPAj6Ci8T3y72UNtExZVmZ4p2MyHXRmXBd9I95VY1dv0ZLUwennEMMkoJbFFpABXuw==)
+*   [xiangcheng](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6_5gHSE6M4sx8noQOyhbqmpZtIIcSMF78BfXK-doOgvLWrBWmzLdg9CchyekIcN7RauBELsWP6LuR1IQ-KhVsexpGenMbH-i3JGWy5IXipxtYc5YsEw9TeItNw9LqZZSufx9NETqxSOOmOTTePGgEQLd_9O1OeD4764xJvQf8e6F77J8R_xu9yTE40i3ZGZZuY9JnRDM7lk-jP2HiO1f-uRA=)
+*   [weihengag](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpNx5fphSuREM7CNClKecWv7dn6gO7zgwebawiZ8w0qupLfIt4OOOU1SOh6qW8h_53LhvTRxM-AiUKZCzrpOq-VuM5BSMmUCyzX4bt-vinxh-NYM7UK6p_Z9KSlA1wCg4cLouTzffoWUMqbrshCNA8)
+*   [ndrc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv73RWpAsL2QAr55pgB8dFoOKpWg1_IlOTPFOMCYfRaVMGW_o9ZxU8vi7FjHvmbx8bBfQHZZvz_f6ng_36MJDs6lPsMQZmJ-fA-JPJIgaICOa62OMHwomVKsZHQK7OA4dmOUMzkFjQV_Z19u_9i41M4hmyI7yDKop5kP3mOijPxA==)
+*   [zgxczx](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERBN11vuNuvQwnjjb2lO29tLhN8IFuRlO4Ec98t5F4TUqD8HPA9QzbHp9UKrY387pzhG4Oz13l5bevHI6i6pfAP8ti0k1NvWz_yrs2rAgfm_vrM-5IA4uwtn2xdvfRb3I=)
+*   [hanspub](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEYaN4uSgP7m3jZbpeweSSVi4ZSQyTFKu038gMD8IjOEhL23H7tdmbjPVZkY-yoJVlGJwv5PetyTjvaTNEMWfvO0_Xl0uPHP-8LMyAV-0a95Opiy9fXk2w_YPHBirKKS2MFU4eoBUoPB4=)
+*   [cssn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU18u5eaNPiN-KxVL2vL7ts0qVW70m1GUIHbT--23z71ymYNtHVAF5BKNNxq6cA0PmH6ZVxYotWjbovZasIUiV35aQ3Ib8wW_CO1T2ad8D2iNWhbn_LcxqvD-LgoWQYRdGlZY2jIMwPFrMVO3DYHkta6zKyJ07THNV)
+*   [pku](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL3C98iBDNLmYeG2OM4qm_wqhECm7QE-e2DmbJ1o9XZeR2137GXh0mHnYzJh0TttGYaZsZrBwLnGlbFiixMyg6N6wXcn57ijCN6tvRX6NwUlwmWolID5CGo1usTCDClD3bdCV9caznPFivpA==)
+*   [hprc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdKQWG_W8hGvLUkjhubdmD-xW-S17p__3dAActTeWNwR-lqv3Ak6r46p7I7UpGezKSKYzu_UJkyRrzuzkAgEhjYpniPPVsrIr7i_4ERnCgyGIrA_6pdvAk6fpJYWGfyUJsIN96i6QM5f5gpvnFKX5uN4GoskLBw77Ge3npgg==)
+*   [moe](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWpw2kRqaXJ_b6kP7EQoQA8XXTx64yNcwSzooMqUc2fQNoPRVnHKcoLddcHJzOeNhl90ya6P0dJfDLMyTjPgYfRHZsNQP6mbyQvr4RVJIS6m32b4pwJYRWe5SZXqNfUwtfVm20trSI6Lova09dpMuEKy8n5D2JI6SK2mOr3eULPRmoy0OUtw4d940=)
+*   [thepaper](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsqxx-LF0R-PoupGw6Z6t1tKFORJgfBXo1U7T1Ann-0bIVO4dMzNIua6Ch9ItUF1n4761XY0yRn_aX0E89sjJT5UxxdTLF-yuqTxT8Pg1BGGrSXTLG7s5SPxVxuWOJQiUjzStIy-v9wZ3Hdw==)
+*   [qq](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnBiD45t8le_LfxlzR4-p7-afFIp70SRp0KSNysXXRgslBMdA6lqeXvjJ1aUo2sPAT_IyXamuOO5pj88Gp8ErtMHgfq6DhlPkwq8DadPhRxkqmu-8NfBsMUR8r6xV8Czh0PbBjFw==)
+*   [huuc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjbJDmcSD9UGOmIfVHMBZmDI-Zg_INtPPcOTWiKXIEICvuZ3BNq8Whky-A0XGSUqAz1hB6L2rEVZQknEVTmkrzBQr36CfHUBJWQLBfEGcLh3PxGf73c92cDyjFXu3lzP4grjBcqw==)
