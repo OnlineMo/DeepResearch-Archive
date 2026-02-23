@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [高速堵车 乘客劝司机就地卖甘蔗 - 2026-02-22](AI_Reports/lu-you-yu-chu-xing/gao-su-du-che-cheng-ke-quan-si-ji-jiu-di-mai-gan-zhe-2026-02-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6+%E4%B9%98%E5%AE%A2%E5%8A%9D%E5%8F%B8%E6%9C%BA%E5%B0%B1%E5%B0%B0%E5%8D%96%E7%94%98%E8%94%97&sa=fyb_news&rsv_dl=fyb_news)
-- [绘就宜居宜业和美乡村新画卷 - 2026-02-22](AI_Reports/wei-fen-lei/hui-jiu-yi-ju-yi-ye-he-mei-xiang-cun-xin-hua-juan-2026-02-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E5%AE%9C%E5%B1%85%E5%AE%9C%E4%B8%9A%E5%92%8C%E7%BE%8E%E4%B9%A1%E6%9D%91%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
+- [“跃马扬鞭”开新局 - 2026-02-23](AI_Reports/wei-fen-lei/yue-ma-yang-bian-kai-xin-ju-2026-02-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%83%E9%A9%AC%E6%89%AC%E9%9E%AD%E2%80%9D%E5%BC%80%E6%96%B0%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
