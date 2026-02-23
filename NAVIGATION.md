@@ -327,6 +327,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [“跃马扬鞭”开新局 - 2026-02-23](AI_Reports/wei-fen-lei/yue-ma-yang-bian-kai-xin-ju-2026-02-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%83%E9%A9%AC%E6%89%AC%E9%9E%AD%E2%80%9D%E5%BC%80%E6%96%B0%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [绘就宜居宜业和美乡村新画卷 - 2026-02-22](AI_Reports/wei-fen-lei/hui-jiu-yi-ju-yi-ye-he-mei-xiang-cun-xin-hua-juan-2026-02-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E5%AE%9C%E5%B1%85%E5%AE%9C%E4%B8%9A%E5%92%8C%E7%BE%8E%E4%B9%A1%E6%9D%91%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [大年初五迎财神 - 2026-02-21](AI_Reports/wei-fen-lei/da-nian-chu-wu-ying-cai-shen-2026-02-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [“金牌侠侣” 巅峰相见 - 2026-02-21](AI_Reports/wei-fen-lei/jin-pai-xia-lu-dian-feng-xiang-jian-2026-02-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E9%87%91%E7%89%8C%E4%BE%A3%E4%BE%A3%E2%80%9D+%E5%B7%85%E5%B3%B0%E7%9B%B8%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)
@@ -346,4 +347,3 @@
 - [习近平在京看望慰问基层干部群众 - 2026-02-11](AI_Reports/wei-fen-lei/xi-jin-ping-zai-jing-kan-wang-wei-wen-ji-ceng-gan-bu-qun-zhong-2026-02-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%AC%E7%9C%8B%E6%9C%9B%E6%85%B0%E9%97%AE%E5%9F%BA%E5%B1%82%E5%B9%B2%E9%83%A8%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)
 - [重磅打虎！易炼红被查 - 2026-02-10](AI_Reports/wei-fen-lei/zhong-bang-da-hu-yi-lian-hong-bei-cha-2026-02-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%E6%89%93%E8%99%8E%EF%BC%81%E6%98%93%E7%82%BC%E7%BA%A2%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的新春“家常话” - 2026-02-10](AI_Reports/wei-fen-lei/zong-shu-ji-de-xin-chun-jia-chang-hua-2026-02-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%96%B0%E6%98%A5%E2%80%9C%E5%AE%B6%E5%B8%B8%E8%AF%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [中共中央政治局召开会议 - 2026-01-31](AI_Reports/wei-fen-lei/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2026-01-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
