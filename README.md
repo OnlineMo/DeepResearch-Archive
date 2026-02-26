@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [跃马扬鞭 万马奔腾 马不停蹄 - 2026-02-25](AI_Reports/wei-fen-lei/yue-ma-yang-bian-mo-ma-ben-teng-ma-bu-ting-ti-2026-02-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%83%E9%A9%AC%E6%89%AC%E9%9E%AD+%E4%B8%87%E9%A9%AC%E5%A5%94%E8%85%BE+%E9%A9%AC%E4%B8%8D%E5%81%9C%E8%B9%84&sa=fyb_news&rsv_dl=fyb_news)
-- [专家：未来一周只需工作2天 - 2026-02-25](AI_Reports/wei-fen-lei/zhuan-jia-wei-lai-yi-zhou-zhi-xu-gong-zuo-2tian-2026-02-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%91%A8%E5%8F%AA%E9%9C%80%E5%B7%A5%E4%BD%9C2%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
+- [美用技术霸权收割全球虚拟货币资产 - 2026-02-26](AI_Reports/wei-fen-lei/mei-yong-ji-zhu-ba-quan-shou-ge-quan-qiu-xu-ni-huo-bi-zi-chan-2026-02-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%A8%E6%8A%80%E6%9C%AF%E9%9C%B8%E6%9D%83%E6%94%B6%E5%88%B2%E5%85%A8%E7%90%83%E8%99%9A%E6%8B%9B%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平会见德国总理默茨 - 2026-02-26](AI_Reports/wei-fen-lei/xi-jin-ping-hui-jian-de-guo-zong-li-mo-ci-2026-02-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%84%E8%8C%A8&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
