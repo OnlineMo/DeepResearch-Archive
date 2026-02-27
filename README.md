@@ -19,6 +19,7 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [美用技术霸权收割全球虚拟货币资产 - 2026-02-26](AI_Reports/wei-fen-lei/mei-yong-ji-zhu-ba-quan-shou-ge-quan-qiu-xu-ni-huo-bi-zi-chan-2026-02-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%A8%E6%8A%80%E6%9C%AF%E9%9C%B8%E6%9D%83%E6%94%B6%E5%88%B2%E5%85%A8%E7%90%83%E8%99%9A%E6%8B%9B%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平会见德国总理默茨 - 2026-02-26](AI_Reports/wei-fen-lei/xi-jin-ping-hui-jian-de-guo-zong-li-mo-ci-2026-02-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%84%E8%8C%A8&sa=fyb_news&rsv_dl=fyb_news)
+- [经济大省勇挑大梁 - 2026-02-27](AI_Reports/jing-ji-yu-shi-chang/jing-ji-da-sheng-yong-tiao-da-liang-2026-02-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E5%A4%A7%E7%9C%81%E5%8B%87%E6%8C%91%E5%A4%A7%E6%A2%81&sa=fyb_news&rsv_dl=fyb_news)
+- [奔驰宝马奥迪集体降价 销售员回应 - 2026-02-27](AI_Reports/shi-zheng-yu-guo-ji/ben-chi-bao-ma-ao-di-ji-ti-jiang-jie-xiao-shou-yuan-hui-ying-2026-02-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7+%E9%94%80%E5%94%AE%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
+- [全球汽车销量前10出炉 中国3家上榜 - 2026-02-27](AI_Reports/wei-fen-lei/quan-qiu-qi-che-xiao-liang-qian-10chu-lu-zhong-guo-3jia-shang-bang-2026-02-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E5%87%BA%E7%82%89+%E4%B8%AD%E5%9B%BD3%E5%AE%B6%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
