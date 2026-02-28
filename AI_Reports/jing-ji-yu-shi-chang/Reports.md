@@ -1,7 +1,7 @@
 # 经济与市场 报告索引
 
 本页包含 **经济与市场** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：17
+报告总数：18
 
 ---
 
@@ -18,6 +18,10 @@
 ## D
 
 - [读懂中国经济高质量发展的确定性](du-dong-zhong-guo-jing-ji-gao-zhi-liang-fa-zhan-de-que-ding-xing-2025-12-13--v1.md) - 2025-12-13 (v1) [来源](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)
+
+## G
+
+- [固本强基 做实做强实体经济](gu-ben-qiang-ji-zuo-shi-zuo-qiang-shi-ti-jing-ji-2026-02-28--v1.md) - 2026-02-28 (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BA%E6%9C%AC%E5%BC%BA%E5%9F%BA+%E5%81%9A%E5%AE%9E%E5%81%9A%E5%BC%BA%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)
 
 ## J
 
