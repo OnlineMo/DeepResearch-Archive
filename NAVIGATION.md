@@ -97,6 +97,7 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [“为了社区里的万家灯火” - 2026-03-01](AI_Reports/ke-ji-yu-hu-lian-wang/wei-liao-she-qu-li-de-mo-jia-deng-huo-2026-03-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%86%E7%A4%BE%E5%8C%BA%E9%87%8C%E7%9A%84%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [大湾区打造全球科技创新高地 - 2025-12-22](AI_Reports/ke-ji-yu-hu-lian-wang/da-wan-qu-da-zao-quan-qiu-ke-ji-chuang-xin-gao-di-2025-12-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E6%89%93%E9%80%A0%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E9%AB%98%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光网红“玫瑰盐”真相 - 2025-12-22](AI_Reports/ke-ji-yu-hu-lian-wang/yang-shi-pu-guang-wang-hong-mei-gui-yan-zhen-xiang-2025-12-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E2%80%9C%E7%8E%AB%E7%91%B0%E7%9B%90%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [Google将允许用户未经验证侧载Android应用 - 2025-11-13](AI_Reports/ke-ji-yu-hu-lian-wang/google-will-allow-users-to-sideload-android-apps-without-verification-2025-11-13--v1.md) (v1) [来源](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
