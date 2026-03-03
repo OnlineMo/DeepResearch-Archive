@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [黎巴嫩向以色列发射6枚火箭弹 - 2026-03-02](AI_Reports/ke-xue-yu-tai-kong/li-ba-nen-xiang-yi-se-lie-fa-she-6mei-huo-jian-dan-2026-03-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%846%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)
-- [为民造福是最大政绩 - 2026-03-02](AI_Reports/wei-fen-lei/wei-min-zao-fu-shi-zui-da-zheng-ji-2026-03-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B0%91%E9%80%A0%E7%A6%8F%E6%98%AF%E6%9C%80%E5%A4%A7%E6%94%BF%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)
+- [钧正平：每个人都有必要保持警惕 - 2026-03-03](AI_Reports/wei-fen-lei/jun-zheng-ping-mei-ge-ren-du-you-bi-yao-bao-chi-jing-ti-2026-03-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%EF%BC%9A%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%BF%85%E8%A6%81%E4%BF%9D%E6%8C%81%E8%AD%A6%E6%83%95&sa=fyb_news&rsv_dl=fyb_news)
+- [乡村振兴“幸福路” - 2026-03-03](AI_Reports/wei-fen-lei/xiang-cun-zhen-xing-xing-fu-lu-2026-03-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E2%80%9C%E5%B9%B8%E7%A6%8F%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
