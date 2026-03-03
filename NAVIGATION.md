@@ -330,6 +330,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [钧正平：每个人都有必要保持警惕 - 2026-03-03](AI_Reports/wei-fen-lei/jun-zheng-ping-mei-ge-ren-du-you-bi-yao-bao-chi-jing-ti-2026-03-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%EF%BC%9A%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%BF%85%E8%A6%81%E4%BF%9D%E6%8C%81%E8%AD%A6%E6%83%95&sa=fyb_news&rsv_dl=fyb_news)
+- [乡村振兴“幸福路” - 2026-03-03](AI_Reports/wei-fen-lei/xiang-cun-zhen-xing-xing-fu-lu-2026-03-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E2%80%9C%E5%B9%B8%E7%A6%8F%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [为民造福是最大政绩 - 2026-03-02](AI_Reports/wei-fen-lei/wei-min-zao-fu-shi-zui-da-zheng-ji-2026-03-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B0%91%E9%80%A0%E7%A6%8F%E6%98%AF%E6%9C%80%E5%A4%A7%E6%94%BF%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [为5胞胎接生的专家肉眼可见地老了 - 2026-02-28](AI_Reports/wei-fen-lei/wei-5bao-tai-jie-sheng-de-zhuan-jia-rou-yan-ke-jian-di-lao-liao-2026-02-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA5%E8%83%9E%E8%83%B3%E6%8E%A5%E7%94%9F%E7%9A%84%E4%B8%93%E5%AE%B6%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E5%9C%B0%E8%80%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [全球汽车销量前10出炉 中国3家上榜 - 2026-02-27](AI_Reports/wei-fen-lei/quan-qiu-qi-che-xiao-liang-qian-10chu-lu-zhong-guo-3jia-shang-bang-2026-02-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E5%87%BA%E7%82%89+%E4%B8%AD%E5%9B%BD3%E5%AE%B6%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)
@@ -348,5 +350,3 @@
 - [“不用确认 你就是第一” - 2026-02-19](AI_Reports/wei-fen-lei/bu-yong-que-ren-ni-jiu-shi-di-yi-2026-02-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8D%E7%94%A8%E7%A)
 - [最深切的牵挂 - 2026-02-19](AI_Reports/wei-fen-lei/zui-shen-qie-de-qian-gua-2026-02-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E6%B7%B1%E5%88%87%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)
 - [“爸妈来后冰箱都变老了” - 2026-02-18](AI_Reports/wei-fen-lei/ba-ma-lai-hou-bing-xiang-du-bian-lao-liao-2026-02-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%88%B8%E5%A6%88%E6%9D%A5%E5%90%8E%E5%86%B0%E7%AE%B1%E9%83%BD%E5%8F%98%E8%80%81%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [空了1年的东北6米大炕睡满人 - 2026-02-18](AI_Reports/wei-fen-lei/kong-liao-1nian-de-dong-bei-6mi-da-kang-shui-man-ren-2026-02-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A9%BA%E4%BA%861%E5%B9%B4%E7%9A%84%E4%B8%9C%E5%8C%976%E7%B1%B3%E5%A4%A7%E7%82%95%E7%9D%A1%E6%BB%A1%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记的新春家国情 - 2026-02-18](AI_Reports/wei-fen-lei/zong-shu-ji-de-xin-chun-jia-guo-qing-2026-02-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%96%B0%E6%98%A5%E5%AE%B6%E5%9B%BD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)
