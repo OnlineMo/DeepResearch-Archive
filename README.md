@@ -19,6 +19,7 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [钧正平：每个人都有必要保持警惕 - 2026-03-03](AI_Reports/wei-fen-lei/jun-zheng-ping-mei-ge-ren-du-you-bi-yao-bao-chi-jing-ti-2026-03-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%EF%BC%9A%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%BF%85%E8%A6%81%E4%BF%9D%E6%8C%81%E8%AD%A6%E6%83%95&sa=fyb_news&rsv_dl=fyb_news)
-- [乡村振兴“幸福路” - 2026-03-03](AI_Reports/wei-fen-lei/xiang-cun-zhen-xing-xing-fu-lu-2026-03-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E2%80%9C%E5%B9%B8%E7%A6%8F%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [“三桶油”齐发交易异常波动公告 - 2026-03-04](AI_Reports/shi-zheng-yu-guo-ji/san-tong-you-qi-fa-jiao-yi-yi-chang-bo-dong-gong-gao-2026-03-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E6%A1%B6%E6%B2%B9%E2%80%9D%E9%BD%90%E5%8F%91%E4%BA%A4%E6%98%93%E5%BC%82%E5%B8%B8%E6%B3%A2%E5%8A%A8%E5%85%AC%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
+- [2026全国两会为什么格外重要 - 2026-03-04](AI_Reports/wei-fen-lei/2026quan-guo-liang-hui-wei-shi-yao-ge-wai-zhong-yao-2026-03-04--v1.md) (v1)
+- [驻日大使馆提醒：防范日本“撞人族” - 2026-03-04](AI_Reports/wei-fen-lei/zhu-ri-da-shi-guan-ti-xing-fang-fan-ri-ben-zhuang-ren-zu-2026-03-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%EF%BC%9A%E9%98%B2%E8%8C%83%E6%97%A5%E6%9C%AC%E2%80%9C%E6%92%9E%E4%BA%BA%E6%97%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
