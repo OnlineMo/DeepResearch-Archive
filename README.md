@@ -19,7 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [“三桶油”齐发交易异常波动公告 - 2026-03-04](AI_Reports/shi-zheng-yu-guo-ji/san-tong-you-qi-fa-jiao-yi-yi-chang-bo-dong-gong-gao-2026-03-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E6%A1%B6%E6%B2%B9%E2%80%9D%E9%BD%90%E5%8F%91%E4%BA%A4%E6%98%93%E5%BC%82%E5%B8%B8%E6%B3%A2%E5%8A%A8%E5%85%AC%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
-- [2026全国两会为什么格外重要 - 2026-03-04](AI_Reports/wei-fen-lei/2026quan-guo-liang-hui-wei-shi-yao-ge-wai-zhong-yao-2026-03-04--v1.md) (v1)
-- [驻日大使馆提醒：防范日本“撞人族” - 2026-03-04](AI_Reports/wei-fen-lei/zhu-ri-da-shi-guan-ti-xing-fang-fan-ri-ben-zhuang-ren-zu-2026-03-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%EF%BC%9A%E9%98%B2%E8%8C%83%E6%97%A5%E6%9C%AC%E2%80%9C%E6%92%9E%E4%BA%BA%E6%97%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [全国政协十四届四次会议开幕 - 2026-03-05](AI_Reports/wei-fen-lei/quan-guo-zheng-xie-shi-si-jie-si-ci-hui-yi-kai-mu-2026-03-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E5%9B%8A%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%BC%80%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
