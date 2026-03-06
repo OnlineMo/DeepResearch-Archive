@@ -1,7 +1,7 @@
 # 经济与市场 报告索引
 
 本页包含 **经济与市场** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：18
+报告总数：19
 
 ---
 
@@ -27,6 +27,10 @@
 
 - [进博会上的“全勤生”](jin-bo-hui-shang-de-quan-qin-sheng-2025-11-08--v1.md) - 2025-11-08 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E2%80%9C%E5%85%A8%E5%8B%A4%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [经济大省勇挑大梁](jing-ji-da-sheng-yong-tiao-da-liang-2026-02-27--v1.md) - 2026-02-27 (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E5%A4%A7%E7%9C%81%E5%8B%87%E6%8C%91%E5%A4%A7%E6%A2%81&sa=fyb_news&rsv_dl=fyb_news)
+
+## L
+
+- [利率下调有人房贷省出110万元](li-lu-xia-diao-you-ren-fang-dai-sheng-chu-110mo-yuan-2026-03-06--v1.md) - 2026-03-06 (v1) [来源](https://www.baidu.com/s?wd=%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83%E6%9C%89%E4%BA%BA%E6%88%BF%E8%B4%B7%E7%9C%81%E5%87%BA110%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)
 
 ## M
 
