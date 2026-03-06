@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：118
+报告总数：119
 
 ---
 
@@ -133,6 +133,7 @@
 
 ## X
 
+- [习近平参加江苏代表团审议](xi-jin-ping-can-jia-jiang-su-dai-biao-tuan-shen-yi-2026-03-06--v1.md) - 2026-03-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E5%8A%A0%E6%B1%9F%E8%8B%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平春节前夕慰问部队](xi-jin-ping-chun-jie-qian-xi-wei-wen-bu-dui-2026-02-12--v1.md) - 2026-02-12 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E6%85%B0%E9%97%AE%E9%83%A8%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平的“治权”之喻发人深省](xi-jin-ping-de-zhi-quan-zhi-yu-fa-ren-shen-sheng-2026-01-16--v1.md) - 2026-01-16 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E2%80%9C%E6%B2%BB%E6%9D%83%E2%80%9D%E4%B9%8B%E5%96%BB%E5%8F%91%E4%BA%BA%E6%B7%B1%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见德国总理默茨](xi-jin-ping-hui-jian-de-guo-zong-li-mo-ci-2026-02-26--v1.md) - 2026-02-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%84%E8%8C%A8&sa=fyb_news&rsv_dl=fyb_news)
