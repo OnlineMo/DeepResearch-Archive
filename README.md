@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [利率下调有人房贷省出110万元 - 2026-03-06](AI_Reports/jing-ji-yu-shi-chang/li-lu-xia-diao-you-ren-fang-dai-sheng-chu-110mo-yuan-2026-03-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83%E6%9C%89%E4%BA%BA%E6%88%BF%E8%B4%B7%E7%9C%81%E5%87%BA110%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平参加江苏代表团审议 - 2026-03-06](AI_Reports/wei-fen-lei/xi-jin-ping-can-jia-jiang-su-dai-biao-tuan-shen-yi-2026-03-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E5%8A%A0%E6%B1%9F%E8%8B%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
+- [这位人大代表为啥举起了20元人民币 - 2026-03-07](AI_Reports/wei-fen-lei/zhe-wei-ren-da-dai-biao-wei-sha-ju-qi-liao-20yuan-ren-min-bi-2026-03-07--v1.md) (v1)
+- [总书记向女同胞致以节日祝福 - 2026-03-07](AI_Reports/yu-le-yu-ming-xing/zong-shu-ji-xiang-nu-tong-bao-zhi-yi-jie-ri-zhu-fu-2026-03-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%A5%B3%E5%90%8C%E8%B7%91%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
