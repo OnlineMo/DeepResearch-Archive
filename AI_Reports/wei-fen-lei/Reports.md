@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：120
+报告总数：121
 
 ---
 
@@ -22,6 +22,7 @@
 ## C
 
 - [潮涌海之南 开放风正劲](chao-yong-hai-zhi-nan-kai-fang-feng-zheng-jing-2025-12-19--v1.md) - 2025-12-19 (v1) [来源](https://www.baidu.com/s?wd=%E6%BD%AE%E6%B6%8C%E6%B5%B7%E4%B9%8B%E5%8D%97+%E5%BC%80%E6%94%BE%E9%A3%8E%E6%AD%A3%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)
+- [充分发挥政治建军特有优势](chong-fen-fa-hui-zheng-zhi-jian-jun-te-you-you-shi-2026-03-08--v1.md) - 2026-03-08 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%85%E5%88%86%E5%8F%91%E6%8C%81%E6%8C%A5%E6%94%BF%E6%B2%BB%E5%BB%BA%E5%86%9B%E7%89%B9%E6%9C%89%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
 
