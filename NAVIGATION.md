@@ -332,6 +332,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [习近平出席全国人大第二次全体会议 - 2026-03-09](AI_Reports/wei-fen-lei/xi-jin-ping-chu-xi-quan-guo-ren-da-di-er-ci-quan-ti-hui-yi-2026-03-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E4%BD%93%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
+- [中传一口气砍掉16个本科专业 - 2026-03-09](AI_Reports/wei-fen-lei/zhong-chuan-yi-kou-qi-kan-diao-16ge-ben-ke-zhuan-ye-2026-03-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BC%A0%E4%B8%80%E5%8F%A3%E6%B0%94%E5%88%88%E6%8E%8916%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [充分发挥政治建军特有优势 - 2026-03-08](AI_Reports/wei-fen-lei/chong-fen-fa-hui-zheng-zhi-jian-jun-te-you-you-shi-2026-03-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%85%E5%88%86%E5%8F%91%E6%8C%81%E6%8C%A5%E6%94%BF%E6%B2%BB%E5%BB%BA%E5%86%9B%E7%89%B9%E6%9C%89%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [这位人大代表为啥举起了20元人民币 - 2026-03-07](AI_Reports/wei-fen-lei/zhe-wei-ren-da-dai-biao-wei-sha-ju-qi-liao-20yuan-ren-min-bi-2026-03-07--v1.md) (v1)
 - [习近平参加江苏代表团审议 - 2026-03-06](AI_Reports/wei-fen-lei/xi-jin-ping-can-jia-jiang-su-dai-biao-tuan-shen-yi-2026-03-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E5%8A%A0%E6%B1%9F%E8%8B%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%AE%A1%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
@@ -350,5 +352,3 @@
 - [创新中国春潮涌 - 2026-02-24](AI_Reports/wei-fen-lei/chuang-xin-zhong-guo-chun-chao-yong-2026-02-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%9B%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%98%A5%E6%BD%AE%E6%B6%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [中国最大高速收费站多车雨中压哨通过 - 2026-02-24](AI_Reports/wei-fen-lei/zhong-guo-zui-da-gao-su-shou-fei-zhan-duo-che-yu-zhong-ya-shao-tong-guo-2026-02-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E5%A4%9A%E8%BD%A6%E9%9B%A8%E4%B8%AD%E5%8E%8B%E5%93%A8%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)
 - [“跃马扬鞭”开新局 - 2026-02-23](AI_Reports/wei-fen-lei/yue-ma-yang-bian-kai-xin-ju-2026-02-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%83%E9%A9%AC%E6%89%AC%E9%9E%AD%E2%80%9D%E5%BC%80%E6%96%B0%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
-- [绘就宜居宜业和美乡村新画卷 - 2026-02-22](AI_Reports/wei-fen-lei/hui-jiu-yi-ju-yi-ye-he-mei-xiang-cun-xin-hua-juan-2026-02-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E5%AE%9C%E5%B1%85%E5%AE%9C%E4%B8%9A%E5%92%8C%E7%BE%8E%E4%B9%A1%E6%9D%91%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
-- [大年初五迎财神 - 2026-02-21](AI_Reports/wei-fen-lei/da-nian-chu-wu-ying-cai-shen-2026-02-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)
