@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [全国人大外交主题记者会 - 2026-03-08](AI_Reports/shi-zheng-yu-guo-ji/quan-guo-ren-da-wai-jiao-zhu-ti-ji-zhe-hui-2026-03-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%A4%96%E4%BA%A4%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
-- [充分发挥政治建军特有优势 - 2026-03-08](AI_Reports/wei-fen-lei/chong-fen-fa-hui-zheng-zhi-jian-jun-te-you-you-shi-2026-03-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%85%E5%88%86%E5%8F%91%E6%8C%81%E6%8C%A5%E6%94%BF%E6%B2%BB%E5%BB%BA%E5%86%9B%E7%89%B9%E6%9C%89%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平出席全国人大第二次全体会议 - 2026-03-09](AI_Reports/wei-fen-lei/xi-jin-ping-chu-xi-quan-guo-ren-da-di-er-ci-quan-ti-hui-yi-2026-03-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E4%BD%93%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
+- [中传一口气砍掉16个本科专业 - 2026-03-09](AI_Reports/wei-fen-lei/zhong-chuan-yi-kou-qi-kan-diao-16ge-ben-ke-zhuan-ye-2026-03-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BC%A0%E4%B8%80%E5%8F%A3%E6%B0%94%E5%88%88%E6%8E%8916%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
