@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [习近平出席全国人大第二次全体会议 - 2026-03-09](AI_Reports/wei-fen-lei/xi-jin-ping-chu-xi-quan-guo-ren-da-di-er-ci-quan-ti-hui-yi-2026-03-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E4%BD%93%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
-- [中传一口气砍掉16个本科专业 - 2026-03-09](AI_Reports/wei-fen-lei/zhong-chuan-yi-kou-qi-kan-diao-16ge-ben-ke-zhuan-ye-2026-03-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BC%A0%E4%B8%80%E5%8F%A3%E6%B0%94%E5%88%88%E6%8E%8916%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
+今日暂无报告。
 <!-- END TODAY_REPORTS -->
