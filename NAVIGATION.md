@@ -142,6 +142,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [中国卫星公司发布太空实拍船只视频 - 2026-03-12](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-wei-xing-gong-si-fa-bu-tai-kong-shi-pai-chuan-zhi-shi-pin-2026-03-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E5%A4%AA%E7%A9%BA%E5%AE%9E%E6%8B%8D%E8%88%B9%E5%8F%AA%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 - [黎巴嫩向以色列发射6枚火箭弹 - 2026-03-02](AI_Reports/ke-xue-yu-tai-kong/li-ba-nen-xiang-yi-se-lie-fa-she-6mei-huo-jian-dan-2026-03-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%846%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [中国一口气申报20万颗卫星意味着什么 - 2026-01-13](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-yi-kou-qi-shen-bao-20mo-ke-wei-xing-yi-wei-zhao-shi-yao-2026-01-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%B3%E6%8A%A520%E4%B8%87%E9%A2%97%E5%8D%AB%E6%98%9F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)
 - [火箭军一等功营宿舍没有“豆腐块” - 2025-12-19](AI_Reports/ke-xue-yu-tai-kong/huo-jian-jun-yi-deng-gong-ying-su-she-mei-you-dou-fu-kuai-2025-12-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%81%AB%E7%AE%AD%E5%86%9B%E4%B8%80%E7%AD%89%E5%8A%9F%E8%90%A5%E5%AE%BF%E8%88%8D%E6%B2%A1%E6%9C%89%E2%80%9C%E8%B1%86%E8%85%90%E5%9D%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -161,7 +162,6 @@
 - [超大满月中秋登场 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/chao-da-man-yue-zhong-qiu-deng-chang-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E6%BB%A1%E6%9C%88%E4%B8%AD%E7%A7%8B%E7%99%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [核电站竟然还有产珍珠的副业 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/he-dian-zhan-jing-ran-huan-you-chan-zhen-zhu-de-fu-ye-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%B8%E7%94%B5%E7%AB%99%E7%AB%9F%E7%84%B6%E8%BF%98%E6%9C%89%E4%BA%A7%E7%8F%A0%E7%8F%A0%E7%9A%84%E5%89%AF%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [“一箭穿云”链动星辰大海 - 2025-10-04](AI_Reports/ke-xue-yu-tai-kong/yi-jian-chuan-yun-lian-dong-xing-chen-da-hai-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E7%AE%AD%E7%A9%BF%E4%BA%91%E2%80%9D%E9%93%BE%E5%8A%A8%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)
-- [男子种猴面包树18年 2棵达结果要求 - 2025-09-15](AI_Reports/ke-xue-yu-tai-kong/nan-zi-chong-hou-mian-bao-shu-18nian-2ke-da-jie-guo-yao-qiu-2025-09-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%8D%E7%8C%B4%E9%9D%A2%E5%8C%85%E6%A0%9118%E5%B9%B4+2%E6%A3%B5%E8%BE%BE%E7%BB%93%E6%9E%9C%E8%A6%81%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 医疗保健与生物技术
 [点击查看医疗保健与生物技术完整报告索引 →](AI_Reports/yi-liao-bao-jian-yu-sheng-wu-ji-zhu/Reports.md)
@@ -333,6 +333,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [中国式现代化 每个人都是主角 - 2026-03-12](AI_Reports/wei-fen-lei/zhong-guo-shi-xian-dai-hua-mei-ge-ren-du-shi-zhu-jiao-2026-03-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96+%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%B8%BB%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)
 - [义乌爆单！全球采购商蜂拥而至 - 2026-03-11](AI_Reports/wei-fen-lei/yi-wu-bao-dan-quan-qiu-cai-gou-shang-feng-yong-er-zhi-2026-03-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E7%88%86%E5%8D%95%EF%BC%81%E5%85%A8%E7%90%83%E9%87%87%E8%B4%AD%E5%95%86%E8%9C%82%E6%8B%A5%E8%80%8C%E8%87%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平出席全国人大第二次全体会议 - 2026-03-09](AI_Reports/wei-fen-lei/xi-jin-ping-chu-xi-quan-guo-ren-da-di-er-ci-quan-ti-hui-yi-2026-03-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E4%BD%93%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中传一口气砍掉16个本科专业 - 2026-03-09](AI_Reports/wei-fen-lei/zhong-chuan-yi-kou-qi-kan-diao-16ge-ben-ke-zhuan-ye-2026-03-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BC%A0%E4%B8%80%E5%8F%A3%E6%B0%94%E5%88%88%E6%8E%8916%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
@@ -352,4 +353,3 @@
 - [跃马扬鞭 万马奔腾 马不停蹄 - 2026-02-25](AI_Reports/wei-fen-lei/yue-ma-yang-bian-mo-ma-ben-teng-ma-bu-ting-ti-2026-02-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%83%E9%A9%AC%E6%89%AC%E9%9E%AD+%E4%B8%87%E9%A9%AC%E5%A5%94%E8%85%BE+%E9%A9%AC%E4%B8%8D%E5%81%9C%E8%B9%84&sa=fyb_news&rsv_dl=fyb_news)
 - [专家：未来一周只需工作2天 - 2026-02-25](AI_Reports/wei-fen-lei/zhuan-jia-wei-lai-yi-zhou-zhi-xu-gong-zuo-2tian-2026-02-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%91%A8%E5%8F%AA%E9%9C%80%E5%B7%A5%E4%BD%9C2%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [创新中国春潮涌 - 2026-02-24](AI_Reports/wei-fen-lei/chuang-xin-zhong-guo-chun-chao-yong-2026-02-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%9B%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%98%A5%E6%BD%AE%E6%B6%8C&sa=fyb_news&rsv_dl=fyb_news)
-- [中国最大高速收费站多车雨中压哨通过 - 2026-02-24](AI_Reports/wei-fen-lei/zhong-guo-zui-da-gao-su-shou-fei-zhan-duo-che-yu-zhong-ya-shao-tong-guo-2026-02-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E5%A4%9A%E8%BD%A6%E9%9B%A8%E4%B8%AD%E5%8E%8B%E5%93%A8%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)
