@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [推动科技创新和产业创新深度融合 - 2026-03-11](AI_Reports/ke-ji-yu-hu-lian-wang/tui-dong-ke-ji-chuang-xin-he-chan-ye-chuang-xin-shen-du-rong-he-2026-03-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E6%B7%B1%E5%BA%A6%E8%9E%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)
-- [义乌爆单！全球采购商蜂拥而至 - 2026-03-11](AI_Reports/wei-fen-lei/yi-wu-bao-dan-quan-qiu-cai-gou-shang-feng-yong-er-zhi-2026-03-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E7%88%86%E5%8D%95%EF%BC%81%E5%85%A8%E7%90%83%E9%87%87%E8%B4%AD%E5%95%86%E8%9C%82%E6%8B%A5%E8%80%8C%E8%87%B3&sa=fyb_news&rsv_dl=fyb_news)
+- [中国卫星公司发布太空实拍船只视频 - 2026-03-12](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-wei-xing-gong-si-fa-bu-tai-kong-shi-pai-chuan-zhi-shi-pin-2026-03-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E5%A4%AA%E7%A9%BA%E5%AE%9E%E6%8B%8D%E8%88%B9%E5%8F%AA%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
+- [中国式现代化 每个人都是主角 - 2026-03-12](AI_Reports/wei-fen-lei/zhong-guo-shi-xian-dai-hua-mei-ge-ren-du-shi-zhu-jiao-2026-03-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96+%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%B8%BB%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
