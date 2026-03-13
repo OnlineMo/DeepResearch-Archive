@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [中国卫星公司发布太空实拍船只视频 - 2026-03-12](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-wei-xing-gong-si-fa-bu-tai-kong-shi-pai-chuan-zhi-shi-pin-2026-03-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E5%A4%AA%E7%A9%BA%E5%AE%9E%E6%8B%8D%E8%88%B9%E5%8F%AA%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
-- [中国式现代化 每个人都是主角 - 2026-03-12](AI_Reports/wei-fen-lei/zhong-guo-shi-xian-dai-hua-mei-ge-ren-du-shi-zhu-jiao-2026-03-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96+%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%B8%BB%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news)
+- [十四届全国人大四次会议在京闭幕 - 2026-03-13](AI_Reports/wei-fen-lei/shi-si-jie-quan-guo-ren-da-si-ci-hui-yi-zai-jing-bi-mu-2026-03-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%9C%A8%E4%BA%AC%E9%97%AD%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
