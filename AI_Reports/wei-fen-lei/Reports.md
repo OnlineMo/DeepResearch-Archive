@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：126
+报告总数：127
 
 ---
 
@@ -44,6 +44,10 @@
 ## E
 
 - [二十届中央纪委五次全会公报发布](er-shi-jie-zhong-yang-ji-wei-wu-ci-quan-hui-gong-bao-fa-bu-2026-01-15--v1.md) - 2026-01-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E4%BA%94%E6%AC%A1%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)
+
+## F
+
+- [奋进春光里](fen-jin-chun-guang-li-2026-03-14--v1.md) - 2026-03-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E8%BF%9B%E6%98%A5%E5%85%89%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## G
 
