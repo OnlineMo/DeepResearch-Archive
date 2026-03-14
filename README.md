@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [十四届全国人大四次会议在京闭幕 - 2026-03-13](AI_Reports/wei-fen-lei/shi-si-jie-quan-guo-ren-da-si-ci-hui-yi-zai-jing-bi-mu-2026-03-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%9C%A8%E4%BA%AC%E9%97%AD%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)
+- [首发首款首艘！中国硬核科技再刷屏 - 2026-03-14](AI_Reports/ke-ji-yu-hu-lian-wang/shou-fa-shou-kuan-shou-sao-zhong-guo-ying-he-ke-ji-zai-shua-ping-2026-03-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%96%E5%8F%B7%E9%A6%96%E6%AC%BE%E9%A6%96%E8%89%B0%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%86%8D%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [奋进春光里 - 2026-03-14](AI_Reports/wei-fen-lei/fen-jin-chun-guang-li-2026-03-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E8%BF%9B%E6%98%A5%E5%85%89%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
