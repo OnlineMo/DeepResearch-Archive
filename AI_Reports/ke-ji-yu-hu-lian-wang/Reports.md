@@ -1,7 +1,7 @@
 # 科技与互联网 报告索引
 
 本页包含 **科技与互联网** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：12
+报告总数：13
 
 ---
 
@@ -24,6 +24,10 @@
 ## M
 
 - [马斯克称5年后不再有手机和App](ma-si-ke-cheng-5nian-hou-bu-zai-you-shou-ji-he-app-2025-11-02--v1.md) - 2025-11-02 (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%8B%E6%89%8B%E6%9C%BA%E5%92%8CApp&sa=fyb_news&rsv_dl=fyb_news)
+
+## S
+
+- [首发首款首艘！中国硬核科技再刷屏](shou-fa-shou-kuan-shou-sao-zhong-guo-ying-he-ke-ji-zai-shua-ping-2026-03-14--v1.md) - 2026-03-14 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%96%E5%8F%B7%E9%A6%96%E6%AC%BE%E9%A6%96%E8%89%B0%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%86%8D%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)
 
 ## T
 
