@@ -27,6 +27,7 @@
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [厚植中国式现代化民生底色 - 2026-03-17](AI_Reports/she-hui-yu-fa-zhi/hou-zhi-zhong-guo-shi-xian-dai-hua-min-sheng-di-se-2026-03-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8E%9A%E6%A4%8D%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B0%91%E7%94%9F%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [民生冷暖系心间 - 2026-02-20](AI_Reports/she-hui-yu-fa-zhi/min-sheng-leng-nuan-xi-xin-jian-2026-02-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%B1%E7%94%9F%E5%86%B7%E6%9A%96%E7%B3%BB%E5%BF%83%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [印度疫情死亡率高达40%到75% - 2026-01-26](AI_Reports/she-hui-yu-fa-zhi/yin-du-yi-qing-si-wang-lu-gao-da-40-dao-75-2026-01-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85%E6%AD%BB%E4%BA%A1%E7%8E%87%E9%AB%98%E8%BE%BE40%25%E5%88%B075%25&sa=fyb_news&rsv_dl=fyb_news)
 - [重温总书记对人民警察的殷殷嘱托 - 2026-01-11](AI_Reports/she-hui-yu-fa-zhi/zhong-wen-zong-shu-ji-dui-ren-min-jing-cha-de-yin-yin-zhu-tuo-2026-01-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%B4%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%E7%9A%84%E6%AE%B7%E6%AE%B7%E5%98%B1%E6%89%98&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [深圳消防车队已在莲塘口岸集结 - 2025-11-27](AI_Reports/she-hui-yu-fa-zhi/shen-zhen-xiao-fang-che-dui-yi-zai-lian-tang-kou-an-ji-jie-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93&sa=fyb_news&rsv_dl=fyb_news)
 - [香港火灾44人遇难 3人涉误杀被捕 - 2025-11-27](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-huo-zai-44ren-yu-nan-3ren-she-wu-sha-bei-bu-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE44%E4%BA%BA%E9%81%87%E9%9A%BE+3%E4%BA%BA%E6%B6%89%E8%AF%AF%E6%9D%80%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)
 - [婚前同居认定属于家庭成员 - 2025-11-26](AI_Reports/she-hui-yu-fa-zhi/hun-qian-tong-ju-ren-ding-shu-yu-jia-ting-cheng-yuan-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%E8%AE%A4%E5%AE%9A%E5%B1%9E%E4%BA%8E%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)
-- [小心！你收藏的邮票可能是“软刀子” - 2025-11-26](AI_Reports/she-hui-yu-fa-zhi/xiao-xin-ni-shou-cang-de-you-piao-ke-neng-shi-ruan-dao-zi-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%BF%83%EF%BC%81%E4%BD%A0%E6%94%B6%E8%97%8F%E7%9A%84%E9%82%AE%E7%A5%A8%E5%8F%AF%E8%83%BD%E6%98%AF%E2%80%9C%E8%BD%AF%E5%88%80%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -336,6 +336,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [多地宣布延长供暖 - 2026-03-17](AI_Reports/wei-fen-lei/duo-di-xuan-bu-yan-chang-gong-nuan-2026-03-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%88%E5%BB%B6%E9%95%BF%E4%BE%9B%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)
 - [春天 种下一粒“种子” - 2026-03-15](AI_Reports/wei-fen-lei/chun-tian-chong-xia-yi-li-chong-zi-2026-03-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%98%A5%E5%A4%A9+%E7%A7%8D%E4%B8%8B%E4%B8%80%E7%B2%92%E2%80%9C%E7%A7%8D%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [奋进春光里 - 2026-03-14](AI_Reports/wei-fen-lei/fen-jin-chun-guang-li-2026-03-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E8%BF%9B%E6%98%A5%E5%85%89%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [十四届全国人大四次会议在京闭幕 - 2026-03-13](AI_Reports/wei-fen-lei/shi-si-jie-quan-guo-ren-da-si-ci-hui-yi-zai-jing-bi-mu-2026-03-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%9C%A8%E4%BA%AC%E9%97%AD%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)
@@ -355,4 +356,3 @@
 - [为5胞胎接生的专家肉眼可见地老了 - 2026-02-28](AI_Reports/wei-fen-lei/wei-5bao-tai-jie-sheng-de-zhuan-jia-rou-yan-ke-jian-di-lao-liao-2026-02-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA5%E8%83%9E%E8%83%B3%E6%8E%A5%E7%94%9F%E7%9A%84%E4%B8%93%E5%AE%B6%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E5%9C%B0%E8%80%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [全球汽车销量前10出炉 中国3家上榜 - 2026-02-27](AI_Reports/wei-fen-lei/quan-qiu-qi-che-xiao-liang-qian-10chu-lu-zhong-guo-3jia-shang-bang-2026-02-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E5%87%BA%E7%82%89+%E4%B8%AD%E5%9B%BD3%E5%AE%B6%E4%B8%8A%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [美用技术霸权收割全球虚拟货币资产 - 2026-02-26](AI_Reports/wei-fen-lei/mei-yong-ji-zhu-ba-quan-shou-ge-quan-qiu-xu-ni-huo-bi-zi-chan-2026-02-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%A8%E6%8A%80%E6%9C%AF%E9%9C%B8%E6%9D%83%E6%94%B6%E5%88%B2%E5%85%A8%E7%90%83%E8%99%9A%E6%8B%9B%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平会见德国总理默茨 - 2026-02-26](AI_Reports/wei-fen-lei/xi-jin-ping-hui-jian-de-guo-zong-li-mo-ci-2026-02-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%84%E8%8C%A8&sa=fyb_news&rsv_dl=fyb_news)
