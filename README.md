@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [厚植中国式现代化民生底色 - 2026-03-17](AI_Reports/she-hui-yu-fa-zhi/hou-zhi-zhong-guo-shi-xian-dai-hua-min-sheng-di-se-2026-03-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8E%9A%E6%A4%8D%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B0%91%E7%94%9F%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
-- [多地宣布延长供暖 - 2026-03-17](AI_Reports/wei-fen-lei/duo-di-xuan-bu-yan-chang-gong-nuan-2026-03-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%88%E5%BB%B6%E9%95%BF%E4%BE%9B%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)
+- [霍尔木兹海峡争夺战浮出水面 - 2026-03-18](AI_Reports/wei-fen-lei/huo-er-mu-zi-hai-xia-zheng-duo-zhan-fu-chu-shui-mian-2026-03-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E4%BA%89%E5%A4%BA%E6%88%98%E6%B5%B7%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记引经据典谈正确政绩观 - 2026-03-18](AI_Reports/wei-fen-lei/zong-shu-ji-yin-jing-ju-dian-tan-zheng-que-zheng-ji-guan-2026-03-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E7%BB%8F%E6%8D%AE%E5%85%B8%E8%B0%88%E6%AD%A3%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
