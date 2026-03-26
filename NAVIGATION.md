@@ -336,6 +336,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [习近平为“千年大计”作出重要部署 - 2026-03-26](AI_Reports/wei-fen-lei/xi-jin-ping-wei-qian-nian-da-ji-zuo-chu-zhong-yao-bu-shu-2026-03-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E5%8D%83%E5%B9%B4%E5%A4%A7%E8%AE%A1%E2%80%9D%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E9%83%B2%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [对雄安的发展前景 我们充满信心 - 2026-03-25](AI_Reports/wei-fen-lei/dui-xiong-an-de-fa-zhan-qian-jing-wo-men-chong-man-xin-xin-2026-03-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E9%9B%84%E5%AE%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%89%8D%E6%99%AF+%E6%88%91%E4%BB%AC%E5%85%85%E6%BB%A1%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [多家银行发布风险提示 - 2026-03-25](AI_Reports/wei-fen-lei/duo-jia-yin-xing-fa-bu-feng-xian-ti-shi-2026-03-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9B%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%B8%E9%99%A9%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [相约未来 共赴雄安 - 2026-03-24](AI_Reports/wei-fen-lei/xiang-yue-wei-lai-gong-fu-xiong-an-2026-03-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9B%B8%E7%BA%A6%E6%9C%AA%E6%9D%A5+%E5%85%B1%E8%B5%B4%E9%9B%84%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
@@ -355,4 +356,3 @@
 - [总书记引经据典谈正确政绩观 - 2026-03-18](AI_Reports/wei-fen-lei/zong-shu-ji-yin-jing-ju-dian-tan-zheng-que-zheng-ji-guan-2026-03-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E7%BB%8F%E6%8D%AE%E5%85%B8%E8%B0%88%E6%AD%A3%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 - [多地宣布延长供暖 - 2026-03-17](AI_Reports/wei-fen-lei/duo-di-xuan-bu-yan-chang-gong-nuan-2026-03-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%88%E5%BB%B6%E9%95%BF%E4%BE%9B%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)
 - [春天 种下一粒“种子” - 2026-03-15](AI_Reports/wei-fen-lei/chun-tian-chong-xia-yi-li-chong-zi-2026-03-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%98%A5%E5%A4%A9+%E7%A7%8D%E4%B8%8B%E4%B8%80%E7%B2%92%E2%80%9C%E7%A7%8D%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [奋进春光里 - 2026-03-14](AI_Reports/wei-fen-lei/fen-jin-chun-guang-li-2026-03-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E8%BF%9B%E6%98%A5%E5%85%89%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
