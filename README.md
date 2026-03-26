@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [对雄安的发展前景 我们充满信心 - 2026-03-25](AI_Reports/wei-fen-lei/dui-xiong-an-de-fa-zhan-qian-jing-wo-men-chong-man-xin-xin-2026-03-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E9%9B%84%E5%AE%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%89%8D%E6%99%AF+%E6%88%91%E4%BB%AC%E5%85%85%E6%BB%A1%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
-- [多家银行发布风险提示 - 2026-03-25](AI_Reports/wei-fen-lei/duo-jia-yin-xing-fa-bu-feng-xian-ti-shi-2026-03-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9B%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%B8%E9%99%A9%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平为“千年大计”作出重要部署 - 2026-03-26](AI_Reports/wei-fen-lei/xi-jin-ping-wei-qian-nian-da-ji-zuo-chu-zhong-yao-bu-shu-2026-03-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E5%8D%83%E5%B9%B4%E5%A4%A7%E8%AE%A1%E2%80%9D%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E9%83%B2%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
