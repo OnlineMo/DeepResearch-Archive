@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [中共中央政治局召开会议 - 2026-03-28](AI_Reports/wei-fen-lei/zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2026-03-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
+- [德国中医河南买菜被送葱：成了自己人 - 2026-03-29](AI_Reports/wei-fen-lei/de-guo-zhong-yi-he-nan-mai-cai-bei-song-cong-cheng-liao-zi-ji-ren-2026-03-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E4%B8%AD%E5%8C%BB%E6%B2%B3%E5%8D%97%E4%B9%B0%E8%8F%9C%E8%A2%AB%E9%80%81%E8%91%B1%EF%BC%9A%E6%88%90%E4%BA%86%E8%87%AA%E5%B7%B1%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记的这些理念一以贯之 - 2026-03-29](AI_Reports/wei-fen-lei/zong-shu-ji-de-zhe-xie-li-nian-yi-yi-guan-zhi-2026-03-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%BF%99%E4%BA%9B%E7%90%86%E5%BF%B5%E4%B8%80%E4%BB%A3%E8%B4%AF%E4%B9%8B&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
