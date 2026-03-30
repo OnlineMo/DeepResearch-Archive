@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：152
+报告总数：154
 
 ---
 
@@ -103,6 +103,7 @@
 ## N
 
 - [南京大屠杀唯一存世动态影像](nan-jing-da-tu-sha-wei-yi-cun-shi-dong-tai-ying-xiang-2025-12-13--v1.md) - 2025-12-13 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%94%AF%E4%B8%80%E5%AD%98%E4%B8%96%E5%8A%A8%E6%80%81%E5%BD%B1%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [努力让群众看到变化、得到实惠](nu-li-rang-qun-zhong-kan-dao-bian-hua-de-dao-shi-hui-2026-03-30--v1.md) - 2026-03-30 (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E8%AE%A9%E7%BE%A4%E4%BC%97%E7%9C%8B%E5%88%B0%E5%8F%98%E5%8C%96%E3%80%81%E5%BE%97%E5%88%B0%E5%AE%9E%E6%83%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [女生接退伍男友 男友眼睛瞬间亮了](nu-sheng-jie-tui-wu-nan-you-nan-you-yan-jing-shun-jian-liang-liao-2025-09-07--v1.md) - 2025-09-07 (v1)
 
 ## P
@@ -154,6 +155,7 @@
 - [习近平出席全国人大第二次全体会议](xi-jin-ping-chu-xi-quan-guo-ren-da-di-er-ci-quan-ti-hui-yi-2026-03-09--v1.md) - 2026-03-09 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E4%BD%93%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平春节前夕慰问部队](xi-jin-ping-chun-jie-qian-xi-wei-wen-bu-dui-2026-02-12--v1.md) - 2026-02-12 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E6%85%B0%E9%97%AE%E9%83%A8%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平的“治权”之喻发人深省](xi-jin-ping-de-zhi-quan-zhi-yu-fa-ren-shen-sheng-2026-01-16--v1.md) - 2026-01-16 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E2%80%9C%E6%B2%BB%E6%9D%83%E2%80%9D%E4%B9%8B%E5%96%BB%E5%8F%91%E4%BA%BA%E6%B7%B1%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平欢迎并邀请郑丽文率团来访](xi-jin-ping-huan-ying-bing-yao-qing-zheng-li-wen-lu-tuan-lai-fang-2026-03-30--v1.md) - 2026-03-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%AC%A2%E8%BF%8E%E5%B9%B6%E9%82%80%E8%AF%B7%E9%83%91%E4%B8%BD%E6%96%87%E7%8E%87%E5%9B%A2%E6%9D%A5%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见德国总理默茨](xi-jin-ping-hui-jian-de-guo-zong-li-mo-ci-2026-02-26--v1.md) - 2026-02-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%84%E8%8C%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见芬兰总理奥尔波](xi-jin-ping-hui-jian-fen-lan-zong-li-ao-er-bo-2026-01-28--v1.md) - 2026-01-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%8A%AC%E5%85%B0%E6%80%BB%E7%90%86%E5%A5%A5%E5%B0%94%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平情系祖国的“掌上明珠”](xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) - 2025-12-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
