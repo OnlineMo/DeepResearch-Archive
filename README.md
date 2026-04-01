@@ -19,5 +19,7 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [总书记为推进国土绿化指引方向 - 2026-03-31](AI_Reports/wei-fen-lei/zong-shu-ji-wei-tui-jin-guo-tu-lu-hua-zhi-yin-fang-xiang-2026-03-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E6%8E%A8%E8%BF%9B%E5%9B%BD%E5%9C%9F%E7%BB%BF%E5%8C%96%E6%8C%87%E5%BC%95%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
+- [蔡磊进入渐冻症终末期 - 2026-04-01](AI_Reports/wei-fen-lei/cai-lei-jin-ru-jian-dong-zheng-zhong-mo-qi-2026-04-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%94%A1%E7%A3%8A%E8%BF%9B%E5%85%A5%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)
+- [军事机密泄露竟是因为运动手表 - 2026-04-01](AI_Reports/wei-fen-lei/jun-shi-ji-mi-xie-lu-jing-shi-yin-wei-yun-dong-shou-biao-2026-04-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E6%9C%BA%E5%AF%86%E6%B3%84%E9%9C%B2%E7%AB%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E5%8A%A8%E6%89%8B%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
+- [在雄安 为幸福加码 - 2026-04-01](AI_Reports/wei-fen-lei/zai-xiong-an-wei-xing-fu-jia-ma-2026-04-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9C%A8%E9%9B%84%E5%AE%89+%E4%B8%BA%E5%B9%B8%E7%A6%8F%E5%8A%A0%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
