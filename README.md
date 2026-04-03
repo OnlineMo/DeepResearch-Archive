@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [为美丽中国增绿添彩 - 2026-04-02](AI_Reports/wei-fen-lei/wei-mei-li-zhong-guo-zeng-lu-tian-cai-2026-04-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%A2%9E%E7%BB%BF%E6%B7%BB%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
-- [浙江宣传：“一个子儿都没有”也是有 - 2026-04-02](AI_Reports/wei-fen-lei/zhe-jiang-xuan-chuan-yi-ge-zi-er-du-mei-you-ye-shi-you-2026-04-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9A%E2%80%9C%E4%B8%80%E4%B8%AA%E5%AD%90%E5%84%BF%E9%83%BD%E6%B2%A1%E6%9C%89%E2%80%9D%E4%B9%9F%E6%98%AF%E6%9C%89&sa=fyb_news&rsv_dl=fyb_news)
+- [人民日报评汽车“销冠”易主 - 2026-04-03](AI_Reports/wei-fen-lei/ren-min-ri-bao-ping-qi-che-xiao-guan-yi-zhu-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%81%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
+- [足迹里的政绩观 - 2026-04-03](AI_Reports/wei-fen-lei/zu-ji-li-de-zheng-ji-guan-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%E9%87%8C%E7%9A%84%E6%94%BF%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
