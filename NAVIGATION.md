@@ -336,6 +336,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [人民日报评汽车“销冠”易主 - 2026-04-03](AI_Reports/wei-fen-lei/ren-min-ri-bao-ping-qi-che-xiao-guan-yi-zhu-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%81%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
+- [足迹里的政绩观 - 2026-04-03](AI_Reports/wei-fen-lei/zu-ji-li-de-zheng-ji-guan-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%E9%87%8C%E7%9A%84%E6%94%BF%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 - [为美丽中国增绿添彩 - 2026-04-02](AI_Reports/wei-fen-lei/wei-mei-li-zhong-guo-zeng-lu-tian-cai-2026-04-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%A2%9E%E7%BB%BF%E6%B7%BB%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [浙江宣传：“一个子儿都没有”也是有 - 2026-04-02](AI_Reports/wei-fen-lei/zhe-jiang-xuan-chuan-yi-ge-zi-er-du-mei-you-ye-shi-you-2026-04-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9A%E2%80%9C%E4%B8%80%E4%B8%AA%E5%AD%90%E5%84%BF%E9%83%BD%E6%B2%A1%E6%9C%89%E2%80%9D%E4%B9%9F%E6%98%AF%E6%9C%89&sa=fyb_news&rsv_dl=fyb_news)
 - [蔡磊进入渐冻症终末期 - 2026-04-01](AI_Reports/wei-fen-lei/cai-lei-jin-ru-jian-dong-zheng-zhong-mo-qi-2026-04-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%94%A1%E7%A3%8A%E8%BF%9B%E5%85%A5%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)
@@ -354,5 +356,3 @@
 - [多家银行发布风险提示 - 2026-03-25](AI_Reports/wei-fen-lei/duo-jia-yin-xing-fa-bu-feng-xian-ti-shi-2026-03-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9B%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%B8%E9%99%A9%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [相约未来 共赴雄安 - 2026-03-24](AI_Reports/wei-fen-lei/xiang-yue-wei-lai-gong-fu-xiong-an-2026-03-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9B%B8%E7%BA%A6%E6%9C%AA%E6%9D%A5+%E5%85%B1%E8%B5%B4%E9%9B%84%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
 - [泄密可能就藏在“没拉窗帘”里 - 2026-03-24](AI_Reports/wei-fen-lei/xie-mi-ke-neng-jiu-cang-zai-mei-la-chuang-lian-li-2026-03-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%84%E5%AF%86%E5%8F%AF%E8%83%BD%E5%B0%B1%E8%97%8F%E5%9C%A8%E2%80%9C%E6%B2%A1%E6%8B%89%E7%AA%97%E5%B8%98%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
-- [中国的垃圾真的不够烧了吗 - 2026-03-24](AI_Reports/wei-fen-lei/zhong-guo-de-la-ji-zhen-de-bu-gou-shao-liao-ma-2026-03-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9E%83%E5%9C%BE%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%A4%9F%E7%83%A7%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
-- [喀麦隆称台湾为中国一省 台当局破防 - 2026-03-23](AI_Reports/wei-fen-lei/ke-mai-long-cheng-tai-wan-wei-zhong-guo-yi-sheng-tai-dang-ju-po-fang-2026-03-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%96%80%E9%BA%A6%E9%9D%A2%E9%9A%86%E7%A7%B0%E5%8F%B0%E6%B9%BE%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%9C%81+%E5%8F%B0%E5%BD%93%E5%B1%80%E7%A0%B4%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news)
