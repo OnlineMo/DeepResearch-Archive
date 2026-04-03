@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：160
+报告总数：162
 
 ---
 
@@ -122,6 +122,7 @@
 ## R
 
 - [人民城市为人民](ren-min-cheng-shi-wei-ren-min-2026-01-19--v1.md) - 2026-01-19 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E4%B8%BA%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)
+- [人民日报评汽车“销冠”易主](ren-min-ri-bao-ping-qi-che-xiao-guan-yi-zhu-2026-04-03--v1.md) - 2026-04-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%81%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报：让“幽灵外卖”无处遁形](ren-min-ri-bao-rang-you-ling-wai-mai-wu-chu-dun-xing-2026-01-28--v1.md) - 2026-01-28 (v1)
 - [日本首相石破茂决定辞职](ri-ben-shou-xiang-shi-po-mao-jue-ding-ci-zhi-2025-09-07--v1.md) - 2025-09-07 (v1)
 
@@ -225,6 +226,7 @@
 - [总书记心中的“人民之城”](zong-shu-ji-xin-zhong-de-ren-min-zhi-cheng-2026-03-27--v1.md) - 2026-03-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E4%BA%BA%E6%B0%91%E4%B9%8B%E5%9F%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记引经据典谈正确政绩观](zong-shu-ji-yin-jing-ju-dian-tan-zheng-que-zheng-ji-guan-2026-03-18--v1.md) - 2026-03-18 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E7%BB%8F%E6%8D%AE%E5%85%B8%E8%B0%88%E6%AD%A3%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记“新年第一课”这样划重点](zong-shu-ji-xin-nian-di-yi-ke-zhe-yang-hua-zhong-dian-2026-01-22--v1.md) - 2026-01-22 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E8%AF%BE%E2%80%9D%E8%BF%99%E6%A0%B7%E5%88%92%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
+- [足迹里的政绩观](zu-ji-li-de-zheng-ji-guan-2026-04-03--v1.md) - 2026-04-03 (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%E9%87%8C%E7%9A%84%E6%94%BF%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 - [最深切的牵挂](zui-shen-qie-de-qian-gua-2026-02-19--v1.md) - 2026-02-19 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%80%E6%B7%B1%E5%88%87%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)
 
 ## “
