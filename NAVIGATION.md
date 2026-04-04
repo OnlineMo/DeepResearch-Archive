@@ -336,6 +336,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [3岁孙女第一次见到“29岁”爷爷 - 2026-04-04](AI_Reports/wei-fen-lei/3sui-sun-nu-di-yi-ci-jian-dao-29sui-ye-ye-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=3%E5%B2%81%E5%AD%99%E5%A5%B3%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%88%B0%E2%80%9C29%E5%B2%81%E2%80%9D%E7%88%B7%E7%88%B7&sa=fyb_news&rsv_dl=fyb_news)
+- [让人民宜居安居 - 2026-04-04](AI_Reports/wei-fen-lei/rang-ren-min-yi-ju-an-ju-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E5%AE%9C%E5%B1%85%E5%AE%89%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报评汽车“销冠”易主 - 2026-04-03](AI_Reports/wei-fen-lei/ren-min-ri-bao-ping-qi-che-xiao-guan-yi-zhu-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%81%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [足迹里的政绩观 - 2026-04-03](AI_Reports/wei-fen-lei/zu-ji-li-de-zheng-ji-guan-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%E9%87%8C%E7%9A%84%E6%94%BF%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 - [为美丽中国增绿添彩 - 2026-04-02](AI_Reports/wei-fen-lei/wei-mei-li-zhong-guo-zeng-lu-tian-cai-2026-04-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%A2%9E%E7%BB%BF%E6%B7%BB%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
@@ -354,5 +356,3 @@
 - [习近平为“千年大计”作出重要部署 - 2026-03-26](AI_Reports/wei-fen-lei/xi-jin-ping-wei-qian-nian-da-ji-zuo-chu-zhong-yao-bu-shu-2026-03-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E5%8D%83%E5%B9%B4%E5%A4%A7%E8%AE%A1%E2%80%9D%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E9%83%B2%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [对雄安的发展前景 我们充满信心 - 2026-03-25](AI_Reports/wei-fen-lei/dui-xiong-an-de-fa-zhan-qian-jing-wo-men-chong-man-xin-xin-2026-03-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E9%9B%84%E5%AE%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%89%8D%E6%99%AF+%E6%88%91%E4%BB%AC%E5%85%85%E6%BB%A1%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [多家银行发布风险提示 - 2026-03-25](AI_Reports/wei-fen-lei/duo-jia-yin-xing-fa-bu-feng-xian-ti-shi-2026-03-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9B%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%B8%E9%99%A9%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)
-- [相约未来 共赴雄安 - 2026-03-24](AI_Reports/wei-fen-lei/xiang-yue-wei-lai-gong-fu-xiong-an-2026-03-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%9B%B8%E7%BA%A6%E6%9C%AA%E6%9D%A5+%E5%85%B1%E8%B5%B4%E9%9B%84%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
-- [泄密可能就藏在“没拉窗帘”里 - 2026-03-24](AI_Reports/wei-fen-lei/xie-mi-ke-neng-jiu-cang-zai-mei-la-chuang-lian-li-2026-03-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%84%E5%AF%86%E5%8F%AF%E8%83%BD%E5%B0%B1%E8%97%8F%E5%9C%A8%E2%80%9C%E6%B2%A1%E6%8B%89%E7%AA%97%E5%B8%98%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
