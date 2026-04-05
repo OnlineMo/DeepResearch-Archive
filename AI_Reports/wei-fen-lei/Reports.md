@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：164
+报告总数：166
 
 ---
 
@@ -165,6 +165,7 @@
 - [习近平会见德国总理默茨](xi-jin-ping-hui-jian-de-guo-zong-li-mo-ci-2026-02-26--v1.md) - 2026-02-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%84%E8%8C%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见芬兰总理奥尔波](xi-jin-ping-hui-jian-fen-lan-zong-li-ao-er-bo-2026-01-28--v1.md) - 2026-01-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%8A%AC%E5%85%B0%E6%80%BB%E7%90%86%E5%A5%A5%E5%B0%94%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平情系祖国的“掌上明珠”](xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) - 2025-12-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平深情讲述的英雄故事](xi-jin-ping-shen-qing-jiang-shu-de-ying-xiong-gu-shi-2026-04-05--v1.md) - 2026-04-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平听取岑浩辉述职报告](xi-jin-ping-ting-qu-cen-hao-hui-shu-zhi-bao-gao-2025-12-17--v1.md) - 2025-12-17 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%AC%E5%8F%96%E5%B2%91%E6%B5%A9%E8%BE%89%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为中加关系发展把脉定向](xi-jin-ping-wei-zhong-jia-guan-xi-fa-zhan-ba-mai-ding-xiang-2026-01-18--v1.md) - 2026-01-18 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%B8%AD%E5%8A%A0%E5%85%B3%E7%B3%BB%E5%8F%91%E5%8F%B7%E6%8A%8A%E8%84%89%E5%AE%9A%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为“千年大计”作出重要部署](xi-jin-ping-wei-qian-nian-da-ji-zuo-chu-zhong-yao-bu-shu-2026-03-26--v1.md) - 2026-03-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E5%8D%83%E5%B9%B4%E5%A4%A7%E8%AE%A1%E2%80%9D%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E9%83%B2%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)
@@ -198,6 +199,7 @@
 - [在雄安 为幸福加码](zai-xiong-an-wei-xing-fu-jia-ma-2026-04-01--v1.md) - 2026-04-01 (v1) [来源](https://www.baidu.com/s?wd=%E5%9C%A8%E9%9B%84%E5%AE%89+%E4%B8%BA%E5%B9%B8%E7%A6%8F%E5%8A%A0%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)
 - [在中国式现代化新征程上策马扬鞭](zai-zhong-guo-shi-xian-dai-hua-xin-zheng-cheng-shang-ce-ma-yang-bian-2026-02-15--v1.md) - 2026-02-15 (v1) [来源](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E7%AD%96%E9%A9%AC%E6%89%AC%E9%9E%AD&sa=fyb_news&rsv_dl=fyb_news)
 - [浙江宣传：“一个子儿都没有”也是有](zhe-jiang-xuan-chuan-yi-ge-zi-er-du-mei-you-ye-shi-you-2026-04-02--v1.md) - 2026-04-02 (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9A%E2%80%9C%E4%B8%80%E4%B8%AA%E5%AD%90%E5%84%BF%E9%83%BD%E6%B2%A1%E6%9C%89%E2%80%9D%E4%B9%9F%E6%98%AF%E6%9C%89&sa=fyb_news&rsv_dl=fyb_news)
+- [这类人千万别在饭局上乱说话](zhe-lei-ren-qian-mo-bie-zai-fan-ju-shang-luan-shuo-hua-2026-04-05--v1.md) - 2026-04-05 (v1)
 - [这位人大代表为啥举起了20元人民币](zhe-wei-ren-da-dai-biao-wei-sha-ju-qi-liao-20yuan-ren-min-bi-2026-03-07--v1.md) - 2026-03-07 (v1)
 - [这些政绩观错位表现 被总书记点名](zhe-xie-zheng-ji-guan-cuo-wei-biao-xian-bei-zong-shu-ji-dian-ming-2026-03-19--v1.md) - 2026-03-19 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%94%BF%E7%BB%A9%E8%A7%82%E9%94%99%E4%BD%8D%E8%A1%A8%E7%8E%B0+%E8%A2%AB%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [这样的电器费电又危险 快看你家有吗](zhe-yang-de-dian-qi-fei-dian-you-wei-xian-kuai-kan-ni-jia-you-ma-2026-01-04--v1.md) - 2026-01-04 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E6%A0%B7%E7%9A%84%E7%94%B5%E5%99%A8%E8%B4%B9%E7%94%B5%E5%8F%88%E5%8D%B1%E9%99%A9+%E5%BF%AB%E7%9C%8B%E4%BD%A0%E5%AE%B6%E6%9C%89%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
