@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [3岁孙女第一次见到“29岁”爷爷 - 2026-04-04](AI_Reports/wei-fen-lei/3sui-sun-nu-di-yi-ci-jian-dao-29sui-ye-ye-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=3%E5%B2%81%E5%AD%99%E5%A5%B3%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%88%B0%E2%80%9C29%E5%B2%81%E2%80%9D%E7%88%B7%E7%88%B7&sa=fyb_news&rsv_dl=fyb_news)
-- [让人民宜居安居 - 2026-04-04](AI_Reports/wei-fen-lei/rang-ren-min-yi-ju-an-ju-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E5%AE%9C%E5%B1%85%E5%AE%89%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平深情讲述的英雄故事 - 2026-04-05](AI_Reports/wei-fen-lei/xi-jin-ping-shen-qing-jiang-shu-de-ying-xiong-gu-shi-2026-04-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
+- [这类人千万别在饭局上乱说话 - 2026-04-05](AI_Reports/wei-fen-lei/zhe-lei-ren-qian-mo-bie-zai-fan-ju-shang-luan-shuo-hua-2026-04-05--v1.md) (v1)
 <!-- END TODAY_REPORTS -->
