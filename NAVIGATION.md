@@ -336,6 +336,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [习近平深情讲述的英雄故事 - 2026-04-05](AI_Reports/wei-fen-lei/xi-jin-ping-shen-qing-jiang-shu-de-ying-xiong-gu-shi-2026-04-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
+- [这类人千万别在饭局上乱说话 - 2026-04-05](AI_Reports/wei-fen-lei/zhe-lei-ren-qian-mo-bie-zai-fan-ju-shang-luan-shuo-hua-2026-04-05--v1.md) (v1)
 - [3岁孙女第一次见到“29岁”爷爷 - 2026-04-04](AI_Reports/wei-fen-lei/3sui-sun-nu-di-yi-ci-jian-dao-29sui-ye-ye-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=3%E5%B2%81%E5%AD%99%E5%A5%B3%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%88%B0%E2%80%9C29%E5%B2%81%E2%80%9D%E7%88%B7%E7%88%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [让人民宜居安居 - 2026-04-04](AI_Reports/wei-fen-lei/rang-ren-min-yi-ju-an-ju-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E5%AE%9C%E5%B1%85%E5%AE%89%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报评汽车“销冠”易主 - 2026-04-03](AI_Reports/wei-fen-lei/ren-min-ri-bao-ping-qi-che-xiao-guan-yi-zhu-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%81%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
@@ -354,5 +356,3 @@
 - [民族败类必将被钉在历史耻辱柱上 - 2026-03-27](AI_Reports/wei-fen-lei/min-zu-bai-lei-bi-jiang-bei-ding-zai-li-shi-chi-ru-zhu-shang-2026-03-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%91%E6%97%8F%E8%B4%A5%E7%B1%BB%E5%BF%85%E5%B0%86%E8%A2%AB%E9%92%89%E5%9C%A8%E5%8E%86%E5%8F%B2%E8%80%BB%E8%BE%B1%E6%9F%B1%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记心中的“人民之城” - 2026-03-27](AI_Reports/wei-fen-lei/zong-shu-ji-xin-zhong-de-ren-min-zhi-cheng-2026-03-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E4%BA%BA%E6%B0%91%E4%B9%8B%E5%9F%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为“千年大计”作出重要部署 - 2026-03-26](AI_Reports/wei-fen-lei/xi-jin-ping-wei-qian-nian-da-ji-zuo-chu-zhong-yao-bu-shu-2026-03-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E5%8D%83%E5%B9%B4%E5%A4%A7%E8%AE%A1%E2%80%9D%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E9%83%B2%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)
-- [对雄安的发展前景 我们充满信心 - 2026-03-25](AI_Reports/wei-fen-lei/dui-xiong-an-de-fa-zhan-qian-jing-wo-men-chong-man-xin-xin-2026-03-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%B9%E9%9B%84%E5%AE%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%89%8D%E6%99%AF+%E6%88%91%E4%BB%AC%E5%85%85%E6%BB%A1%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
-- [多家银行发布风险提示 - 2026-03-25](AI_Reports/wei-fen-lei/duo-jia-yin-xing-fa-bu-feng-xian-ti-shi-2026-03-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9B%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%B8%E9%99%A9%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)
