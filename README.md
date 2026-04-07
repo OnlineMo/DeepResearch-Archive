@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [他们从未远去 只是化作山河 - 2026-04-06](AI_Reports/wei-fen-lei/ta-men-cong-wei-yuan-qu-zhi-shi-hua-zuo-shan-he-2026-04-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E4%BB%B7%E6%9C%AA%E8%BF%9C%E5%8E%BB+%E5%8F%AA%E6%98%AF%E5%8C%96%E4%BD%9C%E5%B1%B1%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)
-- [微信宣布这项功能将全面停运 - 2026-04-06](AI_Reports/wei-fen-lei/wei-xin-xuan-bu-zhe-xiang-gong-neng-jiang-quan-mian-ting-yun-2026-04-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%AE%A3%E5%B8%83%E8%BF%99%E9%A1%B9%E5%8A%9F%E8%83%BD%E5%B0%86%E5%85%A8%E9%9D%A2%E5%81%9C%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)
+- [人民日报：心机商标忽悠成本太低了 - 2026-04-07](AI_Reports/wei-fen-lei/ren-min-ri-bao-xin-ji-shang-biao-hu-you-cheng-ben-tai-di-liao-2026-04-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%BF%83%E6%9C%BA%E5%95%86%E6%A0%87%E5%BF%BD%E6%82%A0%E6%88%90%E6%9C%AC%E5%A4%AA%E4%BD%8E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [英媒评价赵心童：统治力令对手胆寒 - 2026-04-07](AI_Reports/wei-fen-lei/ying-mei-ping-jie-zhao-xin-tong-tong-zhi-li-ling-dui-shou-dan-han-2026-04-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%B1%E5%AA%92%E8%AF%84%E4%BB%B7%E8%B5%B5%E5%BF%83%E7%AB%A5%EF%BC%9A%E7%BB%9F%E6%B2%BB%E5%8A%9B%E4%BB%A4%E5%AF%B9%E6%89%8B%E8%83%86%E5%AF%92&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
