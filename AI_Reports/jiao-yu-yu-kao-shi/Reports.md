@@ -1,7 +1,7 @@
 # 教育与考试 报告索引
 
 本页包含 **教育与考试** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：13
+报告总数：14
 
 ---
 
@@ -30,6 +30,10 @@
 ## S
 
 - [事关1670多万学生 六部门重磅发文](shi-guan-1670duo-mo-xue-sheng-liu-bu-men-zhong-bang-fa-wen-2025-09-27--v1.md) - 2025-09-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B31670%E5%A4%9A%E4%B8%87%E5%AD%A6%E7%94%9F+%E5%85%AD%E9%83%A8%E9%97%A8%E9%87%8D%E7%A3%85%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
+
+## W
+
+- [王毅单膝跪地向志愿军先烈献花](wang-yi-dan-xi-gui-di-xiang-zhi-yuan-jun-xian-lie-xian-hua-2026-04-11--v1.md) - 2026-04-11 (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%8D%95%E8%86%9D%E8%B7%AA%E5%9C%B0%E5%90%91%E5%BF%97%E6%84%BF%E5%86%9B%E5%85%88%E7%83%88%E7%8C%AE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
 
