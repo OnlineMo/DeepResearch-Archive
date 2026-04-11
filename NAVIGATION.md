@@ -244,6 +244,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [王毅单膝跪地向志愿军先烈献花 - 2026-04-11](AI_Reports/jiao-yu-yu-kao-shi/wang-yi-dan-xi-gui-di-xiang-zhi-yuan-jun-xian-lie-xian-hua-2026-04-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%8D%95%E8%86%9D%E8%B7%AA%E5%9C%B0%E5%90%91%E5%BF%97%E6%84%BF%E5%86%9B%E5%85%88%E7%83%88%E7%8C%AE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [duo-di-guan-xuan-xue-jia-wang-you-shi-ming-zhi-xian-mu - 2025-12-01](AI_Reports/jiao-yu-yu-kao-shi/duo-di-guan-xuan-xue-jia-wang-you-shi-ming-zhi-xian-mu-2025-12-01--v1.md) (v1)
 - [中小学春秋假来了 各地怎么放 - 2025-10-24](AI_Reports/jiao-yu-yu-kao-shi/zhong-xiao-xue-chun-qiu-jia-lai-liao-ge-di-zen-yao-fang-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87%E6%9D%A5%E4%BA%86+%E5%90%84%E5%9C%B0%E6%80%8E%E4%B9%88%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [大一新生家长提前“空巢”了 - 2025-10-19](AI_Reports/jiao-yu-yu-kao-shi/da-yi-xin-sheng-jia-chang-ti-qian-kong-chao-liao-2025-10-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E6%8F%90%E5%89%8D%E2%80%9C%E7%A9%BA%E5%B7%A2%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -336,6 +337,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [两岸同胞同属中华民族 - 2026-04-11](AI_Reports/wei-fen-lei/liang-an-tong-bao-tong-shu-zhong-hua-min-zu-2026-04-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%A4%E5%B2%B8%E5%90%8C%E8%83%9E%E5%90%8C%E5%B1%9E%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [杭州西湖将连续一周撒7吨漂白粉 - 2026-04-09](AI_Reports/wei-fen-lei/hang-zhou-xi-hu-jiang-lian-xu-yi-zhou-sa-7dun-piao-bai-fen-2026-04-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E5%B0%86%E8%BF%9E%E7%BB%AD%E4%B8%80%E5%91%A8%E6%92%927%E5%90%A8%E6%BC%82%E7%99%BD%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)
 - [以崭新政治面貌迎接建军一百周年 - 2026-04-09](AI_Reports/wei-fen-lei/yi-zhan-xin-zheng-zhi-mian-mao-ying-jie-jian-jun-yi-bai-zhou-nian-2026-04-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%B4%9B%E6%96%B0%E6%94%BF%E6%B2%BB%E9%9D%A2%E8%B2%8C%E8%BF%8E%E6%8E%A5%E5%BB%BA%E5%86%9B%E4%B8%80%E7%99%BE%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [锻造更加坚强的英雄军队 - 2026-04-08](AI_Reports/wei-fen-lei/duan-zao-geng-jia-jian-qiang-de-ying-xiong-jun-dui-2026-04-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%94%BB%E9%80%A0%E6%9B%B4%E5%8A%A0%E5%9D%9A%E5%BC%BA%E7%9A%84%E8%8B%B1%E9%9B%84%E5%86%9B%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
@@ -355,4 +357,3 @@
 - [军事机密泄露竟是因为运动手表 - 2026-04-01](AI_Reports/wei-fen-lei/jun-shi-ji-mi-xie-lu-jing-shi-yin-wei-yun-dong-shou-biao-2026-04-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E6%9C%BA%E5%AF%86%E6%B3%84%E9%9C%B2%E7%AB%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E5%8A%A8%E6%89%8B%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [在雄安 为幸福加码 - 2026-04-01](AI_Reports/wei-fen-lei/zai-xiong-an-wei-xing-fu-jia-ma-2026-04-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9C%A8%E9%9B%84%E5%AE%89+%E4%B8%BA%E5%B9%B8%E7%A6%8F%E5%8A%A0%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记为推进国土绿化指引方向 - 2026-03-31](AI_Reports/wei-fen-lei/zong-shu-ji-wei-tui-jin-guo-tu-lu-hua-zhi-yin-fang-xiang-2026-03-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E6%8E%A8%E8%BF%9B%E5%9B%BD%E5%9C%9F%E7%BB%BF%E5%8C%96%E6%8C%87%E5%BC%95%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
-- [努力让群众看到变化、得到实惠 - 2026-03-30](AI_Reports/wei-fen-lei/nu-li-rang-qun-zhong-kan-dao-bian-hua-de-dao-shi-hui-2026-03-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E8%AE%A9%E7%BE%A4%E4%BC%97%E7%9C%8B%E5%88%B0%E5%8F%98%E5%8C%96%E3%80%81%E5%BE%97%E5%88%B0%E5%AE%9E%E6%83%A0&sa=fyb_news&rsv_dl=fyb_news)
