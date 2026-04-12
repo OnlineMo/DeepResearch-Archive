@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [王毅单膝跪地向志愿军先烈献花 - 2026-04-11](AI_Reports/jiao-yu-yu-kao-shi/wang-yi-dan-xi-gui-di-xiang-zhi-yuan-jun-xian-lie-xian-hua-2026-04-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%8D%95%E8%86%9D%E8%B7%AA%E5%9C%B0%E5%90%91%E5%BF%97%E6%84%BF%E5%86%9B%E5%85%88%E7%83%88%E7%8C%AE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)
-- [两岸同胞同属中华民族 - 2026-04-11](AI_Reports/wei-fen-lei/liang-an-tong-bao-tong-shu-zhong-hua-min-zu-2026-04-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%A4%E5%B2%B8%E5%90%8C%E8%83%9E%E5%90%8C%E5%B1%9E%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [把两岸关系的未来掌握在中国人手中 - 2026-04-12](AI_Reports/wei-fen-lei/ba-liang-an-guan-xi-de-wei-lai-zhang-wo-zai-zhong-guo-ren-shou-zhong-2026-04-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB%E7%9A%84%E6%9C%AA%E6%9D%A5%E6%8E%8C%E6%8F%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8B%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
