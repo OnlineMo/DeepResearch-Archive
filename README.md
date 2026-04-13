@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [把两岸关系的未来掌握在中国人手中 - 2026-04-12](AI_Reports/wei-fen-lei/ba-liang-an-guan-xi-de-wei-lai-zhang-wo-zai-zhong-guo-ren-shou-zhong-2026-04-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB%E7%9A%84%E6%9C%AA%E6%9D%A5%E6%8E%8C%E6%8F%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8B%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
+今日暂无报告。
 <!-- END TODAY_REPORTS -->
