@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-今日暂无报告。
+- [习近平会见西班牙首相桑切斯 - 2026-04-15](AI_Reports/wei-fen-lei/xi-jin-ping-hui-jian-xi-ban-ya-shou-xiang-sang-qie-si-2026-04-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E6%A1%91%E5%88%87%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
