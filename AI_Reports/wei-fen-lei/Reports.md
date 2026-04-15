@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：175
+报告总数：176
 
 ---
 
@@ -171,6 +171,7 @@
 - [习近平欢迎并邀请郑丽文率团来访](xi-jin-ping-huan-ying-bing-yao-qing-zheng-li-wen-lu-tuan-lai-fang-2026-03-30--v1.md) - 2026-03-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%AC%A2%E8%BF%8E%E5%B9%B6%E9%82%80%E8%AF%B7%E9%83%91%E4%B8%BD%E6%96%87%E7%8E%87%E5%9B%A2%E6%9D%A5%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见德国总理默茨](xi-jin-ping-hui-jian-de-guo-zong-li-mo-ci-2026-02-26--v1.md) - 2026-02-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%84%E8%8C%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见芬兰总理奥尔波](xi-jin-ping-hui-jian-fen-lan-zong-li-ao-er-bo-2026-01-28--v1.md) - 2026-01-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%8A%AC%E5%85%B0%E6%80%BB%E7%90%86%E5%A5%A5%E5%B0%94%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平会见西班牙首相桑切斯](xi-jin-ping-hui-jian-xi-ban-ya-shou-xiang-sang-qie-si-2026-04-15--v1.md) - 2026-04-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E6%A1%91%E5%88%87%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平情系祖国的“掌上明珠”](xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) - 2025-12-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平深情讲述的英雄故事](xi-jin-ping-shen-qing-jiang-shu-de-ying-xiong-gu-shi-2026-04-05--v1.md) - 2026-04-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平听取岑浩辉述职报告](xi-jin-ping-ting-qu-cen-hao-hui-shu-zhi-bao-gao-2025-12-17--v1.md) - 2025-12-17 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%AC%E5%8F%96%E5%B2%91%E6%B5%A9%E8%BE%89%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
