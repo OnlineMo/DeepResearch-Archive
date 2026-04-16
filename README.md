@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [习近平会见西班牙首相桑切斯 - 2026-04-15](AI_Reports/wei-fen-lei/xi-jin-ping-hui-jian-xi-ban-ya-shou-xiang-sang-qie-si-2026-04-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E6%A1%91%E5%88%87%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [让中越深厚情谊焕发青春光彩 - 2026-04-16](AI_Reports/wei-fen-lei/rang-zhong-yue-shen-hou-qing-yi-huan-fa-qing-chun-guang-cai-2026-04-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%AD%E8%B6%8A%E6%B7%B1%E5%8E%9A%E6%83%85%E8%B0%8A%E7%84%95%E5%8F%91%E9%9D%92%E6%98%A5%E5%85%89%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
