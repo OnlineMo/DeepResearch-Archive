@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：176
+报告总数：177
 
 ---
 
@@ -127,6 +127,7 @@
 ## R
 
 - [让人民宜居安居](rang-ren-min-yi-ju-an-ju-2026-04-04--v1.md) - 2026-04-04 (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E5%AE%9C%E5%B1%85%E5%AE%89%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)
+- [让中越深厚情谊焕发青春光彩](rang-zhong-yue-shen-hou-qing-yi-huan-fa-qing-chun-guang-cai-2026-04-16--v1.md) - 2026-04-16 (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%AD%E8%B6%8A%E6%B7%B1%E5%8E%9A%E6%83%85%E8%B0%8A%E7%84%95%E5%8F%91%E9%9D%92%E6%98%A5%E5%85%89%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [人民城市为人民](ren-min-cheng-shi-wei-ren-min-2026-01-19--v1.md) - 2026-01-19 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E4%B8%BA%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报评汽车“销冠”易主](ren-min-ri-bao-ping-qi-che-xiao-guan-yi-zhu-2026-04-03--v1.md) - 2026-04-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%81%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报：让“幽灵外卖”无处遁形](ren-min-ri-bao-rang-you-ling-wai-mai-wu-chu-dun-xing-2026-01-28--v1.md) - 2026-01-28 (v1)
