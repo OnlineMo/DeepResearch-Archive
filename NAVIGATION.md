@@ -74,6 +74,7 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [除了足球队 中国已全面进入世界杯 - 2026-04-18](AI_Reports/ti-yu-yu-sai-shi/chu-liao-zu-qiu-dui-zhong-guo-yi-quan-mian-jin-ru-shi-jie-bei-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%99%B7%E4%BA%86%E8%B6%B3%E7%90%83%E9%98%81+%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [中国女足0比8惨败英格兰女足 - 2025-11-30](AI_Reports/ti-yu-yu-sai-shi/zhong-guo-nu-zu-0bi-8can-bai-ying-ge-lan-nu-zu-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E6%83%A8%E8%B4%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%A5%B3%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [闪耀全运会的青少年 - 2025-11-24](AI_Reports/ti-yu-yu-sai-shi/shan-yao-quan-yun-hui-de-qing-shao-nian-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%97%AA%E8%80%80%E5%85%A8%E8%BF%90%E4%BC%9A%E7%9A%84%E9%9D%92%E5%B0%91%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [回顾十五运会中的“湾区时刻” - 2025-11-23](AI_Reports/ti-yu-yu-sai-shi/hui-gu-shi-wu-yun-hui-zhong-de-wan-qu-shi-ke-2025-11-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%B0%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B9%BE%E5%8C%BA%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -93,7 +94,6 @@
 - [全运热潮席卷粤港澳三地 - 2025-11-09](AI_Reports/ti-yu-yu-sai-shi/quan-yun-re-chao-xi-juan-yue-gang-ao-san-di-2025-11-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E7%83%AD%E6%BD%AE%E5%B8%AD%E5%8D%B7%E5%8D%8E%E6%B8%AF%E6%BE%B3%E4%B8%89%E5%B0%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [一群世界冠军争一个全国冠军 - 2025-11-09](AI_Reports/ti-yu-yu-sai-shi/yi-qun-shi-jie-guan-jun-zheng-yi-ge-quan-guo-guan-jun-2025-11-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%A4%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%BA%89%E4%B8%80%E4%B8%AA%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [别错过！十五运会金牌赛程来了 - 2025-11-06](AI_Reports/ti-yu-yu-sai-shi/bie-cuo-guo-shi-wu-yun-hui-jin-pai-sai-cheng-lai-liao-2025-11-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%AB%E9%94%99%E8%BF%87%EF%BC%81%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%E8%B5%9B%E7%A8%8B%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [观众为全红婵下起“娃娃雨” - 2025-11-03](AI_Reports/ti-yu-yu-sai-shi/guan-zhong-wei-quan-hong-chan-xia-qi-wa-wa-yu-2025-11-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E4%B8%BA%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8B%E8%B5%B7%E2%80%9C%E5%A8%83%E5%A8%83%E9%9B%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
@@ -337,6 +337,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [“读书已成了我的一种生活方式” - 2026-04-18](AI_Reports/wei-fen-lei/du-shu-yi-cheng-liao-wo-de-yi-chong-sheng-huo-fang-shi-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%AF%BB%E4%B9%A6%E5%B7%B2%E6%88%90%E4%BA%86%E6%88%91%E7%9A%84%E4%B8%80%E7%A7%8D%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [公积金使用范围再扩容 - 2026-04-18](AI_Reports/wei-fen-lei/gong-ji-jin-shi-yong-fan-wei-zai-kuo-rong-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E4%BD%BF%E7%94%A8%E8%8C%83%E5%9B%B4%E5%86%8D%E6%89%B9%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [让中越深厚情谊焕发青春光彩 - 2026-04-16](AI_Reports/wei-fen-lei/rang-zhong-yue-shen-hou-qing-yi-huan-fa-qing-chun-guang-cai-2026-04-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%AD%E8%B6%8A%E6%B7%B1%E5%8E%9A%E6%83%85%E8%B0%8A%E7%84%95%E5%8F%91%E9%9D%92%E6%98%A5%E5%85%89%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见西班牙首相桑切斯 - 2026-04-15](AI_Reports/wei-fen-lei/xi-jin-ping-hui-jian-xi-ban-ya-shou-xiang-sang-qie-si-2026-04-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E6%A1%91%E5%88%87%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [把两岸关系的未来掌握在中国人手中 - 2026-04-12](AI_Reports/wei-fen-lei/ba-liang-an-guan-xi-de-wei-lai-zhang-wo-zai-zhong-guo-ren-shou-zhong-2026-04-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB%E7%9A%84%E6%9C%AA%E6%9D%A5%E6%8E%8C%E6%8F%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8B%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
@@ -355,5 +357,3 @@
 - [人民日报评汽车“销冠”易主 - 2026-04-03](AI_Reports/wei-fen-lei/ren-min-ri-bao-ping-qi-che-xiao-guan-yi-zhu-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%81%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [足迹里的政绩观 - 2026-04-03](AI_Reports/wei-fen-lei/zu-ji-li-de-zheng-ji-guan-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%E9%87%8C%E7%9A%84%E6%94%BF%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 - [为美丽中国增绿添彩 - 2026-04-02](AI_Reports/wei-fen-lei/wei-mei-li-zhong-guo-zeng-lu-tian-cai-2026-04-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%A2%9E%E7%BB%BF%E6%B7%BB%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
-- [浙江宣传：“一个子儿都没有”也是有 - 2026-04-02](AI_Reports/wei-fen-lei/zhe-jiang-xuan-chuan-yi-ge-zi-er-du-mei-you-ye-shi-you-2026-04-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9A%E2%80%9C%E4%B8%80%E4%B8%AA%E5%AD%90%E5%84%BF%E9%83%BD%E6%B2%A1%E6%9C%89%E2%80%9D%E4%B9%9F%E6%98%AF%E6%9C%89&sa=fyb_news&rsv_dl=fyb_news)
-- [蔡磊进入渐冻症终末期 - 2026-04-01](AI_Reports/wei-fen-lei/cai-lei-jin-ru-jian-dong-zheng-zhong-mo-qi-2026-04-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%94%A1%E7%A3%8A%E8%BF%9B%E5%85%A5%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)
