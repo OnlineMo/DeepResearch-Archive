@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：179
+报告总数：180
 
 ---
 
@@ -134,6 +134,7 @@
 - [人民日报：让“幽灵外卖”无处遁形](ren-min-ri-bao-rang-you-ling-wai-mai-wu-chu-dun-xing-2026-01-28--v1.md) - 2026-01-28 (v1)
 - [人民日报：心机商标忽悠成本太低了](ren-min-ri-bao-xin-ji-shang-biao-hu-you-cheng-ben-tai-di-liao-2026-04-07--v1.md) - 2026-04-07 (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%BF%83%E6%9C%BA%E5%95%86%E6%A0%87%E5%BF%BD%E6%82%A0%E6%88%90%E6%9C%AC%E5%A4%AA%E4%BD%8E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [日本首相石破茂决定辞职](ri-ben-shou-xiang-shi-po-mao-jue-ding-ci-zhi-2025-09-07--v1.md) - 2025-09-07 (v1)
+- [日本野心彻底暴露](ri-ben-ye-xin-che-di-bao-lu-2026-04-19--v1.md) - 2026-04-19 (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E5%BD%BB%E5%BA%95%E6%9A%B4%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)
 
 ## S
 
