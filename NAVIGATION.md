@@ -98,6 +98,7 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [让互联网更好造福人民、造福世界 - 2026-04-19](AI_Reports/ke-ji-yu-hu-lian-wang/rang-hu-lian-wang-geng-hao-zao-fu-ren-min-zao-fu-shi-jie-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%92%E8%81%94%E7%BD%91%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%BA%BA%E6%B0%91%E3%80%81%E9%80%A0%E7%A6%8F%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [首发首款首艘！中国硬核科技再刷屏 - 2026-03-14](AI_Reports/ke-ji-yu-hu-lian-wang/shou-fa-shou-kuan-shou-sao-zhong-guo-ying-he-ke-ji-zai-shua-ping-2026-03-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%96%E5%8F%B7%E9%A6%96%E6%AC%BE%E9%A6%96%E8%89%B0%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%86%8D%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [推动科技创新和产业创新深度融合 - 2026-03-11](AI_Reports/ke-ji-yu-hu-lian-wang/tui-dong-ke-ji-chuang-xin-he-chan-ye-chuang-xin-shen-du-rong-he-2026-03-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E6%B7%B1%E5%BA%A6%E8%9E%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)
 - [“为了社区里的万家灯火” - 2026-03-01](AI_Reports/ke-ji-yu-hu-lian-wang/wei-liao-she-qu-li-de-mo-jia-deng-huo-2026-03-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%86%E7%A4%BE%E5%8C%BA%E9%87%8C%E7%9A%84%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -298,6 +299,7 @@
 ## 财经与商业
 [点击查看财经与商业完整报告索引 →](AI_Reports/cai-jing-yu-shang-ye/Reports.md)
 
+- [价格暴涨650%！国产光纤全球爆单 - 2026-04-19](AI_Reports/cai-jing-yu-shang-ye/jie-ge-bao-zhang-650-guo-chan-guang-xian-quan-qiu-bao-dan-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8650%25%EF%BC%81%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)
 - [“排骨羽绒服”成冬季爆款 - 2025-12-02](AI_Reports/cai-jing-yu-shang-ye/pai-gu-yu-rong-fu-cheng-dong-ji-bao-kuan-2025-12-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8E%92%E9%AA%A8%E7%BE%BD%E7%BB%92%E6%9C%8D%E2%80%9D%E6%88%90%E5%86%AC%E5%AD%A3%E7%88%86%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [双十一商品到手价全凭运气 - 2025-11-11](AI_Reports/cai-jing-yu-shang-ye/shuang-shi-yi-shang-pin-dao-shou-jie-quan-ping-yun-qi-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%95%86%E5%93%81%E5%88%B0%E6%89%8B%E4%BB%B7%E5%85%A8%E5%87%AD%E8%BF%90%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)
 - [教授每年强制自己定投100克黄金 - 2025-10-22](AI_Reports/cai-jing-yu-shang-ye/jiao-shou-mei-nian-qiang-zhi-zi-ji-ding-tou-100ke-huang-jin-2025-10-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E6%AF%8F%E5%B9%B4%E5%BC%BA%E5%88%B6%E8%87%AA%E5%B7%B1%E5%AE%9A%E6%8A%95100%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)
@@ -337,6 +339,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [日本野心彻底暴露 - 2026-04-19](AI_Reports/wei-fen-lei/ri-ben-ye-xin-che-di-bao-lu-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E5%BD%BB%E5%BA%95%E6%9A%B4%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [“读书已成了我的一种生活方式” - 2026-04-18](AI_Reports/wei-fen-lei/du-shu-yi-cheng-liao-wo-de-yi-chong-sheng-huo-fang-shi-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%AF%BB%E4%B9%A6%E5%B7%B2%E6%88%90%E4%BA%86%E6%88%91%E7%9A%84%E4%B8%80%E7%A7%8D%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [公积金使用范围再扩容 - 2026-04-18](AI_Reports/wei-fen-lei/gong-ji-jin-shi-yong-fan-wei-zai-kuo-rong-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E4%BD%BF%E7%94%A8%E8%8C%83%E5%9B%B4%E5%86%8D%E6%89%B9%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [让中越深厚情谊焕发青春光彩 - 2026-04-16](AI_Reports/wei-fen-lei/rang-zhong-yue-shen-hou-qing-yi-huan-fa-qing-chun-guang-cai-2026-04-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%B8%AD%E8%B6%8A%E6%B7%B1%E5%8E%9A%E6%83%85%E8%B0%8A%E7%84%95%E5%8F%91%E9%9D%92%E6%98%A5%E5%85%89%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
@@ -356,4 +359,3 @@
 - [让人民宜居安居 - 2026-04-04](AI_Reports/wei-fen-lei/rang-ren-min-yi-ju-an-ju-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E5%AE%9C%E5%B1%85%E5%AE%89%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报评汽车“销冠”易主 - 2026-04-03](AI_Reports/wei-fen-lei/ren-min-ri-bao-ping-qi-che-xiao-guan-yi-zhu-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%81%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
 - [足迹里的政绩观 - 2026-04-03](AI_Reports/wei-fen-lei/zu-ji-li-de-zheng-ji-guan-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%E9%87%8C%E7%9A%84%E6%94%BF%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
-- [为美丽中国增绿添彩 - 2026-04-02](AI_Reports/wei-fen-lei/wei-mei-li-zhong-guo-zeng-lu-tian-cai-2026-04-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%A2%9E%E7%BB%BF%E6%B7%BB%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
