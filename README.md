@@ -19,7 +19,7 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [除了足球队 中国已全面进入世界杯 - 2026-04-18](AI_Reports/ti-yu-yu-sai-shi/chu-liao-zu-qiu-dui-zhong-guo-yi-quan-mian-jin-ru-shi-jie-bei-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%99%B7%E4%BA%86%E8%B6%B3%E7%90%83%E9%98%81+%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news)
-- [“读书已成了我的一种生活方式” - 2026-04-18](AI_Reports/wei-fen-lei/du-shu-yi-cheng-liao-wo-de-yi-chong-sheng-huo-fang-shi-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%AF%BB%E4%B9%A6%E5%B7%B2%E6%88%90%E4%BA%86%E6%88%91%E7%9A%84%E4%B8%80%E7%A7%8D%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [公积金使用范围再扩容 - 2026-04-18](AI_Reports/wei-fen-lei/gong-ji-jin-shi-yong-fan-wei-zai-kuo-rong-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E4%BD%BF%E7%94%A8%E8%8C%83%E5%9B%B4%E5%86%8D%E6%89%B9%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)
+- [价格暴涨650%！国产光纤全球爆单 - 2026-04-19](AI_Reports/cai-jing-yu-shang-ye/jie-ge-bao-zhang-650-guo-chan-guang-xian-quan-qiu-bao-dan-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8650%25%EF%BC%81%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)
+- [让互联网更好造福人民、造福世界 - 2026-04-19](AI_Reports/ke-ji-yu-hu-lian-wang/rang-hu-lian-wang-geng-hao-zao-fu-ren-min-zao-fu-shi-jie-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%92%E8%81%94%E7%BD%91%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%BA%BA%E6%B0%91%E3%80%81%E9%80%A0%E7%A6%8F%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
+- [日本野心彻底暴露 - 2026-04-19](AI_Reports/wei-fen-lei/ri-ben-ye-xin-che-di-bao-lu-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E5%BD%BB%E5%BA%95%E6%9A%B4%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
