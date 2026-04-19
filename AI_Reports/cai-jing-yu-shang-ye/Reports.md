@@ -1,7 +1,7 @@
 # 财经与商业 报告索引
 
 本页包含 **财经与商业** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：11
+报告总数：12
 
 ---
 
@@ -11,6 +11,7 @@
 
 ## J
 
+- [价格暴涨650%！国产光纤全球爆单](jie-ge-bao-zhang-650-guo-chan-guang-xian-quan-qiu-bao-dan-2026-04-19--v1.md) - 2026-04-19 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8650%25%EF%BC%81%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)
 - [教授每年强制自己定投100克黄金](jiao-shou-mei-nian-qiang-zhi-zi-ji-ding-tou-100ke-huang-jin-2025-10-22--v1.md) - 2025-10-22 (v1) [来源](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E6%AF%8F%E5%B9%B4%E5%BC%BA%E5%88%B6%E8%87%AA%E5%B7%B1%E5%AE%9A%E6%8A%95100%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)
 
 ## P
