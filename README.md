@@ -19,7 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [价格暴涨650%！国产光纤全球爆单 - 2026-04-19](AI_Reports/cai-jing-yu-shang-ye/jie-ge-bao-zhang-650-guo-chan-guang-xian-quan-qiu-bao-dan-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8650%25%EF%BC%81%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)
-- [让互联网更好造福人民、造福世界 - 2026-04-19](AI_Reports/ke-ji-yu-hu-lian-wang/rang-hu-lian-wang-geng-hao-zao-fu-ren-min-zao-fu-shi-jie-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%92%E8%81%94%E7%BD%91%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%BA%BA%E6%B0%91%E3%80%81%E9%80%A0%E7%A6%8F%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
-- [日本野心彻底暴露 - 2026-04-19](AI_Reports/wei-fen-lei/ri-ben-ye-xin-che-di-bao-lu-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E5%BD%BB%E5%BA%95%E6%9A%B4%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)
+- [微信这两项设置很关键 涉及资金安全 - 2026-04-20](AI_Reports/wang-luo-an-quan/wei-xin-zhe-liang-xiang-she-zhi-hen-guan-jian-she-ji-zi-jin-an-quan-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E4%BF%A1%E8%BF%99%E4%BA%8C%E9%A1%B9%E8%AE%BE%E7%BD%AE%E5%BE%88%E5%85%B3%E9%94%AE+%E6%B6%89%E5%8F%8A%E8%B5%84%E9%87%91%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)
+- [建设网络强国 - 2026-04-20](AI_Reports/wei-fen-lei/jian-she-wang-luo-qiang-guo-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
