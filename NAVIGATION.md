@@ -128,6 +128,7 @@
 ## 网络安全
 [点击查看网络安全完整报告索引 →](AI_Reports/wang-luo-an-quan/Reports.md)
 
+- [微信这两项设置很关键 涉及资金安全 - 2026-04-20](AI_Reports/wang-luo-an-quan/wei-xin-zhe-liang-xiang-she-zhi-hen-guan-jian-she-ji-zi-jin-an-quan-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E4%BF%A1%E8%BF%99%E4%BA%8C%E9%A1%B9%E8%AE%BE%E7%BD%AE%E5%BE%88%E5%85%B3%E9%94%AE+%E6%B6%89%E5%8F%8A%E8%B5%84%E9%87%91%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [筑牢网络安全“防火墙” - 2025-09-16](AI_Reports/wang-luo-an-quan/zhu-lao-wang-luo-an-quan-fang-huo-qiang-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E2%80%9C%E9%98%B2%E7%81%AB%E5%A2%99%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 消费电子和硬件
@@ -339,6 +340,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [建设网络强国 - 2026-04-20](AI_Reports/wei-fen-lei/jian-she-wang-luo-qiang-guo-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [日本野心彻底暴露 - 2026-04-19](AI_Reports/wei-fen-lei/ri-ben-ye-xin-che-di-bao-lu-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E5%BD%BB%E5%BA%95%E6%9A%B4%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [“读书已成了我的一种生活方式” - 2026-04-18](AI_Reports/wei-fen-lei/du-shu-yi-cheng-liao-wo-de-yi-chong-sheng-huo-fang-shi-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%AF%BB%E4%B9%A6%E5%B7%B2%E6%88%90%E4%BA%86%E6%88%91%E7%9A%84%E4%B8%80%E7%A7%8D%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [公积金使用范围再扩容 - 2026-04-18](AI_Reports/wei-fen-lei/gong-ji-jin-shi-yong-fan-wei-zai-kuo-rong-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E4%BD%BF%E7%94%A8%E8%8C%83%E5%9B%B4%E5%86%8D%E6%89%B9%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)
@@ -358,4 +360,3 @@
 - [3岁孙女第一次见到“29岁”爷爷 - 2026-04-04](AI_Reports/wei-fen-lei/3sui-sun-nu-di-yi-ci-jian-dao-29sui-ye-ye-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=3%E5%B2%81%E5%AD%99%E5%A5%B3%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%88%B0%E2%80%9C29%E5%B2%81%E2%80%9D%E7%88%B7%E7%88%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [让人民宜居安居 - 2026-04-04](AI_Reports/wei-fen-lei/rang-ren-min-yi-ju-an-ju-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E5%AE%9C%E5%B1%85%E5%AE%89%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报评汽车“销冠”易主 - 2026-04-03](AI_Reports/wei-fen-lei/ren-min-ri-bao-ping-qi-che-xiao-guan-yi-zhu-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%81%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
-- [足迹里的政绩观 - 2026-04-03](AI_Reports/wei-fen-lei/zu-ji-li-de-zheng-ji-guan-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%E9%87%8C%E7%9A%84%E6%94%BF%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
