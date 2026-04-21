@@ -340,6 +340,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [“平均月薪20804元” 这类人才紧缺 - 2026-04-21](AI_Reports/wei-fen-lei/ping-jun-yue-xin-20804yuan-zhe-lei-ren-cai-jin-que-2026-04-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA20804%E5%85%83%E2%80%9D+%E8%BF%99%E7%B1%BB%E4%BA%BA%E6%89%8D%E7%B4%A7%E7%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [建设网络强国 - 2026-04-20](AI_Reports/wei-fen-lei/jian-she-wang-luo-qiang-guo-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [日本野心彻底暴露 - 2026-04-19](AI_Reports/wei-fen-lei/ri-ben-ye-xin-che-di-bao-lu-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E5%BD%BB%E5%BA%95%E6%9A%B4%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [“读书已成了我的一种生活方式” - 2026-04-18](AI_Reports/wei-fen-lei/du-shu-yi-cheng-liao-wo-de-yi-chong-sheng-huo-fang-shi-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%AF%BB%E4%B9%A6%E5%B7%B2%E6%88%90%E4%BA%86%E6%88%91%E7%9A%84%E4%B8%80%E7%A7%8D%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -359,4 +360,3 @@
 - [这类人千万别在饭局上乱说话 - 2026-04-05](AI_Reports/wei-fen-lei/zhe-lei-ren-qian-mo-bie-zai-fan-ju-shang-luan-shuo-hua-2026-04-05--v1.md) (v1)
 - [3岁孙女第一次见到“29岁”爷爷 - 2026-04-04](AI_Reports/wei-fen-lei/3sui-sun-nu-di-yi-ci-jian-dao-29sui-ye-ye-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=3%E5%B2%81%E5%AD%99%E5%A5%B3%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%88%B0%E2%80%9C29%E5%B2%81%E2%80%9D%E7%88%B7%E7%88%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [让人民宜居安居 - 2026-04-04](AI_Reports/wei-fen-lei/rang-ren-min-yi-ju-an-ju-2026-04-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E5%AE%9C%E5%B1%85%E5%AE%89%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)
-- [人民日报评汽车“销冠”易主 - 2026-04-03](AI_Reports/wei-fen-lei/ren-min-ri-bao-ping-qi-che-xiao-guan-yi-zhu-2026-04-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%81%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
