@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [微信这两项设置很关键 涉及资金安全 - 2026-04-20](AI_Reports/wang-luo-an-quan/wei-xin-zhe-liang-xiang-she-zhi-hen-guan-jian-she-ji-zi-jin-an-quan-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E4%BF%A1%E8%BF%99%E4%BA%8C%E9%A1%B9%E8%AE%BE%E7%BD%AE%E5%BE%88%E5%85%B3%E9%94%AE+%E6%B6%89%E5%8F%8A%E8%B5%84%E9%87%91%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)
-- [建设网络强国 - 2026-04-20](AI_Reports/wei-fen-lei/jian-she-wang-luo-qiang-guo-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
+- [“平均月薪20804元” 这类人才紧缺 - 2026-04-21](AI_Reports/wei-fen-lei/ping-jun-yue-xin-20804yuan-zhe-lei-ren-cai-jin-que-2026-04-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA20804%E5%85%83%E2%80%9D+%E8%BF%99%E7%B1%BB%E4%BA%BA%E6%89%8D%E7%B4%A7%E7%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
