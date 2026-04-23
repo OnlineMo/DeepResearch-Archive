@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [上午刷到巴掌帽 下午义乌已量产 - 2026-04-22](AI_Reports/wei-fen-lei/shang-wu-shua-dao-ba-zhang-mao-xia-wu-yi-wu-yi-liang-chan-2026-04-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E5%88%B7%E5%88%B0%E5%B7%B4%E6%8E%8C%E5%B8%BD+%E4%B8%8B%E5%8D%88%E4%B9%89%E4%B9%8C%E5%B7%B2%E9%87%8F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
-- [现代化道路上“一国都不能掉队” - 2026-04-22](AI_Reports/wei-fen-lei/xian-dai-hua-dao-lu-shang-yi-guo-du-bu-neng-diao-dui-2026-04-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E5%8C%96%E9%81%93%E8%B7%AF%E4%B8%8A%E2%80%9C%E4%B8%80%E5%9B%BD%E9%83%BD%E4%B8%8D%E8%83%BD%E6%8E%89%E9%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [“我最大的爱好就是读书” - 2026-04-23](AI_Reports/wei-fen-lei/wo-zui-da-de-ai-hao-jiu-shi-du-shu-2026-04-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%9C%80%E5%A4%A7%E7%9A%84%E7%88%B1%E5%A5%BD%E5%B0%B1%E6%98%AF%E8%AF%BB%E4%B9%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
