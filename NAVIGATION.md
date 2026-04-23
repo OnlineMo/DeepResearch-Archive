@@ -340,6 +340,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [“我最大的爱好就是读书” - 2026-04-23](AI_Reports/wei-fen-lei/wo-zui-da-de-ai-hao-jiu-shi-du-shu-2026-04-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%9C%80%E5%A4%A7%E7%9A%84%E7%88%B1%E5%A5%BD%E5%B0%B1%E6%98%AF%E8%AF%BB%E4%B9%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [上午刷到巴掌帽 下午义乌已量产 - 2026-04-22](AI_Reports/wei-fen-lei/shang-wu-shua-dao-ba-zhang-mao-xia-wu-yi-wu-yi-liang-chan-2026-04-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E5%88%B7%E5%88%B0%E5%B7%B4%E6%8E%8C%E5%B8%BD+%E4%B8%8B%E5%8D%88%E4%B9%89%E4%B9%8C%E5%B7%B2%E9%87%8F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [现代化道路上“一国都不能掉队” - 2026-04-22](AI_Reports/wei-fen-lei/xian-dai-hua-dao-lu-shang-yi-guo-du-bu-neng-diao-dui-2026-04-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E5%8C%96%E9%81%93%E8%B7%AF%E4%B8%8A%E2%80%9C%E4%B8%80%E5%9B%BD%E9%83%BD%E4%B8%8D%E8%83%BD%E6%8E%89%E9%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“平均月薪20804元” 这类人才紧缺 - 2026-04-21](AI_Reports/wei-fen-lei/ping-jun-yue-xin-20804yuan-zhe-lei-ren-cai-jin-que-2026-04-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA20804%E5%85%83%E2%80%9D+%E8%BF%99%E7%B1%BB%E4%BA%BA%E6%89%8D%E7%B4%A7%E7%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
@@ -359,4 +360,3 @@
 - [他们从未远去 只是化作山河 - 2026-04-06](AI_Reports/wei-fen-lei/ta-men-cong-wei-yuan-qu-zhi-shi-hua-zuo-shan-he-2026-04-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E4%BB%B7%E6%9C%AA%E8%BF%9C%E5%8E%BB+%E5%8F%AA%E6%98%AF%E5%8C%96%E4%BD%9C%E5%B1%B1%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [微信宣布这项功能将全面停运 - 2026-04-06](AI_Reports/wei-fen-lei/wei-xin-xuan-bu-zhe-xiang-gong-neng-jiang-quan-mian-ting-yun-2026-04-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%AE%A3%E5%B8%83%E8%BF%99%E9%A1%B9%E5%8A%9F%E8%83%BD%E5%B0%86%E5%85%A8%E9%9D%A2%E5%81%9C%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平深情讲述的英雄故事 - 2026-04-05](AI_Reports/wei-fen-lei/xi-jin-ping-shen-qing-jiang-shu-de-ying-xiong-gu-shi-2026-04-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
-- [这类人千万别在饭局上乱说话 - 2026-04-05](AI_Reports/wei-fen-lei/zhe-lei-ren-qian-mo-bie-zai-fan-ju-shang-luan-shuo-hua-2026-04-05--v1.md) (v1)
