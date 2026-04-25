@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：257
+报告总数：258
 
 ---
 
@@ -251,6 +251,7 @@
 - [习近平同新加坡总统互致贺电](xi-jin-ping-tong-xin-jia-po-zong-tong-hu-zhi-he-dian-2025-10-04--v1.md) - 2025-10-04 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平鲜明宣示这8个字](xi-jin-ping-xian-ming-xuan-shi-zhe-8ge-zi-2025-09-06--v1.md) - 2025-09-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%B2%9C%E6%98%8E%E5%AE%A3%E7%A4%BA%E8%BF%998%E4%B8%AA%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平向香港火灾遇难人员表示哀悼](xi-jin-ping-xiang-xiang-gang-huo-zai-yu-nan-ren-yuan-biao-shi-ai-dao-2025-11-27--v1.md) - 2025-11-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E4%BA%BA%E5%91%98%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平向伊拉克新任总统致贺电](xi-jin-ping-xiang-yi-la-ke-xin-ren-zong-tong-zhi-he-dian-2026-04-25--v1.md) - 2026-04-25 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E4%BC%8A%E6%8B%89%E5%85%8B%E6%96%B0%E4%BB%BB%E6%80%BB%E7%BB%9F%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平在全球妇女峰会提出四点建议](xi-jin-ping-zai-quan-qiu-fu-nu-feng-hui-ti-chu-si-dian-jian-yi-2025-10-14--v1.md) - 2025-10-14 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%85%A8%E7%90%83%E5%A6%87%E5%A5%B3%E5%B3%B0%E4%BC%9A%E6%8F%90%E5%87%BA%E5%9B%9B%E7%82%B9%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平重点强调这些历史启迪](xi-jin-ping-zhong-dian-qiang-diao-zhe-xie-li-shi-qi-di-2025-09-05--v1.md) - 2025-09-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E7%82%B9%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E5%8E%86%E5%8F%B2%E5%90%AF%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平祝贺中国致公党成立100周年](xi-jin-ping-zhu-he-zhong-guo-zhi-gong-dang-cheng-li-100zhou-nian-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E8%87%B4%E5%85%AC%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
