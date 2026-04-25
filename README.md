@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [为建设航天强国建功立业 - 2026-04-24](AI_Reports/ke-xue-yu-tai-kong/wei-jian-she-hang-tian-qiang-guo-jian-gong-li-ye-2026-04-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E5%BB%BA%E5%8A%9F%E7%AB%8B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
-- [工资高但很孤独的工作 你愿意做吗 - 2026-04-24](AI_Reports/wei-fen-lei/gong-zi-gao-dan-hen-gu-du-de-gong-zuo-ni-yuan-yi-zuo-ma-2026-04-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%A5%E8%B5%84%E9%AB%98%E4%BD%86%E5%BE%88%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%B7%A5%E4%BD%9C+%E4%BD%A0%E6%84%BF%E6%84%8F%E5%81%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平向伊拉克新任总统致贺电 - 2026-04-25](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-xiang-yi-la-ke-xin-ren-zong-tong-zhi-he-dian-2026-04-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E4%BC%8A%E6%8B%89%E5%85%8B%E6%96%B0%E4%BB%BB%E6%80%BB%E7%BB%9F%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
