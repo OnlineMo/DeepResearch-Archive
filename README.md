@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [习近平向伊拉克新任总统致贺电 - 2026-04-25](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-xiang-yi-la-ke-xin-ren-zong-tong-zhi-he-dian-2026-04-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E4%BC%8A%E6%8B%89%E5%85%8B%E6%96%B0%E4%BB%BB%E6%80%BB%E7%BB%9F%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
+- [中老友好续写动人故事 - 2026-04-26](AI_Reports/wei-fen-lei/zhong-lao-you-hao-xu-xie-dong-ren-gu-shi-2026-04-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD%E7%BB%AD%E5%86%99%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
