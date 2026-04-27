@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [提升服务业国际竞争力影响力 - 2026-04-27](AI_Reports/shi-zheng-yu-guo-ji/ti-sheng-fu-wu-ye-guo-ji-jing-zheng-li-ying-xiang-li-2026-04-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8F%90%E5%8D%87%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%9B%BD%E9%99%85%E7%AB%9E%E4%BA%89%E5%8A%9B%E5%BD%B1%E5%93%8D%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平向伊拉克新任总统致贺电 - 2026-04-25](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-xiang-yi-la-ke-xin-ren-zong-tong-zhi-he-dian-2026-04-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E4%BC%8A%E6%8B%89%E5%85%8B%E6%96%B0%E4%BB%BB%E6%80%BB%E7%BB%9F%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [全国人大外交主题记者会 - 2026-03-08](AI_Reports/shi-zheng-yu-guo-ji/quan-guo-ren-da-wai-jiao-zhu-ti-ji-zhe-hui-2026-03-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%A4%96%E4%BA%A4%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [“三桶油”齐发交易异常波动公告 - 2026-03-04](AI_Reports/shi-zheng-yu-guo-ji/san-tong-you-qi-fa-jiao-yi-yi-chang-bo-dong-gong-gao-2026-03-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E6%A1%B6%E6%B2%B9%E2%80%9D%E9%BD%90%E5%8F%91%E4%BA%A4%E6%98%93%E5%BC%82%E5%B8%B8%E6%B3%A2%E5%8A%A8%E5%85%AC%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [高市早苗盯上中亚5国 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-zao-miao-cheng-shang-zhong-ya-5guo-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9B%AF%E4%B8%8A%E4%B8%AD%E4%BA%9A5%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [马克龙抵京后发文 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/ma-ke-long-di-jing-hou-fa-wen-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%B5%E4%BA%AC%E5%90%8E%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记关爱残疾人的暖心故事 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/zong-shu-ji-guan-ai-can-ji-ren-de-nuan-xin-gu-shi-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E7%88%B1%E6%AE%8B%E7%96%BE%E4%BA%BA%E7%9A%84%E6%9A%96%E5%BF%83%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
-- [中俄就涉日本问题达成高度共识 - 2025-12-03](AI_Reports/shi-zheng-yu-guo-ji/zhong-e-jiu-she-ri-ben-wen-ti-da-cheng-gao-du-gong-shi-2025-12-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E5%B0%B1%E6%B6%B5%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E8%BE%BE%E6%88%90%E9%AB%98%E5%BA%A6%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -340,6 +340,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [连续两周上四休三 - 2026-04-27](AI_Reports/wei-fen-lei/lian-xu-liang-zhou-shang-si-xiu-san-2026-04-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)
 - [中老友好续写动人故事 - 2026-04-26](AI_Reports/wei-fen-lei/zhong-lao-you-hao-xu-xie-dong-ren-gu-shi-2026-04-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD%E7%BB%AD%E5%86%99%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [工资高但很孤独的工作 你愿意做吗 - 2026-04-24](AI_Reports/wei-fen-lei/gong-zi-gao-dan-hen-gu-du-de-gong-zuo-ni-yuan-yi-zuo-ma-2026-04-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%A5%E8%B5%84%E9%AB%98%E4%BD%86%E5%BE%88%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%B7%A5%E4%BD%9C+%E4%BD%A0%E6%84%BF%E6%84%8F%E5%81%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
 - [“我最大的爱好就是读书” - 2026-04-23](AI_Reports/wei-fen-lei/wo-zui-da-de-ai-hao-jiu-shi-du-shu-2026-04-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%9C%80%E5%A4%A7%E7%9A%84%E7%88%B1%E5%A5%BD%E5%B0%B1%E6%98%AF%E8%AF%BB%E4%B9%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -359,4 +360,3 @@
 - [锻造更加坚强的英雄军队 - 2026-04-08](AI_Reports/wei-fen-lei/duan-zao-geng-jia-jian-qiang-de-ying-xiong-jun-dui-2026-04-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%94%BB%E9%80%A0%E6%9B%B4%E5%8A%A0%E5%9D%9A%E5%BC%BA%E7%9A%84%E8%8B%B1%E9%9B%84%E5%86%9B%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报：心机商标忽悠成本太低了 - 2026-04-07](AI_Reports/wei-fen-lei/ren-min-ri-bao-xin-ji-shang-biao-hu-you-cheng-ben-tai-di-liao-2026-04-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%BF%83%E6%9C%BA%E5%95%86%E6%A0%87%E5%BF%BD%E6%82%A0%E6%88%90%E6%9C%AC%E5%A4%AA%E4%BD%8E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [英媒评价赵心童：统治力令对手胆寒 - 2026-04-07](AI_Reports/wei-fen-lei/ying-mei-ping-jie-zhao-xin-tong-tong-zhi-li-ling-dui-shou-dan-han-2026-04-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%B1%E5%AA%92%E8%AF%84%E4%BB%B7%E8%B5%B5%E5%BF%83%E7%AB%A5%EF%BC%9A%E7%BB%9F%E6%B2%BB%E5%8A%9B%E4%BB%A4%E5%AF%B9%E6%89%8B%E8%83%86%E5%AF%92&sa=fyb_news&rsv_dl=fyb_news)
-- [他们从未远去 只是化作山河 - 2026-04-06](AI_Reports/wei-fen-lei/ta-men-cong-wei-yuan-qu-zhi-shi-hua-zuo-shan-he-2026-04-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E4%BB%B7%E6%9C%AA%E8%BF%9C%E5%8E%BB+%E5%8F%AA%E6%98%AF%E5%8C%96%E4%BD%9C%E5%B1%B1%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)
