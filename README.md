@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [中老友好续写动人故事 - 2026-04-26](AI_Reports/wei-fen-lei/zhong-lao-you-hao-xu-xie-dong-ren-gu-shi-2026-04-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD%E7%BB%AD%E5%86%99%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
+- [提升服务业国际竞争力影响力 - 2026-04-27](AI_Reports/shi-zheng-yu-guo-ji/ti-sheng-fu-wu-ye-guo-ji-jing-zheng-li-ying-xiang-li-2026-04-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8F%90%E5%8D%87%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%9B%BD%E9%99%85%E7%AB%9E%E4%BA%89%E5%8A%9B%E5%BD%B1%E5%93%8D%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
+- [连续两周上四休三 - 2026-04-27](AI_Reports/wei-fen-lei/lian-xu-liang-zhou-shang-si-xiu-san-2026-04-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
