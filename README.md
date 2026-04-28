@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [提升服务业国际竞争力影响力 - 2026-04-27](AI_Reports/shi-zheng-yu-guo-ji/ti-sheng-fu-wu-ye-guo-ji-jing-zheng-li-ying-xiang-li-2026-04-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8F%90%E5%8D%87%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%9B%BD%E9%99%85%E7%AB%9E%E4%BA%89%E5%8A%9B%E5%BD%B1%E5%93%8D%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
-- [连续两周上四休三 - 2026-04-27](AI_Reports/wei-fen-lei/lian-xu-liang-zhou-shang-si-xiu-san-2026-04-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)
+- [“探店”网红白冰偷税超900万元被查 - 2026-04-28](AI_Reports/ke-ji-yu-hu-lian-wang/tan-dian-wang-hong-bai-bing-tou-shui-chao-900mo-yuan-bei-cha-2026-04-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8E%A2%E5%BA%97%E2%80%9D%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%B6%85900%E4%B8%87%E5%85%83%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记的一周 - 2026-04-28](AI_Reports/wei-fen-lei/zong-shu-ji-de-yi-zhou-2026-04-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
