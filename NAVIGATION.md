@@ -98,6 +98,7 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [“探店”网红白冰偷税超900万元被查 - 2026-04-28](AI_Reports/ke-ji-yu-hu-lian-wang/tan-dian-wang-hong-bai-bing-tou-shui-chao-900mo-yuan-bei-cha-2026-04-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8E%A2%E5%BA%97%E2%80%9D%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%B6%85900%E4%B8%87%E5%85%83%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [让互联网更好造福人民、造福世界 - 2026-04-19](AI_Reports/ke-ji-yu-hu-lian-wang/rang-hu-lian-wang-geng-hao-zao-fu-ren-min-zao-fu-shi-jie-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%92%E8%81%94%E7%BD%91%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%BA%BA%E6%B0%91%E3%80%81%E9%80%A0%E7%A6%8F%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [首发首款首艘！中国硬核科技再刷屏 - 2026-03-14](AI_Reports/ke-ji-yu-hu-lian-wang/shou-fa-shou-kuan-shou-sao-zhong-guo-ying-he-ke-ji-zai-shua-ping-2026-03-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%96%E5%8F%B7%E9%A6%96%E6%AC%BE%E9%A6%96%E8%89%B0%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%86%8D%E5%88%B7%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [推动科技创新和产业创新深度融合 - 2026-03-11](AI_Reports/ke-ji-yu-hu-lian-wang/tui-dong-ke-ji-chuang-xin-he-chan-ye-chuang-xin-shen-du-rong-he-2026-03-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E6%B7%B1%E5%BA%A6%E8%9E%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)
@@ -340,6 +341,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [总书记的一周 - 2026-04-28](AI_Reports/wei-fen-lei/zong-shu-ji-de-yi-zhou-2026-04-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [连续两周上四休三 - 2026-04-27](AI_Reports/wei-fen-lei/lian-xu-liang-zhou-shang-si-xiu-san-2026-04-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)
 - [中老友好续写动人故事 - 2026-04-26](AI_Reports/wei-fen-lei/zhong-lao-you-hao-xu-xie-dong-ren-gu-shi-2026-04-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD%E7%BB%AD%E5%86%99%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [工资高但很孤独的工作 你愿意做吗 - 2026-04-24](AI_Reports/wei-fen-lei/gong-zi-gao-dan-hen-gu-du-de-gong-zuo-ni-yuan-yi-zuo-ma-2026-04-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%A5%E8%B5%84%E9%AB%98%E4%BD%86%E5%BE%88%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%B7%A5%E4%BD%9C+%E4%BD%A0%E6%84%BF%E6%84%8F%E5%81%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
@@ -359,4 +361,3 @@
 - [以崭新政治面貌迎接建军一百周年 - 2026-04-09](AI_Reports/wei-fen-lei/yi-zhan-xin-zheng-zhi-mian-mao-ying-jie-jian-jun-yi-bai-zhou-nian-2026-04-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%A5%E5%B4%9B%E6%96%B0%E6%94%BF%E6%B2%BB%E9%9D%A2%E8%B2%8C%E8%BF%8E%E6%8E%A5%E5%BB%BA%E5%86%9B%E4%B8%80%E7%99%BE%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [锻造更加坚强的英雄军队 - 2026-04-08](AI_Reports/wei-fen-lei/duan-zao-geng-jia-jian-qiang-de-ying-xiong-jun-dui-2026-04-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%94%BB%E9%80%A0%E6%9B%B4%E5%8A%A0%E5%9D%9A%E5%BC%BA%E7%9A%84%E8%8B%B1%E9%9B%84%E5%86%9B%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报：心机商标忽悠成本太低了 - 2026-04-07](AI_Reports/wei-fen-lei/ren-min-ri-bao-xin-ji-shang-biao-hu-you-cheng-ben-tai-di-liao-2026-04-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%BF%83%E6%9C%BA%E5%95%86%E6%A0%87%E5%BF%BD%E6%82%A0%E6%88%90%E6%9C%AC%E5%A4%AA%E4%BD%8E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [英媒评价赵心童：统治力令对手胆寒 - 2026-04-07](AI_Reports/wei-fen-lei/ying-mei-ping-jie-zhao-xin-tong-tong-zhi-li-ling-dui-shou-dan-han-2026-04-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%B1%E5%AA%92%E8%AF%84%E4%BB%B7%E8%B5%B5%E5%BF%83%E7%AB%A5%EF%BC%9A%E7%BB%9F%E6%B2%BB%E5%8A%9B%E4%BB%A4%E5%AF%B9%E6%89%8B%E8%83%86%E5%AF%92&sa=fyb_news&rsv_dl=fyb_news)
