@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：188
+报告总数：189
 
 ---
 
@@ -242,6 +242,7 @@
 - [总书记带领我们决胜“十四五”](zong-shu-ji-dai-ling-wo-men-jue-sheng-shi-si-wu-2026-01-05--v1.md) - 2026-01-05 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%B8%A6%E9%A2%86%E6%88%91%E4%BB%AC%E5%86%B3%E8%83%9C%E2%80%9C%E5%8D%81%E5%9B%9B%E4%BA%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的新春家国情](zong-shu-ji-de-xin-chun-jia-guo-qing-2026-02-18--v1.md) - 2026-02-18 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%96%B0%E6%98%A5%E5%AE%B6%E5%9B%BD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的新春“家常话”](zong-shu-ji-de-xin-chun-jia-chang-hua-2026-02-10--v1.md) - 2026-02-10 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%96%B0%E6%98%A5%E2%80%9C%E5%AE%B6%E5%B8%B8%E8%AF%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记的一周](zong-shu-ji-de-yi-zhou-2026-04-28--v1.md) - 2026-04-28 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的这些理念一以贯之](zong-shu-ji-de-zhe-xie-li-nian-yi-yi-guan-zhi-2026-03-29--v1.md) - 2026-03-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%BF%99%E4%BA%9B%E7%90%86%E5%BF%B5%E4%B8%80%E4%BB%A3%E8%B4%AF%E4%B9%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记始终不变的牵挂](zong-shu-ji-shi-zhong-bu-bian-de-qian-gua-2025-12-30--v1.md) - 2025-12-30 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E4%B8%8D%E5%8F%98%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记为推进国土绿化指引方向](zong-shu-ji-wei-tui-jin-guo-tu-lu-hua-zhi-yin-fang-xiang-2026-03-31--v1.md) - 2026-03-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E6%8E%A8%E8%BF%9B%E5%9B%BD%E5%9C%9F%E7%BB%BF%E5%8C%96%E6%8C%87%E5%BC%95%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
