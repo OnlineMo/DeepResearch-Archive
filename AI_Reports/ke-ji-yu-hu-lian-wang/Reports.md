@@ -1,7 +1,7 @@
 # 科技与互联网 报告索引
 
 本页包含 **科技与互联网** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：14
+报告总数：15
 
 ---
 
@@ -53,4 +53,5 @@
 
 ## “
 
+- [“探店”网红白冰偷税超900万元被查](tan-dian-wang-hong-bai-bing-tou-shui-chao-900mo-yuan-bei-cha-2026-04-28--v1.md) - 2026-04-28 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8E%A2%E5%BA%97%E2%80%9D%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%B6%85900%E4%B8%87%E5%85%83%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [“为了社区里的万家灯火”](wei-liao-she-qu-li-de-mo-jia-deng-huo-2026-03-01--v1.md) - 2026-03-01 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%86%E7%A4%BE%E5%8C%BA%E9%87%8C%E7%9A%84%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
