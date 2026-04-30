@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：189
+报告总数：192
 
 ---
 
@@ -79,6 +79,7 @@
 
 ## J
 
+- [歼15喊话日本军机：你在我导弹射程内](jian-15han-hua-ri-ben-jun-ji-ni-zai-wo-dao-dan-she-cheng-nei-2026-04-30--v1.md) - 2026-04-30 (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%BC15%E5%96%8A%E8%AF%9D%E6%97%A5%E6%9C%AC%E5%86%9B%E6%9C%BA%EF%BC%9A%E4%BD%A0%E5%9C%A8%E6%88%91%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)
 - [坚定信心 接续奋斗](jian-ding-xin-xin-jie-xu-fen-dou-2026-01-02--v1.md) - 2026-01-02 (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E4%BF%A1%E5%BF%83+%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)
 - [建设网络强国](jian-she-wang-luo-qiang-guo-2026-04-20--v1.md) - 2026-04-20 (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [脚要踩在大地上](jiao-yao-cai-zai-da-di-shang-2025-11-24--v1.md) - 2025-11-24 (v1) [来源](https://www.baidu.com/s?wd=%E8%84%9A%E8%A6%81%E8%B8%A3%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
@@ -151,6 +152,7 @@
 
 - [他不是演员 却“演”了一辈子商人](ta-bu-shi-yan-yuan-que-yan-liao-yi-bei-zi-shang-ren-2025-12-21--v1.md) - 2025-12-21 (v1)
 - [他们从未远去 只是化作山河](ta-men-cong-wei-yuan-qu-zhi-shi-hua-zuo-shan-he-2026-04-06--v1.md) - 2026-04-06 (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E4%BB%B7%E6%9C%AA%E8%BF%9C%E5%8E%BB+%E5%8F%AA%E6%98%AF%E5%8C%96%E4%BD%9C%E5%B1%B1%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)
+- [塔克拉玛干沙漠边28万只河蟹入塘](ta-ke-la-ma-gan-sha-mo-bian-28mo-zhi-he-xie-ru-tang-2026-04-30--v1.md) - 2026-04-30 (v1) [来源](https://www.baidu.com/s?wd=%E5%A1%8C%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E8%BE%B928%E4%B8%87%E5%8F%AA%E6%B2%B3%E8%9F%B9%E5%85%A5%E5%A1%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [台湾网友听到台湾终于被点激动哭了](tai-wan-wang-you-ting-dao-tai-wan-zhong-yu-bei-dian-ji-dong-ku-liao-2025-12-27--v1.md) - 2025-12-27 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E5%90%AC%E5%88%B0%E5%8F%B0%E6%B9%BE%E7%BB%88%E4%BA%8E%E8%A2%AB%E7%82%B9%E6%BF%80%E5%8A%A8%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [退伍军人常发军装照被境外人员盯上](tui-wu-jun-ren-chang-fa-jun-zhuang-zhao-bei-jing-wai-ren-yuan-cheng-shang-2025-12-28--v1.md) - 2025-12-28 (v1) [来源](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E5%B8%B8%E5%8F%91%E5%86%9B%E8%A3%85%E7%85%A7%E8%A2%AB%E5%A2%83%E5%A4%96%E4%BA%BA%E5%91%8B%E%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -233,6 +235,7 @@
 - [中国最大高速收费站多车雨中压哨通过](zhong-guo-zui-da-gao-su-shou-fei-zhan-duo-che-yu-zhong-ya-shao-tong-guo-2026-02-24--v1.md) - 2026-02-24 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E5%A4%9A%E8%BD%A6%E9%9B%A8%E4%B8%AD%E5%8E%8B%E5%93%A8%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)
 - [中老友好续写动人故事](zhong-lao-you-hao-xu-xie-dong-ren-gu-shi-2026-04-26--v1.md) - 2026-04-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD%E7%BB%AD%E5%86%99%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [中央军委举行晋升上将军衔仪式](zhong-yang-jun-wei-ju-xing-jin-sheng-shang-jiang-jun-xian-yi-shi-2025-12-23--v1.md) - 2025-12-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%A3%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [中央政治局举行第二十五次集体学习](zhong-yang-zheng-zhi-ju-ju-xing-di-er-shi-wu-ci-ji-ti-xue-xi-2026-04-30--v1.md) - 2026-04-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%B8%BE%E8%A1%8C%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%AC%A1%E9%9B%86%E4%BD%93%E5%AD%A6%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [重磅打虎！易炼红被查](zhong-bang-da-hu-yi-lian-hong-bei-cha-2026-02-10--v1.md) - 2026-02-10 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%E6%89%93%E8%99%8E%EF%BC%81%E6%98%93%E7%82%BC%E7%BA%A2%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [驻日大使馆提醒：防范日本“撞人族”](zhu-ri-da-shi-guan-ti-xing-fang-fan-ri-ben-zhuang-ren-zu-2026-03-04--v1.md) - 2026-03-04 (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%EF%BC%9A%E9%98%B2%E8%8C%83%E6%97%A5%E6%9C%AC%E2%80%9C%E6%92%9E%E4%BA%BA%E6%97%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [注意！是“10086”不是“l0086”](zhu-yi-shi-10086-bu-shi-l0086-2025-10-31--v1.md) - 2025-10-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%A8%E6%84%8F%EF%BC%81%E6%98%AF%E2%80%9C10086%E2%80%9D%E4%B8%8D%E6%98%AF%E2%80%9Cl0086%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
