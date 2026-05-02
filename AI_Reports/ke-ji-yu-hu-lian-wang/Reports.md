@@ -1,13 +1,14 @@
 # 科技与互联网 报告索引
 
 本页包含 **科技与互联网** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：15
+报告总数：17
 
 ---
 
 ## 0-9
 
 - [17个项目获互联网大会领先科技奖](17ge-xiang-mu-huo-hu-lian-wang-da-hui-ling-xian-ke-ji-jiang-2025-11-07--v1.md) - 2025-11-07 (v1) [来源](https://www.baidu.com/s?wd=17%E4%B8%AA%E9%A1%B9%E7%9B%AE%E8%8E%B7%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E9%A2%86%E5%85%88%E7%A7%91%E6%8A%80%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)
+- [249元毛巾被指暴利 胖东来起诉博主](249yuan-mao-jin-bei-zhi-bao-li-pang-dong-lai-qi-su-bo-zhu-2026-05-02--v1.md) - 2026-05-02 (v1) [来源](https://www.baidu.com/s?wd=249%E5%85%83%E6%AF%9B%E5%B7%BE%E8%A2%AB%E6%8C%87%E6%9A%B4%E5%88%A9+%E8%83%96%E4%B8%9C%E6%9D%A5%E8%B5%B7%E8%AF%89%E5%8D%9A%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
 
@@ -28,6 +29,7 @@
 ## R
 
 - [让互联网更好造福人民、造福世界](rang-hu-lian-wang-geng-hao-zao-fu-ren-min-zao-fu-shi-jie-2026-04-19--v1.md) - 2026-04-19 (v1) [来源](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%92%E8%81%94%E7%BD%91%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%BA%BA%E6%B0%91%E3%80%81%E9%80%A0%E7%A6%8F%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)
+- [如何进一步打牢科技强国建设根基](ru-he-jin-yi-bu-da-lao-ke-ji-qiang-guo-jian-she-gen-ji-2026-05-02--v1.md) - 2026-05-02 (v1) [来源](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%89%93%E7%89%A2%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E6%A0%B9%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)
 
 ## S
 
