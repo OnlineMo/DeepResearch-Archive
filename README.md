@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [249元毛巾被指暴利 胖东来起诉博主 - 2026-05-02](AI_Reports/ke-ji-yu-hu-lian-wang/249yuan-mao-jin-bei-zhi-bao-li-pang-dong-lai-qi-su-bo-zhu-2026-05-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=249%E5%85%83%E6%AF%9B%E5%B7%BE%E8%A2%AB%E6%8C%87%E6%9A%B4%E5%88%A9+%E8%83%96%E4%B8%9C%E6%9D%A5%E8%B5%B7%E8%AF%89%E5%8D%9A%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
-- [如何进一步打牢科技强国建设根基 - 2026-05-02](AI_Reports/ke-ji-yu-hu-lian-wang/ru-he-jin-yi-bu-da-lao-ke-ji-qiang-guo-jian-she-gen-ji-2026-05-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%89%93%E7%89%A2%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E6%A0%B9%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [接续奋斗显身手 - 2026-05-03](AI_Reports/wei-fen-lei/jie-xu-fen-dou-xian-shen-shou-2026-05-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97%E6%98%BE%E8%BA%AB%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)
+- [首个首次首艘！我国硬核实力再上新 - 2026-05-03](AI_Reports/wei-fen-lei/shou-ge-shou-ci-shou-sao-wo-guo-ying-he-shi-li-zai-shang-xin-2026-05-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E9%A6%96%E6%AC%A1%E9%A6%96%E8%89%98%EF%BC%81%E6%88%91%E5%9B%BD%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%E5%86%8D%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
