@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：196
+报告总数：198
 
 ---
 
@@ -57,6 +57,7 @@
 
 ## F
 
+- [奋斗是青春最亮丽的底色](fen-dou-shi-qing-chun-zui-liang-li-de-di-se-2026-05-04--v1.md) - 2026-05-04 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%80%E4%BA%AE%E4%B8%BD%E7%9A%84%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [奋进春光里](fen-jin-chun-guang-li-2026-03-14--v1.md) - 2026-03-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E8%BF%9B%E6%98%A5%E5%85%89%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## G
@@ -77,6 +78,7 @@
 - [绘就共同富裕新画卷](hui-jiu-gong-tong-fu-yu-xin-hua-juan-2025-12-18--v1.md) - 2025-12-18 (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [绘就宜居宜业和美乡村新画卷](hui-jiu-yi-ju-yi-ye-he-mei-xiang-cun-xin-hua-juan-2026-02-22--v1.md) - 2026-02-22 (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E5%AE%9C%E5%B1%85%E5%AE%9C%E4%B8%9A%E5%92%8C%E7%BE%8E%E4%B9%A1%E6%9D%91%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [霍尔木兹海峡争夺战浮出水面](huo-er-mu-zi-hai-xia-zheng-duo-zhan-fu-chu-shui-mian-2026-03-18--v1.md) - 2026-03-18 (v1) [来源](https://www.baidu.com/s?wd=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E4%BA%89%E5%A4%BA%E6%88%98%E6%B5%B7%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
+- [获奖名单上 他的名字被加上了方框](huo-jiang-ming-dan-shang-ta-de-ming-zi-bei-jia-shang-liao-fang-kuang-2026-05-04--v1.md) - 2026-05-04 (v1) [来源](https://www.baidu.com/s?wd=%E8%8E%B7%E5%A5%B1%E5%90%8D%E5%8D%95%E4%B8%8A+%E4%BB%96%E7%9A%84%E5%90%8D%E5%AD%97%E8%A2%AB%E5%8A%A0%E4%B8%8A%E4%BA%86%E6%96%B9%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## J
 
