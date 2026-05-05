@@ -27,6 +27,7 @@
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [习近平对烟花厂爆炸事故作重要指示 - 2026-05-05](AI_Reports/she-hui-yu-fa-zhi/xi-jin-ping-dui-yan-hua-han-bao-zha-shi-gu-zuo-zhong-yao-zhi-shi-2026-05-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [厚植中国式现代化民生底色 - 2026-03-17](AI_Reports/she-hui-yu-fa-zhi/hou-zhi-zhong-guo-shi-xian-dai-hua-min-sheng-di-se-2026-03-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8E%9A%E6%A4%8D%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B0%91%E7%94%9F%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [民生冷暖系心间 - 2026-02-20](AI_Reports/she-hui-yu-fa-zhi/min-sheng-leng-nuan-xi-xin-jian-2026-02-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%B1%E7%94%9F%E5%86%B7%E6%9A%96%E7%B3%BB%E5%BF%83%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [印度疫情死亡率高达40%到75% - 2026-01-26](AI_Reports/she-hui-yu-fa-zhi/yin-du-yi-qing-si-wang-lu-gao-da-40-dao-75-2026-01-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85%E6%AD%BB%E4%BA%A1%E7%8E%87%E9%AB%98%E8%BE%BE40%25%E5%88%B075%25&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [央视曝光小诊所用医保卡换豆油和面 - 2025-11-28](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-guang-xiao-zhen-suo-yong-yi-bao-qia-huan-dou-you-he-mian-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%B0%8F%E8%AF%8A%E6%89%80%E7%94%A8%E5%8C%BB%E4%BF%9D%E5%8D%A1%E6%8D%A2%E8%B1%86%E6%B2%B9%E5%92%8C%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [深圳消防车队已在莲塘口岸集结 - 2025-11-27](AI_Reports/she-hui-yu-fa-zhi/shen-zhen-xiao-fang-che-dui-yi-zai-lian-tang-kou-an-ji-jie-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93&sa=fyb_news&rsv_dl=fyb_news)
 - [香港火灾44人遇难 3人涉误杀被捕 - 2025-11-27](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-huo-zai-44ren-yu-nan-3ren-she-wu-sha-bei-bu-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE44%E4%BA%BA%E9%81%87%E9%9A%BE+3%E4%BA%BA%E6%B6%89%E8%AF%AF%E6%9D%80%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)
-- [婚前同居认定属于家庭成员 - 2025-11-26](AI_Reports/she-hui-yu-fa-zhi/hun-qian-tong-ju-ren-ding-shu-yu-jia-ting-cheng-yuan-2025-11-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%E8%AE%A4%E5%AE%9A%E5%B1%9E%E4%BA%8E%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -74,6 +74,7 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [00后吴宜泽斯诺克世锦赛夺冠 - 2026-05-05](AI_Reports/ti-yu-yu-sai-shi/00hou-wu-yi-ze-si-nuo-ke-shi-jin-sai-duo-guan-2026-05-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%90%B4%E5%AE%9C%E6%B3%BD%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [除了足球队 中国已全面进入世界杯 - 2026-04-18](AI_Reports/ti-yu-yu-sai-shi/chu-liao-zu-qiu-dui-zhong-guo-yi-quan-mian-jin-ru-shi-jie-bei-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%99%B7%E4%BA%86%E8%B6%B3%E7%90%83%E9%98%81+%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [中国女足0比8惨败英格兰女足 - 2025-11-30](AI_Reports/ti-yu-yu-sai-shi/zhong-guo-nu-zu-0bi-8can-bai-ying-ge-lan-nu-zu-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E6%83%A8%E8%B4%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%A5%B3%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [闪耀全运会的青少年 - 2025-11-24](AI_Reports/ti-yu-yu-sai-shi/shan-yao-quan-yun-hui-de-qing-shao-nian-2025-11-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%97%AA%E8%80%80%E5%85%A8%E8%BF%90%E4%BC%9A%E7%9A%84%E9%9D%92%E5%B0%91%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
@@ -93,7 +94,6 @@
 - [十五运会这些看点值得关注 - 2025-11-10](AI_Reports/ti-yu-yu-sai-shi/shi-wu-yun-hui-zhe-xie-kan-dian-zhi-de-guan-zhu-2025-11-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%8C%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9C%8B%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [全运热潮席卷粤港澳三地 - 2025-11-09](AI_Reports/ti-yu-yu-sai-shi/quan-yun-re-chao-xi-juan-yue-gang-ao-san-di-2025-11-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E7%83%AD%E6%BD%AE%E5%B8%AD%E5%8D%B7%E5%8D%8E%E6%B8%AF%E6%BE%B3%E4%B8%89%E5%B0%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [一群世界冠军争一个全国冠军 - 2025-11-09](AI_Reports/ti-yu-yu-sai-shi/yi-qun-shi-jie-guan-jun-zheng-yi-ge-quan-guo-guan-jun-2025-11-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%A4%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%BA%89%E4%B8%80%E4%B8%AA%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
-- [别错过！十五运会金牌赛程来了 - 2025-11-06](AI_Reports/ti-yu-yu-sai-shi/bie-cuo-guo-shi-wu-yun-hui-jin-pai-sai-cheng-lai-liao-2025-11-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%88%AB%E9%94%99%E8%BF%87%EF%BC%81%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%E8%B5%9B%E7%A8%8B%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
@@ -343,6 +343,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [全球爆单 又一国产爆款太“上头” - 2026-05-05](AI_Reports/wei-fen-lei/quan-qiu-bao-dan-you-yi-guo-chan-bao-kuan-tai-shang-tou-2026-05-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95+%E5%8F%88%E4%B8%80%E5%9B%BD%E4%BA%A7%E7%88%86%E6%AC%BE%E5%A4%AA%E2%80%9C%E4%B8%8A%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [奋斗是青春最亮丽的底色 - 2026-05-04](AI_Reports/wei-fen-lei/fen-dou-shi-qing-chun-zui-liang-li-de-di-se-2026-05-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%80%E4%BA%AE%E4%B8%BD%E7%9A%84%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [获奖名单上 他的名字被加上了方框 - 2026-05-04](AI_Reports/wei-fen-lei/huo-jiang-ming-dan-shang-ta-de-ming-zi-bei-jia-shang-liao-fang-kuang-2026-05-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8E%B7%E5%A5%B1%E5%90%8D%E5%8D%95%E4%B8%8A+%E4%BB%96%E7%9A%84%E5%90%8D%E5%AD%97%E8%A2%AB%E5%8A%A0%E4%B8%8A%E4%BA%86%E6%96%B9%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news)
 - [接续奋斗显身手 - 2026-05-03](AI_Reports/wei-fen-lei/jie-xu-fen-dou-xian-shen-shou-2026-05-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97%E6%98%BE%E8%BA%AB%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)
@@ -362,4 +363,3 @@
 - [“平均月薪20804元” 这类人才紧缺 - 2026-04-21](AI_Reports/wei-fen-lei/ping-jun-yue-xin-20804yuan-zhe-lei-ren-cai-jin-que-2026-04-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA20804%E5%85%83%E2%80%9D+%E8%BF%99%E7%B1%BB%E4%BA%BA%E6%89%8D%E7%B4%A7%E7%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [建设网络强国 - 2026-04-20](AI_Reports/wei-fen-lei/jian-she-wang-luo-qiang-guo-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [日本野心彻底暴露 - 2026-04-19](AI_Reports/wei-fen-lei/ri-ben-ye-xin-che-di-bao-lu-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E5%BD%BB%E5%BA%95%E6%9A%B4%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)
-- [“读书已成了我的一种生活方式” - 2026-04-18](AI_Reports/wei-fen-lei/du-shu-yi-cheng-liao-wo-de-yi-chong-sheng-huo-fang-shi-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%AF%BB%E4%B9%A6%E5%B7%B2%E6%88%90%E4%BA%86%E6%88%91%E7%9A%84%E4%B8%80%E7%A7%8D%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
