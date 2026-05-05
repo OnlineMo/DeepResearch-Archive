@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：84
+报告总数：85
 
 ---
 
@@ -112,6 +112,7 @@
 
 ## X
 
+- [习近平对烟花厂爆炸事故作重要指示](xi-jin-ping-dui-yan-hua-han-bao-zha-shi-gu-zuo-zhong-yao-zhi-shi-2026-05-05--v1.md) - 2026-05-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [香港大埔火灾已致128人遇难](xiang-gang-da-bu-huo-zai-yi-zhi-128ren-yu-nan-2025-11-29--v1.md) - 2025-11-29 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%97%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [香港发现战时炸弹 6000人紧急疏散](xiang-gang-fa-xian-zhan-shi-zha-dan-6000ren-jin-ji-shu-san-2025-09-20--v1.md) - 2025-09-20 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%8F%91%E7%8E%B0%E6%88%98%E6%97%B6%E7%82%B8%E5%BC%B9+6000%E4%BA%BA%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)
 - [香港黄金盗窃案已拘捕12男1女](xiang-gang-huang-jin-dao-qie-an-yi-ju-bu-12nan-1nu-2025-09-19--v1.md) - 2025-09-19 (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E7%9B%97%E7%AA%83%E6%A1%88%E5%B7%B2%E6%8B%A3%E6%8D%9512%E7%94%B71%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)
