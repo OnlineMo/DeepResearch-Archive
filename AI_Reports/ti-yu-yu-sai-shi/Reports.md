@@ -1,9 +1,13 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：25
+报告总数：26
 
 ---
+
+## 0-9
+
+- [00后吴宜泽斯诺克世锦赛夺冠](00hou-wu-yi-ze-si-nuo-ke-shi-jin-sai-duo-guan-2026-05-05--v1.md) - 2026-05-05 (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%90%B4%E5%AE%9C%E6%B3%BD%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)
 
 ## B
 
