@@ -131,6 +131,7 @@
 ## 网络安全
 [点击查看网络安全完整报告索引 →](AI_Reports/wang-luo-an-quan/Reports.md)
 
+- [国家安全部发布最新提醒 - 2026-05-06](AI_Reports/wang-luo-an-quan/guo-jia-an-quan-bu-fa-bu-zui-xin-ti-xing-2026-05-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%83%A8%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)
 - [微信这两项设置很关键 涉及资金安全 - 2026-04-20](AI_Reports/wang-luo-an-quan/wei-xin-zhe-liang-xiang-she-zhi-hen-guan-jian-she-ji-zi-jin-an-quan-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E4%BF%A1%E8%BF%99%E4%BA%8C%E9%A1%B9%E8%AE%BE%E7%BD%AE%E5%BE%88%E5%85%B3%E9%94%AE+%E6%B6%89%E5%8F%8A%E8%B5%84%E9%87%91%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [筑牢网络安全“防火墙” - 2025-09-16](AI_Reports/wang-luo-an-quan/zhu-lao-wang-luo-an-quan-fang-huo-qiang-2025-09-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E2%80%9C%E9%98%B2%E7%81%AB%E5%A2%99%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
@@ -343,6 +344,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [奋斗是青春最亮丽的底色 - 2026-05-06](AI_Reports/wei-fen-lei/fen-dou-shi-qing-chun-zui-liang-li-de-di-se-2026-05-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%80%E4%BA%AE%E4%B8%BD%E7%9A%84%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [全球爆单 又一国产爆款太“上头” - 2026-05-05](AI_Reports/wei-fen-lei/quan-qiu-bao-dan-you-yi-guo-chan-bao-kuan-tai-shang-tou-2026-05-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95+%E5%8F%88%E4%B8%80%E5%9B%BD%E4%BA%A7%E7%88%86%E6%AC%BE%E5%A4%AA%E2%80%9C%E4%B8%8A%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [奋斗是青春最亮丽的底色 - 2026-05-04](AI_Reports/wei-fen-lei/fen-dou-shi-qing-chun-zui-liang-li-de-di-se-2026-05-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%80%E4%BA%AE%E4%B8%BD%E7%9A%84%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [获奖名单上 他的名字被加上了方框 - 2026-05-04](AI_Reports/wei-fen-lei/huo-jiang-ming-dan-shang-ta-de-ming-zi-bei-jia-shang-liao-fang-kuang-2026-05-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8E%B7%E5%A5%B1%E5%90%8D%E5%8D%95%E4%B8%8A+%E4%BB%96%E7%9A%84%E5%90%8D%E5%AD%97%E8%A2%AB%E5%8A%A0%E4%B8%8A%E4%BA%86%E6%96%B9%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -362,4 +364,3 @@
 - [现代化道路上“一国都不能掉队” - 2026-04-22](AI_Reports/wei-fen-lei/xian-dai-hua-dao-lu-shang-yi-guo-du-bu-neng-diao-dui-2026-04-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E5%8C%96%E9%81%93%E8%B7%AF%E4%B8%8A%E2%80%9C%E4%B8%80%E5%9B%BD%E9%83%BD%E4%B8%8D%E8%83%BD%E6%8E%89%E9%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“平均月薪20804元” 这类人才紧缺 - 2026-04-21](AI_Reports/wei-fen-lei/ping-jun-yue-xin-20804yuan-zhe-lei-ren-cai-jin-que-2026-04-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA20804%E5%85%83%E2%80%9D+%E8%BF%99%E7%B1%BB%E4%BA%BA%E6%89%8D%E7%B4%A7%E7%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [建设网络强国 - 2026-04-20](AI_Reports/wei-fen-lei/jian-she-wang-luo-qiang-guo-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
-- [日本野心彻底暴露 - 2026-04-19](AI_Reports/wei-fen-lei/ri-ben-ye-xin-che-di-bao-lu-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E5%BD%BB%E5%BA%95%E6%9A%B4%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)
