@@ -1,9 +1,13 @@
 # 网络安全 报告索引
 
 本页包含 **网络安全** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：2
+报告总数：3
 
 ---
+
+## G
+
+- [国家安全部发布最新提醒](guo-jia-an-quan-bu-fa-bu-zui-xin-ti-xing-2026-05-06--v1.md) - 2026-05-06 (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%83%A8%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)
 
 ## W
 
