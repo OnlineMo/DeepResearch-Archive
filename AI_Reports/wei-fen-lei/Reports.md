@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：199
+报告总数：200
 
 ---
 
@@ -58,6 +58,7 @@
 ## F
 
 - [奋斗是青春最亮丽的底色](fen-dou-shi-qing-chun-zui-liang-li-de-di-se-2026-05-04--v1.md) - 2026-05-04 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%80%E4%BA%AE%E4%B8%BD%E7%9A%84%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
+- [奋斗是青春最亮丽的底色](fen-dou-shi-qing-chun-zui-liang-li-de-di-se-2026-05-06--v1.md) - 2026-05-06 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%80%E4%BA%AE%E4%B8%BD%E7%9A%84%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [奋进春光里](fen-jin-chun-guang-li-2026-03-14--v1.md) - 2026-03-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E8%BF%9B%E6%98%A5%E5%85%89%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 
 ## G
