@@ -19,7 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [国际足联秘书长级高管计划访华 - 2026-05-07](AI_Reports/shi-zheng-yu-guo-ji/guo-ji-zu-lian-mi-shu-chang-ji-gao-guan-ji-hua-fang-hua-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A7%98%E4%B9%A6%E9%95%BF%E7%BA%A7%E9%AB%98%E7%AE%A1%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
-- [高市早苗下跪让人看清日本丑恶嘴脸 - 2026-05-07](AI_Reports/wei-fen-lei/gao-shi-zao-miao-xia-gui-rang-ren-kan-qing-ri-ben-chou-e-zui-lian-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%B4%B8&sa=fyb_news&rsv_dl=fyb_news)
-- [热气腾腾 劳动闪光 - 2026-05-07](AI_Reports/wei-fen-lei/re-qi-teng-teng-lao-dong-shan-guang-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE+%E5%8A%B3%E5%8A%A8%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
+- [加快推进教育现代化 - 2026-05-08](AI_Reports/jiao-yu-yu-kao-shi/jia-kuai-tui-jin-jiao-yu-xian-dai-hua-2026-05-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%A0%E5%BF%AB%E6%8E%A8%E8%BF%9B%E6%95%99%E8%82%B2%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
