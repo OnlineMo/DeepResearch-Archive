@@ -250,6 +250,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [加快推进教育现代化 - 2026-05-08](AI_Reports/jiao-yu-yu-kao-shi/jia-kuai-tui-jin-jiao-yu-xian-dai-hua-2026-05-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%A0%E5%BF%AB%E6%8E%A8%E8%BF%9B%E6%95%99%E8%82%B2%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)
 - [王毅单膝跪地向志愿军先烈献花 - 2026-04-11](AI_Reports/jiao-yu-yu-kao-shi/wang-yi-dan-xi-gui-di-xiang-zhi-yuan-jun-xian-lie-xian-hua-2026-04-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%8D%95%E8%86%9D%E8%B7%AA%E5%9C%B0%E5%90%91%E5%BF%97%E6%84%BF%E5%86%9B%E5%85%88%E7%83%88%E7%8C%AE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [duo-di-guan-xuan-xue-jia-wang-you-shi-ming-zhi-xian-mu - 2025-12-01](AI_Reports/jiao-yu-yu-kao-shi/duo-di-guan-xuan-xue-jia-wang-you-shi-ming-zhi-xian-mu-2025-12-01--v1.md) (v1)
 - [中小学春秋假来了 各地怎么放 - 2025-10-24](AI_Reports/jiao-yu-yu-kao-shi/zhong-xiao-xue-chun-qiu-jia-lai-liao-ge-di-zen-yao-fang-2025-10-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87%E6%9D%A5%E4%BA%86+%E5%90%84%E5%9C%B0%E6%80%8E%E4%B9%88%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
