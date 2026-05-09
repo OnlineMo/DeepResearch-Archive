@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [加快推进教育现代化 - 2026-05-08](AI_Reports/jiao-yu-yu-kao-shi/jia-kuai-tui-jin-jiao-yu-xian-dai-hua-2026-05-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%A0%E5%BF%AB%E6%8E%A8%E8%BF%9B%E6%95%99%E8%82%B2%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)
+- [国安部：某手机芯片厂漏洞被非法利用 - 2026-05-09](AI_Reports/wang-luo-an-quan/guo-an-bu-mou-shou-ji-xin-pian-han-lou-dong-bei-fei-fa-li-yong-2026-05-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%EF%BC%9A%E6%9F%90%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E5%8E%A2%E6%BC%8F%E6%B4%9E%E8%A2%AB%E9%9D%9E%E6%B3%95%E5%88%A9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)
+- [从0到1 步步向前 - 2026-05-09](AI_Reports/wei-fen-lei/cong-0dao-1-bu-bu-xiang-qian-2026-05-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E0%E5%88%B01+%E6%AD%A5%E6%AD%A5%E5%90%91%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
