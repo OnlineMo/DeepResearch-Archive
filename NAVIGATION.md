@@ -27,6 +27,7 @@
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [美客机撞上行人 致其被吸入引擎死亡 - 2026-05-10](AI_Reports/she-hui-yu-fa-zhi/mei-ke-ji-zhuang-shang-xing-ren-zhi-qi-bei-xi-ru-yin-qing-si-wang-2026-05-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%A2%E6%9C%BA%E6%92%9E%E4%B8%8A%E8%A1%8C%E4%BA%BA+%E8%87%B4%E5%85%B6%E8%A2%AB%E5%90%B8%E5%85%A5%E5%BC%95%E6%93%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平对烟花厂爆炸事故作重要指示 - 2026-05-05](AI_Reports/she-hui-yu-fa-zhi/xi-jin-ping-dui-yan-hua-han-bao-zha-shi-gu-zuo-zhong-yao-zhi-shi-2026-05-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [厚植中国式现代化民生底色 - 2026-03-17](AI_Reports/she-hui-yu-fa-zhi/hou-zhi-zhong-guo-shi-xian-dai-hua-min-sheng-di-se-2026-03-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8E%9A%E6%A4%8D%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B0%91%E7%94%9F%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [民生冷暖系心间 - 2026-02-20](AI_Reports/she-hui-yu-fa-zhi/min-sheng-leng-nuan-xi-xin-jian-2026-02-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%B1%E7%94%9F%E5%86%B7%E6%9A%96%E7%B3%BB%E5%BF%83%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [香港火灾已造成94人遇难 - 2025-11-28](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-huo-zai-yi-zao-cheng-94ren-yu-nan-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%9094%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [央视曝光小诊所用医保卡换豆油和面 - 2025-11-28](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-guang-xiao-zhen-suo-yong-yi-bao-qia-huan-dou-you-he-mian-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%B0%8F%E8%AF%8A%E6%89%80%E7%94%A8%E5%8C%BB%E4%BF%9D%E5%8D%A1%E6%8D%A2%E8%B1%86%E6%B2%B9%E5%92%8C%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [深圳消防车队已在莲塘口岸集结 - 2025-11-27](AI_Reports/she-hui-yu-fa-zhi/shen-zhen-xiao-fang-che-dui-yi-zai-lian-tang-kou-an-ji-jie-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93&sa=fyb_news&rsv_dl=fyb_news)
-- [香港火灾44人遇难 3人涉误杀被捕 - 2025-11-27](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-huo-zai-44ren-yu-nan-3ren-she-wu-sha-bei-bu-2025-11-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE44%E4%BA%BA%E9%81%87%E9%9A%BE+3%E4%BA%BA%E6%B6%89%E8%AF%AF%E6%9D%80%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -346,6 +346,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [家国情 寸草心 - 2026-05-10](AI_Reports/wei-fen-lei/jia-guo-qing-cun-cao-xin-2026-05-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%B6%E5%9B%BD%E6%83%85+%E5%AF%B8%E8%8D%89%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [从0到1 步步向前 - 2026-05-09](AI_Reports/wei-fen-lei/cong-0dao-1-bu-bu-xiang-qian-2026-05-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E0%E5%88%B01+%E6%AD%A5%E6%AD%A5%E5%90%91%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [高市早苗下跪让人看清日本丑恶嘴脸 - 2026-05-07](AI_Reports/wei-fen-lei/gao-shi-zao-miao-xia-gui-rang-ren-kan-qing-ri-ben-chou-e-zui-lian-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%B4%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [热气腾腾 劳动闪光 - 2026-05-07](AI_Reports/wei-fen-lei/re-qi-teng-teng-lao-dong-shan-guang-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE+%E5%8A%B3%E5%8A%A8%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
@@ -365,4 +366,3 @@
 - [中老友好续写动人故事 - 2026-04-26](AI_Reports/wei-fen-lei/zhong-lao-you-hao-xu-xie-dong-ren-gu-shi-2026-04-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD%E7%BB%AD%E5%86%99%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [工资高但很孤独的工作 你愿意做吗 - 2026-04-24](AI_Reports/wei-fen-lei/gong-zi-gao-dan-hen-gu-du-de-gong-zuo-ni-yuan-yi-zuo-ma-2026-04-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%A5%E8%B5%84%E9%AB%98%E4%BD%86%E5%BE%88%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%B7%A5%E4%BD%9C+%E4%BD%A0%E6%84%BF%E6%84%8F%E5%81%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
 - [“我最大的爱好就是读书” - 2026-04-23](AI_Reports/wei-fen-lei/wo-zui-da-de-ai-hao-jiu-shi-du-shu-2026-04-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%9C%80%E5%A4%A7%E7%9A%84%E7%88%B1%E5%A5%BD%E5%B0%B1%E6%98%AF%E8%AF%BB%E4%B9%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [上午刷到巴掌帽 下午义乌已量产 - 2026-04-22](AI_Reports/wei-fen-lei/shang-wu-shua-dao-ba-zhang-mao-xia-wu-yi-wu-yi-liang-chan-2026-04-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E5%88%B7%E5%88%B0%E5%B7%B4%E6%8E%8C%E5%B8%BD+%E4%B8%8B%E5%8D%88%E4%B9%89%E4%B9%8C%E5%B7%B2%E9%87%8F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
