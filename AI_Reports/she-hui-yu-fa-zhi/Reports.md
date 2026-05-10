@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：85
+报告总数：86
 
 ---
 
@@ -68,6 +68,7 @@
 
 ## M
 
+- [美客机撞上行人 致其被吸入引擎死亡](mei-ke-ji-zhuang-shang-xing-ren-zhi-qi-bei-xi-ru-yin-qing-si-wang-2026-05-10--v1.md) - 2026-05-10 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%A2%E6%9C%BA%E6%92%9E%E4%B8%8A%E8%A1%8C%E4%BA%BA+%E8%87%B4%E5%85%B6%E8%A2%AB%E5%90%B8%E5%85%A5%E5%BC%95%E6%93%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [民生冷暖系心间](min-sheng-leng-nuan-xi-xin-jian-2026-02-20--v1.md) - 2026-02-20 (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%B1%E7%94%9F%E5%86%B7%E6%9A%96%E7%B3%BB%E5%BF%83%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [漠河室内外温差已达60℃](mo-he-shi-nei-wai-wen-chai-yi-da-60degc-2025-12-06--v1.md) - 2025-12-06 (v1) [来源](https://www.baidu.com/s?wd=%E6%BC%A0%E6%B2%B3%E5%AE%A4%E5%86%85%E5%A4%96%E6%B8%A9%E5%B7%AE%E5%B7%B2%E8%BE%BE60%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)
 
