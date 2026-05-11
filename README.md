@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [美客机撞上行人 致其被吸入引擎死亡 - 2026-05-10](AI_Reports/she-hui-yu-fa-zhi/mei-ke-ji-zhuang-shang-xing-ren-zhi-qi-bei-xi-ru-yin-qing-si-wang-2026-05-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%A2%E6%9C%BA%E6%92%9E%E4%B8%8A%E8%A1%8C%E4%BA%BA+%E8%87%B4%E5%85%B6%E8%A2%AB%E5%90%B8%E5%85%A5%E5%BC%95%E6%93%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)
-- [家国情 寸草心 - 2026-05-10](AI_Reports/wei-fen-lei/jia-guo-qing-cun-cao-xin-2026-05-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%B6%E5%9B%BD%E6%83%85+%E5%AF%B8%E8%8D%89%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
+- [特朗普5月13日至15日访华 - 2026-05-11](AI_Reports/wei-fen-lei/te-lang-pu-5yue-13ri-zhi-15ri-fang-hua-2026-05-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%B1%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
+- [因地制宜走出发展新路 - 2026-05-11](AI_Reports/wei-fen-lei/yin-di-zhi-yi-zou-chu-fa-zhan-xin-lu-2026-05-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%E8%B5%B0%E5%87%BA%E5%8F%91%E5%B1%95%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
