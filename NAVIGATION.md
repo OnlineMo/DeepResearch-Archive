@@ -346,6 +346,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [特朗普5月13日至15日访华 - 2026-05-11](AI_Reports/wei-fen-lei/te-lang-pu-5yue-13ri-zhi-15ri-fang-hua-2026-05-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%B1%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
+- [因地制宜走出发展新路 - 2026-05-11](AI_Reports/wei-fen-lei/yin-di-zhi-yi-zou-chu-fa-zhan-xin-lu-2026-05-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%E8%B5%B0%E5%87%BA%E5%8F%91%E5%B1%95%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [家国情 寸草心 - 2026-05-10](AI_Reports/wei-fen-lei/jia-guo-qing-cun-cao-xin-2026-05-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%B6%E5%9B%BD%E6%83%85+%E5%AF%B8%E8%8D%89%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [从0到1 步步向前 - 2026-05-09](AI_Reports/wei-fen-lei/cong-0dao-1-bu-bu-xiang-qian-2026-05-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E0%E5%88%B01+%E6%AD%A5%E6%AD%A5%E5%90%91%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [高市早苗下跪让人看清日本丑恶嘴脸 - 2026-05-07](AI_Reports/wei-fen-lei/gao-shi-zao-miao-xia-gui-rang-ren-kan-qing-ri-ben-chou-e-zui-lian-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%B4%B8&sa=fyb_news&rsv_dl=fyb_news)
@@ -364,5 +366,3 @@
 - [总书记的一周 - 2026-04-28](AI_Reports/wei-fen-lei/zong-shu-ji-de-yi-zhou-2026-04-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [连续两周上四休三 - 2026-04-27](AI_Reports/wei-fen-lei/lian-xu-liang-zhou-shang-si-xiu-san-2026-04-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)
 - [中老友好续写动人故事 - 2026-04-26](AI_Reports/wei-fen-lei/zhong-lao-you-hao-xu-xie-dong-ren-gu-shi-2026-04-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD%E7%BB%AD%E5%86%99%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
-- [工资高但很孤独的工作 你愿意做吗 - 2026-04-24](AI_Reports/wei-fen-lei/gong-zi-gao-dan-hen-gu-du-de-gong-zuo-ni-yuan-yi-zuo-ma-2026-04-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%A5%E8%B5%84%E9%AB%98%E4%BD%86%E5%BE%88%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%B7%A5%E4%BD%9C+%E4%BD%A0%E6%84%BF%E6%84%8F%E5%81%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
-- [“我最大的爱好就是读书” - 2026-04-23](AI_Reports/wei-fen-lei/wo-zui-da-de-ai-hao-jiu-shi-du-shu-2026-04-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%9C%80%E5%A4%A7%E7%9A%84%E7%88%B1%E5%A5%BD%E5%B0%B1%E6%98%AF%E8%AF%BB%E4%B9%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
