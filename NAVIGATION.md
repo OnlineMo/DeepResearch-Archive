@@ -74,6 +74,7 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [世界杯还没开踢 中国球迷先退票了 - 2026-05-12](AI_Reports/ti-yu-yu-sai-shi/shi-jie-bei-huan-mei-kai-ti-zhong-guo-qiu-mi-xian-tui-piao-liao-2026-05-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%8C%E8%BF%98%E6%B2%A1%E5%BC%80%E8%B8%A2+%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E5%85%88%E9%80%80%E7%A5%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [00后吴宜泽斯诺克世锦赛夺冠 - 2026-05-05](AI_Reports/ti-yu-yu-sai-shi/00hou-wu-yi-ze-si-nuo-ke-shi-jin-sai-duo-guan-2026-05-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=00%E5%90%8E%E5%90%B4%E5%AE%9C%E6%B3%BD%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [除了足球队 中国已全面进入世界杯 - 2026-04-18](AI_Reports/ti-yu-yu-sai-shi/chu-liao-zu-qiu-dui-zhong-guo-yi-quan-mian-jin-ru-shi-jie-bei-2026-04-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%99%B7%E4%BA%86%E8%B6%B3%E7%90%83%E9%98%81+%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [中国女足0比8惨败英格兰女足 - 2025-11-30](AI_Reports/ti-yu-yu-sai-shi/zhong-guo-nu-zu-0bi-8can-bai-ying-ge-lan-nu-zu-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E6%83%A8%E8%B4%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%A5%B3%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)
@@ -93,7 +94,6 @@
 - [每天都吃很饱的荒野求生选手退赛 - 2025-11-10](AI_Reports/ti-yu-yu-sai-shi/mei-tian-du-chi-hen-bao-de-huang-ye-qiu-sheng-xuan-shou-tui-sai-2025-11-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%90%83%E5%BE%88%E9%A5%B1%E7%9A%84%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E9%80%89%E6%89%8B%E9%80%80%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [十五运会这些看点值得关注 - 2025-11-10](AI_Reports/ti-yu-yu-sai-shi/shi-wu-yun-hui-zhe-xie-kan-dian-zhi-de-guan-zhu-2025-11-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%8C%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9C%8B%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [全运热潮席卷粤港澳三地 - 2025-11-09](AI_Reports/ti-yu-yu-sai-shi/quan-yun-re-chao-xi-juan-yue-gang-ao-san-di-2025-11-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E8%BF%90%E7%83%AD%E6%BD%AE%E5%B8%AD%E5%8D%B7%E5%8D%8E%E6%B8%AF%E6%BE%B3%E4%B8%89%E5%B0%B1&sa=fyb_news&rsv_dl=fyb_news)
-- [一群世界冠军争一个全国冠军 - 2025-11-09](AI_Reports/ti-yu-yu-sai-shi/yi-qun-shi-jie-guan-jun-zheng-yi-ge-quan-guo-guan-jun-2025-11-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%A4%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%BA%89%E4%B8%80%E4%B8%AA%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
@@ -346,6 +346,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [改造升级 传统产业提质增效 - 2026-05-12](AI_Reports/wei-fen-lei/gai-zao-sheng-ji-chuan-tong-chan-ye-ti-zhi-zeng-xiao-2026-05-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%94%B9%E9%80%A0%E5%8D%87%E7%BA%A7+%E4%BC%A0%E7%BB%9F%E4%BA%A7%E4%B8%9A%E6%8F%90%E8%B4%A8%E5%A2%9E%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普5月13日至15日访华 - 2026-05-11](AI_Reports/wei-fen-lei/te-lang-pu-5yue-13ri-zhi-15ri-fang-hua-2026-05-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%B1%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [因地制宜走出发展新路 - 2026-05-11](AI_Reports/wei-fen-lei/yin-di-zhi-yi-zou-chu-fa-zhan-xin-lu-2026-05-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%E8%B5%B0%E5%87%BA%E5%8F%91%E5%B1%95%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [家国情 寸草心 - 2026-05-10](AI_Reports/wei-fen-lei/jia-guo-qing-cun-cao-xin-2026-05-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%B6%E5%9B%BD%E6%83%85+%E5%AF%B8%E8%8D%89%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -365,4 +366,3 @@
 - [中央政治局举行第二十五次集体学习 - 2026-04-30](AI_Reports/wei-fen-lei/zhong-yang-zheng-zhi-ju-ju-xing-di-er-shi-wu-ci-ji-ti-xue-xi-2026-04-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%B8%BE%E8%A1%8C%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%AC%A1%E9%9B%86%E4%BD%93%E5%AD%A6%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的一周 - 2026-04-28](AI_Reports/wei-fen-lei/zong-shu-ji-de-yi-zhou-2026-04-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [连续两周上四休三 - 2026-04-27](AI_Reports/wei-fen-lei/lian-xu-liang-zhou-shang-si-xiu-san-2026-04-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)
-- [中老友好续写动人故事 - 2026-04-26](AI_Reports/wei-fen-lei/zhong-lao-you-hao-xu-xie-dong-ren-gu-shi-2026-04-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD%E7%BB%AD%E5%86%99%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
