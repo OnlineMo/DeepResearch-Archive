@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [中美两个“大块头”如何相处 - 2026-05-13](AI_Reports/wei-fen-lei/zhong-mei-liang-ge-da-kuai-tou-ru-he-xiang-chu-2026-05-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E4%B8%AA%E2%80%9C%E5%A4%A7%E5%9D%97%E5%A4%B4%E2%80%9D%E5%A6%82%E4%BD%95%E7%9B%B8%E5%84%84&sa=fyb_news&rsv_dl=fyb_news)
+- [从世界期待中感受中美元首外交分量 - 2026-05-14](AI_Reports/shi-zheng-yu-guo-ji/cong-shi-jie-qi-dai-zhong-gan-shou-zhong-mei-yuan-shou-wai-jiao-fen-liang-2026-05-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%96%E7%95%8C%E6%9C%9F%E5%BE%85%E4%B8%AD%E6%84%9F%E5%8F%97%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E5%88%86%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平同美国总统特朗普举行会谈 - 2026-05-14](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-mei-guo-zong-tong-te-lang-pu-ju-xing-hui-tan-2026-05-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
