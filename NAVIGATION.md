@@ -3,6 +3,8 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [从世界期待中感受中美元首外交分量 - 2026-05-14](AI_Reports/shi-zheng-yu-guo-ji/cong-shi-jie-qi-dai-zhong-gan-shou-zhong-mei-yuan-shou-wai-jiao-fen-liang-2026-05-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%96%E7%95%8C%E6%9C%9F%E5%BE%85%E4%B8%AD%E6%84%9F%E5%8F%97%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E5%88%86%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平同美国总统特朗普举行会谈 - 2026-05-14](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-mei-guo-zong-tong-te-lang-pu-ju-xing-hui-tan-2026-05-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 - [国际足联秘书长级高管计划访华 - 2026-05-07](AI_Reports/shi-zheng-yu-guo-ji/guo-ji-zu-lian-mi-shu-chang-ji-gao-guan-ji-hua-fang-hua-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A7%98%E4%B9%A6%E9%95%BF%E7%BA%A7%E9%AB%98%E7%AE%A1%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [提升服务业国际竞争力影响力 - 2026-04-27](AI_Reports/shi-zheng-yu-guo-ji/ti-sheng-fu-wu-ye-guo-ji-jing-zheng-li-ying-xiang-li-2026-04-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8F%90%E5%8D%87%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%9B%BD%E9%99%85%E7%AB%9E%E4%BA%89%E5%8A%9B%E5%BD%B1%E5%93%8D%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平向伊拉克新任总统致贺电 - 2026-04-25](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-xiang-yi-la-ke-xin-ren-zong-tong-zhi-he-dian-2026-04-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E4%BC%8A%E6%8B%89%E5%85%8B%E6%96%B0%E4%BB%BB%E6%80%BB%E7%BB%9F%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
@@ -21,8 +23,6 @@
 - [马克龙：此行只有一个遗憾 - 2025-12-06](AI_Reports/shi-zheng-yu-guo-ji/ma-ke-long-ci-xing-zhi-you-yi-ge-yi-han-2025-12-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%AD%A4%E8%A1%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [在都江堰感受中国“治”慧 - 2025-12-06](AI_Reports/shi-zheng-yu-guo-ji/zai-du-jiang-yan-gan-shou-zhong-guo-zhi-hui-2025-12-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9C%A8%E9%83%BD%E6%B1%9F%E5%A0%B0%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%B2%BB%E2%80%9D%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同法国总统马克龙举行会谈 - 2025-12-05](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-fa-guo-zong-tong-ma-ke-long-ju-xing-hui-tan-2025-12-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
-- [高市早苗盯上中亚5国 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/gao-shi-zao-miao-cheng-shang-zhong-ya-5guo-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9B%AF%E4%B8%8A%E4%B8%AD%E4%BA%9A5%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
-- [马克龙抵京后发文 - 2025-12-04](AI_Reports/shi-zheng-yu-guo-ji/ma-ke-long-di-jing-hou-fa-wen-2025-12-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%B5%E4%BA%AC%E5%90%8E%E5%8F%91%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
