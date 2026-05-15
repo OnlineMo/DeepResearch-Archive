@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：208
+报告总数：210
 
 ---
 
@@ -197,6 +197,7 @@
 - [习近平情系祖国的“掌上明珠”](xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) - 2025-12-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平深情讲述的英雄故事](xi-jin-ping-shen-qing-jiang-shu-de-ying-xiong-gu-shi-2026-04-05--v1.md) - 2026-04-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平听取岑浩辉述职报告](xi-jin-ping-ting-qu-cen-hao-hui-shu-zhi-bao-gao-2025-12-17--v1.md) - 2025-12-17 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%AC%E5%8F%96%E5%B2%91%E6%B5%A9%E8%BE%89%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平同特朗普在中南海小范围会晤](xi-jin-ping-tong-te-lang-pu-zai-zhong-nan-hai-xiao-fan-wei-hui-wu-2026-05-15--v1.md) - 2026-05-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%B8%AD%E5%8D%97%E6%B5%B7%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为中加关系发展把脉定向](xi-jin-ping-wei-zhong-jia-guan-xi-fa-zhan-ba-mai-ding-xiang-2026-01-18--v1.md) - 2026-01-18 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%B8%AD%E5%8A%A0%E5%85%B3%E7%B3%BB%E5%8F%91%E5%8F%B7%E6%8A%8A%E8%84%89%E5%AE%9A%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为“千年大计”作出重要部署](xi-jin-ping-wei-qian-nian-da-ji-zuo-chu-zhong-yao-bu-shu-2026-03-26--v1.md) - 2026-03-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E5%8D%83%E5%B9%B4%E5%A4%A7%E8%AE%A1%E2%80%9D%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E9%83%B2%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平新年贺词里这些话很暖心](xi-jin-ping-xin-nian-he-ci-li-zhe-xie-hua-hen-nuan-xin-2026-01-01--v1.md) - 2026-01-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E8%BF%99%E4%BA%9B%E8%AF%9D%E5%BE%88%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
@@ -249,6 +250,7 @@
 - [中国最大高速收费站多车雨中压哨通过](zhong-guo-zui-da-gao-su-shou-fei-zhan-duo-che-yu-zhong-ya-shao-tong-guo-2026-02-24--v1.md) - 2026-02-24 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E5%A4%9A%E8%BD%A6%E9%9B%A8%E4%B8%AD%E5%8E%8B%E5%93%A8%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)
 - [中老友好续写动人故事](zhong-lao-you-hao-xu-xie-dong-ren-gu-shi-2026-04-26--v1.md) - 2026-04-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81%E5%8F%8B%E5%A5%BD%E7%BB%AD%E5%86%99%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [中美两个“大块头”如何相处](zhong-mei-liang-ge-da-kuai-tou-ru-he-xiang-chu-2026-05-13--v1.md) - 2026-05-13 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E4%B8%AA%E2%80%9C%E5%A4%A7%E5%9D%97%E5%A4%B4%E2%80%9D%E5%A6%82%E4%BD%95%E7%9B%B8%E5%84%84&sa=fyb_news&rsv_dl=fyb_news)
+- [中美元首北京会晤达成重要共识](zhong-mei-yuan-shou-bei-jing-hui-wu-da-cheng-zhong-yao-gong-shi-2026-05-15--v1.md) - 2026-05-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8C%97%E4%BA%AC%E4%BC%9A%E6%99%A4%E8%BE%BE%E6%88%90%E9%87%8D%E8%A6%81%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中央军委举行晋升上将军衔仪式](zhong-yang-jun-wei-ju-xing-jin-sheng-shang-jiang-jun-xian-yi-shi-2025-12-23--v1.md) - 2025-12-23 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%A3%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [中央政治局举行第二十五次集体学习](zhong-yang-zheng-zhi-ju-ju-xing-di-er-shi-wu-ci-ji-ti-xue-xi-2026-04-30--v1.md) - 2026-04-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%B8%BE%E8%A1%8C%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%AC%A1%E9%9B%86%E4%BD%93%E5%AD%A6%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [重磅打虎！易炼红被查](zhong-bang-da-hu-yi-lian-hong-bei-cha-2026-02-10--v1.md) - 2026-02-10 (v1) [来源](https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%E6%89%93%E8%99%8E%EF%BC%81%E6%98%93%E7%82%BC%E7%BA%A2%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
