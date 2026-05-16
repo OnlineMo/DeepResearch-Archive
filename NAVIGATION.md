@@ -306,6 +306,7 @@
 ## 财经与商业
 [点击查看财经与商业完整报告索引 →](AI_Reports/cai-jing-yu-shang-ye/Reports.md)
 
+- [茅台今起涨价 - 2026-05-16](AI_Reports/cai-jing-yu-shang-ye/mao-tai-jin-qi-zhang-jie-2026-05-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E4%BB%8A%E8%B5%B7%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [价格暴涨650%！国产光纤全球爆单 - 2026-04-19](AI_Reports/cai-jing-yu-shang-ye/jie-ge-bao-zhang-650-guo-chan-guang-xian-quan-qiu-bao-dan-2026-04-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8650%25%EF%BC%81%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)
 - [“排骨羽绒服”成冬季爆款 - 2025-12-02](AI_Reports/cai-jing-yu-shang-ye/pai-gu-yu-rong-fu-cheng-dong-ji-bao-kuan-2025-12-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%8E%92%E9%AA%A8%E7%BE%BD%E7%BB%92%E6%9C%8D%E2%80%9D%E6%88%90%E5%86%AC%E5%AD%A3%E7%88%86%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [双十一商品到手价全凭运气 - 2025-11-11](AI_Reports/cai-jing-yu-shang-ye/shuang-shi-yi-shang-pin-dao-shou-jie-quan-ping-yun-qi-2025-11-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%95%86%E5%93%81%E5%88%B0%E6%89%8B%E4%BB%B7%E5%85%A8%E5%87%AD%E8%BF%90%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)
@@ -346,6 +347,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [期待两国元首再相会 - 2026-05-16](AI_Reports/wei-fen-lei/qi-dai-liang-guo-yuan-shou-zai-xiang-hui-2026-05-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%97%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%86%8D%E7%9B%B8%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同特朗普在中南海小范围会晤 - 2026-05-15](AI_Reports/wei-fen-lei/xi-jin-ping-tong-te-lang-pu-zai-zhong-nan-hai-xiao-fan-wei-hui-wu-2026-05-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%B8%AD%E5%8D%97%E6%B5%B7%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news)
 - [中美元首北京会晤达成重要共识 - 2026-05-15](AI_Reports/wei-fen-lei/zhong-mei-yuan-shou-bei-jing-hui-wu-da-cheng-zhong-yao-gong-shi-2026-05-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8C%97%E4%BA%AC%E4%BC%9A%E6%99%A4%E8%BE%BE%E6%88%90%E9%87%8D%E8%A6%81%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中美两个“大块头”如何相处 - 2026-05-13](AI_Reports/wei-fen-lei/zhong-mei-liang-ge-da-kuai-tou-ru-he-xiang-chu-2026-05-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E4%B8%AA%E2%80%9C%E5%A4%A7%E5%9D%97%E5%A4%B4%E2%80%9D%E5%A6%82%E4%BD%95%E7%9B%B8%E5%84%84&sa=fyb_news&rsv_dl=fyb_news)
@@ -365,4 +367,3 @@
 - [光荣属于劳动者 幸福属于劳动者 - 2026-05-01](AI_Reports/wei-fen-lei/guang-rong-shu-yu-lao-dong-zhe-xing-fu-shu-yu-lao-dong-zhe-2026-05-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%89%E8%8D%A3%E5%B1%9E%E4%BA%8E%E5%8A%B3%E5%8A%A8%E8%80%85+%E5%B9%B8%E7%A6%8F%E5%B1%9E%E4%BA%8E%E5%8A%A8%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)
 - [“如果妈妈突然走开了 别追我” - 2026-05-01](AI_Reports/wei-fen-lei/ru-guo-ma-ma-tu-ran-zou-kai-liao-bie-zhui-wo-2026-05-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%A6%82%E6%9E%9C%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E8%B5%B0%E5%BC%80%E4%BA%86+%E5%88%AB%E8%BF%BD%E6%88%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [歼15喊话日本军机：你在我导弹射程内 - 2026-04-30](AI_Reports/wei-fen-lei/jian-15han-hua-ri-ben-jun-ji-ni-zai-wo-dao-dan-she-cheng-nei-2026-04-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AD%BC15%E5%96%8A%E8%AF%9D%E6%97%A5%E6%9C%AC%E5%86%9B%E6%9C%BA%EF%BC%9A%E4%BD%A0%E5%9C%A8%E6%88%91%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)
-- [塔克拉玛干沙漠边28万只河蟹入塘 - 2026-04-30](AI_Reports/wei-fen-lei/ta-ke-la-ma-gan-sha-mo-bian-28mo-zhi-he-xie-ru-tang-2026-04-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A1%8C%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E8%BE%B928%E4%B8%87%E5%8F%AA%E6%B2%B3%E8%9F%B9%E5%85%A5%E5%A1%B0&sa=fyb_news&rsv_dl=fyb_news)
