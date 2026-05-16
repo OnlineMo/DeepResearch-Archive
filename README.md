@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [习近平同特朗普在中南海小范围会晤 - 2026-05-15](AI_Reports/wei-fen-lei/xi-jin-ping-tong-te-lang-pu-zai-zhong-nan-hai-xiao-fan-wei-hui-wu-2026-05-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%B8%AD%E5%8D%97%E6%B5%B7%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news)
-- [中美元首北京会晤达成重要共识 - 2026-05-15](AI_Reports/wei-fen-lei/zhong-mei-yuan-shou-bei-jing-hui-wu-da-cheng-zhong-yao-gong-shi-2026-05-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8C%97%E4%BA%AC%E4%BC%9A%E6%99%A4%E8%BE%BE%E6%88%90%E9%87%8D%E8%A6%81%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)
+- [茅台今起涨价 - 2026-05-16](AI_Reports/cai-jing-yu-shang-ye/mao-tai-jin-qi-zhang-jie-2026-05-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E4%BB%8A%E8%B5%B7%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)
+- [期待两国元首再相会 - 2026-05-16](AI_Reports/wei-fen-lei/qi-dai-liang-guo-yuan-shou-zai-xiang-hui-2026-05-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%97%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%86%8D%E7%9B%B8%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
