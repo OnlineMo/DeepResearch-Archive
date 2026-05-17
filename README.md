@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [茅台今起涨价 - 2026-05-16](AI_Reports/cai-jing-yu-shang-ye/mao-tai-jin-qi-zhang-jie-2026-05-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E4%BB%8A%E8%B5%B7%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)
-- [期待两国元首再相会 - 2026-05-16](AI_Reports/wei-fen-lei/qi-dai-liang-guo-yuan-shou-zai-xiang-hui-2026-05-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%97%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%86%8D%E7%9B%B8%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
+今日暂无报告。
 <!-- END TODAY_REPORTS -->
