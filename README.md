@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [中俄多彩主题年 拉紧人文交流纽带 - 2026-05-18](AI_Reports/wei-fen-lei/zhong-e-duo-cai-zhu-ti-nian-la-jin-ren-wen-jiao-liu-niu-dai-2026-05-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E5%A4%9A%E5%BD%A9%E4%B8%BB%E9%A2%98%E5%B9%B4+%E6%8B%89%E7%B4%A7%E4%BA%BA%E6%96%87%E4%BA%A4%E6%B5%81%E7%BA%BD%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news)
+- [世代友好的深厚情谊 - 2026-05-19](AI_Reports/wei-fen-lei/shi-dai-you-hao-de-shen-hou-qing-yi-2026-05-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%96%E4%BB%A3%E5%8F%8B%E5%A5%BD%E7%9A%84%E6%B7%B1%E5%8E%9A%E6%83%85%E8%B0%8A&sa=fyb_news&rsv_dl=fyb_news)
+- [医保个账新规来了 - 2026-05-19](AI_Reports/wei-fen-lei/yi-bao-ge-zhang-xin-gui-lai-liao-2026-05-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E8%B4%A6%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
