@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：214
+报告总数：216
 
 ---
 
@@ -196,6 +196,7 @@
 - [习近平会见德国总理默茨](xi-jin-ping-hui-jian-de-guo-zong-li-mo-ci-2026-02-26--v1.md) - 2026-02-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%84%E8%8C%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见芬兰总理奥尔波](xi-jin-ping-hui-jian-fen-lan-zong-li-ao-er-bo-2026-01-28--v1.md) - 2026-01-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%8A%AC%E5%85%B0%E6%80%BB%E7%90%86%E5%A5%A5%E5%B0%94%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平会见西班牙首相桑切斯](xi-jin-ping-hui-jian-xi-ban-ya-shou-xiang-sang-qie-si-2026-04-15--v1.md) - 2026-04-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E6%A1%91%E5%88%87%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平举行仪式欢迎普京访华](xi-jin-ping-ju-xing-yi-shi-huan-ying-pu-jing-fang-hua-2026-05-20--v1.md) - 2026-05-20 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BE%E8%A1%8C%E4%BB%AA%E5%BC%8F%E6%AC%A2%E8%BF%8E%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平情系祖国的“掌上明珠”](xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) - 2025-12-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平深情讲述的英雄故事](xi-jin-ping-shen-qing-jiang-shu-de-ying-xiong-gu-shi-2026-04-05--v1.md) - 2026-04-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平听取岑浩辉述职报告](xi-jin-ping-ting-qu-cen-hao-hui-shu-zhi-bao-gao-2025-12-17--v1.md) - 2025-12-17 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%AC%E5%8F%96%E5%B2%91%E6%B5%A9%E8%BE%89%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
@@ -244,6 +245,7 @@
 - [这一握 情深意重](zhe-yi-wo-qing-shen-yi-zhong-2025-09-07--v1.md) - 2025-09-07 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%8F%A1+%E6%83%85%E6%B7%B1%E6%84%8F%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [中传一口气砍掉16个本科专业](zhong-chuan-yi-kou-qi-kan-diao-16ge-ben-ke-zhuan-ye-2026-03-09--v1.md) - 2026-03-09 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BC%A0%E4%B8%80%E5%8F%A3%E6%B0%94%E5%88%88%E6%8E%8916%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [中俄多彩主题年 拉紧人文交流纽带](zhong-e-duo-cai-zhu-ti-nian-la-jin-ren-wen-jiao-liu-niu-dai-2026-05-18--v1.md) - 2026-05-18 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E5%A4%9A%E5%BD%A9%E4%B8%BB%E9%A2%98%E5%B9%B4+%E6%8B%89%E7%B4%A7%E4%BA%BA%E6%96%87%E4%BA%A4%E6%B5%81%E7%BA%BD%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news)
+- [中俄元首会晤何以全球瞩目](zhong-e-yuan-shou-hui-wu-he-yi-quan-qiu-zhu-mu-2026-05-20--v1.md) - 2026-05-20 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E4%BD%95%E4%BB%A5%E5%85%A8%E7%90%83%E7%9E%A9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)
 - [中法元首相会都江堰](zhong-fa-yuan-shou-xiang-hui-du-jiang-yan-2025-12-08--v1.md) - 2025-12-08 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B3%95%E5%85%83%E9%A6%96%E7%9B%B8%E4%BC%9A%E9%83%BD%E6%B1%9F%E5%A0%B0&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央召开党外人士座谈会](zhong-gong-zhong-yang-zhao-kai-dang-wai-ren-shi-zuo-tan-hui-2025-12-09--v1.md) - 2025-12-09 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8F%AC%E5%BC%80%E5%85%9A%E5%A4%96%E4%BA%BA%E5%A3%AB%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [中共中央政治局召开会议](zhong-gong-zhong-yang-zheng-zhi-ju-zhao-kai-hui-yi-2026-01-31--v1.md) - 2026-01-31 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
