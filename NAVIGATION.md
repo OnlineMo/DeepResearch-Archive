@@ -347,6 +347,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [光影长卷浓缩牢不可破的中俄友谊 - 2026-05-23](AI_Reports/wei-fen-lei/guang-ying-chang-juan-nong-suo-lao-bu-ke-po-de-zhong-e-you-yi-2026-05-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%89%E5%BD%B1%E9%95%BF%E5%8D%B7%E6%B5%93%E7%BC%A9%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4%E7%9A%84%E4%B8%AD%E4%BF%84%E5%8F%8B%E8%B0%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [寄望中俄关系发展 - 2026-05-22](AI_Reports/wei-fen-lei/ji-wang-zhong-e-guan-xi-fa-zhan-2026-05-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%84%E6%9C%9B%E4%B8%AD%E4%BF%84%E5%85%B3%E7%B3%BB%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
 - [印媒：中国38个月建成世界最大火车站 - 2026-05-22](AI_Reports/wei-fen-lei/yin-mei-zhong-guo-38ge-yue-jian-cheng-shi-jie-zui-da-huo-che-zhan-2026-05-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD38%E4%B8%AA%E6%9C%88%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E7%81%AB%E8%BD%A6%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平举行仪式欢迎普京访华 - 2026-05-20](AI_Reports/wei-fen-lei/xi-jin-ping-ju-xing-yi-shi-huan-ying-pu-jing-fang-hua-2026-05-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BE%E8%A1%8C%E4%BB%AA%E5%BC%8F%E6%AC%A2%E8%BF%8E%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
@@ -366,4 +367,3 @@
 - [高市早苗下跪让人看清日本丑恶嘴脸 - 2026-05-07](AI_Reports/wei-fen-lei/gao-shi-zao-miao-xia-gui-rang-ren-kan-qing-ri-ben-chou-e-zui-lian-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%B4%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [热气腾腾 劳动闪光 - 2026-05-07](AI_Reports/wei-fen-lei/re-qi-teng-teng-lao-dong-shan-guang-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE+%E5%8A%B3%E5%8A%A8%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 - [奋斗是青春最亮丽的底色 - 2026-05-06](AI_Reports/wei-fen-lei/fen-dou-shi-qing-chun-zui-liang-li-de-di-se-2026-05-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%80%E4%BA%AE%E4%B8%BD%E7%9A%84%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
-- [全球爆单 又一国产爆款太“上头” - 2026-05-05](AI_Reports/wei-fen-lei/quan-qiu-bao-dan-you-yi-guo-chan-bao-kuan-tai-shang-tou-2026-05-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95+%E5%8F%88%E4%B8%80%E5%9B%BD%E4%BA%A7%E7%88%86%E6%AC%BE%E5%A4%AA%E2%80%9C%E4%B8%8A%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
