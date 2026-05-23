@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [寄望中俄关系发展 - 2026-05-22](AI_Reports/wei-fen-lei/ji-wang-zhong-e-guan-xi-fa-zhan-2026-05-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%84%E6%9C%9B%E4%B8%AD%E4%BF%84%E5%85%B3%E7%B3%BB%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
-- [印媒：中国38个月建成世界最大火车站 - 2026-05-22](AI_Reports/wei-fen-lei/yin-mei-zhong-guo-38ge-yue-jian-cheng-shi-jie-zui-da-huo-che-zhan-2026-05-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD38%E4%B8%AA%E6%9C%88%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E7%81%AB%E8%BD%A6%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)
+- [光影长卷浓缩牢不可破的中俄友谊 - 2026-05-23](AI_Reports/wei-fen-lei/guang-ying-chang-juan-nong-suo-lao-bu-ke-po-de-zhong-e-you-yi-2026-05-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%89%E5%BD%B1%E9%95%BF%E5%8D%B7%E6%B5%93%E7%BC%A9%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4%E7%9A%84%E4%B8%AD%E4%BF%84%E5%8F%8B%E8%B0%8A&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
