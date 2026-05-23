@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：218
+报告总数：219
 
 ---
 
@@ -71,6 +71,7 @@
 - [工资高但很孤独的工作 你愿意做吗](gong-zi-gao-dan-hen-gu-du-de-gong-zuo-ni-yuan-yi-zuo-ma-2026-04-24--v1.md) - 2026-04-24 (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%A5%E8%B5%84%E9%AB%98%E4%BD%86%E5%BE%88%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%B7%A5%E4%BD%9C+%E4%BD%A0%E6%84%BF%E6%84%8F%E5%81%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
 - [古树情缘](gu-shu-qing-yuan-2025-10-09--v1.md) - 2025-10-09 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%A4%E6%A0%91%E6%83%85%E7%BC%98&sa=fyb_news&rsv_dl=fyb_news)
 - [光荣属于劳动者 幸福属于劳动者](guang-rong-shu-yu-lao-dong-zhe-xing-fu-shu-yu-lao-dong-zhe-2026-05-01--v1.md) - 2026-05-01 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%89%E8%8D%A3%E5%B1%9E%E4%BA%8E%E5%8A%B3%E5%8A%A8%E8%80%85+%E5%B9%B8%E7%A6%8F%E5%B1%9E%E4%BA%8E%E5%8A%A8%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)
+- [光影长卷浓缩牢不可破的中俄友谊](guang-ying-chang-juan-nong-suo-lao-bu-ke-po-de-zhong-e-you-yi-2026-05-23--v1.md) - 2026-05-23 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%89%E5%BD%B1%E9%95%BF%E5%8D%B7%E6%B5%93%E7%BC%A9%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4%E7%9A%84%E4%B8%AD%E4%BF%84%E5%8F%8B%E8%B0%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [广州塔“定塔神器”出现明显摆动](yan-zhou-ta-ding-ta-shen-qi-chu-xian-ming-xian-bai-dong-2025-09-25--v1.md) - 2025-09-25 (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%A1%94%E2%80%9C%E5%AE%9A%E5%A1%94%E7%A5%9E%E5%99%A8%E2%80%9D%E5%87%BA%E7%8E%B0%E6%98%8E%E6%98%BE%E6%91%86%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)
 
 ## H
