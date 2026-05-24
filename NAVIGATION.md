@@ -131,6 +131,7 @@
 ## 网络安全
 [点击查看网络安全完整报告索引 →](AI_Reports/wang-luo-an-quan/Reports.md)
 
+- [把安全生产这根弦绷得更紧 - 2026-05-24](AI_Reports/wang-luo-an-quan/ba-an-quan-sheng-chan-zhe-gen-xian-beng-de-geng-jin-2026-05-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E8%BF%99%E6%A0%B9%E5%BC%A6%E7%BB%B7%E5%BE%97%E6%9B%B4%E7%B4%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [国安部：某手机芯片厂漏洞被非法利用 - 2026-05-09](AI_Reports/wang-luo-an-quan/guo-an-bu-mou-shou-ji-xin-pian-han-lou-dong-bei-fei-fa-li-yong-2026-05-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%EF%BC%9A%E6%9F%90%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E5%8E%A2%E6%BC%8F%E6%B4%9E%E8%A2%AB%E9%9D%9E%E6%B3%95%E5%88%A9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [国家安全部发布最新提醒 - 2026-05-06](AI_Reports/wang-luo-an-quan/guo-jia-an-quan-bu-fa-bu-zui-xin-ti-xing-2026-05-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%83%A8%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)
 - [微信这两项设置很关键 涉及资金安全 - 2026-04-20](AI_Reports/wang-luo-an-quan/wei-xin-zhe-liang-xiang-she-zhi-hen-guan-jian-she-ji-zi-jin-an-quan-2026-04-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E4%BF%A1%E8%BF%99%E4%BA%8C%E9%A1%B9%E8%AE%BE%E7%BD%AE%E5%BE%88%E5%85%B3%E9%94%AE+%E6%B6%89%E5%8F%8A%E8%B5%84%E9%87%91%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)
@@ -347,6 +348,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [煤矿爆炸时247人下井仅记录124人 - 2026-05-24](AI_Reports/wei-fen-lei/mei-kuang-bao-zha-shi-247ren-xia-jing-jin-ji-lu-124ren-2026-05-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E6%97%B6247%E4%BA%BA%E4%B8%8B%E4%BA%95%E4%BB%85%E8%AE%B0%E5%BD%95124%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [光影长卷浓缩牢不可破的中俄友谊 - 2026-05-23](AI_Reports/wei-fen-lei/guang-ying-chang-juan-nong-suo-lao-bu-ke-po-de-zhong-e-you-yi-2026-05-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%89%E5%BD%B1%E9%95%BF%E5%8D%B7%E6%B5%93%E7%BC%A9%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4%E7%9A%84%E4%B8%AD%E4%BF%84%E5%8F%8B%E8%B0%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [寄望中俄关系发展 - 2026-05-22](AI_Reports/wei-fen-lei/ji-wang-zhong-e-guan-xi-fa-zhan-2026-05-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AF%84%E6%9C%9B%E4%B8%AD%E4%BF%84%E5%85%B3%E7%B3%BB%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
 - [印媒：中国38个月建成世界最大火车站 - 2026-05-22](AI_Reports/wei-fen-lei/yin-mei-zhong-guo-38ge-yue-jian-cheng-shi-jie-zui-da-huo-che-zhan-2026-05-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD38%E4%B8%AA%E6%9C%88%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E7%81%AB%E8%BD%A6%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)
@@ -366,4 +368,3 @@
 - [从0到1 步步向前 - 2026-05-09](AI_Reports/wei-fen-lei/cong-0dao-1-bu-bu-xiang-qian-2026-05-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E0%E5%88%B01+%E6%AD%A5%E6%AD%A5%E5%90%91%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)
 - [高市早苗下跪让人看清日本丑恶嘴脸 - 2026-05-07](AI_Reports/wei-fen-lei/gao-shi-zao-miao-xia-gui-rang-ren-kan-qing-ri-ben-chou-e-zui-lian-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%B4%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [热气腾腾 劳动闪光 - 2026-05-07](AI_Reports/wei-fen-lei/re-qi-teng-teng-lao-dong-shan-guang-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE+%E5%8A%B3%E5%8A%A8%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
-- [奋斗是青春最亮丽的底色 - 2026-05-06](AI_Reports/wei-fen-lei/fen-dou-shi-qing-chun-zui-liang-li-de-di-se-2026-05-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%80%E4%BA%AE%E4%B8%BD%E7%9A%84%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
