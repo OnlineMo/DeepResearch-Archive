@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：219
+报告总数：220
 
 ---
 
@@ -118,6 +118,7 @@
 ## M
 
 - [骂人也违法了 最高可判三年](ma-ren-ye-wei-fa-liao-zui-gao-ke-pan-san-nian-2026-01-19--v1.md) - 2026-01-19 (v1) [来源](https://www.baidu.com/s?wd=%E9%AA%82%E4%BA%BA%E4%B9%9F%E8%BF%9D%E6%B3%95%E4%BA%86+%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
+- [煤矿爆炸时247人下井仅记录124人](mei-kuang-bao-zha-shi-247ren-xia-jing-jin-ji-lu-124ren-2026-05-24--v1.md) - 2026-05-24 (v1) [来源](https://www.baidu.com/s?wd=%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E6%97%B6247%E4%BA%BA%E4%B8%8B%E4%BA%95%E4%BB%85%E8%AE%B0%E5%BD%95124%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [美用技术霸权收割全球虚拟货币资产](mei-yong-ji-zhu-ba-quan-shou-ge-quan-qiu-xu-ni-huo-bi-zi-chan-2026-02-26--v1.md) - 2026-02-26 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%A8%E6%8A%80%E6%9C%AF%E9%9C%B8%E6%9D%83%E6%94%B6%E5%88%B2%E5%85%A8%E7%90%83%E8%99%9A%E6%8B%9B%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [民族败类必将被钉在历史耻辱柱上](min-zu-bai-lei-bi-jiang-bei-ding-zai-li-shi-chi-ru-zhu-shang-2026-03-27--v1.md) - 2026-03-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%91%E6%97%8F%E8%B4%A5%E7%B1%BB%E5%BF%85%E5%B0%86%E8%A2%AB%E9%92%89%E5%9C%A8%E5%8E%86%E5%8F%B2%E8%80%BB%E8%BE%B1%E6%9F%B1%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [明年起年龄将不再是免罪金牌](ming-nian-qi-nian-ling-jiang-bu-zai-shi-mian-zui-jin-pai-2025-12-31--v1.md) - 2025-12-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%B9%B4%E9%BE%84%E5%B0%86%E4%B8%8D%E5%86%8D%E6%98%AF%E5%85%8D%E7%BD%AA%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)
