@@ -1,9 +1,13 @@
 # 网络安全 报告索引
 
 本页包含 **网络安全** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：4
+报告总数：5
 
 ---
+
+## B
+
+- [把安全生产这根弦绷得更紧](ba-an-quan-sheng-chan-zhe-gen-xian-beng-de-geng-jin-2026-05-24--v1.md) - 2026-05-24 (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E8%BF%99%E6%A0%B9%E5%BC%A6%E7%BB%B7%E5%BE%97%E6%9B%B4%E7%B4%A7&sa=fyb_news&rsv_dl=fyb_news)
 
 ## G
 
