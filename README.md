@@ -19,6 +19,7 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [把安全生产这根弦绷得更紧 - 2026-05-24](AI_Reports/wang-luo-an-quan/ba-an-quan-sheng-chan-zhe-gen-xian-beng-de-geng-jin-2026-05-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E8%BF%99%E6%A0%B9%E5%BC%A6%E7%BB%B7%E5%BE%97%E6%9B%B4%E7%B4%A7&sa=fyb_news&rsv_dl=fyb_news)
-- [煤矿爆炸时247人下井仅记录124人 - 2026-05-24](AI_Reports/wei-fen-lei/mei-kuang-bao-zha-shi-247ren-xia-jing-jin-ji-lu-124ren-2026-05-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E6%97%B6247%E4%BA%BA%E4%B8%8B%E4%BA%95%E4%BB%85%E8%AE%B0%E5%BD%95124%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [“时刻绷紧安全生产这根弦” - 2026-05-25](AI_Reports/wang-luo-an-quan/shi-ke-beng-jin-an-quan-sheng-chan-zhe-gen-xian-2026-05-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%B6%E5%88%BB%E7%BB%B7%E7%B4%A7%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E8%BF%99%E6%A0%B9%E5%BC%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [湖北一派出所所长凌晨带人徒手扒小麦 - 2026-05-25](AI_Reports/wei-fen-lei/hu-bei-yi-pai-chu-suo-suo-chang-ling-chen-dai-ren-tu-shou-ba-xiao-mai-2026-05-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E6%B4%BE%E5%87%BA%E6%89%80%E6%89%80%E9%95%BF%E5%87%8C%E6%99%A8%E5%B8%A6%E4%BA%BA%E5%BE%92%E6%89%8B%E6%89%92%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)
+- [这些习惯正在悄悄伤害你的甲状腺 - 2026-05-25](AI_Reports/wei-fen-lei/zhe-xie-xi-guan-zheng-zai-qiao-qiao-shang-hai-ni-de-jia-zhuang-xian-2026-05-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B9%A0%E6%83%AF%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E4%BC%A4%E5%AE%B3%E4%BD%A0%E7%9A%84%E7%94%B2%E7%8A%B6%E8%85%BA&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
