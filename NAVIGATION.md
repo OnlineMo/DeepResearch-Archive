@@ -349,6 +349,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [这份专门文件关乎2.5亿人切身权益 - 2026-05-27](AI_Reports/wei-fen-lei/zhe-fen-zhuan-men-wen-jian-guan-hu-2-5yi-ren-qie-shen-quan-yi-2026-05-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%BD%E4%B8%93%E9%97%A8%E6%96%87%E4%BB%B6%E5%85%B3%E4%BB%B72.5%E4%BA%BF%E4%BA%BA%E5%88%87%E8%BA%AB%E6%9D%83%E7%9B%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [今年天气系统出现异常 - 2026-05-26](AI_Reports/wei-fen-lei/jin-nian-tian-qi-xi-tong-chu-xian-yi-chang-2026-05-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%A9%E6%B0%94%E7%B3%BB%E7%BB%9F%E5%87%BA%E7%8E%B0%E5%BC%82%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [勋章闪耀 铭刻中塞“铁杆友谊” - 2026-05-26](AI_Reports/wei-fen-lei/xun-zhang-shan-yao-ming-ke-zhong-sai-tie-gan-you-yi-2026-05-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8B%8B%E7%AB%A0%E9%97%AA%E8%80%80+%E9%93%AD%E5%88%BB%E4%B8%AD%E5%A1%9E%E2%80%9C%E9%93%81%E6%9D%86%E5%8F%8B%E8%B0%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [湖北一派出所所长凌晨带人徒手扒小麦 - 2026-05-25](AI_Reports/wei-fen-lei/hu-bei-yi-pai-chu-suo-suo-chang-ling-chen-dai-ren-tu-shou-ba-xiao-mai-2026-05-25--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E6%B4%BE%E5%87%BA%E6%89%80%E6%89%80%E9%95%BF%E5%87%8C%E6%99%A8%E5%B8%A6%E4%BA%BA%E5%BE%92%E6%89%8B%E6%89%92%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)
@@ -368,4 +369,3 @@
 - [中美两个“大块头”如何相处 - 2026-05-13](AI_Reports/wei-fen-lei/zhong-mei-liang-ge-da-kuai-tou-ru-he-xiang-chu-2026-05-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E4%B8%AA%E2%80%9C%E5%A4%A7%E5%9D%97%E5%A4%B4%E2%80%9D%E5%A6%82%E4%BD%95%E7%9B%B8%E5%84%84&sa=fyb_news&rsv_dl=fyb_news)
 - [改造升级 传统产业提质增效 - 2026-05-12](AI_Reports/wei-fen-lei/gai-zao-sheng-ji-chuan-tong-chan-ye-ti-zhi-zeng-xiao-2026-05-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%94%B9%E9%80%A0%E5%8D%87%E7%BA%A7+%E4%BC%A0%E7%BB%9F%E4%BA%A7%E4%B8%9A%E6%8F%90%E8%B4%A8%E5%A2%9E%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)
 - [特朗普5月13日至15日访华 - 2026-05-11](AI_Reports/wei-fen-lei/te-lang-pu-5yue-13ri-zhi-15ri-fang-hua-2026-05-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%B1%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
-- [因地制宜走出发展新路 - 2026-05-11](AI_Reports/wei-fen-lei/yin-di-zhi-yi-zou-chu-fa-zhan-xin-lu-2026-05-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%E8%B5%B0%E5%87%BA%E5%8F%91%E5%B1%95%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
