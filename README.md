@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [今年天气系统出现异常 - 2026-05-26](AI_Reports/wei-fen-lei/jin-nian-tian-qi-xi-tong-chu-xian-yi-chang-2026-05-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%A9%E6%B0%94%E7%B3%BB%E7%BB%9F%E5%87%BA%E7%8E%B0%E5%BC%82%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)
-- [勋章闪耀 铭刻中塞“铁杆友谊” - 2026-05-26](AI_Reports/wei-fen-lei/xun-zhang-shan-yao-ming-ke-zhong-sai-tie-gan-you-yi-2026-05-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8B%8B%E7%AB%A0%E9%97%AA%E8%80%80+%E9%93%AD%E5%88%BB%E4%B8%AD%E5%A1%9E%E2%80%9C%E9%93%81%E6%9D%86%E5%8F%8B%E8%B0%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [这份专门文件关乎2.5亿人切身权益 - 2026-05-27](AI_Reports/wei-fen-lei/zhe-fen-zhuan-men-wen-jian-guan-hu-2-5yi-ren-qie-shen-quan-yi-2026-05-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%BD%E4%B8%93%E9%97%A8%E6%96%87%E4%BB%B6%E5%85%B3%E4%BB%B72.5%E4%BA%BF%E4%BA%BA%E5%88%87%E8%BA%AB%E6%9D%83%E7%9B%8A&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
