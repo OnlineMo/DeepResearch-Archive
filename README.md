@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [这份专门文件关乎2.5亿人切身权益 - 2026-05-27](AI_Reports/wei-fen-lei/zhe-fen-zhuan-men-wen-jian-guan-hu-2-5yi-ren-qie-shen-quan-yi-2026-05-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%BD%E4%B8%93%E9%97%A8%E6%96%87%E4%BB%B6%E5%85%B3%E4%BB%B72.5%E4%BA%BF%E4%BA%BA%E5%88%87%E8%BA%AB%E6%9D%83%E7%9B%8A&sa=fyb_news&rsv_dl=fyb_news)
+- [基本实现现代化要靠实干 - 2026-05-28](AI_Reports/wei-fen-lei/ji-ben-shi-xian-xian-dai-hua-yao-kao-shi-gan-2026-05-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9F%BA%E6%9C%AC%E5%AE%9E%E7%8E%B0%E7%8E%B0%E4%BB%A3%E5%8C%96%E8%A6%81%E9%9D%A0%E5%AE%9E%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
