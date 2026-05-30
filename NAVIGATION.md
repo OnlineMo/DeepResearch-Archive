@@ -152,6 +152,7 @@
 ## 科学与太空
 [点击查看科学与太空完整报告索引 →](AI_Reports/ke-xue-yu-tai-kong/Reports.md)
 
+- [科学家精神是宝贵的精神财富 - 2026-05-30](AI_Reports/ke-xue-yu-tai-kong/ke-xue-jia-jing-shen-shi-bao-gui-de-jing-shen-cai-fu-2026-05-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%B2%BE%E7%A5%9E%E6%98%AF%E5%AE%9D%E8%B4%B5%E7%9A%84%E7%B2%BE%E7%A5%9E%E8%B4%A2%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [为建设航天强国建功立业 - 2026-04-24](AI_Reports/ke-xue-yu-tai-kong/wei-jian-she-hang-tian-qiang-guo-jian-gong-li-ye-2026-04-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E5%BB%BA%E5%8A%9F%E7%AB%8B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [中国卫星公司发布太空实拍船只视频 - 2026-03-12](AI_Reports/ke-xue-yu-tai-kong/zhong-guo-wei-xing-gong-si-fa-bu-tai-kong-shi-pai-chuan-zhi-shi-pin-2026-03-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E5%A4%AA%E7%A9%BA%E5%AE%9E%E6%8B%8D%E8%88%B9%E5%8F%AA%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)
 - [黎巴嫩向以色列发射6枚火箭弹 - 2026-03-02](AI_Reports/ke-xue-yu-tai-kong/li-ba-nen-xiang-yi-se-lie-fa-she-6mei-huo-jian-dan-2026-03-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%846%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)
@@ -171,7 +172,6 @@
 - [我们离“人造太阳”有多远 - 2025-10-13](AI_Reports/ke-xue-yu-tai-kong/wo-men-chi-ren-zao-tai-yang-you-duo-yuan-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E7%A6%BB%E2%80%9C%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E2%80%9D%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [60秒延时摄影赏中秋月 - 2025-10-07](AI_Reports/ke-xue-yu-tai-kong/60miao-yan-shi-she-ying-shang-zhong-qiu-yue-2025-10-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=60%E7%A7%92%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E8%B5%8F%E4%B8%AD%E7%A7%8B%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)
 - [超大满月中秋登场 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/chao-da-man-yue-zhong-qiu-deng-chang-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E6%BB%A1%E6%9C%88%E4%B8%AD%E7%A7%8B%E7%99%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
-- [核电站竟然还有产珍珠的副业 - 2025-10-06](AI_Reports/ke-xue-yu-tai-kong/he-dian-zhan-jing-ran-huan-you-chan-zhen-zhu-de-fu-ye-2025-10-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%A0%B8%E7%94%B5%E7%AB%99%E7%AB%9F%E7%84%B6%E8%BF%98%E6%9C%89%E4%BA%A7%E7%8F%A0%E7%8F%A0%E7%9A%84%E5%89%AF%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 医疗保健与生物技术
 [点击查看医疗保健与生物技术完整报告索引 →](AI_Reports/yi-liao-bao-jian-yu-sheng-wu-ji-zhu/Reports.md)
@@ -349,6 +349,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [顺利出厂！大国重器上新了 - 2026-05-30](AI_Reports/wei-fen-lei/shun-li-chu-han-da-guo-zhong-qi-shang-xin-liao-2026-05-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A1%BA%E5%88%A9%E5%87%BA%E5%8E%82%EF%BC%81%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E4%B8%8A%E6%96%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [“我不上 孩子就没了” - 2026-05-30](AI_Reports/wei-fen-lei/wo-bu-shang-hai-zi-jiu-mei-liao-2026-05-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B8%8D%E4%B8%8A+%E5%AD%A9%E5%AD%90%E5%B0%B1%E6%B2%A1%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [基本实现现代化要靠实干 - 2026-05-28](AI_Reports/wei-fen-lei/ji-ben-shi-xian-xian-dai-hua-yao-kao-shi-gan-2026-05-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9F%BA%E6%9C%AC%E5%AE%9E%E7%8E%B0%E7%8E%B0%E4%BB%A3%E5%8C%96%E8%A6%81%E9%9D%A0%E5%AE%9E%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [这份专门文件关乎2.5亿人切身权益 - 2026-05-27](AI_Reports/wei-fen-lei/zhe-fen-zhuan-men-wen-jian-guan-hu-2-5yi-ren-qie-shen-quan-yi-2026-05-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%BD%E4%B8%93%E9%97%A8%E6%96%87%E4%BB%B6%E5%85%B3%E4%BB%B72.5%E4%BA%BF%E4%BA%BA%E5%88%87%E8%BA%AB%E6%9D%83%E7%9B%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [今年天气系统出现异常 - 2026-05-26](AI_Reports/wei-fen-lei/jin-nian-tian-qi-xi-tong-chu-xian-yi-chang-2026-05-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%A9%E6%B0%94%E7%B3%BB%E7%BB%9F%E5%87%BA%E7%8E%B0%E5%BC%82%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)
@@ -367,5 +369,3 @@
 - [期待两国元首再相会 - 2026-05-16](AI_Reports/wei-fen-lei/qi-dai-liang-guo-yuan-shou-zai-xiang-hui-2026-05-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%97%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%86%8D%E7%9B%B8%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同特朗普在中南海小范围会晤 - 2026-05-15](AI_Reports/wei-fen-lei/xi-jin-ping-tong-te-lang-pu-zai-zhong-nan-hai-xiao-fan-wei-hui-wu-2026-05-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%B8%AD%E5%8D%97%E6%B5%B7%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news)
 - [中美元首北京会晤达成重要共识 - 2026-05-15](AI_Reports/wei-fen-lei/zhong-mei-yuan-shou-bei-jing-hui-wu-da-cheng-zhong-yao-gong-shi-2026-05-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8C%97%E4%BA%AC%E4%BC%9A%E6%99%A4%E8%BE%BE%E6%88%90%E9%87%8D%E8%A6%81%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)
-- [中美两个“大块头”如何相处 - 2026-05-13](AI_Reports/wei-fen-lei/zhong-mei-liang-ge-da-kuai-tou-ru-he-xiang-chu-2026-05-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E4%B8%AA%E2%80%9C%E5%A4%A7%E5%9D%97%E5%A4%B4%E2%80%9D%E5%A6%82%E4%BD%95%E7%9B%B8%E5%84%84&sa=fyb_news&rsv_dl=fyb_news)
-- [改造升级 传统产业提质增效 - 2026-05-12](AI_Reports/wei-fen-lei/gai-zao-sheng-ji-chuan-tong-chan-ye-ti-zhi-zeng-xiao-2026-05-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%94%B9%E9%80%A0%E5%8D%87%E7%BA%A7+%E4%BC%A0%E7%BB%9F%E4%BA%A7%E4%B8%9A%E6%8F%90%E8%B4%A8%E5%A2%9E%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)
