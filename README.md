@@ -19,7 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [科学家精神是宝贵的精神财富 - 2026-05-30](AI_Reports/ke-xue-yu-tai-kong/ke-xue-jia-jing-shen-shi-bao-gui-de-jing-shen-cai-fu-2026-05-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%B2%BE%E7%A5%9E%E6%98%AF%E5%AE%9D%E8%B4%B5%E7%9A%84%E7%B2%BE%E7%A5%9E%E8%B4%A2%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)
-- [顺利出厂！大国重器上新了 - 2026-05-30](AI_Reports/wei-fen-lei/shun-li-chu-han-da-guo-zhong-qi-shang-xin-liao-2026-05-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A1%BA%E5%88%A9%E5%87%BA%E5%8E%82%EF%BC%81%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E4%B8%8A%E6%96%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [“我不上 孩子就没了” - 2026-05-30](AI_Reports/wei-fen-lei/wo-bu-shang-hai-zi-jiu-mei-liao-2026-05-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B8%8D%E4%B8%8A+%E5%AD%A9%E5%AD%90%E5%B0%B1%E6%B2%A1%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [科技兴则民族兴 科技强则国家强 - 2026-05-31](AI_Reports/ke-ji-yu-hu-lian-wang/ke-ji-xing-ze-min-zu-xing-ke-ji-qiang-ze-guo-jia-qiang-2026-05-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E5%85%B4%E5%88%99%E6%B0%91%E6%97%8F%E5%85%B4+%E7%A7%91%E6%8A%80%E5%BC%BA%E5%88%99%E5%9B%BD%E5%AE%B6%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [“我就抽一根 能咋的？” - 2026-05-31](AI_Reports/wei-fen-lei/wo-jiu-chou-yi-gen-neng-zha-de-2026-05-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%A0%B9+%E8%83%BD%E5%92%B1%E7%9A%84%EF%BC%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
