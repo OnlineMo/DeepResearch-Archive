@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：229
+报告总数：231
 
 ---
 
@@ -26,6 +26,7 @@
 
 - [蔡磊进入渐冻症终末期](cai-lei-jin-ru-jian-dong-zheng-zhong-mo-qi-2026-04-01--v1.md) - 2026-04-01 (v1) [来源](https://www.baidu.com/s?wd=%E8%94%A1%E7%A3%8A%E8%BF%9B%E5%85%A5%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [潮涌海之南 开放风正劲](chao-yong-hai-zhi-nan-kai-fang-feng-zheng-jing-2025-12-19--v1.md) - 2025-12-19 (v1) [来源](https://www.baidu.com/s?wd=%E6%BD%AE%E6%B6%8C%E6%B5%B7%E4%B9%8B%E5%8D%97+%E5%BC%80%E6%94%BE%E9%A3%8E%E6%AD%A3%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)
+- [车辆越来越大 车位要不要扩容](che-liang-yue-lai-yue-da-che-wei-yao-bu-yao-kuo-rong-2026-06-01--v1.md) - 2026-06-01 (v1)
 - [充分发挥政治建军特有优势](chong-fen-fa-hui-zheng-zhi-jian-jun-te-you-you-shi-2026-03-08--v1.md) - 2026-03-08 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%85%E5%88%86%E5%8F%91%E6%8C%81%E6%8C%A5%E6%94%BF%E6%B2%BB%E5%BB%BA%E5%86%9B%E7%89%B9%E6%9C%89%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Z
@@ -310,6 +311,7 @@
 - [“我最大的爱好就是读书”](wo-zui-da-de-ai-hao-jiu-shi-du-shu-2026-04-23--v1.md) - 2026-04-23 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%9C%80%E5%A4%A7%E7%9A%84%E7%88%B1%E5%A5%BD%E5%B0%B1%E6%98%AF%E8%AF%BB%E4%B9%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“小家”热气腾腾 “大家”蒸蒸日上](xiao-jia-re-qi-teng-teng-da-jia-zheng-zheng-ri-shang-2026-01-03--v1.md) - 2026-01-03 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%AE%B6%E2%80%9D%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE+%E2%80%9C%E5%A4%A7%E5%AE%B6%E2%80%9D%E8%92%B8%E8%92%B8%E6%97%A5%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [“跃马扬鞭”开新局](yue-ma-yang-bian-kai-xin-ju-2026-02-23--v1.md) - 2026-02-23 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%83%E9%A9%AC%E6%89%AC%E9%9E%AD%E2%80%9D%E5%BC%80%E6%96%B0%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
+- [“自古英雄出少年”](zi-gu-ying-xiong-chu-shao-nian-2026-06-01--v1.md) - 2026-06-01 (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%87%AA%E5%8F%A4%E8%8B%B1%E9%9B%84%E5%87%BA%E5%B0%91%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 《
 
