@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [科技兴则民族兴 科技强则国家强 - 2026-05-31](AI_Reports/ke-ji-yu-hu-lian-wang/ke-ji-xing-ze-min-zu-xing-ke-ji-qiang-ze-guo-jia-qiang-2026-05-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E5%85%B4%E5%88%99%E6%B0%91%E6%97%8F%E5%85%B4+%E7%A7%91%E6%8A%80%E5%BC%BA%E5%88%99%E5%9B%BD%E5%AE%B6%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
-- [“我就抽一根 能咋的？” - 2026-05-31](AI_Reports/wei-fen-lei/wo-jiu-chou-yi-gen-neng-zha-de-2026-05-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%A0%B9+%E8%83%BD%E5%92%B1%E7%9A%84%EF%BC%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [车辆越来越大 车位要不要扩容 - 2026-06-01](AI_Reports/wei-fen-lei/che-liang-yue-lai-yue-da-che-wei-yao-bu-yao-kuo-rong-2026-06-01--v1.md) (v1)
+- [“自古英雄出少年” - 2026-06-01](AI_Reports/wei-fen-lei/zi-gu-ying-xiong-chu-shao-nian-2026-06-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%87%AA%E5%8F%A4%E8%8B%B1%E9%9B%84%E5%87%BA%E5%B0%91%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
