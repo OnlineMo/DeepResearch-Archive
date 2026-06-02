@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [车辆越来越大 车位要不要扩容 - 2026-06-01](AI_Reports/wei-fen-lei/che-liang-yue-lai-yue-da-che-wei-yao-bu-yao-kuo-rong-2026-06-01--v1.md) (v1)
-- [“自古英雄出少年” - 2026-06-01](AI_Reports/wei-fen-lei/zi-gu-ying-xiong-chu-shao-nian-2026-06-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%87%AA%E5%8F%A4%E8%8B%B1%E9%9B%84%E5%87%BA%E5%B0%91%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [美丽的中国梦属于你们 - 2026-06-02](AI_Reports/wei-fen-lei/mei-li-de-zhong-guo-meng-shu-yu-ni-men-2026-06-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%AD%E5%9B%BD%E6%A2%A6%E5%B1%9E%E4%BA%8E%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
