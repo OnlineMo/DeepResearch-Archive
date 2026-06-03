@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [美丽的中国梦属于你们 - 2026-06-02](AI_Reports/wei-fen-lei/mei-li-de-zhong-guo-meng-shu-yu-ni-men-2026-06-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%AD%E5%9B%BD%E6%A2%A6%E5%B1%9E%E4%BA%8E%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)
+- [三星堆考古发现11件红玉髓珠 - 2026-06-03](AI_Reports/wei-fen-lei/san-xing-dui-kao-gu-fa-xian-11jian-hong-yu-sui-zhu-2026-06-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B011%E4%BB%B6%E7%BA%A2%E7%8E%89%E9%AB%93%E7%8F%A0&sa=fyb_news&rsv_dl=fyb_news)
+- [更好担负起新的文化使命 - 2026-06-03](AI_Reports/wen-hua-yu-mei-ti/geng-hao-dan-fu-qi-xin-de-wen-hua-shi-ming-2026-06-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A5%BD%E6%8B%85%E8%B5%B7%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
