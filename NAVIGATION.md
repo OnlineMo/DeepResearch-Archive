@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [100秒看大国外交的繁忙五月 - 2026-06-04](AI_Reports/shi-zheng-yu-guo-ji/100miao-kan-da-guo-wai-jiao-de-fan-mang-wu-yue-2026-06-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=100%E7%A7%92%E7%9C%8B%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E7%B9%81%E5%BF%99%E4%BA%94%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)
 - [从世界期待中感受中美元首外交分量 - 2026-05-14](AI_Reports/shi-zheng-yu-guo-ji/cong-shi-jie-qi-dai-zhong-gan-shou-zhong-mei-yuan-shou-wai-jiao-fen-liang-2026-05-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%96%E7%95%8C%E6%9C%9F%E5%BE%85%E4%B8%AD%E6%84%9F%E5%8F%97%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E5%88%86%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同美国总统特朗普举行会谈 - 2026-05-14](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-mei-guo-zong-tong-te-lang-pu-ju-xing-hui-tan-2026-05-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 - [国际足联秘书长级高管计划访华 - 2026-05-07](AI_Reports/shi-zheng-yu-guo-ji/guo-ji-zu-lian-mi-shu-chang-ji-gao-guan-ji-hua-fang-hua-2026-05-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A7%98%E4%B9%A6%E9%95%BF%E7%BA%A7%E9%AB%98%E7%AE%A1%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [中方录音一出 日本有人看不下去了 - 2025-12-11](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-lu-yin-yi-chu-ri-ben-you-ren-kan-bu-xia-qu-liao-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BD%95%E9%9F%B3%E4%B8%80%E5%87%BA+%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [马克龙：此行只有一个遗憾 - 2025-12-06](AI_Reports/shi-zheng-yu-guo-ji/ma-ke-long-ci-xing-zhi-you-yi-ge-yi-han-2025-12-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%AD%A4%E8%A1%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [在都江堰感受中国“治”慧 - 2025-12-06](AI_Reports/shi-zheng-yu-guo-ji/zai-du-jiang-yan-gan-shou-zhong-guo-zhi-hui-2025-12-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9C%A8%E9%83%BD%E6%B1%9F%E5%A0%B0%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%B2%BB%E2%80%9D%E6%85%A7&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平同法国总统马克龙举行会谈 - 2025-12-05](AI_Reports/shi-zheng-yu-guo-ji/xi-jin-ping-tong-fa-guo-zong-tong-ma-ke-long-ju-xing-hui-tan-2025-12-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -350,6 +350,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [今晚油价将调整 - 2026-06-04](AI_Reports/wei-fen-lei/jin-wan-you-jie-jiang-diao-zheng-2026-06-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [三星堆考古发现11件红玉髓珠 - 2026-06-03](AI_Reports/wei-fen-lei/san-xing-dui-kao-gu-fa-xian-11jian-hong-yu-sui-zhu-2026-06-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B011%E4%BB%B6%E7%BA%A2%E7%8E%89%E9%AB%93%E7%8F%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [美丽的中国梦属于你们 - 2026-06-02](AI_Reports/wei-fen-lei/mei-li-de-zhong-guo-meng-shu-yu-ni-men-2026-06-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%AD%E5%9B%BD%E6%A2%A6%E5%B1%9E%E4%BA%8E%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)
 - [车辆越来越大 车位要不要扩容 - 2026-06-01](AI_Reports/wei-fen-lei/che-liang-yue-lai-yue-da-che-wei-yao-bu-yao-kuo-rong-2026-06-01--v1.md) (v1)
@@ -369,4 +370,3 @@
 - [印媒：中国38个月建成世界最大火车站 - 2026-05-22](AI_Reports/wei-fen-lei/yin-mei-zhong-guo-38ge-yue-jian-cheng-shi-jie-zui-da-huo-che-zhan-2026-05-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD38%E4%B8%AA%E6%9C%88%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E7%81%AB%E8%BD%A6%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平举行仪式欢迎普京访华 - 2026-05-20](AI_Reports/wei-fen-lei/xi-jin-ping-ju-xing-yi-shi-huan-ying-pu-jing-fang-hua-2026-05-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BE%E8%A1%8C%E4%BB%AA%E5%BC%8F%E6%AC%A2%E8%BF%8E%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)
 - [中俄元首会晤何以全球瞩目 - 2026-05-20](AI_Reports/wei-fen-lei/zhong-e-yuan-shou-hui-wu-he-yi-quan-qiu-zhu-mu-2026-05-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E4%BD%95%E4%BB%A5%E5%85%A8%E7%90%83%E7%9E%A9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)
-- [世代友好的深厚情谊 - 2026-05-19](AI_Reports/wei-fen-lei/shi-dai-you-hao-de-shen-hou-qing-yi-2026-05-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%96%E4%BB%A3%E5%8F%8B%E5%A5%BD%E7%9A%84%E6%B7%B1%E5%8E%9A%E6%83%85%E8%B0%8A&sa=fyb_news&rsv_dl=fyb_news)
