@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [100秒看大国外交的繁忙五月 - 2026-06-04](AI_Reports/shi-zheng-yu-guo-ji/100miao-kan-da-guo-wai-jiao-de-fan-mang-wu-yue-2026-06-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=100%E7%A7%92%E7%9C%8B%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E7%B9%81%E5%BF%99%E4%BA%94%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)
-- [今晚油价将调整 - 2026-06-04](AI_Reports/wei-fen-lei/jin-wan-you-jie-jiang-diao-zheng-2026-06-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平将访问朝鲜 - 2026-06-05](AI_Reports/wei-fen-lei/xi-jin-ping-jiang-fang-wen-zhao-xian-2026-06-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记的人民情怀 - 2026-06-05](AI_Reports/wei-fen-lei/zong-shu-ji-de-ren-min-qing-huai-2026-06-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
