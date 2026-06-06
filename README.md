@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [习近平将访问朝鲜 - 2026-06-05](AI_Reports/wei-fen-lei/xi-jin-ping-jiang-fang-wen-zhao-xian-2026-06-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记的人民情怀 - 2026-06-05](AI_Reports/wei-fen-lei/zong-shu-ji-de-ren-min-qing-huai-2026-06-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)
+- [中方始终将老挝视作周边外交重要方向 - 2026-06-06](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-shi-zhong-jiang-lao-zhua-shi-zuo-zhou-bian-wai-jiao-zhong-yao-fang-xiang-2026-06-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%A7%8B%E7%BB%88%E5%B0%86%E8%80%81%E6%8C%9D%E8%A7%86%E4%BD%9C%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E9%87%8D%E8%A6%81%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
+- [北京市政协主席魏小东被查 - 2026-06-06](AI_Reports/wei-fen-lei/bei-jing-shi-zheng-xie-zhu-xi-wei-xiao-dong-bei-cha-2026-06-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%94%BF%E5%8D%8F%E4%B8%BB%E5%B8%AD%E9%AD%8F%E5%B0%8F%E4%B8%9C%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
