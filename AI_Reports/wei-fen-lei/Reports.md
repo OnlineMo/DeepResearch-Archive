@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：239
+报告总数：240
 
 ---
 
@@ -228,6 +228,7 @@
 - [泄密可能就藏在“没拉窗帘”里](xie-mi-ke-neng-jiu-cang-zai-mei-la-chuang-lian-li-2026-03-24--v1.md) - 2026-03-24 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%84%E5%AF%86%E5%8F%AF%E8%83%BD%E5%B0%B1%E8%97%8F%E5%9C%A8%E2%80%9C%E6%B2%A1%E6%8B%89%E7%AA%97%E5%B8%98%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [新的一年中国继续向“新”而行](xin-de-yi-nian-zhong-guo-ji-xu-xiang-xin-er-xing-2026-01-10--v1.md) - 2026-01-10 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%AD%E7%BB%AD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [新年贺词里的中国信心](xin-nian-he-ci-li-de-zhong-guo-xin-xin-2026-01-04--v1.md) - 2026-01-04 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
+- [续写中朝传统友谊崭新篇章](xu-xie-zhong-zhao-chuan-tong-you-yi-zhan-xin-pian-zhang-2026-06-12--v1.md) - 2026-06-12 (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%AD%E5%86%99%E4%B8%AD%E6%9C%9D%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E5%B4%AD%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [勋章闪耀 铭刻中塞“铁杆友谊”](xun-zhang-shan-yao-ming-ke-zhong-sai-tie-gan-you-yi-2026-05-26--v1.md) - 2026-05-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%8B%8B%E7%AB%A0%E9%97%AA%E8%80%80+%E9%93%AD%E5%88%BB%E4%B8%AD%E5%A1%9E%E2%80%9C%E9%93%81%E6%9D%86%E5%8F%8B%E8%B0%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
