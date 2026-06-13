@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：27
+报告总数：29
 
 ---
 
@@ -33,6 +33,7 @@
 
 ## M
 
+- [美加墨世界杯诞生首个乌龙](mei-jia-mo-shi-jie-bei-dan-sheng-shou-ge-wu-long-2026-06-13--v1.md) - 2026-06-13 (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E8%AF%9E%E7%94%9F%E9%A6%96%E4%B8%AA%E4%B9%8C%E9%BE%99&sa=fyb_news&rsv_dl=fyb_news)
 - [每天都吃很饱的荒野求生选手退赛](mei-tian-du-chi-hen-bao-de-huang-ye-qiu-sheng-xuan-shou-tui-sai-2025-11-10--v1.md) - 2025-11-10 (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%90%83%E5%BE%88%E9%A5%B1%E7%9A%84%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E9%80%89%E6%89%8B%E9%80%80%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)
 
 ## P
@@ -71,6 +72,7 @@
 
 ## Z
 
+- [这届世界杯有点太政治了](zhe-jie-shi-jie-bei-you-dian-tai-zheng-zhi-liao-2026-06-13--v1.md) - 2026-06-13 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%89%E7%82%B9%E5%A4%AA%E6%94%BF%E6%B2%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [中国女足0比8惨败英格兰女足](zhong-guo-nu-zu-0bi-8can-bai-ying-ge-lan-nu-zu-2025-11-30--v1.md) - 2025-11-30 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E6%83%A8%E8%B4%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%A5%B3%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)
 
 ## “
