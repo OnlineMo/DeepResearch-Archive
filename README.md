@@ -19,5 +19,7 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [续写中朝传统友谊崭新篇章 - 2026-06-12](AI_Reports/wei-fen-lei/xu-xie-zhong-zhao-chuan-tong-you-yi-zhan-xin-pian-zhang-2026-06-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%AD%E5%86%99%E4%B8%AD%E6%9C%9D%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E5%B4%AD%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
+- [美加墨世界杯诞生首个乌龙 - 2026-06-13](AI_Reports/ti-yu-yu-sai-shi/mei-jia-mo-shi-jie-bei-dan-sheng-shou-ge-wu-long-2026-06-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E8%AF%9E%E7%94%9F%E9%A6%96%E4%B8%AA%E4%B9%8C%E9%BE%99&sa=fyb_news&rsv_dl=fyb_news)
+- [这届世界杯有点太政治了 - 2026-06-13](AI_Reports/ti-yu-yu-sai-shi/zhe-jie-shi-jie-bei-you-dian-tai-zheng-zhi-liao-2026-06-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%89%E7%82%B9%E5%A4%AA%E6%94%BF%E6%B2%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记朝鲜行的“重要里程碑意义” - 2026-06-13](AI_Reports/wei-fen-lei/zong-shu-ji-zhao-xian-xing-de-zhong-yao-li-cheng-bei-yi-yi-2026-06-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9C%9D%E9%B2%9C%E8%A1%8C%E7%9A%84%E2%80%9C%E9%87%8D%E8%A6%81%E9%87%8C%E7%A8%8碑%E6%84%8F%E4%B9%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
