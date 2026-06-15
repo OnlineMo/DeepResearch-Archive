@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [书写无愧于人民的时代答卷 - 2026-06-14](AI_Reports/wei-fen-lei/shu-xie-wu-kui-yu-ren-min-de-shi-dai-da-juan-2026-06-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A6%E5%86%99%E6%97%A0%E6%84%A7%E4%BA%8E%E4%BA%BA%E6%B0%91%E7%9A%84%E6%97%B6%E4%BB%A3%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
+- [古窟承韵 脉续千秋 - 2026-06-15](AI_Reports/wei-fen-lei/gu-ku-cheng-yun-mai-xu-qian-qiu-2026-06-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%A4%E7%AA%9F%E6%89%BF%E9%9F%B5+%E8%84%89%E7%BB%AD%E5%8D%83%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
