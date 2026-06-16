@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [古窟承韵 脉续千秋 - 2026-06-15](AI_Reports/wei-fen-lei/gu-ku-cheng-yun-mai-xu-qian-qiu-2026-06-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%A4%E7%AA%9F%E6%89%BF%E9%9F%B5+%E8%84%89%E7%BB%AD%E5%8D%83%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)
+- [5万欧身价零封5亿欧豪门 - 2026-06-16](AI_Reports/wei-fen-lei/5mo-ou-shen-jie-ling-feng-5yi-ou-hao-men-2026-06-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E6%AC%A7%E8%BA%AB%E4%BB%B7%E9%9B%B6%E5%B0%815%E4%BA%BF%E6%AC%A7%E8%B1%AA%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)
+- [深入学习领会习近平党建思想 - 2026-06-16](AI_Reports/wei-fen-lei/shen-ru-xue-xi-ling-hui-xi-jin-ping-dang-jian-si-xiang-2026-06-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
