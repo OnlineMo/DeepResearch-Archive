@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [5万欧身价零封5亿欧豪门 - 2026-06-16](AI_Reports/wei-fen-lei/5mo-ou-shen-jie-ling-feng-5yi-ou-hao-men-2026-06-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E6%AC%A7%E8%BA%AB%E4%BB%B7%E9%9B%B6%E5%B0%815%E4%BA%BF%E6%AC%A7%E8%B1%AA%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)
-- [深入学习领会习近平党建思想 - 2026-06-16](AI_Reports/wei-fen-lei/shen-ru-xue-xi-ling-hui-xi-jin-ping-dang-jian-si-xiang-2026-06-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3&sa=fyb_news&rsv_dl=fyb_news)
+- [党和国家事业不断发展的“定海神针” - 2026-06-17](AI_Reports/wei-fen-lei/dang-he-guo-jia-shi-ye-bu-duan-fa-zhan-de-ding-hai-shen-zhen-2026-06-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E5%92%8C%E5%9B%BD%E5%AE%B6%E4%BA%8B%E4%B8%8D%E6%96%AD%E5%8F%91%E5%B1%95%E7%9A%84%E2%80%9C%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
