@@ -350,6 +350,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [习近平给新华社老党员张连生回信 - 2026-06-18](AI_Reports/wei-fen-lei/xi-jin-ping-gei-xin-hua-she-lao-dang-yuan-zhang-lian-sheng-hui-xin-2026-06-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%80%81%E5%85%9A%E5%91%98%E5%BC%A0%E8%BF%9E%E7%94%9F%E5%9B%9E%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [党和国家事业不断发展的“定海神针” - 2026-06-17](AI_Reports/wei-fen-lei/dang-he-guo-jia-shi-ye-bu-duan-fa-zhan-de-ding-hai-shen-zhen-2026-06-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E5%92%8C%E5%9B%BD%E5%AE%B6%E4%BA%8B%E4%B8%8D%E6%96%AD%E5%8F%91%E5%B1%95%E7%9A%84%E2%80%9C%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [5万欧身价零封5亿欧豪门 - 2026-06-16](AI_Reports/wei-fen-lei/5mo-ou-shen-jie-ling-feng-5yi-ou-hao-men-2026-06-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E6%AC%A7%E8%BA%AB%E4%BB%B7%E9%9B%B6%E5%B0%815%E4%BA%BF%E6%AC%A7%E8%B1%AA%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [深入学习领会习近平党建思想 - 2026-06-16](AI_Reports/wei-fen-lei/shen-ru-xue-xi-ling-hui-xi-jin-ping-dang-jian-si-xiang-2026-06-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3&sa=fyb_news&rsv_dl=fyb_news)
@@ -369,4 +370,3 @@
 - [“自古英雄出少年” - 2026-06-01](AI_Reports/wei-fen-lei/zi-gu-ying-xiong-chu-shao-nian-2026-06-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E8%87%AA%E5%8F%A4%E8%8B%B1%E9%9B%84%E5%87%BA%E5%B0%91%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [“我就抽一根 能咋的？” - 2026-05-31](AI_Reports/wei-fen-lei/wo-jiu-chou-yi-gen-neng-zha-de-2026-05-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%A0%B9+%E8%83%BD%E5%92%B1%E7%9A%84%EF%BC%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [顺利出厂！大国重器上新了 - 2026-05-30](AI_Reports/wei-fen-lei/shun-li-chu-han-da-guo-zhong-qi-shang-xin-liao-2026-05-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A1%BA%E5%88%A9%E5%87%BA%E5%8E%82%EF%BC%81%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E4%B8%8A%E6%96%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [“我不上 孩子就没了” - 2026-05-30](AI_Reports/wei-fen-lei/wo-bu-shang-hai-zi-jiu-mei-liao-2026-05-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B8%8D%E4%B8%8A+%E5%AD%A9%E5%AD%90%E5%B0%B1%E6%B2%A1%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
