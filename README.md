@@ -19,5 +19,7 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [习近平给新华社老党员张连生回信 - 2026-06-18](AI_Reports/wei-fen-lei/xi-jin-ping-gei-xin-hua-she-lao-dang-yuan-zhang-lian-sheng-hui-xin-2026-06-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%80%81%E5%85%9A%E5%91%98%E5%BC%A0%E8%BF%9E%E7%94%9F%E5%9B%9E%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)
+- [多名学生违背张桂梅忠告回到大山 - 2026-06-19](AI_Reports/wei-fen-lei/duo-ming-xue-sheng-wei-bei-zhang-gui-mei-zhong-gao-hui-dao-da-shan-2026-06-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E8%BF%9D%E8%83%8C%E5%BC%A0%E6%A1%82%E6%A2%85%E5%BF%A0%E5%91%8A%E5%9B%9E%E5%88%B0%E5%A4%A7%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)
+- [韩国门将超级失误 - 2026-06-19](AI_Reports/wei-fen-lei/han-guo-men-jiang-chao-ji-shi-wu-2026-06-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%97%A8%E5%B0%86%E8%B6%85%E7%BA%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)
+- [家国总关情 - 2026-06-19](AI_Reports/wei-fen-lei/jia-guo-zong-guan-qing-2026-06-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%B6%E5%9B%BD%E6%80%BB%E5%85%B3%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
