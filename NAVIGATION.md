@@ -350,6 +350,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [牢记初心使命 永葆政治本色 - 2026-06-20](AI_Reports/wei-fen-lei/lao-ji-chu-xin-shi-ming-yong-bao-zheng-zhi-ben-se-2026-06-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E5%88%9D%E5%BF%83%E4%BD%BF%E5%91%BD+%E6%B0%B8%E8%91%86%E6%94%BF%E6%B2%BB%E6%9C%AC%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
+- [熟悉的巴西队回来了 - 2026-06-20](AI_Reports/wei-fen-lei/shou-xi-de-ba-xi-dui-hui-lai-liao-2026-06-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%86%9F%E6%82%89%E7%9A%84%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [多名学生违背张桂梅忠告回到大山 - 2026-06-19](AI_Reports/wei-fen-lei/duo-ming-xue-sheng-wei-bei-zhang-gui-mei-zhong-gao-hui-dao-da-shan-2026-06-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E8%BF%9D%E8%83%8C%E5%BC%A0%E6%A1%82%E6%A2%85%E5%BF%A0%E5%91%8A%E5%9B%9E%E5%88%B0%E5%A4%A7%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [韩国门将超级失误 - 2026-06-19](AI_Reports/wei-fen-lei/han-guo-men-jiang-chao-ji-shi-wu-2026-06-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%97%A8%E5%B0%86%E8%B6%85%E7%BA%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [家国总关情 - 2026-06-19](AI_Reports/wei-fen-lei/jia-guo-zong-guan-qing-2026-06-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%B6%E5%9B%BD%E6%80%BB%E5%85%B3%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)
@@ -368,5 +370,3 @@
 - [总书记的人民情怀 - 2026-06-05](AI_Reports/wei-fen-lei/zong-shu-ji-de-ren-min-qing-huai-2026-06-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)
 - [今晚油价将调整 - 2026-06-04](AI_Reports/wei-fen-lei/jin-wan-you-jie-jiang-diao-zheng-2026-06-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [三星堆考古发现11件红玉髓珠 - 2026-06-03](AI_Reports/wei-fen-lei/san-xing-dui-kao-gu-fa-xian-11jian-hong-yu-sui-zhu-2026-06-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B011%E4%BB%B6%E7%BA%A2%E7%8E%89%E9%AB%93%E7%8F%A0&sa=fyb_news&rsv_dl=fyb_news)
-- [美丽的中国梦属于你们 - 2026-06-02](AI_Reports/wei-fen-lei/mei-li-de-zhong-guo-meng-shu-yu-ni-men-2026-06-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%AD%E5%9B%BD%E6%A2%A6%E5%B1%9E%E4%BA%8E%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)
-- [车辆越来越大 车位要不要扩容 - 2026-06-01](AI_Reports/wei-fen-lei/che-liang-yue-lai-yue-da-che-wei-yao-bu-yao-kuo-rong-2026-06-01--v1.md) (v1)
