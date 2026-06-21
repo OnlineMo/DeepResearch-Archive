@@ -19,6 +19,7 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [牢记初心使命 永葆政治本色 - 2026-06-20](AI_Reports/wei-fen-lei/lao-ji-chu-xin-shi-ming-yong-bao-zheng-zhi-ben-se-2026-06-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E5%88%9D%E5%BF%83%E4%BD%BF%E5%91%BD+%E6%B0%B8%E8%91%86%E6%94%BF%E6%B2%BB%E6%9C%AC%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
-- [熟悉的巴西队回来了 - 2026-06-20](AI_Reports/wei-fen-lei/shou-xi-de-ba-xi-dui-hui-lai-liao-2026-06-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%86%9F%E6%82%89%E7%9A%84%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [球员不满判罚围住马宁理论 - 2026-06-21](AI_Reports/wei-fen-lei/qiu-yuan-bu-man-pan-fa-wei-zhu-ma-zhu-li-lun-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%90%83%E5%91%98%E4%B8%8D%E6%BB%A1%E5%88%A4%E7%BD%9A%E5%9B%B4%E4%BD%8F%E9%A9%AC%E5%AE%81%E7%90%86%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [拳拳赤子心 - 2026-06-21](AI_Reports/wei-fen-lei/quan-quan-chi-zi-xin-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8B%B3%E6%8B%B3%E8%B5%A4%E5%AD%90%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
+- [有种痛苦叫你的邻居买了台大车 - 2026-06-21](AI_Reports/wei-fen-lei/you-chong-tong-ku-jiao-ni-de-lin-ju-mai-liao-tai-da-che-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%89%E7%A7%8D%E7%97%9B%E8%8B%9B%E5%8F%AB%E4%BD%A0%E7%9A%84%E9%82%BB%E5%B1%85%E4%B9%B0%E4%BA%86%E5%8F%B0%E5%A4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
