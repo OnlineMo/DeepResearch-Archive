@@ -19,7 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [球员不满判罚围住马宁理论 - 2026-06-21](AI_Reports/wei-fen-lei/qiu-yuan-bu-man-pan-fa-wei-zhu-ma-zhu-li-lun-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%90%83%E5%91%98%E4%B8%8D%E6%BB%A1%E5%88%A4%E7%BD%9A%E5%9B%B4%E4%BD%8F%E9%A9%AC%E5%AE%81%E7%90%86%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)
-- [拳拳赤子心 - 2026-06-21](AI_Reports/wei-fen-lei/quan-quan-chi-zi-xin-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8B%B3%E6%8B%B3%E8%B5%A4%E5%AD%90%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
-- [有种痛苦叫你的邻居买了台大车 - 2026-06-21](AI_Reports/wei-fen-lei/you-chong-tong-ku-jiao-ni-de-lin-ju-mai-liao-tai-da-che-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%89%E7%A7%8D%E7%97%9B%E8%8B%9B%E5%8F%AB%E4%BD%A0%E7%9A%84%E9%82%BB%E5%B1%85%E4%B9%B0%E4%BA%86%E5%8F%B0%E5%A4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
+- [体育强则中国强 - 2026-06-22](AI_Reports/ti-yu-yu-sai-shi/ti-yu-qiang-ze-zhong-guo-qiang-2026-06-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%BC%BA%E5%88%99%E4%B8%AD%E5%9B%BD%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
