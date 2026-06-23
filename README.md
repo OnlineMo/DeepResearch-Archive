@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [体育强则中国强 - 2026-06-22](AI_Reports/ti-yu-yu-sai-shi/ti-yu-qiang-ze-zhong-guo-qiang-2026-06-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%BC%BA%E5%88%99%E4%B8%AD%E5%9B%BD%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
+- [把党的政治建设作为党的根本性建设 - 2026-06-23](AI_Reports/wei-fen-lei/ba-dang-de-zheng-zhi-jian-she-zuo-wei-dang-de-gen-ben-xing-jian-she-2026-06-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E5%85%9A%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BB%BA%E8%AE%BE%E4%BD%9C%E4%B8%BA%E5%85%9A%E7%9A%84%E6%A0%B9%E6%9C%AC%E6%80%A7%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
