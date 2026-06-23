@@ -350,6 +350,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [把党的政治建设作为党的根本性建设 - 2026-06-23](AI_Reports/wei-fen-lei/ba-dang-de-zheng-zhi-jian-she-zuo-wei-dang-de-gen-ben-xing-jian-she-2026-06-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E5%85%9A%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BB%BA%E8%AE%BE%E4%BD%9C%E4%B8%BA%E5%85%9A%E7%9A%84%E6%A0%B9%E6%9C%AC%E6%80%A7%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [球员不满判罚围住马宁理论 - 2026-06-21](AI_Reports/wei-fen-lei/qiu-yuan-bu-man-pan-fa-wei-zhu-ma-zhu-li-lun-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%90%83%E5%91%98%E4%B8%8D%E6%BB%A1%E5%88%A4%E7%BD%9A%E5%9B%B4%E4%BD%8F%E9%A9%AC%E5%AE%81%E7%90%86%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [拳拳赤子心 - 2026-06-21](AI_Reports/wei-fen-lei/quan-quan-chi-zi-xin-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8B%B3%E6%8B%B3%E8%B5%A4%E5%AD%90%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [有种痛苦叫你的邻居买了台大车 - 2026-06-21](AI_Reports/wei-fen-lei/you-chong-tong-ku-jiao-ni-de-lin-ju-mai-liao-tai-da-che-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%89%E7%A7%8D%E7%97%9B%E8%8B%9B%E5%8F%AB%E4%BD%A0%E7%9A%84%E9%82%BB%E5%B1%85%E4%B9%B0%E4%BA%86%E5%8F%B0%E5%A4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
@@ -369,4 +370,3 @@
 - [从三个维度读懂中朝传统友谊新篇章 - 2026-06-11](AI_Reports/wei-fen-lei/cong-san-ge-wei-du-du-dong-zhong-zhao-chuan-tong-you-yi-xin-pian-zhang-2026-06-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%AF%BB%E6%87%82%E4%B8%AD%E6%9C%9D%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平抵达平壤 朝方热情迎接 - 2026-06-08](AI_Reports/wei-fen-lei/xi-jin-ping-di-da-ping-rang-zhao-fang-re-qing-ying-jie-2026-06-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E5%B9%B3%E5%A3%A4+%E6%9C%9D%E6%96%B9%E7%83%AD%E6%83%85%E8%BF%8E%E6%8E%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [北京市政协主席魏小东被查 - 2026-06-06](AI_Reports/wei-fen-lei/bei-jing-shi-zheng-xie-zhu-xi-wei-xiao-dong-bei-cha-2026-06-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%94%BF%E5%8D%8F%E4%B8%BB%E5%B8%AD%E9%AD%8F%E5%B0%8F%E4%B8%9C%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平将访问朝鲜 - 2026-06-05](AI_Reports/wei-fen-lei/xi-jin-ping-jiang-fang-wen-zhao-xian-2026-06-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)
