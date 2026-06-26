@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：256
+报告总数：258
 
 ---
 
@@ -49,6 +49,7 @@
 - [大道笃行](da-dao-du-xing-2025-12-26--v1.md) - 2025-12-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E9%81%93%E7%AC%83%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [大年初五迎财神](da-nian-chu-wu-ying-cai-shen-2026-02-21--v1.md) - 2026-02-21 (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [党和国家事业不断发展的“定海神针”](dang-he-guo-jia-shi-ye-bu-duan-fa-zhan-de-ding-hai-shen-zhen-2026-06-17--v1.md) - 2026-06-17 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E5%92%8C%E5%9B%BD%E5%AE%B6%E4%BA%8B%E4%B8%8D%E6%96%AD%E5%8F%91%E5%B1%95%E7%9A%84%E2%80%9C%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [德国爆冷输球坑苦韩国](de-guo-bao-leng-shu-qiu-keng-ku-han-guo-2026-06-26--v1.md) - 2026-06-26 (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E5%9D%91%E8%8B%A6%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [德国中医河南买菜被送葱：成了自己人](de-guo-zhong-yi-he-nan-mai-cai-bei-song-cong-cheng-liao-zi-ji-ren-2026-03-29--v1.md) - 2026-03-29 (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E4%B8%AD%E5%8C%BB%E6%B2%B3%E5%8D%97%E4%B9%B0%E8%8F%9C%E8%A2%AB%E9%80%81%E8%91%B1%EF%BC%9A%E6%88%90%E4%BA%86%E8%87%AA%E5%B7%B1%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [东北规模最大跨海大桥取得重大突破](dong-bei-gui-mo-zui-da-kua-hai-da-qiao-qu-de-zhong-da-tu-po-2026-01-09--v1.md) - 2026-01-09 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E8%B7%A8%E6%B5%B7%E5%A4%A7%E6%A1%A5%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [锻造更加坚强的英雄军队](duan-zao-geng-jia-jian-qiang-de-ying-xiong-jun-dui-2026-04-08--v1.md) - 2026-04-08 (v1) [来源](https://www.baidu.com/s?wd=%E9%94%BB%E9%80%A0%E6%9B%B4%E5%8A%A0%E5%9D%9A%E5%BC%BA%E7%9A%84%E8%8B%B1%E9%9B%84%E5%86%9B%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)
@@ -308,6 +309,7 @@
 - [总书记的一周](zong-shu-ji-de-yi-zhou-2026-04-28--v1.md) - 2026-04-28 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记的这些理念一以贯之](zong-shu-ji-de-zhe-xie-li-nian-yi-yi-guan-zhi-2026-03-29--v1.md) - 2026-03-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%BF%99%E4%BA%9B%E7%90%86%E5%BF%B5%E4%B8%80%E4%BB%A3%E8%B4%AF%E4%B9%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记始终不变的牵挂](zong-shu-ji-shi-zhong-bu-bian-de-qian-gua-2025-12-30--v1.md) - 2025-12-30 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E4%B8%8D%E5%8F%98%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记田间地头话农桑](zong-shu-ji-tian-jian-di-tou-hua-nong-sang-2026-06-26--v1.md) - 2026-06-26 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%94%B0%E9%97%B4%E5%9C%B0%E5%A4%B4%E8%AF%9D%E5%86%9C%E6%A1%91&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记为推进国土绿化指引方向](zong-shu-ji-wei-tui-jin-guo-tu-lu-hua-zhi-yin-fang-xiang-2026-03-31--v1.md) - 2026-03-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E6%8E%A8%E8%BF%9B%E5%9B%BD%E5%9C%9F%E7%BB%BF%E5%8C%96%E6%8C%87%E5%BC%95%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记新春“典”论家国](zong-shu-ji-xin-chun-dian-lun-jia-guo-2026-02-21--v1.md) - 2026-02-21 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%96%B0%E6%98%A5%E2%80%9C%E5%85%B8%E2%80%9D%E8%AE%BA%E5%AE%B6%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记心中的“人民之城”](zong-shu-ji-xin-zhong-de-ren-min-zhi-cheng-2026-03-27--v1.md) - 2026-03-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E4%BA%BA%E6%B0%91%E4%B9%8B%E5%9F%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
