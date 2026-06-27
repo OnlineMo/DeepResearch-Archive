@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：30
+报告总数：31
 
 ---
 
@@ -60,6 +60,7 @@
 - [十五运会为何没有奖牌榜](shi-wu-yun-hui-wei-he-mei-you-jiang-pai-bang-2025-11-17--v1.md) - 2025-11-17 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E5%A5%96%E7%89%8C%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [十五运会这些看点值得关注](shi-wu-yun-hui-zhe-xie-kan-dian-zhi-de-guan-zhu-2025-11-10--v1.md) - 2025-11-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%8C%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9C%8B%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [世界杯还没开踢 中国球迷先退票了](shi-jie-bei-huan-mei-kai-ti-zhong-guo-qiu-mi-xian-tui-piao-liao-2026-05-12--v1.md) - 2026-05-12 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%8C%E8%BF%98%E6%B2%A1%E5%BC%80%E8%B8%A2+%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E5%85%88%E9%80%80%E7%A5%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+- [世界冠军与亚洲冠军同时出局](shi-jie-guan-jun-yu-ya-zhou-guan-jun-tong-shi-chu-ju-2026-06-27--v1.md) - 2026-06-27 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%B8%8E%E4%BA%9A%E6%B4%B2%E5%86%A0%E5%86%9B%E5%90%8C%E6%97%B6%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [苏翊鸣完成世界上第一个背靠背1980](su-yi-ming-wan-cheng-shi-jie-shang-di-yi-ge-bei-kao-bei-1980-2025-10-10--v1.md) - 2025-10-10 (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%AE%8C%E6%88%90%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%83%8C%E9%9D%A0%E8%83%8C1980&sa=fyb_news&rsv_dl=fyb_news)
 
 ## T
