@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [德国爆冷输球坑苦韩国 - 2026-06-26](AI_Reports/wei-fen-lei/de-guo-bao-leng-shu-qiu-keng-ku-han-guo-2026-06-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E5%9D%91%E8%8B%A6%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记田间地头话农桑 - 2026-06-26](AI_Reports/wei-fen-lei/zong-shu-ji-tian-jian-di-tou-hua-nong-sang-2026-06-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%94%B0%E9%97%B4%E5%9C%B0%E5%A4%B4%E8%AF%9D%E5%86%9C%E6%A1%91&sa=fyb_news&rsv_dl=fyb_news)
+- [世界冠军与亚洲冠军同时出局 - 2026-06-27](AI_Reports/ti-yu-yu-sai-shi/shi-jie-guan-jun-yu-ya-zhou-guan-jun-tong-shi-chu-ju-2026-06-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%B8%8E%E4%BA%9A%E6%B4%B2%E5%86%A0%E5%86%9B%E5%90%8C%E6%97%B6%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
+- [“窑洞之问” 我们这样回答 - 2026-06-27](AI_Reports/wei-fen-lei/yao-dong-zhi-wen-wo-men-zhe-yang-hui-da-2026-06-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AA%91%E6%B4%9E%E4%B9%8B%E9%97%AE%E2%80%9D+%E6%88%91%E4%BB%AC%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
