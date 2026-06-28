@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [世界冠军与亚洲冠军同时出局 - 2026-06-27](AI_Reports/ti-yu-yu-sai-shi/shi-jie-guan-jun-yu-ya-zhou-guan-jun-tong-shi-chu-ju-2026-06-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%B8%8E%E4%BA%9A%E6%B4%B2%E5%86%A0%E5%86%9B%E5%90%8C%E6%97%B6%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
-- [“窑洞之问” 我们这样回答 - 2026-06-27](AI_Reports/wei-fen-lei/yao-dong-zhi-wen-wo-men-zhe-yang-hui-da-2026-06-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AA%91%E6%B4%9E%E4%B9%8B%E9%97%AE%E2%80%9D+%E6%88%91%E4%BB%AC%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94&sa=fyb_news&rsv_dl=fyb_news)
+- [中国密集开展周边外交展现睦邻之道 - 2026-06-28](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-mi-ji-kai-zhan-zhou-bian-wai-jiao-zhan-xian-mu-lin-zhi-dao-2026-06-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%86%E9%9B%86%E5%BC%80%E5%B1%95%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E5%B1%95%E7%8E%B0%E7%9D%A6%E9%82%BB%E4%B9%8B%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)
+- [韩国队出局 - 2026-06-28](AI_Reports/wei-fen-lei/han-guo-dui-chu-ju-2026-06-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%B9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
