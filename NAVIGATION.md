@@ -3,6 +3,7 @@
 ## 时政与国际
 [点击查看时政与国际完整报告索引 →](AI_Reports/shi-zheng-yu-guo-ji/Reports.md)
 
+- [中国密集开展周边外交展现睦邻之道 - 2026-06-28](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-mi-ji-kai-zhan-zhou-bian-wai-jiao-zhan-xian-mu-lin-zhi-dao-2026-06-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%86%E9%9B%86%E5%BC%80%E5%B1%95%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E5%B1%95%E7%8E%B0%E7%9D%A6%E9%82%BB%E4%B9%8B%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)
 - [中方始终将老挝视作周边外交重要方向 - 2026-06-06](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-shi-zhong-jiang-lao-zhua-shi-zuo-zhou-bian-wai-jiao-zhong-yao-fang-xiang-2026-06-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%A7%8B%E7%BB%88%E5%B0%86%E8%80%81%E6%8C%9D%E8%A7%86%E4%BD%9C%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E9%87%8D%E8%A6%81%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [100秒看大国外交的繁忙五月 - 2026-06-04](AI_Reports/shi-zheng-yu-guo-ji/100miao-kan-da-guo-wai-jiao-de-fan-mang-wu-yue-2026-06-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=100%E7%A7%92%E7%9C%8B%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E7%B9%81%E5%BF%99%E4%BA%94%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)
 - [从世界期待中感受中美元首外交分量 - 2026-05-14](AI_Reports/shi-zheng-yu-guo-ji/cong-shi-jie-qi-dai-zhong-gan-shou-zhong-mei-yuan-shou-wai-jiao-fen-liang-2026-05-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%96%E7%95%8C%E6%9C%9F%E5%BE%85%E4%B8%AD%E6%84%9F%E5%8F%97%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E5%88%86%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)
@@ -22,7 +23,6 @@
 - [贵金属“跳水”！国际金银大幅收跌 - 2025-12-30](AI_Reports/shi-zheng-yu-guo-ji/gui-jin-shu-tiao-shui-guo-ji-jin-yin-da-fu-shou-die-2025-12-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B4%B5%E9%87%91%E5%B1%9E%E2%88%9C%E8%B7%B3%E6%B0%B4%E2%88%9D%EF%BC%81%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E5%A4%A7%E5%B9%85%E6%94%B6%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [巴黎仓库被盗损失3亿？京东深夜回应 - 2025-12-24](AI_Reports/shi-zheng-yu-guo-ji/ba-li-cang-ku-bei-dao-sun-shi-3yi-jing-dong-shen-ye-hui-ying-2025-12-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E4%BB%93%E5%BA%93%E8%A2%AB%E7%9B%97%E6%8D%9F%E5%A4%B13%E4%BF%84%EF%BC%9F%E4%BA%AC%E4%B8%9C%E6%B7%B1%E5%A4%9C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)
 - [中方录音一出 日本有人看不下去了 - 2025-12-11](AI_Reports/shi-zheng-yu-guo-ji/zhong-fang-lu-yin-yi-chu-ri-ben-you-ren-kan-bu-xia-qu-liao-2025-12-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BD%95%E9%9F%B3%E4%B8%80%E5%87%BA+%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [马克龙：此行只有一个遗憾 - 2025-12-06](AI_Reports/shi-zheng-yu-guo-ji/ma-ke-long-ci-xing-zhi-you-yi-ge-yi-han-2025-12-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%AD%A4%E8%A1%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
@@ -350,6 +350,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [韩国队出局 - 2026-06-28](AI_Reports/wei-fen-lei/han-guo-dui-chu-ju-2026-06-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%B9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [“窑洞之问” 我们这样回答 - 2026-06-27](AI_Reports/wei-fen-lei/yao-dong-zhi-wen-wo-men-zhe-yang-hui-da-2026-06-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AA%91%E6%B4%9E%E4%B9%8B%E9%97%AE%E2%80%9D+%E6%88%91%E4%BB%AC%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94&sa=fyb_news&rsv_dl=fyb_news)
 - [德国爆冷输球坑苦韩国 - 2026-06-26](AI_Reports/wei-fen-lei/de-guo-bao-leng-shu-qiu-keng-ku-han-guo-2026-06-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E5%9D%91%E8%8B%A6%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记田间地头话农桑 - 2026-06-26](AI_Reports/wei-fen-lei/zong-shu-ji-tian-jian-di-tou-hua-nong-sang-2026-06-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%94%B0%E9%97%B4%E5%9C%B0%E5%A4%B4%E8%AF%9D%E5%86%9C%E6%A1%91&sa=fyb_news&rsv_dl=fyb_news)
@@ -369,4 +370,3 @@
 - [古窟承韵 脉续千秋 - 2026-06-15](AI_Reports/wei-fen-lei/gu-ku-cheng-yun-mai-xu-qian-qiu-2026-06-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%A4%E7%AA%9F%E6%89%BF%E9%9F%B5+%E8%84%89%E7%BB%AD%E5%8D%83%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [书写无愧于人民的时代答卷 - 2026-06-14](AI_Reports/wei-fen-lei/shu-xie-wu-kui-yu-ren-min-de-shi-dai-da-juan-2026-06-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A6%E5%86%99%E6%97%A0%E6%84%A7%E4%BA%8E%E4%BA%BA%E6%B0%91%E7%9A%84%E6%97%B6%E4%BB%A3%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记朝鲜行的“重要里程碑意义” - 2026-06-13](AI_Reports/wei-fen-lei/zong-shu-ji-zhao-xian-xing-de-zhong-yao-li-cheng-bei-yi-yi-2026-06-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9C%9D%E9%B2%9C%E8%A1%8C%E7%9A%84%E2%80%9C%E9%87%8D%E8%A6%81%E9%87%8C%E7%A8%8碑%E6%84%8F%E4%B9%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [续写中朝传统友谊崭新篇章 - 2026-06-12](AI_Reports/wei-fen-lei/xu-xie-zhong-zhao-chuan-tong-you-yi-zhan-xin-pian-zhang-2026-06-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%AD%E5%86%99%E4%B8%AD%E6%9C%9D%E4%BC%A0%E7%BB%9F%E5%8F%8B%E8%B0%8A%E5%B4%AD%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
