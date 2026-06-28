@@ -1,7 +1,7 @@
 # 时政与国际 报告索引
 
 本页包含 **时政与国际** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：264
+报告总数：265
 
 ---
 
@@ -315,6 +315,7 @@
 - [中国航天 生日快乐](zhong-guo-hang-tian-sheng-ri-kuai-le-2025-10-09--v1.md) - 2025-10-09 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9+%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)
 - [中国假期吸引世界流量](zhong-guo-jia-qi-xi-yin-shi-jie-liu-liang-2025-10-02--v1.md) - 2025-10-02 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%81%87%E6%9C%9F%E5%90%B8%E5%BC%95%E4%B8%96%E7%95%8C%E6%B5%81%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [中国抗战阅兵以来日本砸560亿搞公关](zhong-guo-kang-zhan-yue-bing-yi-lai-ri-ben-za-560yi-gao-gong-guan-2025-08-28--v1.md) - 2025-08-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%97%E6%88%98%E9%98%85%E5%85%B5%E4%BB%A5%E6%9D%A5%E6%97%A5%E6%9C%AC%E7%A0%B8560%E4%BA%BF%E6%90%9E%E5%85%AC%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)
+- [中国密集开展周边外交展现睦邻之道](zhong-guo-mi-ji-kai-zhan-zhou-bian-wai-jiao-zhan-xian-mu-lin-zhi-dao-2026-06-28--v1.md) - 2026-06-28 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%86%E9%9B%86%E5%BC%80%E5%B1%95%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E5%B1%95%E7%8E%B0%E7%9D%A6%E9%82%BB%E4%B9%8B%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)
 - [中国人口发展出现新特征](zhong-guo-ren-kou-fa-zhan-chu-xian-xin-te-zheng-2025-11-18--v1.md) - 2025-11-18 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E5%8F%91%E5%B1%95%E5%87%BA%E7%8E%B0%E6%96%B0%E7%89%B9%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)
 - [中国正式成为安第斯共同体观察员国](zhong-guo-zheng-shi-cheng-wei-an-di-si-gong-tong-ti-guan-cha-yuan-guo-2025-10-01--v1.md) - 2025-10-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E6%88%90%E4%B8%BA%E5%AE%89%E7%AC%AC%E6%96%AF%E5%85%B1%E5%90%8C%E4%BD%93%E8%A7%82%E5%AF%9F%E5%91%98%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [中国最长的跨市地铁要来了](zhong-guo-zui-chang-de-kua-shi-di-tie-yao-lai-liao-2025-11-29--v1.md) - 2025-11-29 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%9A%84%E8%B7%A8%E5%B8%82%E5%9C%B0%E9%93%81%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
