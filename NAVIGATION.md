@@ -350,6 +350,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [法国紧急下单3万台空调 - 2026-06-29](AI_Reports/wei-fen-lei/fa-guo-jin-ji-xia-dan-3mo-tai-kong-diao-2026-06-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%B4%A2%E6%80%A5%E4%B8%8B%E5%8D%953%E4%B8%87%E5%8F%B0%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
+- [永远保持对人民的赤子之心 - 2026-06-29](AI_Reports/wei-fen-lei/yong-yuan-bao-chi-dui-ren-min-de-chi-zi-zhi-xin-2026-06-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%B8%E8%BF%9C%E4%BF%9D%E6%8C%81%E5%AF%B9%E4%BA%BA%E6%B0%91%E7%9A%84%E8%B5%A4%E5%AD%90%E4%B9%8B%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [韩国队出局 - 2026-06-28](AI_Reports/wei-fen-lei/han-guo-dui-chu-ju-2026-06-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%B9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [“窑洞之问” 我们这样回答 - 2026-06-27](AI_Reports/wei-fen-lei/yao-dong-zhi-wen-wo-men-zhe-yang-hui-da-2026-06-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AA%91%E6%B4%9E%E4%B9%8B%E9%97%AE%E2%80%9D+%E6%88%91%E4%BB%AC%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94&sa=fyb_news&rsv_dl=fyb_news)
 - [德国爆冷输球坑苦韩国 - 2026-06-26](AI_Reports/wei-fen-lei/de-guo-bao-leng-shu-qiu-keng-ku-han-guo-2026-06-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E5%9D%91%E8%8B%A6%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
@@ -368,5 +370,3 @@
 - [5万欧身价零封5亿欧豪门 - 2026-06-16](AI_Reports/wei-fen-lei/5mo-ou-shen-jie-ling-feng-5yi-ou-hao-men-2026-06-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=5%E4%B8%87%E6%AC%A7%E8%BA%AB%E4%BB%B7%E9%9B%B6%E5%B0%815%E4%BA%BF%E6%AC%A7%E8%B1%AA%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)
 - [深入学习领会习近平党建思想 - 2026-06-16](AI_Reports/wei-fen-lei/shen-ru-xue-xi-ling-hui-xi-jin-ping-dang-jian-si-xiang-2026-06-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3&sa=fyb_news&rsv_dl=fyb_news)
 - [古窟承韵 脉续千秋 - 2026-06-15](AI_Reports/wei-fen-lei/gu-ku-cheng-yun-mai-xu-qian-qiu-2026-06-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%A4%E7%AA%9F%E6%89%BF%E9%9F%B5+%E8%84%89%E7%BB%AD%E5%8D%83%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)
-- [书写无愧于人民的时代答卷 - 2026-06-14](AI_Reports/wei-fen-lei/shu-xie-wu-kui-yu-ren-min-de-shi-dai-da-juan-2026-06-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A6%E5%86%99%E6%97%A0%E6%84%A7%E4%BA%8E%E4%BA%BA%E6%B0%91%E7%9A%84%E6%97%B6%E4%BB%A3%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记朝鲜行的“重要里程碑意义” - 2026-06-13](AI_Reports/wei-fen-lei/zong-shu-ji-zhao-xian-xing-de-zhong-yao-li-cheng-bei-yi-yi-2026-06-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9C%9D%E9%B2%9C%E8%A1%8C%E7%9A%84%E2%80%9C%E9%87%8D%E8%A6%81%E9%87%8C%E7%A8%8碑%E6%84%8F%E4%B9%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
