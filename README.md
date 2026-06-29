@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [中国密集开展周边外交展现睦邻之道 - 2026-06-28](AI_Reports/shi-zheng-yu-guo-ji/zhong-guo-mi-ji-kai-zhan-zhou-bian-wai-jiao-zhan-xian-mu-lin-zhi-dao-2026-06-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%86%E9%9B%86%E5%BC%80%E5%B1%95%E5%91%A8%E8%BE%B9%E5%A4%96%E4%BA%A4%E5%B1%95%E7%8E%B0%E7%9D%A6%E9%82%BB%E4%B9%8B%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)
-- [韩国队出局 - 2026-06-28](AI_Reports/wei-fen-lei/han-guo-dui-chu-ju-2026-06-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%B9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
+- [法国紧急下单3万台空调 - 2026-06-29](AI_Reports/wei-fen-lei/fa-guo-jin-ji-xia-dan-3mo-tai-kong-diao-2026-06-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%B4%A2%E6%80%A5%E4%B8%8B%E5%8D%953%E4%B8%87%E5%8F%B0%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
+- [永远保持对人民的赤子之心 - 2026-06-29](AI_Reports/wei-fen-lei/yong-yuan-bao-chi-dui-ren-min-de-chi-zi-zhi-xin-2026-06-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%B8%E8%BF%9C%E4%BF%9D%E6%8C%81%E5%AF%B9%E4%BA%BA%E6%B0%91%E7%9A%84%E8%B5%A4%E5%AD%90%E4%B9%8B%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
