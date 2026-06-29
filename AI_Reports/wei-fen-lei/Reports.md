@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：260
+报告总数：262
 
 ---
 
@@ -66,6 +66,7 @@
 
 ## F
 
+- [法国紧急下单3万台空调](fa-guo-jin-ji-xia-dan-3mo-tai-kong-diao-2026-06-29--v1.md) - 2026-06-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%B4%A2%E6%80%A5%E4%B8%8B%E5%8D%953%E4%B8%87%E5%8F%B0%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
 - [奋斗是青春最亮丽的底色](fen-dou-shi-qing-chun-zui-liang-li-de-di-se-2026-05-04--v1.md) - 2026-05-04 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%80%E4%BA%AE%E4%B8%BD%E7%9A%84%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [奋斗是青春最亮丽的底色](fen-dou-shi-qing-chun-zui-liang-li-de-di-se-2026-05-06--v1.md) - 2026-05-06 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E6%96%97%E6%98%AF%E9%9D%92%E6%98%A5%E6%9C%80%E4%BA%AE%E4%B8%BD%E7%9A%84%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [奋进春光里](fen-jin-chun-guang-li-2026-03-14--v1.md) - 2026-03-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%8B%E8%BF%9B%E6%98%A5%E5%85%89%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
@@ -265,6 +266,7 @@
 - [因地制宜走出发展新路](yin-di-zhi-yi-zou-chu-fa-zhan-xin-lu-2026-05-11--v1.md) - 2026-05-11 (v1) [来源](https://www.baidu.com/s?wd=%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%E8%B5%B0%E5%87%BA%E5%8F%91%E5%B1%95%E6%96%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [印媒：中国38个月建成世界最大火车站](yin-mei-zhong-guo-38ge-yue-jian-cheng-shi-jie-zui-da-huo-che-zhan-2026-05-22--v1.md) - 2026-05-22 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD38%E4%B8%AA%E6%9C%88%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E7%81%AB%E8%BD%A6%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)
 - [英媒评价赵心童：统治力令对手胆寒](ying-mei-ping-jie-zhao-xin-tong-tong-zhi-li-ling-dui-shou-dan-han-2026-04-07--v1.md) - 2026-04-07 (v1) [来源](https://www.baidu.com/s?wd=%E8%8B%B1%E5%AA%92%E8%AF%84%E4%BB%B7%E8%B5%B5%E5%BF%83%E7%AB%A5%EF%BC%9A%E7%BB%9F%E6%B2%BB%E5%8A%9B%E4%BB%A4%E5%AF%B9%E6%89%8B%E8%83%86%E5%AF%92&sa=fyb_news&rsv_dl=fyb_news)
+- [永远保持对人民的赤子之心](yong-yuan-bao-chi-dui-ren-min-de-chi-zi-zhi-xin-2026-06-29--v1.md) - 2026-06-29 (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%B8%E8%BF%9C%E4%BF%9D%E6%8C%81%E5%AF%B9%E4%BA%BA%E6%B0%91%E7%9A%84%E8%B5%A4%E5%AD%90%E4%B9%8B%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [有种痛苦叫你的邻居买了台大车](you-chong-tong-ku-jiao-ni-de-lin-ju-mai-liao-tai-da-che-2026-06-21--v1.md) - 2026-06-21 (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%89%E7%A7%8D%E7%97%9B%E8%8B%9B%E5%8F%AB%E4%BD%A0%E7%9A%84%E9%82%BB%E5%B1%85%E4%B9%B0%E4%BA%86%E5%8F%B0%E5%A4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [跃马扬鞭 万马奔腾 马不停蹄](yue-ma-yang-bian-mo-ma-ben-teng-ma-bu-ting-ti-2026-02-25--v1.md) - 2026-02-25 (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%83%E9%A9%AC%E6%89%AC%E9%9E%AD+%E4%B8%87%E9%A9%AC%E5%A5%94%E8%85%BE+%E9%A9%AC%E4%B8%8D%E5%81%9C%E8%B9%84&sa=fyb_news&rsv_dl=fyb_news)
 
