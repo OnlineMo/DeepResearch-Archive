@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [法国紧急下单3万台空调 - 2026-06-29](AI_Reports/wei-fen-lei/fa-guo-jin-ji-xia-dan-3mo-tai-kong-diao-2026-06-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%B4%A2%E6%80%A5%E4%B8%8B%E5%8D%953%E4%B8%87%E5%8F%B0%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
-- [永远保持对人民的赤子之心 - 2026-06-29](AI_Reports/wei-fen-lei/yong-yuan-bao-chi-dui-ren-min-de-chi-zi-zhi-xin-2026-06-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%B8%E8%BF%9C%E4%BF%9D%E6%8C%81%E5%AF%B9%E4%BA%BA%E6%B0%91%E7%9A%84%E8%B5%A4%E5%AD%90%E4%B9%8B%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
+今日暂无报告。
 <!-- END TODAY_REPORTS -->
