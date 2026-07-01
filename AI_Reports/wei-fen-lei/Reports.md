@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：262
+报告总数：265
 
 ---
 
@@ -129,8 +129,10 @@
 ## L
 
 - [牢记初心使命 永葆政治本色](lao-ji-chu-xin-shi-ming-yong-bao-zheng-zhi-ben-se-2026-06-20--v1.md) - 2026-06-20 (v1) [来源](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E5%88%9D%E5%BF%83%E4%BD%BF%E5%91%BD+%E6%B0%B8%E8%91%86%E6%94%BF%E6%B2%BB%E6%9C%AC%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
+- [李家超检阅纪律部队前紧握夫人手](li-jia-chao-jian-yue-ji-lu-bu-dui-qian-jin-wo-fu-ren-shou-2026-07-01--v1.md) - 2026-07-01 (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%A3%80%E9%98%85%E7%BA%AA%E5%BE%8B%E9%83%A8%E9%98%9F%E5%89%8D%E7%B4%A7%E6%8F%A1%E5%A4%AB%E4%BA%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [连续两周上四休三](lian-xu-liang-zhou-shang-si-xiu-san-2026-04-27--v1.md) - 2026-04-27 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)
 - [两岸同胞同属中华民族](liang-an-tong-bao-tong-shu-zhong-hua-min-zu-2026-04-11--v1.md) - 2026-04-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%A4%E5%B2%B8%E5%90%8C%E8%83%9E%E5%90%8C%E5%B1%9E%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [卢卡申科出席儿子北大毕业典礼](lu-qia-shen-ke-chu-xi-er-zi-bei-da-bi-ye-dian-li-2026-07-01--v1.md) - 2026-07-01 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E5%87%BA%E5%B8%AD%E5%84%BF%E5%AD%90%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)
 - [绿水青山入画来](lu-shui-qing-shan-ru-hua-lai-2025-12-24--v1.md) - 2025-12-24 (v1) [来源](https://www.baidu.com/s?wd=%E7%BB%91%E6%B0%B4%E9%9D%92%E5%B1%B1%E5%85%A5%E7%94%BB%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)
 
 ## M
@@ -234,6 +236,7 @@
 - [习近平听取岑浩辉述职报告](xi-jin-ping-ting-qu-cen-hao-hui-shu-zhi-bao-gao-2025-12-17--v1.md) - 2025-12-17 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%AC%E5%8F%96%E5%B2%91%E6%B5%A9%E8%BE%89%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同特朗普在中南海小范围会晤](xi-jin-ping-tong-te-lang-pu-zai-zhong-nan-hai-xiao-fan-wei-hui-wu-2026-05-15--v1.md) - 2026-05-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%B8%AD%E5%8D%97%E6%B5%B7%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为中加关系发展把脉定向](xi-jin-ping-wei-zhong-jia-guan-xi-fa-zhan-ba-mai-ding-xiang-2026-01-18--v1.md) - 2026-01-18 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%B8%AD%E5%8A%A0%E5%85%B3%E7%B3%BB%E5%8F%91%E5%8F%B7%E6%8A%8A%E8%84%89%E5%AE%9A%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平为“七一勋章”获得者颁授勋章](xi-jin-ping-wei-qi-yi-xun-zhang-huo-de-zhe-ban-shou-xun-zhang-2026-07-01--v1.md) - 2026-07-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E2%80%9D%E8%8E%B7%E5%BE%97%E8%80%85%E9%A2%81%E6%8E%88%E5%8B%8B%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为“千年大计”作出重要部署](xi-jin-ping-wei-qian-nian-da-ji-zuo-chu-zhong-yao-bu-shu-2026-03-26--v1.md) - 2026-03-26 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E5%8D%83%E5%B9%B4%E5%A4%A7%E8%AE%A1%E2%80%9D%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E9%83%B2%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平新年贺词里这些话很暖心](xi-jin-ping-xin-nian-he-ci-li-zhe-xie-hua-hen-nuan-xin-2026-01-01--v1.md) - 2026-01-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E8%BF%99%E4%BA%9B%E8%AF%9D%E5%BE%88%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平在京看望慰问基层干部群众](xi-jin-ping-zai-jing-kan-wang-wei-wen-ji-ceng-gan-bu-qun-zhong-2026-02-11--v1.md) - 2026-02-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%AC%E7%9C%8B%E6%9C%9B%E6%85%B0%E9%97%AE%E5%9F%BA%E5%B1%82%E5%B9%B2%E9%83%A8%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)
