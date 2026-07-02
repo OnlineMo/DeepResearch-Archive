@@ -350,6 +350,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [比利时内讧时对手都来劝架了 - 2026-07-02](AI_Reports/wei-fen-lei/bi-li-shi-nei-hong-shi-dui-shou-du-lai-quan-jia-liao-2026-07-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E5%86%85%E8%AE%B7%E6%97%B6%E5%AF%B9%E6%89%8B%E9%83%BD%E6%9D%A5%E5%8A%9D%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [李家超检阅纪律部队前紧握夫人手 - 2026-07-01](AI_Reports/wei-fen-lei/li-jia-chao-jian-yue-ji-lu-bu-dui-qian-jin-wo-fu-ren-shou-2026-07-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%A3%80%E9%98%85%E7%BA%AA%E5%BE%8B%E9%83%A8%E9%98%9F%E5%89%8D%E7%B4%A7%E6%8F%A1%E5%A4%AB%E4%BA%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [卢卡申科出席儿子北大毕业典礼 - 2026-07-01](AI_Reports/wei-fen-lei/lu-qia-shen-ke-chu-xi-er-zi-bei-da-bi-ye-dian-li-2026-07-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E5%87%BA%E5%B8%AD%E5%84%BF%E5%AD%90%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为“七一勋章”获得者颁授勋章 - 2026-07-01](AI_Reports/wei-fen-lei/xi-jin-ping-wei-qi-yi-xun-zhang-huo-de-zhe-ban-shou-xun-zhang-2026-07-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E2%80%9D%E8%8E%B7%E5%BE%97%E8%80%85%E9%A2%81%E6%8E%88%E5%8B%8B%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
@@ -369,4 +370,3 @@
 - [韩国门将超级失误 - 2026-06-19](AI_Reports/wei-fen-lei/han-guo-men-jiang-chao-ji-shi-wu-2026-06-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%97%A8%E5%B0%86%E8%B6%85%E7%BA%A7%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [家国总关情 - 2026-06-19](AI_Reports/wei-fen-lei/jia-guo-zong-guan-qing-2026-06-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%AE%B6%E5%9B%BD%E6%80%BB%E5%85%B3%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平给新华社老党员张连生回信 - 2026-06-18](AI_Reports/wei-fen-lei/xi-jin-ping-gei-xin-hua-she-lao-dang-yuan-zhang-lian-sheng-hui-xin-2026-06-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%80%81%E5%85%9A%E5%91%98%E5%BC%A0%E8%BF%9E%E7%94%9F%E5%9B%9E%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)
-- [党和国家事业不断发展的“定海神针” - 2026-06-17](AI_Reports/wei-fen-lei/dang-he-guo-jia-shi-ye-bu-duan-fa-zhan-de-ding-hai-shen-zhen-2026-06-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%9A%E5%92%8C%E5%9B%BD%E5%AE%B6%E4%BA%8B%E4%B8%8D%E6%96%AD%E5%8F%91%E5%B1%95%E7%9A%84%E2%80%9C%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
