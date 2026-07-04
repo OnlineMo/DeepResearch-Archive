@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：268
+报告总数：269
 
 ---
 
@@ -132,6 +132,7 @@
 
 - [牢记初心使命 永葆政治本色](lao-ji-chu-xin-shi-ming-yong-bao-zheng-zhi-ben-se-2026-06-20--v1.md) - 2026-06-20 (v1) [来源](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E5%88%9D%E5%BF%83%E4%BD%BF%E5%91%BD+%E6%B0%B8%E8%91%86%E6%94%BF%E6%B2%BB%E6%9C%AC%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
 - [李家超检阅纪律部队前紧握夫人手](li-jia-chao-jian-yue-ji-lu-bu-dui-qian-jin-wo-fu-ren-shou-2026-07-01--v1.md) - 2026-07-01 (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%A3%80%E9%98%85%E7%BA%AA%E5%BE%8B%E9%83%A8%E9%98%9F%E5%89%8D%E7%B4%A7%E6%8F%A1%E5%A4%AB%E4%BA%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)
+- [力量来自人民](li-liang-lai-zi-ren-min-2026-07-04--v1.md) - 2026-07-04 (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%9B%E9%87%8F%E6%9D%A5%E8%87%AA%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)
 - [连续两周上四休三](lian-xu-liang-zhou-shang-si-xiu-san-2026-04-27--v1.md) - 2026-04-27 (v1) [来源](https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)
 - [两岸同胞同属中华民族](liang-an-tong-bao-tong-shu-zhong-hua-min-zu-2026-04-11--v1.md) - 2026-04-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%A4%E5%B2%B8%E5%90%8C%E8%83%9E%E5%90%8C%E5%B1%9E%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [卢卡申科出席儿子北大毕业典礼](lu-qia-shen-ke-chu-xi-er-zi-bei-da-bi-ye-dian-li-2026-07-01--v1.md) - 2026-07-01 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E5%87%BA%E5%B8%AD%E5%84%BF%E5%AD%90%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)
