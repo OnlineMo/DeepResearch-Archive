@@ -350,6 +350,8 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [巴拉圭门将赛后用球砸姆巴佩 - 2026-07-05](AI_Reports/wei-fen-lei/ba-la-gui-men-jiang-sai-hou-yong-qiu-za-mu-ba-pei-2026-07-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%97%A8%E5%B0%86%E8%B5%9B%E5%90%8E%E7%94%A8%E7%90%83%E7%A0%B8%E5%A7%86%E5%B7%B4%E4%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
+- [敢为人先的改革精神 - 2026-07-05](AI_Reports/wei-fen-lei/gan-wei-ren-xian-de-gai-ge-jing-shen-2026-07-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%95%A2%E4%B8%BA%E4%BA%BA%E5%85%88%E7%9A%84%E6%94%B9%E9%9D%A9%E7%B2%BE%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [力量来自人民 - 2026-07-04](AI_Reports/wei-fen-lei/li-liang-lai-zi-ren-min-2026-07-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%9B%E9%87%8F%E6%9D%A5%E8%87%AA%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)
 - [C罗点球破门！葡萄牙2-1克罗地亚 - 2026-07-03](AI_Reports/wei-fen-lei/cluo-dian-qiu-po-men-pu-tao-ya-2-1ke-luo-di-ya-2026-07-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=C%E7%BD%97%E7%82%B9%E7%90%B3%E7%A0%B4%E9%97%A8%EF%BC%81%E8%91%A1%E8%91%A9%E7%89%992-1%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [中国共产党为什么能的关键密码 - 2026-07-03](AI_Reports/wei-fen-lei/zhong-guo-gong-chan-dang-wei-shi-yao-neng-de-guan-jian-mi-ma-2026-07-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%9A%84%E5%85%B3%E9%94%81%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)
@@ -368,5 +370,3 @@
 - [拳拳赤子心 - 2026-06-21](AI_Reports/wei-fen-lei/quan-quan-chi-zi-xin-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8B%B3%E6%8B%B3%E8%B5%A4%E5%AD%90%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [有种痛苦叫你的邻居买了台大车 - 2026-06-21](AI_Reports/wei-fen-lei/you-chong-tong-ku-jiao-ni-de-lin-ju-mai-liao-tai-da-che-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9C%89%E7%A7%8D%E7%97%9B%E8%8B%9B%E5%8F%AB%E4%BD%A0%E7%9A%84%E9%82%BB%E5%B1%85%E4%B9%B0%E4%BA%86%E5%8F%B0%E5%A4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [牢记初心使命 永葆政治本色 - 2026-06-20](AI_Reports/wei-fen-lei/lao-ji-chu-xin-shi-ming-yong-bao-zheng-zhi-ben-se-2026-06-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E5%88%9D%E5%BF%83%E4%BD%BF%E5%91%BD+%E6%B0%B8%E8%91%86%E6%94%BF%E6%B2%BB%E6%9C%AC%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)
-- [熟悉的巴西队回来了 - 2026-06-20](AI_Reports/wei-fen-lei/shou-xi-de-ba-xi-dui-hui-lai-liao-2026-06-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%86%9F%E6%82%89%E7%9A%84%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [多名学生违背张桂梅忠告回到大山 - 2026-06-19](AI_Reports/wei-fen-lei/duo-ming-xue-sheng-wei-bei-zhang-gui-mei-zhong-gao-hui-dao-da-shan-2026-06-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E8%BF%9D%E8%83%8C%E5%BC%A0%E6%A1%82%E6%A2%85%E5%BF%A0%E5%91%8A%E5%9B%9E%E5%88%B0%E5%A4%A7%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)
