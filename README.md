@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [力量来自人民 - 2026-07-04](AI_Reports/wei-fen-lei/li-liang-lai-zi-ren-min-2026-07-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%9B%E9%87%8F%E6%9D%A5%E8%87%AA%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)
+- [巴拉圭门将赛后用球砸姆巴佩 - 2026-07-05](AI_Reports/wei-fen-lei/ba-la-gui-men-jiang-sai-hou-yong-qiu-za-mu-ba-pei-2026-07-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%97%A8%E5%B0%86%E8%B5%9B%E5%90%8E%E7%94%A8%E7%90%83%E7%A0%B8%E5%A7%86%E5%B7%B4%E4%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
+- [敢为人先的改革精神 - 2026-07-05](AI_Reports/wei-fen-lei/gan-wei-ren-xian-de-gai-ge-jing-shen-2026-07-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%95%A2%E4%B8%BA%E4%BA%BA%E5%85%88%E7%9A%84%E6%94%B9%E9%9D%A9%E7%B2%BE%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
