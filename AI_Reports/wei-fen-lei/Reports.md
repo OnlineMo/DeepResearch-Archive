@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：272
+报告总数：273
 
 ---
 
@@ -251,6 +251,7 @@
 - [献给新疆维吾尔自治区成立70周年](xian-gei-xin-jiang-wei-wu-er-zi-zhi-qu-cheng-li-70zhou-nian-2025-09-28--v1.md) - 2025-09-28 (v1) [来源](https://www.baidu.com/s?wd=%E7%8C%AE%E7%BB%99%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)
 - [乡村振兴“幸福路”](xiang-cun-zhen-xing-xing-fu-lu-2026-03-03--v1.md) - 2026-03-03 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E2%80%9C%E5%B9%B8%E7%A6%8F%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [相约未来 共赴雄安](xiang-yue-wei-lai-gong-fu-xiong-an-2026-03-24--v1.md) - 2026-03-24 (v1) [来源](https://www.baidu.com/s?wd=%E7%9B%B8%E7%BA%A6%E6%9C%AA%E6%9D%A5+%E5%85%B1%E8%B5%B4%E9%9B%84%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)
+- [向第二个百年奋斗目标迈进](xiang-di-er-ge-bai-nian-fen-dou-mu-biao-mai-jin-2026-07-07--v1.md) - 2026-07-07 (v1) [来源](https://www.baidu.com/s?wd=%E5%90%91%E7%AC%AC%E4%BA%8C%E4%B8%AA%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [泄密可能就藏在“没拉窗帘”里](xie-mi-ke-neng-jiu-cang-zai-mei-la-chuang-lian-li-2026-03-24--v1.md) - 2026-03-24 (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%84%E5%AF%86%E5%8F%AF%E8%83%BD%E5%B0%B1%E8%97%8F%E5%9C%A8%E2%80%9C%E6%B2%A1%E6%8B%89%E7%AA%97%E5%B8%98%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [新的一年中国继续向“新”而行](xin-de-yi-nian-zhong-guo-ji-xu-xiang-xin-er-xing-2026-01-10--v1.md) - 2026-01-10 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%AD%E7%BB%AD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
 - [新年贺词里的中国信心](xin-nian-he-ci-li-de-zhong-guo-xin-xin-2026-01-04--v1.md) - 2026-01-04 (v1) [来源](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
