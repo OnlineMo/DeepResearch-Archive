@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-今日暂无报告。
+- [向着建成科技强国的目标坚定迈进 - 2026-07-09](AI_Reports/ke-ji-yu-hu-lian-wang/xiang-zhao-jian-cheng-ke-ji-qiang-guo-de-mu-biao-jian-ding-mai-jin-2026-07-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%91%E7%9D%80%E5%BB%BA%E6%88%90%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E7%9A%84%E7%9B%AE%E6%A0%87%E5%9D%9A%E5%AE%9A%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)
+- [台风巴威可能正面登陆 - 2026-07-09](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-ke-neng-zheng-mian-deng-lu-2026-07-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%AF%E8%83%BD%E6%AD%A3%E9%9D%A2%E7%99%B8%E9%99%86&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
