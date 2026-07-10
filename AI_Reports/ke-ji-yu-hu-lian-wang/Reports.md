@@ -1,7 +1,7 @@
 # 科技与互联网 报告索引
 
 本页包含 **科技与互联网** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：19
+报告总数：20
 
 ---
 
@@ -21,6 +21,7 @@
 ## G
 
 - [Google将允许用户未经验证侧载Android应用](google-will-allow-users-to-sideload-android-apps-without-verification-2025-11-13--v1.md) - 2025-11-13 (v1) [来源](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
+- [关键攻坚期的一次科技盛会](guan-jian-gong-jian-qi-de-yi-ci-ke-ji-sheng-hui-2026-07-10--v1.md) - 2026-07-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%94%BB%E5%9D%9A%E6%9C%9F%E7%9A%84%E4%B8%80%E6%AC%A1%E7%A7%91%E6%8A%80%E7%9B%9B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 
 ## K
 
