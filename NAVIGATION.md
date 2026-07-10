@@ -27,6 +27,8 @@
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [晋江鞋厂火灾遇难者大多被困楼顶 - 2026-07-10](AI_Reports/she-hui-yu-fa-zhi/jin-jiang-xie-han-huo-zai-yu-nan-zhe-da-duo-bei-kun-lou-ding-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%AB%E9%81%87%E9%9A%BE%E8%80%85%E5%A4%A7%E5%A4%9A%E8%A2%AB%E5%9B%B0%E6%A5%BC%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)
+- [台风“巴威”预计登陆时间地点 - 2026-07-10](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-yu-ji-deng-lu-shi-jian-di-dian-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E9%A2%84%E8%AE%A1%E7%99%BB%E9%99%86%E6%97%B6%E9%97%B4%E5%9C%B0%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [台风巴威可能正面登陆 - 2026-07-09](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-ke-neng-zheng-mian-deng-lu-2026-07-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%AF%E8%83%BD%E6%AD%A3%E9%9D%A2%E7%99%B8%E9%99%86&sa=fyb_news&rsv_dl=fyb_news)
 - [美客机撞上行人 致其被吸入引擎死亡 - 2026-05-10](AI_Reports/she-hui-yu-fa-zhi/mei-ke-ji-zhuang-shang-xing-ren-zhi-qi-bei-xi-ru-yin-qing-si-wang-2026-05-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%A2%E6%9C%BA%E6%92%9E%E4%B8%8A%E8%A1%8C%E4%BA%BA+%E8%87%B4%E5%85%B6%E8%A2%AB%E5%90%B8%E5%85%A5%E5%BC%95%E6%93%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平对烟花厂爆炸事故作重要指示 - 2026-05-05](AI_Reports/she-hui-yu-fa-zhi/xi-jin-ping-dui-yan-hua-han-bao-zha-shi-gu-zuo-zhong-yao-zhi-shi-2026-05-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)
@@ -45,8 +47,6 @@
 - [同居算家庭成员 分手会被分家产吗 - 2025-11-29](AI_Reports/she-hui-yu-fa-zhi/tong-ju-suan-jia-ting-cheng-yuan-fen-shou-hui-bei-fen-jia-chan-ma-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%8C%E5%B1%85%E7%AE%97%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98+%E5%88%86%E6%89%8B%E4%BC%9A%E8%A2%AB%E5%88%86%E5%AE%B6%E4%BA%A7%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
 - [香港大埔火灾已致128人遇难 - 2025-11-29](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-da-bu-huo-zai-yi-zhi-128ren-yu-nan-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%97%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [山东威海地震 有人梦中被晃醒 - 2025-11-28](AI_Reports/she-hui-yu-fa-zhi/shan-dong-wei-hai-di-zhen-you-ren-meng-zhong-bei-huang-xing-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A8%81%E6%B5%B7%E5%9C%B0%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%A2%A6%E4%B8%AD%E8%A2%AB%E6%99%83%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)
-- [香港火灾已造成94人遇难 - 2025-11-28](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-huo-zai-yi-zao-cheng-94ren-yu-nan-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%9094%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)
-- [央视曝光小诊所用医保卡换豆油和面 - 2025-11-28](AI_Reports/she-hui-yu-fa-zhi/yang-shi-pu-guang-xiao-zhen-suo-yong-yi-bao-qia-huan-dou-you-he-mian-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%B0%8F%E8%AF%8A%E6%89%80%E7%94%A8%E5%8C%BB%E4%BF%9D%E5%8D%A1%E6%8D%A2%E8%B1%86%E6%B2%B9%E5%92%8C%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -98,6 +98,7 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [关键攻坚期的一次科技盛会 - 2026-07-10](AI_Reports/ke-ji-yu-hu-lian-wang/guan-jian-gong-jian-qi-de-yi-ci-ke-ji-sheng-hui-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%94%BB%E5%9D%9A%E6%9C%9F%E7%9A%84%E4%B8%80%E6%AC%A1%E7%A7%91%E6%8A%80%E7%9B%9B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [向着建成科技强国的目标坚定迈进 - 2026-07-09](AI_Reports/ke-ji-yu-hu-lian-wang/xiang-zhao-jian-cheng-ke-ji-qiang-guo-de-mu-biao-jian-ding-mai-jin-2026-07-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%91%E7%9D%80%E5%BB%BA%E6%88%90%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E7%9A%84%E7%9B%AE%E6%A0%87%E5%9D%9A%E5%AE%9A%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [科技兴则民族兴 科技强则国家强 - 2026-05-31](AI_Reports/ke-ji-yu-hu-lian-wang/ke-ji-xing-ze-min-zu-xing-ke-ji-qiang-ze-guo-jia-qiang-2026-05-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E5%85%B4%E5%88%99%E6%B0%91%E6%97%8F%E5%85%B4+%E7%A7%91%E6%8A%80%E5%BC%BA%E5%88%99%E5%9B%BD%E5%AE%B6%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [249元毛巾被指暴利 胖东来起诉博主 - 2026-05-02](AI_Reports/ke-ji-yu-hu-lian-wang/249yuan-mao-jin-bei-zhi-bao-li-pang-dong-lai-qi-su-bo-zhu-2026-05-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=249%E5%85%83%E6%AF%9B%E5%B7%BE%E8%A2%AB%E6%8C%87%E6%9A%B4%E5%88%A9+%E8%83%96%E4%B8%9C%E6%9D%A5%E8%B5%B7%E8%AF%89%E5%8D%9A%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)
