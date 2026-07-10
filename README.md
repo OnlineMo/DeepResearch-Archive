@@ -19,6 +19,7 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [向着建成科技强国的目标坚定迈进 - 2026-07-09](AI_Reports/ke-ji-yu-hu-lian-wang/xiang-zhao-jian-cheng-ke-ji-qiang-guo-de-mu-biao-jian-ding-mai-jin-2026-07-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%91%E7%9D%80%E5%BB%BA%E6%88%90%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E7%9A%84%E7%9B%AE%E6%A0%87%E5%9D%9A%E5%AE%9A%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)
-- [台风巴威可能正面登陆 - 2026-07-09](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-ke-neng-zheng-mian-deng-lu-2026-07-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%AF%E8%83%BD%E6%AD%A3%E9%9D%A2%E7%99%B8%E9%99%86&sa=fyb_news&rsv_dl=fyb_news)
+- [关键攻坚期的一次科技盛会 - 2026-07-10](AI_Reports/ke-ji-yu-hu-lian-wang/guan-jian-gong-jian-qi-de-yi-ci-ke-ji-sheng-hui-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%94%BB%E5%9D%9A%E6%9C%9F%E7%9A%84%E4%B8%80%E6%AC%A1%E7%A7%91%E6%8A%80%E7%9B%9B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
+- [晋江鞋厂火灾遇难者大多被困楼顶 - 2026-07-10](AI_Reports/she-hui-yu-fa-zhi/jin-jiang-xie-han-huo-zai-yu-nan-zhe-da-duo-bei-kun-lou-ding-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%AB%E9%81%87%E9%9A%BE%E8%80%85%E5%A4%A7%E5%A4%9A%E8%A2%AB%E5%9B%B0%E6%A5%BC%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)
+- [台风“巴威”预计登陆时间地点 - 2026-07-10](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-yu-ji-deng-lu-shi-jian-di-dian-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E9%A2%84%E8%AE%A1%E7%99%BB%E9%99%86%E6%97%B6%E9%97%B4%E5%9C%B0%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
