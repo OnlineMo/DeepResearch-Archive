@@ -27,6 +27,7 @@
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [巴威再度增强为强台风级 最新路径 - 2026-07-11](AI_Reports/she-hui-yu-fa-zhi/ba-wei-zai-du-zeng-qiang-wei-qiang-tai-feng-ji-zui-xin-lu-jing-2026-07-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E5%86%8D%E5%BA%A6%E5%A2%9E%E5%BC%BA%E4%B8%BA%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7+%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)
 - [晋江鞋厂火灾遇难者大多被困楼顶 - 2026-07-10](AI_Reports/she-hui-yu-fa-zhi/jin-jiang-xie-han-huo-zai-yu-nan-zhe-da-duo-bei-kun-lou-ding-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%AB%E9%81%87%E9%9A%BE%E8%80%85%E5%A4%A7%E5%A4%9A%E8%A2%AB%E5%9B%B0%E6%A5%BC%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [台风“巴威”预计登陆时间地点 - 2026-07-10](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-yu-ji-deng-lu-shi-jian-di-dian-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E9%A2%84%E8%AE%A1%E7%99%BB%E9%99%86%E6%97%B6%E9%97%B4%E5%9C%B0%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [台风巴威可能正面登陆 - 2026-07-09](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-ke-neng-zheng-mian-deng-lu-2026-07-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%AF%E8%83%BD%E6%AD%A3%E9%9D%A2%E7%99%B8%E9%99%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [“点几下”里的幸福感 - 2025-11-29](AI_Reports/she-hui-yu-fa-zhi/dian-ji-xia-li-de-xing-fu-gan-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%82%B9%E5%87%A0%E4%B8%8B%E2%80%9D%E9%87%8C%E7%9A%84%E5%B9%B8%E7%A6%8F%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [同居算家庭成员 分手会被分家产吗 - 2025-11-29](AI_Reports/she-hui-yu-fa-zhi/tong-ju-suan-jia-ting-cheng-yuan-fen-shou-hui-bei-fen-jia-chan-ma-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%8C%E5%B1%85%E7%AE%97%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98+%E5%88%86%E6%89%8B%E4%BC%9A%E8%A2%AB%E5%88%86%E5%AE%B6%E4%BA%A7%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
 - [香港大埔火灾已致128人遇难 - 2025-11-29](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-da-bu-huo-zai-yi-zhi-128ren-yu-nan-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%97%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)
-- [山东威海地震 有人梦中被晃醒 - 2025-11-28](AI_Reports/she-hui-yu-fa-zhi/shan-dong-wei-hai-di-zhen-you-ren-meng-zhong-bei-huang-xing-2025-11-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A8%81%E6%B5%B7%E5%9C%B0%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%A2%A6%E4%B8%AD%E8%A2%AB%E6%99%83%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -352,6 +352,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [习近平同金正恩互致贺电 - 2026-07-11](AI_Reports/wei-fen-lei/xi-jin-ping-tong-jin-zheng-en-hu-zhi-he-dian-2026-07-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [向第二个百年奋斗目标迈进 - 2026-07-07](AI_Reports/wei-fen-lei/xiang-di-er-ge-bai-nian-fen-dou-mu-biao-mai-jin-2026-07-07--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%91%E7%AC%AC%E4%BA%8C%E4%B8%AA%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [内马尔从巴西国家队退役 - 2026-07-06](AI_Reports/wei-fen-lei/nei-ma-er-cong-ba-xi-guo-jia-dui-tui-yi-2026-07-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%85%E9%A9%AC%E5%B0%94%E4%BB%8E%E5%B7%B4%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [巴拉圭门将赛后用球砸姆巴佩 - 2026-07-05](AI_Reports/wei-fen-lei/ba-la-gui-men-jiang-sai-hou-yong-qiu-za-mu-ba-pei-2026-07-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%97%A8%E5%B0%86%E8%B5%9B%E5%90%8E%E7%94%A8%E7%90%83%E7%A0%B8%E5%A7%86%E5%B7%B4%E4%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
@@ -371,4 +372,3 @@
 - [总书记田间地头话农桑 - 2026-06-26](AI_Reports/wei-fen-lei/zong-shu-ji-tian-jian-di-tou-hua-nong-sang-2026-06-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%94%B0%E9%97%B4%E5%9C%B0%E5%A4%B4%E8%AF%9D%E5%86%9C%E6%A1%91&sa=fyb_news&rsv_dl=fyb_news)
 - [把党的政治建设作为党的根本性建设 - 2026-06-23](AI_Reports/wei-fen-lei/ba-dang-de-zheng-zhi-jian-she-zuo-wei-dang-de-gen-ben-xing-jian-she-2026-06-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E5%85%9A%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BB%BA%E8%AE%BE%E4%BD%9C%E4%B8%BA%E5%85%9A%E7%9A%84%E6%A0%B9%E6%9C%AC%E6%80%A7%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [球员不满判罚围住马宁理论 - 2026-06-21](AI_Reports/wei-fen-lei/qiu-yuan-bu-man-pan-fa-wei-zhu-ma-zhu-li-lun-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%90%83%E5%91%98%E4%B8%8D%E6%BB%A1%E5%88%A4%E7%BD%9A%E5%9B%B4%E4%BD%8F%E9%A9%AC%E5%AE%81%E7%90%86%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)
-- [拳拳赤子心 - 2026-06-21](AI_Reports/wei-fen-lei/quan-quan-chi-zi-xin-2026-06-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8B%B3%E6%8B%B3%E8%B5%A4%E5%AD%90%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
