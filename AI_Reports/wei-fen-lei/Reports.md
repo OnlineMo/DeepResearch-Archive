@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：273
+报告总数：274
 
 ---
 
@@ -240,6 +240,7 @@
 - [习近平情系祖国的“掌上明珠”](xi-jin-ping-qing-xi-zu-guo-de-zhang-shang-ming-zhu-2025-12-21--v1.md) - 2025-12-21 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E7%A5%96%E5%9B%BD%E7%9A%84%E2%80%9C%E6%8E%8C%E4%B8%8A%E6%98%8E%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平深情讲述的英雄故事](xi-jin-ping-shen-qing-jiang-shu-de-ying-xiong-gu-shi-2026-04-05--v1.md) - 2026-04-05 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B7%B1%E6%83%85%E8%AE%B2%E8%BF%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平听取岑浩辉述职报告](xi-jin-ping-ting-qu-cen-hao-hui-shu-zhi-bao-gao-2025-12-17--v1.md) - 2025-12-17 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%AC%E5%8F%96%E5%B2%91%E6%B5%A9%E8%BE%89%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平同金正恩互致贺电](xi-jin-ping-tong-jin-zheng-en-hu-zhi-he-dian-2026-07-11--v1.md) - 2026-07-11 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同特朗普在中南海小范围会晤](xi-jin-ping-tong-te-lang-pu-zai-zhong-nan-hai-xiao-fan-wei-hui-wu-2026-05-15--v1.md) - 2026-05-15 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%B8%AD%E5%8D%97%E6%B5%B7%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为中加关系发展把脉定向](xi-jin-ping-wei-zhong-jia-guan-xi-fa-zhan-ba-mai-ding-xiang-2026-01-18--v1.md) - 2026-01-18 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%B8%AD%E5%8A%A0%E5%85%B3%E7%B3%BB%E5%8F%91%E5%8F%B7%E6%8A%8A%E8%84%89%E5%AE%9A%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为“七一勋章”获得者颁授勋章](xi-jin-ping-wei-qi-yi-xun-zhang-huo-de-zhe-ban-shou-xun-zhang-2026-07-01--v1.md) - 2026-07-01 (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E2%80%9D%E8%8E%B7%E5%BE%97%E8%80%85%E9%A2%81%E6%8E%88%E5%8B%8B%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
