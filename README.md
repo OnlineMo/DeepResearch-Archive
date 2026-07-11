@@ -19,7 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [关键攻坚期的一次科技盛会 - 2026-07-10](AI_Reports/ke-ji-yu-hu-lian-wang/guan-jian-gong-jian-qi-de-yi-ci-ke-ji-sheng-hui-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%94%BB%E5%9D%9A%E6%9C%9F%E7%9A%84%E4%B8%80%E6%AC%A1%E7%A7%91%E6%8A%80%E7%9B%9B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
-- [晋江鞋厂火灾遇难者大多被困楼顶 - 2026-07-10](AI_Reports/she-hui-yu-fa-zhi/jin-jiang-xie-han-huo-zai-yu-nan-zhe-da-duo-bei-kun-lou-ding-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%AB%E9%81%87%E9%9A%BE%E8%80%85%E5%A4%A7%E5%A4%9A%E8%A2%AB%E5%9B%B0%E6%A5%BC%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)
-- [台风“巴威”预计登陆时间地点 - 2026-07-10](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-yu-ji-deng-lu-shi-jian-di-dian-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E9%A2%84%E8%AE%A1%E7%99%BB%E9%99%86%E6%97%B6%E9%97%B4%E5%9C%B0%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
+- [巴威再度增强为强台风级 最新路径 - 2026-07-11](AI_Reports/she-hui-yu-fa-zhi/ba-wei-zai-du-zeng-qiang-wei-qiang-tai-feng-ji-zui-xin-lu-jing-2026-07-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E5%86%8D%E5%BA%A6%E5%A2%9E%E5%BC%BA%E4%B8%BA%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7+%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平同金正恩互致贺电 - 2026-07-11](AI_Reports/wei-fen-lei/xi-jin-ping-tong-jin-zheng-en-hu-zhi-he-dian-2026-07-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
