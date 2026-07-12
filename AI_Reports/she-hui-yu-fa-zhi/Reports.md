@@ -1,7 +1,7 @@
 # 社会与法治 报告索引
 
 本页包含 **社会与法治** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：90
+报告总数：91
 
 ---
 
@@ -103,6 +103,7 @@
 
 ## T
 
+- [台风巴威登陆现场画面](tai-feng-ba-wei-deng-lu-xian-chang-hua-mian-2026-07-12--v1.md) - 2026-07-12 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [台风巴威可能正面登陆](tai-feng-ba-wei-ke-neng-zheng-mian-deng-lu-2026-07-09--v1.md) - 2026-07-09 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%AF%E8%83%BD%E6%AD%A3%E9%9D%A2%E7%99%B8%E9%99%86&sa=fyb_news&rsv_dl=fyb_news)
 - [台风“巴威”预计登陆时间地点](tai-feng-ba-wei-yu-ji-deng-lu-shi-jian-di-dian-2026-07-10--v1.md) - 2026-07-10 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E9%A2%84%E8%AE%A1%E7%99%BB%E9%99%86%E6%97%B6%E9%97%B4%E5%9C%B0%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [台风“米娜”将带来大暴雨、特大暴雨](tai-feng-mi-nuo-jiang-dai-lai-da-bao-yu-te-da-bao-yu-2025-09-19--v1.md) - 2025-09-19 (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%B1%B3%E5%A8%9C%E2%80%9D%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%A4%A7%E6%9A%B4%E9%9B%A8%E3%80%81%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)
