@@ -27,6 +27,7 @@
 ## 社会与法治
 [点击查看社会与法治完整报告索引 →](AI_Reports/she-hui-yu-fa-zhi/Reports.md)
 
+- [台风巴威登陆现场画面 - 2026-07-12](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-deng-lu-xian-chang-hua-mian-2026-07-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [巴威再度增强为强台风级 最新路径 - 2026-07-11](AI_Reports/she-hui-yu-fa-zhi/ba-wei-zai-du-zeng-qiang-wei-qiang-tai-feng-ji-zui-xin-lu-jing-2026-07-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E5%86%8D%E5%BA%A6%E5%A2%9E%E5%BC%BA%E4%B8%BA%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7+%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)
 - [晋江鞋厂火灾遇难者大多被困楼顶 - 2026-07-10](AI_Reports/she-hui-yu-fa-zhi/jin-jiang-xie-han-huo-zai-yu-nan-zhe-da-duo-bei-kun-lou-ding-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%AB%E9%81%87%E9%9A%BE%E8%80%85%E5%A4%A7%E5%A4%9A%E8%A2%AB%E5%9B%B0%E6%A5%BC%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [台风“巴威”预计登陆时间地点 - 2026-07-10](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-yu-ji-deng-lu-shi-jian-di-dian-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E9%A2%84%E8%AE%A1%E7%99%BB%E9%99%86%E6%97%B6%E9%97%B4%E5%9C%B0%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,7 +47,6 @@
 - [奶精加淀粉做成假奶粉销往全国 - 2025-11-30](AI_Reports/she-hui-yu-fa-zhi/nai-jing-jia-dian-fen-zuo-cheng-jia-nai-fen-xiao-wang-quan-guo-2025-11-30--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B6%E7%B2%BE%E5%8A%A0%E6%B7%80%E7%B2%89%E5%81%9A%E6%88%90%E5%81%87%E5%A5%B6%E7%B2%89%E9%94%80%E5%BE%80%E5%85%A8%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [“点几下”里的幸福感 - 2025-11-29](AI_Reports/she-hui-yu-fa-zhi/dian-ji-xia-li-de-xing-fu-gan-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%82%B9%E5%87%A0%E4%B8%8B%E2%80%9D%E9%87%8C%E7%9A%84%E5%B9%B8%E7%A6%8F%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [同居算家庭成员 分手会被分家产吗 - 2025-11-29](AI_Reports/she-hui-yu-fa-zhi/tong-ju-suan-jia-ting-cheng-yuan-fen-shou-hui-bei-fen-jia-chan-ma-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%8C%E5%B1%85%E7%AE%97%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98+%E5%88%86%E6%89%8B%E4%BC%9A%E8%A2%AB%E5%88%86%E5%AE%B6%E4%BA%A7%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)
-- [香港大埔火灾已致128人遇难 - 2025-11-29](AI_Reports/she-hui-yu-fa-zhi/xiang-gang-da-bu-huo-zai-yi-zhi-128ren-yu-nan-2025-11-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%97%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 娱乐与明星
 [点击查看娱乐与明星完整报告索引 →](AI_Reports/yu-le-yu-ming-xing/Reports.md)
@@ -98,6 +98,7 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [为建设科技强国多立新功 - 2026-07-12](AI_Reports/ke-ji-yu-hu-lian-wang/wei-jian-she-ke-ji-qiang-guo-duo-li-xin-gong-2026-07-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E5%BB%BA%E8%AE%BE%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E5%A4%9A%E7%AB%8B%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [关键攻坚期的一次科技盛会 - 2026-07-10](AI_Reports/ke-ji-yu-hu-lian-wang/guan-jian-gong-jian-qi-de-yi-ci-ke-ji-sheng-hui-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%94%BB%E5%9D%9A%E6%9C%9F%E7%9A%84%E4%B8%80%E6%AC%A1%E7%A7%91%E6%8A%80%E7%9B%9B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [向着建成科技强国的目标坚定迈进 - 2026-07-09](AI_Reports/ke-ji-yu-hu-lian-wang/xiang-zhao-jian-cheng-ke-ji-qiang-guo-de-mu-biao-jian-ding-mai-jin-2026-07-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%91%E7%9D%80%E5%BB%BA%E6%88%90%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E7%9A%84%E7%9B%AE%E6%A0%87%E5%9D%9A%E5%AE%9A%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [科技兴则民族兴 科技强则国家强 - 2026-05-31](AI_Reports/ke-ji-yu-hu-lian-wang/ke-ji-xing-ze-min-zu-xing-ke-ji-qiang-ze-guo-jia-qiang-2026-05-31--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E5%85%B4%E5%88%99%E6%B0%91%E6%97%8F%E5%85%B4+%E7%A7%91%E6%8A%80%E5%BC%BA%E5%88%99%E5%9B%BD%E5%AE%B6%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
@@ -117,7 +118,6 @@
 - [eSIM手机来了 移动联通电信均开通 - 2025-10-14](AI_Reports/ke-ji-yu-hu-lian-wang/esimshou-ji-lai-liao-yi-dong-lian-tong-dian-xin-jun-kai-tong-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=eSIM%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86+%E7%A7%BB%E5%8A%A8%E8%81%94%E9%80%9A%E7%94%B5%E4%BF%A1%E5%9D%87%E5%BC%80%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [Windows 10即将“停服” - 2025-10-13](AI_Reports/ke-ji-yu-hu-lian-wang/windows-10ji-jiang-ting-fu-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=Windows+10%E5%8D%B3%E5%B0%86%E2%80%9C%E5%81%9C%E6%9C%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [中国研究出可弯折20000次柔性电池 - 2025-10-08](AI_Reports/ke-ji-yu-hu-lian-wang/zhong-guo-yan-jiu-chu-ke-wan-zhe-20000ci-rou-xing-dian-chi-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E5%87%BA%E5%8F%AF%E5%BC%AF%E6%8A%9820000%E6%AC%A1%E6%9F%94%E6%80%A7%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)
-- [中国已用上“地面空间站” - 2025-10-04](AI_Reports/ke-ji-yu-hu-lian-wang/zhong-guo-yi-yong-shang-di-mian-kong-jian-zhan-2025-10-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%94%A8%E4%B8%8A%E2%80%9C%E5%9C%B0%E9%9D%A2%E7%A9%BA%E9%97%B4%E7%AB%99%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 人工智能和机器学习
 [点击查看人工智能和机器学习完整报告索引 →](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/Reports.md)
