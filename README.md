@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [巴威再度增强为强台风级 最新路径 - 2026-07-11](AI_Reports/she-hui-yu-fa-zhi/ba-wei-zai-du-zeng-qiang-wei-qiang-tai-feng-ji-zui-xin-lu-jing-2026-07-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E5%86%8D%E5%BA%A6%E5%A2%9E%E5%BC%BA%E4%B8%BA%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7+%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)
-- [习近平同金正恩互致贺电 - 2026-07-11](AI_Reports/wei-fen-lei/xi-jin-ping-tong-jin-zheng-en-hu-zhi-he-dian-2026-07-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
+- [为建设科技强国多立新功 - 2026-07-12](AI_Reports/ke-ji-yu-hu-lian-wang/wei-jian-she-ke-ji-qiang-guo-duo-li-xin-gong-2026-07-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E5%BB%BA%E8%AE%BE%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E5%A4%9A%E7%AB%8B%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)
+- [台风巴威登陆现场画面 - 2026-07-12](AI_Reports/she-hui-yu-fa-zhi/tai-feng-ba-wei-deng-lu-xian-chang-hua-mian-2026-07-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
