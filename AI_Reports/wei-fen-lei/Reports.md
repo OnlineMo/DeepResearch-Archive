@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：274
+报告总数：276
 
 ---
 
@@ -191,6 +191,7 @@
 - [上午刷到巴掌帽 下午义乌已量产](shang-wu-shua-dao-ba-zhang-mao-xia-wu-yi-wu-yi-liang-chan-2026-04-22--v1.md) - 2026-04-22 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E5%88%B7%E5%88%B0%E5%B7%B4%E6%8E%8C%E5%B8%BD+%E4%B8%8B%E5%8D%88%E4%B9%89%E4%B9%8C%E5%B7%B2%E9%87%8F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [涉案200亿！浙商大佬俞发祥被控制](she-an-200yi-zhe-shang-da-lao-yu-fa-xiang-bei-kong-zhi-2025-12-23--v1.md) - 2025-12-23 (v1) [来源](https://www.baidu.com/s?wd=%E6%B6%89%E6%A1%88200%E4%BA%BF%EF%BC%81%E6%B5%99%E5%95%86%E5%A4%A7%E4%BD%AC%E4%BF%9E%E5%8F%91%E7%A5%A5%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)
 - [深入学习领会习近平党建思想](shen-ru-xue-xi-ling-hui-xi-jin-ping-dang-jian-si-xiang-2026-06-16--v1.md) - 2026-06-16 (v1) [来源](https://www.baidu.com/s?wd=%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3&sa=fyb_news&rsv_dl=fyb_news)
+- [沈阳今日全市停课停工](chen-yang-jin-ri-quan-shi-ting-ke-ting-gong-2026-07-13--v1.md) - 2026-07-13 (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E4%BB%8A%E6%97%A5%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [升温后有东北人500斤年货无处安放](sheng-wen-hou-you-dong-bei-ren-500jin-nian-huo-wu-chu-an-fang-2026-02-16--v1.md) - 2026-02-16 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%87%E6%B8%A9%E5%90%8E%E6%9C%89%E4%B8%9C%E5%8C%97%E4%BA%BA500%E6%96%A4%E5%B9%B4%E8%B4%A7%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)
 - [十四届全国人大四次会议在京闭幕](shi-si-jie-quan-guo-ren-da-si-ci-hui-yi-zai-jing-bi-mu-2026-03-13--v1.md) - 2026-03-13 (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%9C%A8%E4%BA%AC%E9%97%AD%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)
 - [世代友好的深厚情谊](shi-dai-you-hao-de-shen-hou-qing-yi-2026-05-19--v1.md) - 2026-05-19 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%96%E4%BB%A3%E5%8F%8B%E5%A5%BD%E7%9A%84%E6%B7%B1%E5%8E%9A%E6%83%85%E8%B0%8A&sa=fyb_news&rsv_dl=fyb_news)
@@ -327,6 +328,7 @@
 - [总书记田间地头话农桑](zong-shu-ji-tian-jian-di-tou-hua-nong-sang-2026-06-26--v1.md) - 2026-06-26 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%94%B0%E9%97%B4%E5%9C%B0%E5%A4%B4%E8%AF%9D%E5%86%9C%E6%A1%91&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记为推进国土绿化指引方向](zong-shu-ji-wei-tui-jin-guo-tu-lu-hua-zhi-yin-fang-xiang-2026-03-31--v1.md) - 2026-03-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E6%8E%A8%E8%BF%9B%E5%9B%BD%E5%9C%9F%E7%BB%BF%E5%8C%96%E6%8C%87%E5%BC%95%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记新春“典”论家国](zong-shu-ji-xin-chun-dian-lun-jia-guo-2026-02-21--v1.md) - 2026-02-21 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%96%B0%E6%98%A5%E2%80%9C%E5%85%B8%E2%80%9D%E8%AE%BA%E5%AE%B6%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记心系防汛救灾工作](zong-shu-ji-xin-xi-fang-xun-jiu-zai-gong-zuo-2026-07-13--v1.md) - 2026-07-13 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记心中的“人民之城”](zong-shu-ji-xin-zhong-de-ren-min-zhi-cheng-2026-03-27--v1.md) - 2026-03-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E4%BA%BA%E6%B0%91%E4%B9%8B%E5%9F%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记引经据典谈正确政绩观](zong-shu-ji-yin-jing-ju-dian-tan-zheng-que-zheng-ji-guan-2026-03-18--v1.md) - 2026-03-18 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E7%BB%8F%E6%8D%AE%E5%85%B8%E8%B0%88%E6%AD%A3%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记“新年第一课”这样划重点](zong-shu-ji-xin-nian-di-yi-ke-zhe-yang-hua-zhong-dian-2026-01-22--v1.md) - 2026-01-22 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E8%AF%BE%E2%80%9D%E8%BF%99%E6%A0%B7%E5%88%92%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
