@@ -19,6 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [沈阳今日全市停课停工 - 2026-07-13](AI_Reports/wei-fen-lei/chen-yang-jin-ri-quan-shi-ting-ke-ting-gong-2026-07-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E4%BB%8A%E6%97%A5%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记心系防汛救灾工作 - 2026-07-13](AI_Reports/wei-fen-lei/zong-shu-ji-xin-xi-fang-xun-jiu-zai-gong-zuo-2026-07-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)
+- [习近平将出席世界人工智能大会开幕式 - 2026-07-14](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/xi-jin-ping-jiang-chu-xi-shi-jie-ren-gong-zhi-neng-da-hui-kai-mu-shi-2026-07-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%AD%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
+- [超250万人请愿将阿根廷逐出世界杯 - 2026-07-14](AI_Reports/ti-yu-yu-sai-shi/chao-250mo-ren-qing-yuan-jiang-a-gen-ting-zhu-chu-shi-jie-bei-2026-07-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%85250%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%E5%B0%86%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%90%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
