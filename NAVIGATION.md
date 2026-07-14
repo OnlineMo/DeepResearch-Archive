@@ -74,6 +74,7 @@
 ## 体育与赛事
 [点击查看体育与赛事完整报告索引 →](AI_Reports/ti-yu-yu-sai-shi/Reports.md)
 
+- [超250万人请愿将阿根廷逐出世界杯 - 2026-07-14](AI_Reports/ti-yu-yu-sai-shi/chao-250mo-ren-qing-yuan-jiang-a-gen-ting-zhu-chu-shi-jie-bei-2026-07-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%85250%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%E5%B0%86%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%90%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [世界冠军与亚洲冠军同时出局 - 2026-06-27](AI_Reports/ti-yu-yu-sai-shi/shi-jie-guan-jun-yu-ya-zhou-guan-jun-tong-shi-chu-ju-2026-06-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%B8%8E%E4%BA%9A%E6%B4%B2%E5%86%A0%E5%86%9B%E5%90%8C%E6%97%B6%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [体育强则中国强 - 2026-06-22](AI_Reports/ti-yu-yu-sai-shi/ti-yu-qiang-ze-zhong-guo-qiang-2026-06-22--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%BC%BA%E5%88%99%E4%B8%AD%E5%9B%BD%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)
 - [美加墨世界杯诞生首个乌龙 - 2026-06-13](AI_Reports/ti-yu-yu-sai-shi/mei-jia-mo-shi-jie-bei-dan-sheng-shou-ge-wu-long-2026-06-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E8%AF%9E%E7%94%9F%E9%A6%96%E4%B8%AA%E4%B9%8C%E9%BE%99&sa=fyb_news&rsv_dl=fyb_news)
@@ -93,7 +94,6 @@
 - [“水上芭蕾”是如何练成的 - 2025-11-15](AI_Reports/ti-yu-yu-sai-shi/shui-shang-ba-lei-shi-ru-he-lian-cheng-de-2025-11-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E4%B8%8A%E8%8A%AD%E8%95%BE%E2%80%9D%E6%98%AF%E5%A6%82%E4%BD%95%E7%BB%83%E6%88%90%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)
 - [小孩哥小孩姐惊艳十五运会 - 2025-11-14](AI_Reports/ti-yu-yu-sai-shi/xiao-hai-ge-xiao-hai-jie-liang-yan-shi-wu-yun-hui-2025-11-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%B0%8F%E5%AD%A6%E5%A7%90%E6%83%8A%E8%89%B3%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [比孙杨、潘展乐还快！他是谁 - 2025-11-12](AI_Reports/ti-yu-yu-sai-shi/bi-sun-yang-pan-zhan-le-huan-kuai-ta-shi-shui-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%94%E5%AD%99%E6%9D%A8%E3%80%81%E6%BD%98%E5%B1%95%E4%B9%90%E8%BF%98%E5%BF%AB%EF%BC%81%E4%BB%96%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)
-- [跟着全运会吉祥物打卡世界级湾区 - 2025-11-12](AI_Reports/ti-yu-yu-sai-shi/gen-zhao-quan-yun-hui-ji-xiang-wu-da-qia-shi-jie-ji-wan-qu-2025-11-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E6%89%93%E5%8D%A1%E4%B8%96%E7%95%8C%E7%BA%A7%E6%B9%BE%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
@@ -122,6 +122,7 @@
 ## 人工智能和机器学习
 [点击查看人工智能和机器学习完整报告索引 →](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/Reports.md)
 
+- [习近平将出席世界人工智能大会开幕式 - 2026-07-14](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/xi-jin-ping-jiang-chu-xi-shi-jie-ren-gong-zhi-neng-da-hui-kai-mu-shi-2026-07-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%AD%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)
 - [南大人工智能学科排名全球第一 - 2026-01-11](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/nan-da-ren-gong-zhi-neng-xue-ke-pai-ming-quan-qiu-di-yi-2026-01-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%97%E5%A4%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E7%A7%91%E6%8E%92%E5%90%8D%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)
 - [Marble: A Multimodal World Model - 2025-11-13](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/marble-a-multimodal-world-model-2025-11-13--v1.md) (v1) [来源](https://www.worldlabs.ai/blog/marble-world-model)
 
