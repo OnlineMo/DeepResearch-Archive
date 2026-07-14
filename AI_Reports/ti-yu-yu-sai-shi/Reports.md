@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：31
+报告总数：32
 
 ---
 
@@ -16,6 +16,7 @@
 
 ## C
 
+- [超250万人请愿将阿根廷逐出世界杯](chao-250mo-ren-qing-yuan-jiang-a-gen-ting-zhu-chu-shi-jie-bei-2026-07-14--v1.md) - 2026-07-14 (v1) [来源](https://www.baidu.com/s?wd=%E8%B6%85250%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%E5%B0%86%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%90%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news)
 - [除了足球队 中国已全面进入世界杯](chu-liao-zu-qiu-dui-zhong-guo-yi-quan-mian-jin-ru-shi-jie-bei-2026-04-18--v1.md) - 2026-04-18 (v1) [来源](https://www.baidu.com/s?wd=%E9%99%B7%E4%BA%86%E8%B6%B3%E7%90%83%E9%98%81+%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
