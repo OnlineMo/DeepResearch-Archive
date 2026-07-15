@@ -353,6 +353,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [总书记心中的“人民城市” - 2026-07-15](AI_Reports/wei-fen-lei/zong-shu-ji-xin-zhong-de-ren-min-cheng-shi-2026-07-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [沈阳今日全市停课停工 - 2026-07-13](AI_Reports/wei-fen-lei/chen-yang-jin-ri-quan-shi-ting-ke-ting-gong-2026-07-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E4%BB%8A%E6%97%A5%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记心系防汛救灾工作 - 2026-07-13](AI_Reports/wei-fen-lei/zong-shu-ji-xin-xi-fang-xun-jiu-zai-gong-zuo-2026-07-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平同金正恩互致贺电 - 2026-07-11](AI_Reports/wei-fen-lei/xi-jin-ping-tong-jin-zheng-en-hu-zhi-he-dian-2026-07-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%92%E8%87%B4%E8%B4%B5%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
@@ -372,4 +373,3 @@
 - [韩国队出局 - 2026-06-28](AI_Reports/wei-fen-lei/han-guo-dui-chu-ju-2026-06-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%B9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
 - [“窑洞之问” 我们这样回答 - 2026-06-27](AI_Reports/wei-fen-lei/yao-dong-zhi-wen-wo-men-zhe-yang-hui-da-2026-06-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AA%91%E6%B4%9E%E4%B9%8B%E9%97%AE%E2%80%9D+%E6%88%91%E4%BB%AC%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94&sa=fyb_news&rsv_dl=fyb_news)
 - [德国爆冷输球坑苦韩国 - 2026-06-26](AI_Reports/wei-fen-lei/de-guo-bao-leng-shu-qiu-keng-ku-han-guo-2026-06-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E5%9D%91%E8%8B%A6%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
-- [总书记田间地头话农桑 - 2026-06-26](AI_Reports/wei-fen-lei/zong-shu-ji-tian-jian-di-tou-hua-nong-sang-2026-06-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%94%B0%E9%97%B4%E5%9C%B0%E5%A4%B4%E8%AF%9D%E5%86%9C%E6%A1%91&sa=fyb_news&rsv_dl=fyb_news)
