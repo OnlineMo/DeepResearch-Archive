@@ -1,7 +1,7 @@
 # 未分类 报告索引
 
 本页包含 **未分类** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：276
+报告总数：277
 
 ---
 
@@ -329,6 +329,7 @@
 - [总书记为推进国土绿化指引方向](zong-shu-ji-wei-tui-jin-guo-tu-lu-hua-zhi-yin-fang-xiang-2026-03-31--v1.md) - 2026-03-31 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E6%8E%A8%E8%BF%9B%E5%9B%BD%E5%9C%9F%E7%BB%BF%E5%8C%96%E6%8C%87%E5%BC%95%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记新春“典”论家国](zong-shu-ji-xin-chun-dian-lun-jia-guo-2026-02-21--v1.md) - 2026-02-21 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%96%B0%E6%98%A5%E2%80%9C%E5%85%B8%E2%80%9D%E8%AE%BA%E5%AE%B6%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记心系防汛救灾工作](zong-shu-ji-xin-xi-fang-xun-jiu-zai-gong-zuo-2026-07-13--v1.md) - 2026-07-13 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)
+- [总书记心中的“人民城市”](zong-shu-ji-xin-zhong-de-ren-min-cheng-shi-2026-07-15--v1.md) - 2026-07-15 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记心中的“人民之城”](zong-shu-ji-xin-zhong-de-ren-min-zhi-cheng-2026-03-27--v1.md) - 2026-03-27 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E4%BA%BA%E6%B0%91%E4%B9%8B%E5%9F%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记引经据典谈正确政绩观](zong-shu-ji-yin-jing-ju-dian-tan-zheng-que-zheng-ji-guan-2026-03-18--v1.md) - 2026-03-18 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E7%BB%8F%E6%8D%AE%E5%85%B8%E8%B0%88%E6%AD%A3%E7%BB%A9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记“新年第一课”这样划重点](zong-shu-ji-xin-nian-di-yi-ke-zhe-yang-hua-zhong-dian-2026-01-22--v1.md) - 2026-01-22 (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E8%AF%BE%E2%80%9D%E8%BF%99%E6%A0%B7%E5%88%92%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
