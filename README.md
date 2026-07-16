@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [总书记心中的“人民城市” - 2026-07-15](AI_Reports/wei-fen-lei/zong-shu-ji-xin-zhong-de-ren-min-cheng-shi-2026-07-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [做好人工智能“年轻的事业” - 2026-07-16](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/zuo-hao-ren-gong-zhi-neng-nian-qing-de-shi-ye-2026-07-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%81%9A%E5%A5%BD%E4%BA%BA%E5%B7%BA%E6%99%BA%E8%83%BD%E2%80%9C%E5%B9%B4%E8%BD%BB%E7%9A%84%E4%BA%8B%E4%B8%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [决赛世界第1对世界第2 - 2026-07-16](AI_Reports/wei-fen-lei/jue-sai-shi-jie-di-1dui-shi-jie-di-2-2026-07-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%B3%E8%B5%9B%E4%B8%96%E7%95%8C%E7%AC%AC1%E5%AF%B9%E4%B8%96%E7%95%8C%E7%AC%AC2&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
