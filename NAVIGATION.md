@@ -354,6 +354,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [把老百姓关切的事一件一件办好 - 2026-07-17](AI_Reports/wei-fen-lei/ba-lao-bai-xing-guan-qie-de-shi-yi-jian-yi-jian-ban-hao-2026-07-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E5%85%B3%E5%88%87%E7%9A%84%E4%BA%8B%E4%B8%80%E4%BB%B6%E4%BB%B6%E5%8A%9E%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)
 - [决赛世界第1对世界第2 - 2026-07-16](AI_Reports/wei-fen-lei/jue-sai-shi-jie-di-1dui-shi-jie-di-2-2026-07-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%B3%E8%B5%9B%E4%B8%96%E7%95%8C%E7%AC%AC1%E5%AF%B9%E4%B8%96%E7%95%8C%E7%AC%AC2&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记心中的“人民城市” - 2026-07-15](AI_Reports/wei-fen-lei/zong-shu-ji-xin-zhong-de-ren-min-cheng-shi-2026-07-15--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [沈阳今日全市停课停工 - 2026-07-13](AI_Reports/wei-fen-lei/chen-yang-jin-ri-quan-shi-ting-ke-ting-gong-2026-07-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E4%BB%8A%E6%97%A5%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)
@@ -373,4 +374,3 @@
 - [法国紧急下单3万台空调 - 2026-06-29](AI_Reports/wei-fen-lei/fa-guo-jin-ji-xia-dan-3mo-tai-kong-diao-2026-06-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%B4%A2%E6%80%A5%E4%B8%8B%E5%8D%953%E4%B8%87%E5%8F%B0%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
 - [永远保持对人民的赤子之心 - 2026-06-29](AI_Reports/wei-fen-lei/yong-yuan-bao-chi-dui-ren-min-de-chi-zi-zhi-xin-2026-06-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B0%B8%E8%BF%9C%E4%BF%9D%E6%8C%81%E5%AF%B9%E4%BA%BA%E6%B0%91%E7%9A%84%E8%B5%A4%E5%AD%90%E4%B9%8B%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)
 - [韩国队出局 - 2026-06-28](AI_Reports/wei-fen-lei/han-guo-dui-chu-ju-2026-06-28--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%9F%B9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)
-- [“窑洞之问” 我们这样回答 - 2026-06-27](AI_Reports/wei-fen-lei/yao-dong-zhi-wen-wo-men-zhe-yang-hui-da-2026-06-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E7%AA%91%E6%B4%9E%E4%B9%8B%E9%97%AE%E2%80%9D+%E6%88%91%E4%BB%AC%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94&sa=fyb_news&rsv_dl=fyb_news)
