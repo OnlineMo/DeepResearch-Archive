@@ -19,6 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [做好人工智能“年轻的事业” - 2026-07-16](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/zuo-hao-ren-gong-zhi-neng-nian-qing-de-shi-ye-2026-07-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%81%9A%E5%A5%BD%E4%BA%BA%E5%B7%BA%E6%99%BA%E8%83%BD%E2%80%9C%E5%B9%B4%E8%BD%BB%E7%9A%84%E4%BA%8B%E4%B8%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [决赛世界第1对世界第2 - 2026-07-16](AI_Reports/wei-fen-lei/jue-sai-shi-jie-di-1dui-shi-jie-di-2-2026-07-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%B3%E8%B5%9B%E4%B8%96%E7%95%8C%E7%AC%AC1%E5%AF%B9%E4%B8%96%E7%95%8C%E7%AC%AC2&sa=fyb_news&rsv_dl=fyb_news)
+- [把老百姓关切的事一件一件办好 - 2026-07-17](AI_Reports/wei-fen-lei/ba-lao-bai-xing-guan-qie-de-shi-yi-jian-yi-jian-ban-hao-2026-07-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E5%85%B3%E5%88%87%E7%9A%84%E4%BA%8B%E4%B8%80%E4%BB%B6%E4%BB%B6%E5%8A%9E%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
