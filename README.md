@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [把老百姓关切的事一件一件办好 - 2026-07-17](AI_Reports/wei-fen-lei/ba-lao-bai-xing-guan-qie-de-shi-yi-jian-yi-jian-ban-hao-2026-07-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E5%85%B3%E5%88%87%E7%9A%84%E4%BA%8B%E4%B8%80%E4%BB%B6%E4%BB%B6%E5%8A%9E%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)
+- [中国不能总当“东郭先生” - 2026-07-18](AI_Reports/wei-fen-lei/zhong-guo-bu-neng-zong-dang-dong-guo-xian-sheng-2026-07-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%83%BD%E6%80%BB%E5%BD%93%E2%80%9C%E4%B8%9C%E9%83%AD%E5%85%88%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
