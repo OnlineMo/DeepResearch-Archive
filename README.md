@@ -19,5 +19,5 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [中国不能总当“东郭先生” - 2026-07-18](AI_Reports/wei-fen-lei/zhong-guo-bu-neng-zong-dang-dong-guo-xian-sheng-2026-07-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%83%BD%E6%80%BB%E5%BD%93%E2%80%9C%E4%B8%9C%E9%83%AD%E5%85%88%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
+- [携手推动人工智能向上向善造福人类 - 2026-07-19](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/xi-shou-tui-dong-ren-gong-zhi-neng-xiang-shang-xiang-shan-zao-fu-ren-lei-2026-07-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%8E%A8%E5%8A%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%91%E4%B8%8A%E5%90%91%E5%96%84%E9%80%A0%E7%A6%F%E4%BA%BA%E7%B1%BB&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
