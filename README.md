@@ -19,5 +19,6 @@
 
 <!-- BEGIN TODAY_REPORTS -->
 ## 最新报告
-- [携手推动人工智能向上向善造福人类 - 2026-07-19](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/xi-shou-tui-dong-ren-gong-zhi-neng-xiang-shang-xiang-shan-zao-fu-ren-lei-2026-07-19--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%8E%A8%E5%8A%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%91%E4%B8%8A%E5%90%91%E5%96%84%E9%80%A0%E7%A6%F%E4%BA%BA%E7%B1%BB&sa=fyb_news&rsv_dl=fyb_news)
+- [西班牙加时1-0阿根廷 夺世界杯冠军 - 2026-07-20](AI_Reports/ti-yu-yu-sai-shi/xi-ban-ya-jia-shi-1-0a-gen-ting-duo-shi-jie-bei-guan-jun-2026-07-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E6%97%B61-0%E9%98%B3%E6%A0%B9%E5%BA%AD+%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
+- [坚持开放共赢 驱动创新发展 - 2026-07-20](AI_Reports/wei-fen-lei/jian-chi-kai-fang-gong-ying-qu-dong-chuang-xin-fa-zhan-2026-07-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E5%BC%80%E6%94%BE%E5%85%B1%E8%B5%A2+%E9%A9%B1%E5%8A%A8%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
 <!-- END TODAY_REPORTS -->
