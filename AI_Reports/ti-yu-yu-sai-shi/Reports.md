@@ -1,7 +1,7 @@
 # 体育与赛事 报告索引
 
 本页包含 **体育与赛事** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：32
+报告总数：33
 
 ---
 
@@ -70,6 +70,7 @@
 
 ## X
 
+- [西班牙加时1-0阿根廷 夺世界杯冠军](xi-ban-ya-jia-shi-1-0a-gen-ting-duo-shi-jie-bei-guan-jun-2026-07-20--v1.md) - 2026-07-20 (v1) [来源](https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E6%97%B61-0%E9%98%B3%E6%A0%B9%E5%BA%AD+%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
 - [小孩哥小孩姐惊艳十五运会](xiao-hai-ge-xiao-hai-jie-liang-yan-shi-wu-yun-hui-2025-11-14--v1.md) - 2025-11-14 (v1) [来源](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%B0%8F%E5%AD%A6%E5%A7%90%E6%83%8A%E8%89%B3%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 
 ## Y
