@@ -259,6 +259,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [女生高考684分花3000元咨询进双非 - 2026-07-21](AI_Reports/jiao-yu-yu-kao-shi/nu-sheng-gao-kao-684fen-hua-3000yuan-zi-xun-jin-shuang-fei-2026-07-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [加快推进教育现代化 - 2026-05-08](AI_Reports/jiao-yu-yu-kao-shi/jia-kuai-tui-jin-jiao-yu-xian-dai-hua-2026-05-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%A0%E5%BF%AB%E6%8E%A8%E8%BF%9B%E6%95%99%E8%82%B2%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)
 - [王毅单膝跪地向志愿军先烈献花 - 2026-04-11](AI_Reports/jiao-yu-yu-kao-shi/wang-yi-dan-xi-gui-di-xiang-zhi-yuan-jun-xian-lie-xian-hua-2026-04-11--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%8D%95%E8%86%9D%E8%B7%AA%E5%9C%B0%E5%90%91%E5%BF%97%E6%84%BF%E5%86%9B%E5%85%88%E7%83%88%E7%8C%AE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)
 - [duo-di-guan-xuan-xue-jia-wang-you-shi-ming-zhi-xian-mu - 2025-12-01](AI_Reports/jiao-yu-yu-kao-shi/duo-di-guan-xuan-xue-jia-wang-you-shi-ming-zhi-xian-mu-2025-12-01--v1.md) (v1)
@@ -355,6 +356,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [“党的作风正 人民的心气顺” - 2026-07-21](AI_Reports/wei-fen-lei/dang-de-zuo-feng-zheng-ren-min-de-xin-qi-shun-2026-07-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E%E6%AD%A3+%E4%BA%BA%E6%B0%91%E7%9A%84%E5%BF%83%E6%B0%94%E9%A1%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [坚持开放共赢 驱动创新发展 - 2026-07-20](AI_Reports/wei-fen-lei/jian-chi-kai-fang-gong-ying-qu-dong-chuang-xin-fa-zhan-2026-07-20--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E5%BC%80%E6%94%BE%E5%85%B1%E8%B5%A2+%E9%A9%B1%E5%8A%A8%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)
 - [中国不能总当“东郭先生” - 2026-07-18](AI_Reports/wei-fen-lei/zhong-guo-bu-neng-zong-dang-dong-guo-xian-sheng-2026-07-18--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%83%BD%E6%80%BB%E5%BD%93%E2%80%9C%E4%B8%9C%E9%83%AD%E5%85%88%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 - [把老百姓关切的事一件一件办好 - 2026-07-17](AI_Reports/wei-fen-lei/ba-lao-bai-xing-guan-qie-de-shi-yi-jian-yi-jian-ban-hao-2026-07-17--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E5%85%B3%E5%88%87%E7%9A%84%E4%BA%8B%E4%B8%80%E4%BB%B6%E4%BB%B6%E5%8A%9E%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)
@@ -374,4 +376,3 @@
 - [李家超检阅纪律部队前紧握夫人手 - 2026-07-01](AI_Reports/wei-fen-lei/li-jia-chao-jian-yue-ji-lu-bu-dui-qian-jin-wo-fu-ren-shou-2026-07-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%A3%80%E9%98%85%E7%BA%AA%E5%BE%8B%E9%83%A8%E9%98%9F%E5%89%8D%E7%B4%A7%E6%8F%A1%E5%A4%AB%E4%BA%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)
 - [卢卡申科出席儿子北大毕业典礼 - 2026-07-01](AI_Reports/wei-fen-lei/lu-qia-shen-ke-chu-xi-er-zi-bei-da-bi-ye-dian-li-2026-07-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E5%87%BA%E5%B8%AD%E5%84%BF%E5%AD%90%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)
 - [习近平为“七一勋章”获得者颁授勋章 - 2026-07-01](AI_Reports/wei-fen-lei/xi-jin-ping-wei-qi-yi-xun-zhang-huo-de-zhe-ban-shou-xun-zhang-2026-07-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E2%80%9C%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E2%80%9D%E8%8E%B7%E5%BE%97%E8%80%85%E9%A2%81%E6%8E%88%E5%8B%8B%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)
-- [法国紧急下单3万台空调 - 2026-06-29](AI_Reports/wei-fen-lei/fa-guo-jin-ji-xia-dan-3mo-tai-kong-diao-2026-06-29--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%B4%A2%E6%80%A5%E4%B8%8B%E5%8D%953%E4%B8%87%E5%8F%B0%E7%A9%BA%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)
