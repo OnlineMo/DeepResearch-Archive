@@ -259,6 +259,7 @@
 ## 教育与考试
 [点击查看教育与考试完整报告索引 →](AI_Reports/jiao-yu-yu-kao-shi/Reports.md)
 
+- [不断开创基础教育高质量发展新局面 - 2026-07-24](AI_Reports/jiao-yu-yu-kao-shi/bu-duan-kai-chuang-ji-chu-jiao-yu-gao-zhi-liang-fa-zhan-xin-ju-mian-2026-07-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%85%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 - [总书记为基础教育高质量发展指明方向 - 2026-07-23](AI_Reports/jiao-yu-yu-kao-shi/zong-shu-ji-wei-ji-chu-jiao-yu-gao-zhi-liang-fa-zhan-zhi-ming-fang-xiang-2026-07-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
 - [女生高考684分花3000元咨询进双非 - 2026-07-21](AI_Reports/jiao-yu-yu-kao-shi/nu-sheng-gao-kao-684fen-hua-3000yuan-zi-xun-jin-shuang-fei-2026-07-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E&sa=fyb_news&rsv_dl=fyb_news)
 - [加快推进教育现代化 - 2026-05-08](AI_Reports/jiao-yu-yu-kao-shi/jia-kuai-tui-jin-jiao-yu-xian-dai-hua-2026-05-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%A0%E5%BF%AB%E6%8E%A8%E8%BF%9B%E6%95%99%E8%82%B2%E7%8E%B0%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)
@@ -357,6 +358,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [王虹13岁跳级上高中 16岁上北大 - 2026-07-24](AI_Reports/wei-fen-lei/wang-hong-13sui-tiao-ji-shang-gao-zhong-16sui-shang-bei-da-2026-07-24--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E7%8E%8B%E8%99%B913%E5%B2%81%E8%B7%B3%E7%BA%A7%E4%B8%8A%E9%AB%98%E4%B8%AD+16%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)
 - [2.2亿欧！哈兰德亚马尔身价破纪录 - 2026-07-23](AI_Reports/wei-fen-lei/2-2yi-ou-ha-lan-de-ya-ma-er-shen-jie-po-ji-lu-2026-07-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=2.2%E4%BA%BF%E6%AC%A7%EF%BC%81%E5%93%88%E5%85%B0%E5%BE%B7%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BA%AB%E4%BB%B7%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)
 - [中国“芯片刻刀”终于出鞘 - 2026-07-23](AI_Reports/wei-fen-lei/zhong-guo-xin-pian-ke-dao-zhong-yu-chu-qiao-2026-07-23--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E8%8A%AF%E7%89%87%E5%88%BB%E5%88%80%E2%80%9D%E7%BB%88%E4%BA%8E%E5%87%BA%E9%9E%98&sa=fyb_news&rsv_dl=fyb_news)
 - [“党的作风正 人民的心气顺” - 2026-07-21](AI_Reports/wei-fen-lei/dang-de-zuo-feng-zheng-ren-min-de-xin-qi-shun-2026-07-21--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E%E6%AD%A3+%E4%BA%BA%E6%B0%91%E7%9A%84%E5%BF%83%E6%B0%94%E9%A1%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
@@ -376,4 +378,3 @@
 - [C罗点球破门！葡萄牙2-1克罗地亚 - 2026-07-03](AI_Reports/wei-fen-lei/cluo-dian-qiu-po-men-pu-tao-ya-2-1ke-luo-di-ya-2026-07-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=C%E7%BD%97%E7%82%B9%E7%90%B3%E7%A0%B4%E9%97%A8%EF%BC%81%E8%91%A1%E8%91%A9%E7%89%992-1%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [中国共产党为什么能的关键密码 - 2026-07-03](AI_Reports/wei-fen-lei/zhong-guo-gong-chan-dang-wei-shi-yao-neng-de-guan-jian-mi-ma-2026-07-03--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%9A%84%E5%85%B3%E9%94%81%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)
 - [比利时内讧时对手都来劝架了 - 2026-07-02](AI_Reports/wei-fen-lei/bi-li-shi-nei-hong-shi-dui-shou-du-lai-quan-jia-liao-2026-07-02--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E5%86%85%E8%AE%B7%E6%97%B6%E5%AF%B9%E6%89%8B%E9%83%BD%E6%9D%A5%E5%8A%9D%E6%9E%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-- [李家超检阅纪律部队前紧握夫人手 - 2026-07-01](AI_Reports/wei-fen-lei/li-jia-chao-jian-yue-ji-lu-bu-dui-qian-jin-wo-fu-ren-shou-2026-07-01--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%A3%80%E9%98%85%E7%BA%AA%E5%BE%8B%E9%83%A8%E9%98%9F%E5%89%8D%E7%B4%A7%E6%8F%A1%E5%A4%AB%E4%BA%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)
