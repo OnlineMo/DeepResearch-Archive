@@ -1,7 +1,7 @@
 # 教育与考试 报告索引
 
 本页包含 **教育与考试** 类别下的所有报告，按拼音首字母字典序排序。
-报告总数：17
+报告总数：18
 
 ---
 
@@ -12,6 +12,10 @@
 ## @
 
 - [@2026届毕业生 你有求职补贴待领取](2026jie-bi-ye-sheng-ni-you-qiu-zhi-bu-tie-dai-ling-qu-2025-09-08--v1.md) - 2025-09-08 (v1) [来源](https://www.baidu.com/s?wd=%402026%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F+%E4%BD%A0%E6%9C%89%E6%B1%82%E8%81%8C%E8%A1%A5%E8%B4%B4%E5%BE%85%E9%A2%86%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)
+
+## B
+
+- [不断开创基础教育高质量发展新局面](bu-duan-kai-chuang-ji-chu-jiao-yu-gao-zhi-liang-fa-zhan-xin-ju-mian-2026-07-24--v1.md) - 2026-07-24 (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%85%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)
 
 ## D
 
