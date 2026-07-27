@@ -98,6 +98,7 @@
 ## 科技与互联网
 [点击查看科技与互联网完整报告索引 →](AI_Reports/ke-ji-yu-hu-lian-wang/Reports.md)
 
+- [长鑫科技上市 成A股市值最高公司 - 2026-07-27](AI_Reports/ke-ji-yu-hu-lian-wang/chang-xin-ke-ji-shang-shi-cheng-agu-shi-zhi-zui-gao-gong-si-2026-07-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)
 - [为建设科技强国多立新功 - 2026-07-12](AI_Reports/ke-ji-yu-hu-lian-wang/wei-jian-she-ke-ji-qiang-guo-duo-li-xin-gong-2026-07-12--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%BA%E5%BB%BA%E8%AE%BE%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E5%A4%9A%E7%AB%8B%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)
 - [关键攻坚期的一次科技盛会 - 2026-07-10](AI_Reports/ke-ji-yu-hu-lian-wang/guan-jian-gong-jian-qi-de-yi-ci-ke-ji-sheng-hui-2026-07-10--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%94%BB%E5%9D%9A%E6%9C%9F%E7%9A%84%E4%B8%80%E6%AC%A1%E7%A7%91%E6%8A%80%E7%9B%9B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [向着建成科技强国的目标坚定迈进 - 2026-07-09](AI_Reports/ke-ji-yu-hu-lian-wang/xiang-zhao-jian-cheng-ke-ji-qiang-guo-de-mu-biao-jian-ding-mai-jin-2026-07-09--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%90%91%E7%9D%80%E5%BB%BA%E6%88%90%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E7%9A%84%E7%9B%AE%E6%A0%87%E5%9D%9A%E5%AE%9A%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)
@@ -117,7 +118,6 @@
 - [微信朋友圈凉了？回应来了 - 2025-10-16](AI_Reports/ke-ji-yu-hu-lian-wang/wei-xin-peng-you-quan-liang-liao-hui-ying-lai-liao-2025-10-16--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%87%89%E4%BA%86%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 - [eSIM手机来了 移动联通电信均开通 - 2025-10-14](AI_Reports/ke-ji-yu-hu-lian-wang/esimshou-ji-lai-liao-yi-dong-lian-tong-dian-xin-jun-kai-tong-2025-10-14--v1.md) (v1) [来源](https://www.baidu.com/s?wd=eSIM%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86+%E7%A7%BB%E5%8A%A8%E8%81%94%E9%80%9A%E7%94%B5%E4%BF%A1%E5%9D%87%E5%BC%80%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)
 - [Windows 10即将“停服” - 2025-10-13](AI_Reports/ke-ji-yu-hu-lian-wang/windows-10ji-jiang-ting-fu-2025-10-13--v1.md) (v1) [来源](https://www.baidu.com/s?wd=Windows+10%E5%8D%B3%E5%B0%86%E2%80%9C%E5%81%9C%E6%9C%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-- [中国研究出可弯折20000次柔性电池 - 2025-10-08](AI_Reports/ke-ji-yu-hu-lian-wang/zhong-guo-yan-jiu-chu-ke-wan-zhe-20000ci-rou-xing-dian-chi-2025-10-08--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E5%87%BA%E5%8F%AF%E5%BC%AF%E6%8A%9820000%E6%AC%A1%E6%9F%94%E6%80%A7%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)
 
 ## 人工智能和机器学习
 [点击查看人工智能和机器学习完整报告索引 →](AI_Reports/ren-gong-zhi-neng-he-ji-qi-xue-xi/Reports.md)
@@ -358,6 +358,7 @@
 ## 未分类
 [点击查看未分类完整报告索引 →](AI_Reports/wei-fen-lei/Reports.md)
 
+- [“三个有利于”指引世界遗产申报保护 - 2026-07-27](AI_Reports/wei-fen-lei/san-ge-you-li-yu-zhi-yin-shi-jie-yi-chan-shen-bao-bao-hu-2026-07-27--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E4%B8%AA%E6%9C%89%E5%88%A9%E4%BA%8E%E2%80%9D%E6%8C%87%E5%BC%95%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%E7%94%B3%E6%8A%A5%E4%BF%9D%E6%8A%A4&sa=fyb_news&rsv_dl=fyb_news)
 - [平均每天减少22所小学 - 2026-07-26](AI_Reports/wei-fen-lei/ping-jun-mei-tian-jian-shao-22suo-xiao-xue-2026-07-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E5%87%8F%E5%B0%9122%E6%89%80%E5%B0%8F%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)
 - [人民日报：“小字陷阱”何以一再上演 - 2026-07-26](AI_Reports/wei-fen-lei/ren-min-ri-bao-xiao-zi-xian-jing-he-yi-yi-zai-shang-yan-2026-07-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E2%80%9C%E5%B0%8F%E5%AD%97%E9%99%B7%E9%82%B1%E2%80%9D%E4%BD%95%E4%BB%A5%E4%B8%80%E5%86%8D%E4%B8%8A%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)
 - [中国共产党为什么能 - 2026-07-26](AI_Reports/wei-fen-lei/zhong-guo-gong-chan-dang-wei-shi-yao-neng-2026-07-26--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)
@@ -377,4 +378,3 @@
 - [内马尔从巴西国家队退役 - 2026-07-06](AI_Reports/wei-fen-lei/nei-ma-er-cong-ba-xi-guo-jia-dui-tui-yi-2026-07-06--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%86%85%E9%A9%AC%E5%B0%94%E4%BB%8E%E5%B7%B4%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)
 - [巴拉圭门将赛后用球砸姆巴佩 - 2026-07-05](AI_Reports/wei-fen-lei/ba-la-gui-men-jiang-sai-hou-yong-qiu-za-mu-ba-pei-2026-07-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%97%A8%E5%B0%86%E8%B5%9B%E5%90%8E%E7%94%A8%E7%90%83%E7%A0%B8%E5%A7%86%E5%B7%B4%E4%BD%A9&sa=fyb_news&rsv_dl=fyb_news)
 - [敢为人先的改革精神 - 2026-07-05](AI_Reports/wei-fen-lei/gan-wei-ren-xian-de-gai-ge-jing-shen-2026-07-05--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E6%95%A2%E4%B8%BA%E4%BA%BA%E5%85%88%E7%9A%84%E6%94%B9%E9%9D%A9%E7%B2%BE%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)
-- [力量来自人民 - 2026-07-04](AI_Reports/wei-fen-lei/li-liang-lai-zi-ren-min-2026-07-04--v1.md) (v1) [来源](https://www.baidu.com/s?wd=%E5%8A%9B%E9%87%8F%E6%9D%A5%E8%87%AA%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)
